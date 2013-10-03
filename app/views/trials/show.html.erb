@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @trial.title %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @trial.description %>
+</p>
+
+<p>
+  <strong>Sponsor:</strong>
+  <%= @trial.sponsor %>
+</p>
+
+<p>
+  <strong>Country:</strong>
+  <%= @trial.country %>
+</p>
+
+<p>
+  <strong>Focus:</strong>
+  <%= @trial.focus %>
+</p>
+
+<%= link_to 'Edit', edit_trial_path(@trial) %> |
+<%= link_to 'Back', trials_path %>
