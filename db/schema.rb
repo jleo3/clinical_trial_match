@@ -11,7 +11,20 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131002212236) do
+ActiveRecord::Schema.define(version: 20131025021009) do
+
+  create_table "sites", force: true do |t|
+    t.string   "facility"
+    t.string   "street_address"
+    t.string   "street_address2"
+    t.string   "city"
+    t.string   "state"
+    t.string   "country"
+    t.string   "zip_code"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.integer  "trial_id"
+  end
 
   create_table "trials", force: true do |t|
     t.string   "title"
