@@ -27,6 +27,7 @@ You can also take it offline by emailing me at mwenger at michaeljfox.org
 User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
+* Fix Delete Button
 * Create ability for user to login. Will use devise
 * Finalize Trial and Site models and add validation
 * Automatically assign lat/long to user. Will use geocode
