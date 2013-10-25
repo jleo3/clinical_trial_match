@@ -10,6 +10,10 @@ class TrialsController < ApplicationController
   # GET /trials/1
   # GET /trials/1.json
   def show
+    mikesAddress = "300 East 34th St Hoboken NJ 07030"
+
+    @trial = Trial.find params[:id]
+    @sites = @trial.sites
   end
 
   # GET /trials/new

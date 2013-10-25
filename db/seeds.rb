@@ -37,12 +37,12 @@ Site.create facility: "Columbia University",
     trial_id: 1
 
 Site.create facility: "Stanford University",
-    street_address: "100 Main St",
+    street_address: "430 Clipper St",
     street_address2: "Floor 10",
     city: "San Francisco",
     state: "CA",
     country: "USA",
-    zip_code: "80001",
+    zip_code: "94114",
     trial_id: 1
 
 puts 'Finished seeding db'
