@@ -30,6 +30,22 @@ gem 'jbuilder', '~> 1.2'
 gem 'geocoder'
 gem 'nokogiri'
 
+
+
+group :development do
+  # Use Guard + Addons for automated test runs
+  gem 'guard'
+  gem 'guard-rspec'
+  gem 'jazz_hands'
+
+  # better error pages in dev
+  gem 'better_errors'
+  gem 'binding_of_caller'
+
+end
+
+
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
