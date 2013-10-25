@@ -10,18 +10,21 @@
 puts 'Adding trials'
 Trial.create title: "Parkinson's Progression Markers Initiative",
              description: 'A landmark biomarker study',
+             sponsor: "Michael J. Fox Foundation for Parkinson's Research",
              country: 'USA', 
              focus: 'biomarkers'
 
 
 Trial.create title: "Sanofi Trial",
              description: 'Trial to measure sanofi drug',
+             sponsor: "Sanofi Pharmaceuticals",
              country: 'USA', 
              focus: 'cognitive issues'
 
 
 Trial.create title: "Use of Wii with Parkinson's patients",
              description: "Testing the use of Wii in retirement homes",
+             sponsor: "National Institute of Health",
              country: 'Global', 
              focus: 'exercise'
 
