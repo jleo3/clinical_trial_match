@@ -33,7 +33,8 @@ Site.create facility: "Columbia University",
     city: "New York",
     state: "NY",
     country: "USA",
-    zip_code: "10018"
+    zip_code: "10018",
+    trial_id: 1
 
 Site.create facility: "Stanford University",
     street_address: "100 Main St",
@@ -41,6 +42,7 @@ Site.create facility: "Stanford University",
     city: "San Francisco",
     state: "CA",
     country: "USA",
-    zip_code: "80001"
+    zip_code: "80001",
+    trial_id: 1
 
 puts 'Finished seeding db'
