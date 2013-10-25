@@ -6,12 +6,12 @@ Project Goal
 -----------
 For individuals affected by a disease and interested in participating in a clinical trial, the <a href="http://clinicaltrials.gov/" target="_blank">ClinicalTrials.gov website</a> does not fully meet their needs.
 * The search functionality is limited and complicated
-* There is no mechanism to send someone updates for trials they match to in the future
+* There is no way to send someone info for future trials that they would match to
 * There are many observational trials that are not listed on ClinicalTrials.gov 
 
 For the Parkinson's disease community, the Michael J. Fox Foundation has developed <a href="https://foxtrialfinder.michaeljfox.org/" target="_blank">Fox Trial Finder (FTF)</a> which parses the ct.gov RSS feed for pd trials and matches volunteer accounts to trials using a matching algorithm of several data points (location, controls accepted, medications, etc).
 
-Several disease foundations have expressed interest in similar functionality so that they could promote clinical trial participation opportuities amongst their community. This project's goal is to build out a simplified version of FTF that can be deployed to multiple foundations with low setup and maintenance overhead.
+Several disease foundations have expressed interest in FTF's functionality as a means to better promote clinical trial participation opportuities amongst their community. This project's goal is to build out a simplified version of FTF that can be deployed to multiple foundations without large setup and maintenance overhead.
 
 
 How to Get Involved
