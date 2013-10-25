@@ -1,31 +1,60 @@
 TODO:
 Look into http://apps.who.int/trialsearch/Default.aspx
 
-== README
+Model configuration:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+RESOURCES
+Trials
+Site_Locations
+Users
 
-Things you may want to cover:
+RELATIONSHIPS
 
-* Ruby version
+Trial has_many Site_Locations
+Site Location belongs_to Trial
+User has_many Trials through Site_locations 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Dynamic changes on both ends. 
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+
+User has_many Trials :through Site_Locations
+http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association
+to 
+Geocoder - lat-long. 30miles radius.
+
+Nightly cron jobs - ;
+Active::Record: Nokogiri - make a new active record do a diff.
+.ischanges? if it is changed persist the new record.
+
+Job part - 
+
+Devise - admin namespacing. Approval process. Logic to write.
+.gov_id null for these.
+
+Email digests - wouldnt be too hard. State machine. 
+Generate Changes - need to know what the previous one is. 
+Update_at - ;
+
+Directions??
+
+Email swifter. 
+
+Rails scheduler - nightly runs. Delayjob. Gem - ;
+
+add disease to config/initializers  Use config.;
+
+
+user.location = 1
+Trials.where(location: user.location) // Look into activerecord scopes	
+// https://github.com/bswinnerton/babblings/blob/rails4redesign/app/models/post.rb
+
+user.location = 2
+
+Users has_many Site_Locations :through LookupTable
+Site_Locations has_many Users :through LookupTable 
+
+
+QUESTIONS: where should the matching logic live?
+on the model before going into the table? Rerun the matching algorithm each night?
+Do matches need to be stored in the DB or should it be displayed on run time? Take too long to load? Cache results?
