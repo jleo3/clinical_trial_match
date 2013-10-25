@@ -1,6 +1,6 @@
 ClinicalTrialMatcher::Application.routes.draw do
   resources :trials
-  # @TODO Should sites be nested inside of trials???
+  # @TODO? Should sites be nested inside of trials???
   resources :sites
   root 'trials#index'
 

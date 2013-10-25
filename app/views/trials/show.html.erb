@@ -29,7 +29,8 @@
   <ul>
     <% @sites.each do |site| %>
     <li><%= "#{site.facility}" %> </li>
-    <p><%= "#{site.distance_from([40.7522926,-73.9900131]).round(2)} miles away from you" %>
+    <!-- @TODO? Put in conditional logic to display decimal point if less than 5 miles
+    <p><%= "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away from you" %>
 
     <% end %>
   </ul>

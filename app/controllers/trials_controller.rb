@@ -11,8 +11,8 @@ class TrialsController < ApplicationController
   # GET /trials/1.json
   def show
     @trial = Trial.find params[:id]
-    # @TODO I'm running distance_from in both the controller and view. Should this just be done in the model??
-    @sites = @trial.sites.sort_by{|site| site.distance_from([40.7522926,-73.9900131]).round(2)}
+    # @TODO? I'm running distance_from in both the controller and view. Should this just be done in the model??
+    @sites = @trial.sites.sort_by{|site| site.distance_from([40.7522926,-73.9900131])}
 
 
 
@@ -22,7 +22,7 @@ class TrialsController < ApplicationController
   def new
     @trial = Trial.new
 
-    # @TODO Should i used nested parameters so that the trial and site location are run through the trials controller? or should i add a sites controller?
+    # @TODO? Should i used nested parameters so that the trial and site location are run through the trials controller? or should i add a sites controller?
   end
 
   # GET /trials/1/edit
