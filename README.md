@@ -1,106 +1,35 @@
-About this Project
+Clinical Trial Match
 =======
 
 
-Goal
+Project Goal
 -----------
+For individuals affected by a disease and interested in participating in a clinical trial, the <a href="http://clinicaltrials.gov/" target="_blank">ClinicalTrials.gov website</a> does not fully meet their needs.
+* The search functionality is limited and complicated
+* There is no mechanism to send someone updates for trials they match to in the future
+* There are many observational trials that are not listed on ClinicalTrials.gov 
+
+For the Parkinson's disease community, the Michael J. Fox Foundation has developed <a href="https://foxtrialfinder.michaeljfox.org/" target="_blank">Fox Trial Finder (FTF)</a> which parses the ct.gov RSS feed for pd trials and matches volunteer accounts to trials using a matching algorithm of several data points (location, controls accepted, medications, etc).
+
+Several disease foundations have expressed interest in similar functionality so that they could promote clinical trial participation opportuities amongst their community. This project's goal is to build out a simplified version of FTF that can be deployed to multiple foundations with low setup and maintenance overhead.
 
 
 How to Get Involved
 -----------
+I am new to Ruby on Rails so pull requests are welcome!
+You can also take it offline by emailing me at mwenger at michaeljfox.org
 
 
-
-Questions to Answer
+User Stories/Features To Still Implement
 -----------
-
-
-User Stories To Still Implement
------------
-
+* Create ability for user to login. Will use devise
+* Finalize Trial and Site models and add validation
+* Automatically assign lat/long to user. Will use geocode
+* Nightly import of ct.gov changes to the DB. Will use Nokogiri and DelayJob
+* Set up configuration so that disease condition and form inputs can flexibly be changed for future instances of the site 
+* Users will receive email digests of new matches. They can set the frequency (once a week, as soon as available). Will use Email Swifter
 
 Phase II Items
 -----------
-
-
-TODO:
-Look into http://apps.who.int/trialsearch/Default.aspx
-
-TODO
-
-
-Model configuration:
-
-RESOURCES
-Trials
-Site_Locations
-Users
-
-RELATIONSHIPS
-
-Trial has_many Site_Locations
-Site Location belongs_to Trial
-User has_many Trials through Site_locations 
-
-Dynamic changes on both ends. 
-
-
-
-User has_many Trials :through Site_Locations
-http://guides.rubyonrails.org/association_basics.html#the-has-many-through-association
-to 
-Geocoder - lat-long. 30miles radius.
-
-Nightly cron jobs - ;
-Active::Record: Nokogiri - make a new active record do a diff.
-.ischanges? if it is changed persist the new record.
-
-Job part - 
-
-Devise - admin namespacing. Approval process. Logic to write.
-.gov_id null for these.
-
-Email digests - wouldnt be too hard. State machine. 
-Generate Changes - need to know what the previous one is. 
-Update_at - ;
-
-Directions??
-
-Email swifter. 
-
-Rails scheduler - nightly runs. Delayjob. Gem - ;
-
-add disease to config/initializers  Use config.;
-
-
-IMPORTER GEOCODING
-
-	geocoded_by :address   # can also be an IP address
-
-def address
-  [street, city, state, country].compact.join(', ')
-end
-
-	after_validation :geocode, if :full_street_address_changed?          # auto-fetch coordinates	
-
-
-
-
-user.location = 1
-Trials.where(location: user.location) // Look into activerecord scopes	
-// https://github.com/bswinnerton/babblings/blob/rails4redesign/app/models/post.rb
-
-user.location = 2
-
-Users has_many Site_Locations :through LookupTable
-Site_Locations has_many Users :through LookupTable 
-
-
-QUESTIONS: where should the matching logic live?
-on the model before going into the table? Rerun the matching algorithm each night?
-Do matches need to be stored in the DB or should it be displayed on run time? Take too long to load? Cache results?
-
-
-
-Phase II Items
-*http://apps.who.int/trialsearch/Default.aspx
+* a href="http://apps.who.int/trialsearch/Default.aspx" target="_blank">http://apps.who.int/trialsearch/Default.aspx</a> - (an international version of ClinicalTrials.gov)
+* Ability for trial teams to submit their trial to be added to the site. Add admin user role to approve these submissions.
