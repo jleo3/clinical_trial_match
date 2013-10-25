@@ -1,6 +1,9 @@
 TODO:
 Look into http://apps.who.int/trialsearch/Default.aspx
 
+TODO
+
+
 Model configuration:
 
 RESOURCES
@@ -43,6 +46,19 @@ Email swifter.
 Rails scheduler - nightly runs. Delayjob. Gem - ;
 
 add disease to config/initializers  Use config.;
+
+
+IMPORTER GEOCODING
+
+	geocoded_by :address   # can also be an IP address
+
+def address
+  [street, city, state, country].compact.join(', ')
+end
+
+	after_validation :geocode, if :full_street_address_changed?          # auto-fetch coordinates	
+
+
 
 
 user.location = 1

@@ -28,7 +28,9 @@
 <h3>Site Locations</h3>
   <ul>
     <% @sites.each do |site| %>
-    <li><%= site.facility %></li>
+    <li><%= "#{site.facility}" %> </li>
+    <p><%= "#{site.distance_from([40.7522926,-73.9900131]).round(2)} miles away from you" %>
+
     <% end %>
   </ul>
 

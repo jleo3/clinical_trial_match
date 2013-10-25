@@ -10,10 +10,12 @@ class TrialsController < ApplicationController
   # GET /trials/1
   # GET /trials/1.json
   def show
-    mikesAddress = "300 East 34th St Hoboken NJ 07030"
-
     @trial = Trial.find params[:id]
-    @sites = @trial.sites
+    # @TODO I'm running distance_from in both the controller and view. Should this just be done in the model??
+    @sites = @trial.sites.sort_by{|site| site.distance_from([40.7522926,-73.9900131]).round(2)}
+
+
+
   end
 
   # GET /trials/new

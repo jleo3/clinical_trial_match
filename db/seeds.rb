@@ -34,7 +34,9 @@ Site.create facility: "Columbia University",
     state: "NY",
     country: "USA",
     zip_code: "10018",
-    trial_id: 1
+    trial_id: 1,
+    latitude: 40.7446747,
+    longitude: -73.9757498
 
 Site.create facility: "Stanford University",
     street_address: "430 Clipper St",
@@ -43,6 +45,41 @@ Site.create facility: "Stanford University",
     state: "CA",
     country: "USA",
     zip_code: "94114",
-    trial_id: 1
+    trial_id: 1,
+    latitude: 37.7490883,
+    longitude: -122.4347076
+
+Site.create facility: "Google Headquarters",
+    street_address: "1600 Amphitheatre Pkwy",
+    street_address2: "Floor 10",
+    city: "Mountain View ",
+    state: "CA",
+    country: "USA",
+    zip_code: "94043",
+    trial_id: 1,
+    latitude: 37.422253,
+    longitude: -122.084755
+
+Site.create facility: "Mike's House",
+    street_address: "6 Constitution Ct.",
+    street_address2: "Floor 10",
+    city: "Montville",
+    state: "NJ",
+    country: "USA",
+    zip_code: "07045",
+    trial_id: 1,
+    latitude: 40.8806343,
+    longitude: -74.3671951
+
+Site.create facility: "Harvard University",
+    street_address: "1 Main St",
+    street_address2: "Floor 10",
+    city: "Boston",
+    state: "MA",
+    country: "USA",
+    zip_code: "02129",
+    trial_id: 1,
+    latitude: 42.3718636,
+    longitude: -71.0623263
 
 puts 'Finished seeding db'
