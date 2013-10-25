@@ -21,6 +21,8 @@ class TrialsController < ApplicationController
   # GET /trials/new
   def new
     @trial = Trial.new
+
+    # @TODO Should i used nested parameters so that the trial and site location are run through the trials controller? or should i add a sites controller?
   end
 
   # GET /trials/1/edit
