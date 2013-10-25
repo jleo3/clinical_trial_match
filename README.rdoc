@@ -1,3 +1,28 @@
+About this Project
+=======
+
+
+Goal
+-----------
+
+
+How to Get Involved
+-----------
+
+
+
+Questions to Answer
+-----------
+
+
+User Stories To Still Implement
+-----------
+
+
+Phase II Items
+-----------
+
+
 TODO:
 Look into http://apps.who.int/trialsearch/Default.aspx
 
@@ -74,3 +99,8 @@ Site_Locations has_many Users :through LookupTable
 QUESTIONS: where should the matching logic live?
 on the model before going into the table? Rerun the matching algorithm each night?
 Do matches need to be stored in the DB or should it be displayed on run time? Take too long to load? Cache results?
+
+
+
+Phase II Items
+*http://apps.who.int/trialsearch/Default.aspx
