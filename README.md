@@ -31,5 +31,5 @@ User Stories/Features To Still Implement
 
 Phase II Items
 -----------
-* a href="http://apps.who.int/trialsearch/Default.aspx" target="_blank">http://apps.who.int/trialsearch/Default.aspx</a> - (an international version of ClinicalTrials.gov)
-* Ability for trial teams to submit their trial to be added to the site. Add admin user role to approve these submissions.
+* <a href="http://apps.who.int/trialsearch/Default.aspx" target="_blank">http://apps.who.int/trialsearch/Default.aspx</a> - (an international version of ClinicalTrials.gov)
+* Add ability for trial teams to submit their trial to be added to the site. Add admin user role to approve these submissions.
