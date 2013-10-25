@@ -11,7 +11,11 @@ For individuals affected by a disease and interested in participating in a clini
 
 For the Parkinson's disease community, the Michael J. Fox Foundation has developed <a href="https://foxtrialfinder.michaeljfox.org/" target="_blank">Fox Trial Finder (FTF)</a> which parses the ct.gov RSS feed for pd trials and matches volunteer accounts to trials using a matching algorithm of several data points (location, controls accepted, medications, etc).
 
-Several disease foundations have expressed interest in FTF's functionality as a means to better promote clinical trial participation opportuities amongst their community. This project's goal is to build out a simplified version of FTF that can be deployed to multiple foundations without large setup and maintenance overhead.
+Several disease foundations have expressed interest in FTF's functionality as a means to better promote clinical trial participation opportuities amongst their community. This opensource project's goal is to build out a simplified version of FTF that can be deployed to multiple foundations without large setup and maintenance overhead.
+
+Other Similar Solutions For Reference:
+* <a href="http://trialx.com/">http://trialx.com/</a>
+* <a href="http://www.emergingmed.com/">http://www.emergingmed.com/</a>
 
 
 How to Get Involved
@@ -22,6 +26,7 @@ You can also take it offline by emailing me at mwenger at michaeljfox.org
 
 User Stories/Features To Still Implement
 -----------
+<a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
 * Create ability for user to login. Will use devise
 * Finalize Trial and Site models and add validation
 * Automatically assign lat/long to user. Will use geocode
