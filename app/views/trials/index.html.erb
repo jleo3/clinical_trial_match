@@ -1,5 +1,6 @@
 <h1>Listing trials</h1>
 
+<!-- @TODO Add Pagination -->
 <% @trials.each do |trial| %>
 <table class="table">
   <tbody>
@@ -31,5 +32,6 @@
 
 
 <%= link_to 'New Trial', new_trial_path %><br>
-<%= link_to 'Create Account', new_user_registration_path %>
+<%= link_to 'Create Account', new_user_registration_path %><br>
+<%= link_to 'Importer', importer_show_path %>
 

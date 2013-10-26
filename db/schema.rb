@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131026042315) do
+ActiveRecord::Schema.define(version: 20131026170144) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -32,13 +32,39 @@ ActiveRecord::Schema.define(version: 20131026042315) do
   end
 
   create_table "trials", force: true do |t|
-    t.string   "title"
+    t.text   "title"
     t.text     "description"
     t.text     "sponsor"
-    t.string   "country"
-    t.string   "focus"
+    t.text   "country"
+    t.text   "focus"
     t.datetime "created_at"
     t.datetime "updated_at"
+    t.text   "nct_id"
+    t.text   "official_title"
+    t.text   "agency_class"
+    t.text     "detailed_description"
+    t.text   "overall_status"
+    t.text   "phase"
+    t.text   "study_type"
+    t.text   "condition"
+    t.text     "inclusion"
+    t.text     "exclusion"
+    t.text   "gender"
+    t.text   "minimum_age"
+    t.text   "maximum_age"
+    t.text   "healthy_volunteers"
+    t.text   "overall_contact_name"
+    t.text   "overall_contact_phone"
+    t.text   "overall_contact_email"
+    t.text   "location_countries"
+    t.text   "link_url"
+    t.text   "link_description"
+    t.text   "firstreceived_date"
+    t.text   "lastchanged_date"
+    t.text   "verification_date"
+    t.text   "keyword"
+    t.text   "is_fda_regulated"
+    t.text   "has_expanded_access"
   end
 
   create_table "users", force: true do |t|
