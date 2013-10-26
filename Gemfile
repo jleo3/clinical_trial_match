@@ -27,9 +27,16 @@ gem 'turbolinks'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 1.2'
 
+# For geocoding locations
 gem 'geocoder'
+
+# For parsing Clinical Trials.gov RSS Feed
 gem 'nokogiri'
+gem 'rest-client'
+
+# For user authentication
 gem 'devise'
+
 
 
 

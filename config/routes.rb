@@ -1,4 +1,14 @@
 ClinicalTrialMatcher::Application.routes.draw do
+
+  # @TODO? Do I need to write out both of the options below?
+  get "importer/show"
+  get "importer/" => 'importer#show'
+
+  # @TODO? I was unable to get this to work by just using post (see importer#show view). Had to use get instead
+  post "importer/run"
+  get "importer/run"
+  
+
   devise_for :users
   resources :trials
   # @TODO? Should sites be nested inside of trials???
