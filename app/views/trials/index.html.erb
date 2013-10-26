@@ -1,36 +1,33 @@
 <h1>Listing trials</h1>
 
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Description</th>
-      <th>Sponsor</th>
-      <th>Country</th>
-      <th>Focus</th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-
+<% @trials.each do |trial| %>
+<table class="table">
   <tbody>
-    <% @trials.each do |trial| %>
+    
       <tr>
-        <td><%= trial.title %></td>
-        <td><%= trial.description %></td>
-        <td><%= trial.sponsor %></td>
-        <td><%= trial.country %></td>
-        <td><%= trial.focus %></td>
-        <td><%= link_to 'Show', trial %></td>
-        <td><%= link_to 'Edit', edit_trial_path(trial) %></td>
-        <td><%= link_to 'Destroy', trial, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td colspan="3"><%= link_to trial.title, trial %></td>
       </tr>
-    <% end %>
+        <td>Study Type:</td><td colspan="2"><%= trial.description %></td>
+      </tr>
+        <td>Study Focus:</td><td colspan="2"><%= trial.sponsor %></td>
+      </tr>
+        <td>Sponsor:</td><td colspan="2"><%= trial.country %></td>
+      </tr>
+        <td>Status:</td><td colspan="2"><%= trial.focus %></td>
+       </tr>
+      </tr>
+      <tr><td>Nearest Locations</td></tr>
+      <% trial.sites.each do |site| %>
+       <tr> 
+        <td></td><td><%= site.facility %></td><td><%= "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away"  %></td>
+       </tr>
+       <% end %>
+
   </tbody>
 </table>
-
 <br>
+    <% end %>
+
 
 <%= link_to 'New Trial', new_trial_path %><br>
 <%= link_to 'Create Account', new_user_registration_path %>
