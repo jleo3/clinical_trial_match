@@ -1,1 +1,8 @@
+<p class="notice"><%= notice %></p>
+<p class="alert"><%= alert %></p>
+<% if user_signed_in? %>
+  <div>Signed in as... <%= current_user.email %>. <%= link_to "Edit Account",edit_user_registration_path%> </div>
+
+<% end %>
+
 <%= yield %>

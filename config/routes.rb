@@ -1,4 +1,5 @@
 ClinicalTrialMatcher::Application.routes.draw do
+  devise_for :users
   resources :trials
   # @TODO? Should sites be nested inside of trials???
   resources :sites

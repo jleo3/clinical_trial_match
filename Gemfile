@@ -29,6 +29,7 @@ gem 'jbuilder', '~> 1.2'
 
 gem 'geocoder'
 gem 'nokogiri'
+gem 'devise'
 
 
 
