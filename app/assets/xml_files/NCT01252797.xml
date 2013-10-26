@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="202">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01252797</url>
+  </required_header>
+  <id_info>
+    <org_study_id>F100528006</org_study_id>
+    <nct_id>NCT01252797</nct_id>
+  </id_info>
+  <brief_title>Dose Escalation/De-escalation Study of Pre-operative Stereotactic Radiosurgery for Brain Metastases(RAD 1002)</brief_title>
+  <acronym>RAD 1002</acronym>
+  <official_title>RAD 1002: Phase I Dose Escalation/De-escalation Study of Pre-operative Stereotactic Radiosurgery for Brain Metastases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will investigate the safety, tolerability, and effectiveness of changing the
+      order of receiving radiation therapy for treating brain cancer.  The investigators hope that
+      changing the sequence of radiation therapy will lower the risk of cancer spreading
+      throughout your spinal fluid, which covers your brain and spinal cord.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2010</start_date>
+  <completion_date type="Anticipated">December 2013</completion_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>to investigate the maximum tolerated dose (MTD) of preoperative stereotactic radiosurgery (SRS) for brain metastasis</measure>
+    <time_frame>one year</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>to evaluate acute toxicity, late toxicity, technical feasibility, and to estimate rates of local control and leptomeningeal dissemination with preoperative stereotactic radiosurgery (SRS).</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>Brain Metastases</condition>
+  <arm_group>
+    <arm_group_label>Group A</arm_group_label>
+    <description>If the tumor which will be surgically removed is at least 2 cm and up to 4 cm in maximum diameter.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B</arm_group_label>
+    <description>If the tumor which will be surgically removed is larger than 4 cm and up to 6 cm in diameter</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Stereotactic Radiosurgery</intervention_name>
+    <description>Group A will start at dose level II: 15 Gy
+Group B will start at dose level I: 12 Gy</description>
+    <arm_group_label>Group A</arm_group_label>
+    <arm_group_label>Group B</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        patients who have brain metastases and will undergo both surgery and radiation therapy for
+        treatment.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  All subjects must have history of histologically confirmed malignancy.  Brain biopsy
+             is not required unless diagnosis is judged to be in doubt by the treating physician.
+
+          -  Newly diagnosed brain metastases (four or fewer by post-contrast MRI obtained within
+             six weeks of study entry)
+
+          -  At least one brain metastasis (index tumor) must be within 2-6 cm in maximum diameter
+             and deemed appropriate for surgical resection by the treating neurosurgeon.
+
+          -  Karnofsky performance status (KPS) of greater than or equal to 60 (Appendix B)
+
+          -  Age greater than 19
+
+          -  Life expectancy greater than 12 weeks
+
+          -  Subjects given written informed consent
+
+        Exclusion Criteria:
+
+          -  Patients with small cell lung cancer and lymphoma are ineligible.
+
+          -  More than four metastases by baseline post-contrast MRI
+
+          -  Prior whole brain radiation therapy
+
+          -  Insufficient recovery from all active toxicities of prior therapies
+
+          -  Subjects who are deemed to be poor surgical risks by the treating neurosurgeon
+             because of medical comorbidities
+
+          -  Pregnant or nursing women
+
+          -  Women of childbearing potential who are not using an effective method of
+             contraception are excluded.  Women of childbearing potential must have a negative
+             urine or serum pregnancy test within 24 hours prior to administration of SRS.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John B. Fiveash, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hazelrig-Salter Radiation Oncology Center (HSROC)/ University of Alabama at Birmingham (UAB)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anna Messer, RN, OCN</last_name>
+    <phone>205-975-2880</phone>
+    <email>amesser@uabmc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hazelrig-Salter Radiation Oncology Center/University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Messer, RN, OCN</last_name>
+      <phone>205-975-2880</phone>
+      <email>amesser@uabmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>John B Fiveash, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John Stewart, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sharon Spencer, MD, MSHA</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ruby F. Meredith, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Rojymon Jacob, MD, FCRP</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Richard Popple, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael C. Dobelbower, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>James Markert, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Barton Guthrie, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Kristin Riley, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Winfield Fisher, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Alan Cantor, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Grant Clark, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 6, 2013</lastchanged_date>
+  <firstreceived_date>November 22, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>John Fiveash, MD</investigator_full_name>
+    <investigator_title>Professor and Vice Chair, University of Alabama at Birmingham Department of Radiation Oncology</investigator_title>
+  </responsible_party>
+  <keyword>brain metastases</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

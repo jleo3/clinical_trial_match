@@ -1,0 +1,2941 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="315">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01236560</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2011-02616</org_study_id>
+    <secondary_id>ACNS0822</secondary_id>
+    <secondary_id>CDR0000688443</secondary_id>
+    <secondary_id>U10CA098543</secondary_id>
+    <nct_id>NCT01236560</nct_id>
+  </id_info>
+  <brief_title>Vorinostat, Temozolomide, or Bevacizumab in Combination With Radiation Therapy Followed by Bevacizumab and Temozolomide in Young Patients With Newly Diagnosed High-Grade Glioma</brief_title>
+  <official_title>A Randomized Phase II/III Study of Vorinostat (IND# 71976) and Local Irradiation OR Temozolomide and Local Irradiation OR Bevacizumab (IND# 7921) and Local Irradiation Followed by Maintenance Bevacizumab and Temozolomide in Children With Newly Diagnosed High-Grade Gliomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II/III trial is studying vorinostat, temozolomide, or bevacizumab to
+      see how well they work compared with each other when given together with radiation therapy
+      followed by bevacizumab and temozolomide in treating young patients with newly diagnosed
+      high-grade glioma. Vorinostat may stop the growth of tumor cells by blocking some of the
+      enzymes needed for cell growth. Drugs used in chemotherapy, such as temozolomide, work in
+      different ways to stop the growth of tumor cells, either by killing the cells or by stopping
+      them from dividing. Monoclonal antibodies, such as bevacizumab, can block tumor growth in
+      different ways. Some block the ability of tumor cells to grow and spread. Others find tumor
+      cells and help kill them or carry tumor-killing substances to them. Radiation therapy uses
+      high-energy x-rays to kill tumor cells. It is not yet known whether giving vorinostat is
+      more effective then temozolomide or bevacizumab when given together with radiation therapy
+      in treating glioma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To identify the dose of vorinostat that is feasible when given in combination with
+      radiotherapy (RT) in patients with newly diagnosed high-grade gliomas (HGG). II. To compare
+      1-year event-free survival of patients with newly diagnosed HGG treated with vorinostat
+      (using MTD) versus bevacizumab versus temozolomide when given in combination with RT
+      followed by maintenance therapy with bevacizumab and temozolomide. (Phase II) III. To
+      compare the event-free survival of patients with newly diagnosed HGG treated with the
+      superior chemoradiotherapy (from phase II portion) versus temozolomide given in combination
+      with RT followed by maintenance chemotherapy with bevacizumab and temozolomide. (Phase III)
+
+      SECONDARY OBJECTIVES:
+
+      I. To evaluate the anti-tumor activity, as measured by event-free survival (EFS),
+      progression-free survival (PFS), and overall survival (OS), of patients with newly diagnosed
+      HGG treated with vorinostat, bevacizumab, or temozolomide when given in combination with RT
+      followed by maintenance chemotherapy with bevacizumab and temozolomide. II. To define and
+      evaluate the toxicities of each of the treatment arms of the study.
+
+      III. To conduct gene expression profiling and SNP arrays in patients with newly diagnosed
+      HGG.
+
+      IV. To assess telomerase activity, hTert expression, and telomere length in patients with
+      newly diagnosed HGG. V. To document changes in perfusion and diffusion using MR imaging at
+      baseline, prior to, during (prior to course 3), and after maintenance therapy with
+      bevacizumab and temozolomide.
+
+      VI. To correlate functional changes in tumor with responses to bevacizumab treatment using
+      MR diffusion/perfusion imaging. VII. To correlate the results of the bevacizumab biology
+      studies in serum or tumor with EFS.
+
+      VIII. To explore the prognostic significance of MGMT status for patients newly diagnosed
+      with HGG treated with combined surgery, radiation, chemotherapy, and anti-angiogenic
+      therapy.
+
+      OUTLINE: This is a multicenter, feasibility, dose-escalation study of vorinostat, followed
+      by a phase II study, followed by a phase III study.
+
+      FEASIBILITY STUDY: Patients undergo 3-D conformal radiotherapy (RT) or intensity-modulated
+      RT 5 days a week for 6 weeks. Patients also receive vorinostat orally (PO) once daily on
+      days 1-5. Courses repeat every week for 6 weeks in the absence of disease progression or
+      unacceptable toxicity.
+
+      MAINTENANCE THERAPY: Beginning 4 weeks after completion of chemoradiotherapy, patients
+      receive bevacizumab IV over 30-90 minutes on days 1 and 15 and temozolomide PO on days 1-5.
+      Treatment repeats every 28 days for 12 courses in the absence of disease progression or
+      unacceptable toxicity.
+
+      PHASE II STUDY: Patients are stratified according to extent of resection (near total
+      resection or gross total resection vs other) and histology (glioblastoma multiforme vs
+      other). Patients are randomized to 1 of 3 treatment arms.
+
+      ARM I: Patients undergo RT 5 days a week for 6 weeks and receive vorinostat at the
+      maximum-tolerated dose determined in the feasibility study.
+
+      ARM II: Patients undergo RT as in arm I and receive temozolomide PO once daily for 42 days
+      beginning on day 5 of RT.
+
+      ARM III: Patients undergo RT as in arm I and receive bevacizumab IV over 30-90 minutes on
+      days 22 and 36. Patients in all arms receive maintenance therapy as in the feasibility
+      study.
+
+      PHASE III study: Patients are randomized to 1 of 2 treatment arms.
+
+      ARM IV: Patients receive RT and temozolomide as in phase II, arm II.
+
+      ARM V: Patients receive treatment as in phase II, arm I or phase II, arm III, whichever was
+      established as the superior chemoradiotherapy arm in phase II. Patients in all arms receive
+      maintenance therapy as in the feasibility study. Some patients undergo blood and tumor
+      tissue sample (from surgery) collection for telomerase activity, hTert expression, telomere
+      length, and gene expression profiling and SNP arrays analysis.
+
+      After completion of study therapy, patients are followed up every 3 months for 1 year, every
+      6 months for 4 years, and then annually for 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2010</start_date>
+  <primary_completion_date type="Anticipated">March 2019</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD) of vorinostat when given concurrently with radiation therapy determined according to dose-limiting toxicities (DLTs) graded using Common Terminology Criteria for Adverse Events version 4.0 (CTCAE v4.0) (feasability study)</measure>
+    <time_frame>10 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Event-free survival of patients in each treatment arm, defined as time to first occurrence of disease progression, relapse, second malignant neoplasm, or death from any cause</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival of patients in each treatment arm</measure>
+    <time_frame>Up to 10 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival of patients in each treatment arm</measure>
+    <time_frame>Up to 10 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">268</enrollment>
+  <condition>Childhood High-grade Cerebellar Astrocytoma</condition>
+  <condition>Childhood High-grade Cerebral Astrocytoma</condition>
+  <condition>Childhood Spinal Cord Neoplasm</condition>
+  <condition>Untreated Childhood Brain Stem Glioma</condition>
+  <condition>Untreated Childhood Cerebral Astrocytoma</condition>
+  <arm_group>
+    <arm_group_label>Arm I (vorinostat)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo RT 5 days a week for 6 weeks and receive vorinostat at the maximum-tolerated dose determined in the feasibility study.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (vorinostat and temozolomide)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo RT as in arm I and receive temozolomide PO once daily for 42 days beginning on day 5 of RT.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm III (vorinostat and bevacizumab)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo RT as in arm I and receive bevacizumab IV over 30-90 minutes on days 22 and 36.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm IV (vorinostat and temozolomide)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive RT and temozolomide as in phase II, arm II.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm V (vorinostat, bevacizumab, temozolomide)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive treatment as in phase II, arm I or phase II, arm III, whichever was established as the superior chemoradiotherapy arm in phase II.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vorinostat</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (vorinostat)</arm_group_label>
+    <arm_group_label>Arm II (vorinostat and temozolomide)</arm_group_label>
+    <arm_group_label>Arm III (vorinostat and bevacizumab)</arm_group_label>
+    <arm_group_label>Arm IV (vorinostat and temozolomide)</arm_group_label>
+    <arm_group_label>Arm V (vorinostat, bevacizumab, temozolomide)</arm_group_label>
+    <other_name>L-001079038</other_name>
+    <other_name>SAHA</other_name>
+    <other_name>suberoylanilide hydroxamic acid</other_name>
+    <other_name>Zolinza</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>bevacizumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm III (vorinostat and bevacizumab)</arm_group_label>
+    <arm_group_label>Arm V (vorinostat, bevacizumab, temozolomide)</arm_group_label>
+    <other_name>anti-VEGF humanized monoclonal antibody</other_name>
+    <other_name>anti-VEGF monoclonal antibody</other_name>
+    <other_name>Avastin</other_name>
+    <other_name>rhuMAb VEGF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm II (vorinostat and temozolomide)</arm_group_label>
+    <arm_group_label>Arm IV (vorinostat and temozolomide)</arm_group_label>
+    <arm_group_label>Arm V (vorinostat, bevacizumab, temozolomide)</arm_group_label>
+    <other_name>SCH 52365</other_name>
+    <other_name>Temodal</other_name>
+    <other_name>Temodar</other_name>
+    <other_name>TMZ</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Newly diagnosed high-grade glioma
+
+               -  Anaplastic astrocytoma
+
+               -  Glioblastomamultiforme
+
+               -  Gliosarcoma
+
+               -  Primary spinal cord malignant glioma allowed
+
+               -  No oligodendroglioma oroligoastrocytoma
+
+          -  Patient must have histological verification of diagnosis
+
+               -  No M+ disease (defined as evidence of neuraxis dissemination)
+
+               -  No positive CSF cytology
+
+          -  ECOG performance status (PS) 0-2
+
+               -  Karnofsky PS 50-100% (patients &gt; 16 years of age)
+
+               -  Lansky PS 50-100% (patients ≤ 16 years of age)
+
+          -  ANC ≥ 1,000/μL
+
+          -  Platelet count ≥ 100,000/μL
+
+          -  Hemoglobin ≥ 8.0 mg/dL (transfusion independent)
+
+          -  Creatinine clearance or radioisotope GFR ≥ 70 mL/min OR serum creatinine based on age
+             and/or gender as follows:
+
+               -  0.4 mg/dL (1 month to &lt; 6 months of age)
+
+               -  0.5 mg/dL (6 months to &lt; 1 year of age)
+
+               -  0.6 mg/dL (1 to &lt; 2 years of age)
+
+               -  0.8 mg/dL (2 to &lt; 6 years of age)
+
+               -  1.0 mg/dL (6 to &lt; 10 years of age)
+
+               -  1.2 mg/dL (10 to &lt; 13 years of age)
+
+               -  1.5 mg/dL (male) or 1.4 mg/dL (female) (13 to &lt; 16 years of age)
+
+               -  1.7 mg/dL (male) or 1.4 mg/dL (female) (≥ 16 years of age)
+
+          -  Proteinuria &lt; 2+ OR urine; protein ratio (UPC) ≤ 0.5
+
+               -  If UPC &gt; 0.5, a 24-hour urine protein should be obtained and level should be &lt;
+                  1,000 mg of protein
+
+          -  Total bilirubin ≤ 1.5 times upper limit of normal (ULN)
+
+          -  ALT &lt; 2.5 times ULN
+
+          -  Serum albumin ≥ 2 g/dL
+
+          -  PT INR ≤ 1.5 times ULN
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception during all study therapy and for ≥
+             6 months after completion of bevacizumab
+
+          -  Hypertension well controlled (≤ 95^th percentile for age and height if patient is ≤
+             17years) by stable doses of medication allowed
+
+               -  For patients &gt; 17 years, systolic blood pressure (BP) ≤ 150 mm Hg or diastolic
+                  BP ≤ 100 mm Hg)
+
+          -  Seizure disorder allowed provided patient is well-controlled and on
+             nonenzyme-inducing anticonvulsants
+
+          -  No history of myocardial infarction, severe or unstable angina, clinically
+             significant peripheral vascular disease, ≥ grade 2 heart failure, or serious and
+             inadequately controlled cardiac arrhythmia
+
+          -  No known bleeding diathesis or coagulopathy
+
+          -  No prior arterial thromboembolic events, including transient ischemic attacks
+             orcerebrovascular accidents
+
+          -  No prior diagnosis of a deep venous thrombosis, including pulmonary embolism, and no
+             known thrombophilic condition (e.g., protein S, protein C, antithrombin III
+             deficiency, Factor V Leiden or Factor II G202`0A mutation, homocysteinemia, or
+             antiphospholipid antibody syndrome)
+
+          -  No history of an abdominal fistula, gastrointestinal perforation, or intra-abdominal
+             abscess within the past 6 months
+
+          -  No serious or non-healing wound, ulcer, or bone fracture
+
+          -  No evidence of significant postoperative intracranial hemorrhage, defined as &gt; 1 cm
+             of blood on postoperative MRI scan (potentially in addition to the postoperative
+             scan) obtained within the past 14days
+
+          -  No history of allergic reaction to Chinese hamster ovary cell products or other
+             recombinanthuman antibodies
+
+          -  No more than 31 days since definitive surgery
+
+          -  Must not have received any prior chemotherapy, radiotherapy, immunotherapy, or bone
+             marrow transplant
+
+          -  More than 7 days since major surgical procedure and recovered
+
+               -  For patients scheduled to receive bevacizumab:
+
+                    -  More than 28 days since major procedure
+
+                    -  More than 14 days since intermediate procedure
+
+                    -  More than 7 days since minor procedure (lumbar picture or placement of PICC
+                       lines are not considered minor procedures)
+
+          -  No other current anti-cancer agents
+
+          -  No concurrent nonsteroidal anti-inflammatory medications known to inhibit platelet
+             function or known to selectively inhibit cyclooxygenase activity
+
+          -  No concurrent enzyme inducing anticonvulsants
+
+          -  No concurrent HDAC inhibitors (e.g., valproic acid)
+
+          -  No concurrent anticoagulants including systemic thrombolytic agents, heparin, low
+             molecular weight heparins, or warfarin except as required to maintain patency of
+             pre-existing permanent vascular catheters or for prevention of thrombosis in the
+             post-operative period
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maryam Fouladi</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Children's Oncology Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Hospital of Alabama</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alyssa T. Reddy</last_name>
+      <phone>205-934-0309</phone>
+    </contact>
+    <investigator>
+      <last_name>Alyssa T. Reddy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alyssa T. Reddy</last_name>
+      <phone>205-934-0309</phone>
+    </contact>
+    <investigator>
+      <last_name>Alyssa T. Reddy</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arkansas for Medical Sciences</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David L. Becton</last_name>
+      <phone>501-364-7373</phone>
+    </contact>
+    <investigator>
+      <last_name>David L. Becton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Oncology Group</name>
+      <address>
+        <city>Arcadia</city>
+        <state>California</state>
+        <zip>91006-3776</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Suspended</status>
+  </location>
+  <location>
+    <facility>
+      <name>Southern California Permanente Medical Group</name>
+      <address>
+        <city>Downey</city>
+        <state>California</state>
+        <zip>90242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert M. Cooper</last_name>
+      <phone>626-564-3455</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert M. Cooper</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Loma Linda University Medical Center</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antranik A. Bedros</last_name>
+      <phone>909-558-3375</phone>
+    </contact>
+    <investigator>
+      <last_name>Antranik A. Bedros</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Miller Children's Hospital</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jerry Z. Finklestein</last_name>
+      <phone>562-933-5437</phone>
+    </contact>
+    <investigator>
+      <last_name>Jerry Z. Finklestein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mattel Children's Hospital UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1752</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tom B. Davidson</last_name>
+      <phone>310-825-6708</phone>
+    </contact>
+    <investigator>
+      <last_name>Tom B. Davidson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carole H. Hurvitz</last_name>
+      <phone>310-423-8965</phone>
+    </contact>
+    <investigator>
+      <last_name>Carole H. Hurvitz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leo Mascarenhas</last_name>
+      <phone>323-361-4110</phone>
+    </contact>
+    <investigator>
+      <last_name>Leo Mascarenhas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Central California</name>
+      <address>
+        <city>Madera</city>
+        <state>California</state>
+        <zip>93636-8762</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vonda L. Crouse</last_name>
+      <phone>866-353-5437</phone>
+    </contact>
+    <investigator>
+      <last_name>Vonda L. Crouse</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital and Research Center at Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609-1809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph C. Torkildson</last_name>
+      <phone>510-450-7600</phone>
+    </contact>
+    <investigator>
+      <last_name>Joseph C. Torkildson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Childrens Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868-3874</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Violet Shen</last_name>
+      <phone>714-997-3000</phone>
+    </contact>
+    <investigator>
+      <last_name>Violet Shen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lucile Packard Children's Hospital Stanford University</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neyssa M. Marina</last_name>
+      <phone>650-498-7061</phone>
+      <email>clinicaltrials@med.stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Neyssa M. Marina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rady Children's Hospital - San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William D. Roberts</last_name>
+      <phone>858-966-5934</phone>
+    </contact>
+    <investigator>
+      <last_name>William D. Roberts</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Francisco Medical Center-Parnassus</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anuradha Banerjee</last_name>
+      <phone>877-827-3222</phone>
+    </contact>
+    <investigator>
+      <last_name>Anuradha Banerjee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Connecticut Children's Medical Center</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael S. Isakoff</last_name>
+      <phone>860-545-9981</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael S. Isakoff</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520-8032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nina S. Kadan-Lottick</last_name>
+      <phone>203-785-5702</phone>
+    </contact>
+    <investigator>
+      <last_name>Nina S. Kadan-Lottick</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred I duPont Hospital for Children</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher N. Frantz</last_name>
+      <phone>302-651-5755</phone>
+    </contact>
+    <investigator>
+      <last_name>Christopher N. Frantz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey S. Dome</last_name>
+      <phone>202-884-2549</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey S. Dome</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lee Memorial Health System</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emad K. Salman</last_name>
+      <phone>239-343-5333</phone>
+    </contact>
+    <investigator>
+      <last_name>Emad K. Salman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Clinic - Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207-8426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric S. Sandler</last_name>
+      <phone>904-697-3529</phone>
+    </contact>
+    <investigator>
+      <last_name>Eric S. Sandler</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Children's Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Enrique A. Escalon</last_name>
+      <phone>305-662-8360</phone>
+    </contact>
+    <investigator>
+      <last_name>Enrique A. Escalon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Miller School of Medicine-Sylvester Cancer Center</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julio C. Barredo</last_name>
+      <phone>866-574-5124</phone>
+      <email>Sylvester@emergingmed.com</email>
+    </contact>
+    <investigator>
+      <last_name>Julio C. Barredo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M D Anderson Cancer Center- Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent F. Giusti</last_name>
+      <phone>321-841-7246</phone>
+    </contact>
+    <investigator>
+      <last_name>Vincent F. Giusti</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Childrens Clinic - Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ramamoorthy Nagasubramanian</last_name>
+      <phone>407-650-7150</phone>
+    </contact>
+    <investigator>
+      <last_name>Ramamoorthy Nagasubramanian</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clifford A. Selsky</last_name>
+      <phone>407-303-5623</phone>
+    </contact>
+    <investigator>
+      <last_name>Clifford A. Selsky</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Clinic - Pensacola</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey H. Schwartz</last_name>
+      <phone>904-697-3529</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey H. Schwartz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>All Children's Hospital</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory A. Hale</last_name>
+      <phone>727-767-2423</phone>
+      <email>HamblinF@allkids.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gregory A. Hale</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph Children's Hospital of Tampa</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hardeo K. Panchoosingh</last_name>
+      <phone>800-882-4123</phone>
+    </contact>
+    <investigator>
+      <last_name>Hardeo K. Panchoosingh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Healthcare of Atlanta - Egleston</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Howard M. Katzenstein</last_name>
+      <phone>888-785-1112</phone>
+    </contact>
+    <investigator>
+      <last_name>Howard M. Katzenstein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Health University Medical Center</name>
+      <address>
+        <city>Savannah</city>
+        <state>Georgia</state>
+        <zip>31403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>J. Martin Johnston</last_name>
+      <phone>912-350-8568</phone>
+    </contact>
+    <investigator>
+      <last_name>J. Martin Johnston</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Hawaii</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert W. Wilkinson</last_name>
+      <phone>808-983-6090</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert W. Wilkinson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Childrens Memorial Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stewart Goldman</last_name>
+      <phone>773-880-4562</phone>
+    </contact>
+    <investigator>
+      <last_name>Stewart Goldman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan L. Cohn</last_name>
+      <phone>773-834-7424</phone>
+    </contact>
+    <investigator>
+      <last_name>Susan L. Cohn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary L. Schmidt</last_name>
+      <phone>312-355-3046</phone>
+    </contact>
+    <investigator>
+      <last_name>Mary L. Schmidt</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Jude Midwest Affiliate</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61602</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pedro A. De Alarcon</last_name>
+      <phone>309-655-3258</phone>
+    </contact>
+    <investigator>
+      <last_name>Pedro A. De Alarcon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Southern Illinois University</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory P. Brandt</last_name>
+      <phone>217-545-7929</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory P. Brandt</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital and Health Services</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bassem I. Razzouk</last_name>
+      <phone>317-338-2194</phone>
+    </contact>
+    <investigator>
+      <last_name>Bassem I. Razzouk</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Riley Hospital for Children</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert J. Fallon</last_name>
+      <phone>317-274-2552</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert J. Fallon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Raymond Blank Children's Hospital</name>
+      <address>
+        <city>Des Moines</city>
+        <state>Iowa</state>
+        <zip>50309</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wendy L. Woods-Swafford</last_name>
+      <phone>888-823-5923</phone>
+      <email>ctsucontact@westat.com</email>
+    </contact>
+    <investigator>
+      <last_name>Wendy L. Woods-Swafford</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martha F. Greenwood</last_name>
+      <phone>859-257-3379</phone>
+    </contact>
+    <investigator>
+      <last_name>Martha F. Greenwood</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kosair Children's Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Salvatore J. Bertolone</last_name>
+      <phone>866-530-5516</phone>
+    </contact>
+    <investigator>
+      <last_name>Salvatore J. Bertolone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287-8936</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kenneth J. Cohen</last_name>
+      <phone>410-955-8804</phone>
+      <email>jhcccro@jhmi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kenneth J. Cohen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos Rodriguez-Galindo</last_name>
+      <phone>866-790-4500</phone>
+    </contact>
+    <investigator>
+      <last_name>Carlos Rodriguez-Galindo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Floating Hospital for Children at Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johannes E. Wolff</last_name>
+      <phone>617-636-5000</phone>
+      <email>ContactUsCancerCenter@TuftsMedicalCenter.org</email>
+    </contact>
+    <investigator>
+      <last_name>Johannes E. Wolff</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>C S Mott Children's Hospital</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maxim Y. Yankelevich</last_name>
+      <phone>313-576-9363</phone>
+    </contact>
+    <investigator>
+      <last_name>Maxim Y. Yankelevich</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Helen DeVos Children's Hospital at Spectrum Health</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David S. Dickens</last_name>
+      <phone>616-267-1925</phone>
+    </contact>
+    <investigator>
+      <last_name>David S. Dickens</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bronson Methodist Hospital</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey S. Lobel</last_name>
+      <phone>800-227-2345</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey S. Lobel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Michigan State University - Breslin Cancer Center</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Renuka Gera</last_name>
+      <phone>517-334-2765</phone>
+    </contact>
+    <investigator>
+      <last_name>Renuka Gera</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospitals and Clinics of Minnesota - Minneapolis</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bruce C. Bostrom</last_name>
+      <phone>612-813-5193</phone>
+    </contact>
+    <investigator>
+      <last_name>Bruce C. Bostrom</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amulya A. Nageswara Rao</last_name>
+      <phone>507-538-7623</phone>
+    </contact>
+    <investigator>
+      <last_name>Amulya A. Nageswara Rao</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Betty L. Herrington</last_name>
+      <phone>601-815-6700</phone>
+    </contact>
+    <investigator>
+      <last_name>Betty L. Herrington</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Childrens Mercy Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maxine L. Hetherington</last_name>
+      <phone>816-234-3265</phone>
+    </contact>
+    <investigator>
+      <last_name>Maxine L. Hetherington</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John's Mercy Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bethany G. Sleckman</last_name>
+      <phone>913-948-5588</phone>
+    </contact>
+    <investigator>
+      <last_name>Bethany G. Sleckman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cardinal Glennon Children's Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William S. Ferguson</last_name>
+      <phone>314-268-4000</phone>
+    </contact>
+    <investigator>
+      <last_name>William S. Ferguson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joshua B. Rubin</last_name>
+      <phone>800-600-3606</phone>
+      <email>info@siteman.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joshua B. Rubin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital and Medical Center of Omaha</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Minnie Abromowitch</last_name>
+      <phone>402-955-3949</phone>
+    </contact>
+    <investigator>
+      <last_name>Minnie Abromowitch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter F. Coccia</last_name>
+      <phone>800-999-5465</phone>
+    </contact>
+    <investigator>
+      <last_name>Peter F. Coccia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nevada Cancer Research Foundation CCOP</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Bernstein</last_name>
+      <phone>702-384-0013</phone>
+    </contact>
+    <investigator>
+      <last_name>Jonathan Bernstein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Burton E. Appel</last_name>
+      <phone>201-996-2879</phone>
+    </contact>
+    <investigator>
+      <last_name>Burton E. Appel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Morristown Memorial Hospital</name>
+      <address>
+        <city>Morristown</city>
+        <state>New Jersey</state>
+        <zip>07962</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven L. Halpern</last_name>
+      <phone>973-971-5900</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven L. Halpern</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UMDNJ - Robert Wood Johnson University Hospital</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard A. Drachtman</last_name>
+      <phone>732-235-8675</phone>
+    </contact>
+    <investigator>
+      <last_name>Richard A. Drachtman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph's Regional Medical Center</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <zip>07503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary A. Bonilla</last_name>
+      <phone>973-754-2909</phone>
+    </contact>
+    <investigator>
+      <last_name>Mary A. Bonilla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Overlook Hospital</name>
+      <address>
+        <city>Summit</city>
+        <state>New Jersey</state>
+        <zip>07902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven L. Halpern</last_name>
+      <phone>973-971-5900</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven L. Halpern</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico Cancer Center</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Koh B. Boayue</last_name>
+      <phone>505-272-6972</phone>
+    </contact>
+    <investigator>
+      <last_name>Koh B. Boayue</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Medical Center</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vikramjit S. Kanwar</last_name>
+      <phone>518-262-3368</phone>
+    </contact>
+    <investigator>
+      <last_name>Vikramjit S. Kanwar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467-2490</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosanna J. Ricafort</last_name>
+      <phone>718-904-2730</phone>
+      <email>aecc@aecom.yu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rosanna J. Ricafort</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin L. Brecher</last_name>
+      <phone>877-275-7724</phone>
+    </contact>
+    <investigator>
+      <last_name>Martin L. Brecher</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Steven and Alexandra Cohen Children's Medical Center of New York</name>
+      <address>
+        <city>New Hyde Park</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arlene S. Redner</last_name>
+      <phone>718-470-3470</phone>
+    </contact>
+    <investigator>
+      <last_name>Arlene S. Redner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alice Lee</last_name>
+      <phone>212-305-8615</phone>
+    </contact>
+    <investigator>
+      <last_name>Alice Lee</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter G. Steinherz</last_name>
+      <phone>212-639-7202</phone>
+    </contact>
+    <investigator>
+      <last_name>Peter G. Steinherz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York University Langone Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey C. Allen</last_name>
+      <phone>212-263-4434</phone>
+      <email>prmc.coordinator@nyumc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey C. Allen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey R. Andolina</last_name>
+      <phone>585-275-5830</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey R. Andolina</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>State University of New York Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karol H. Kerr</last_name>
+      <phone>315-464-5476</phone>
+    </contact>
+    <investigator>
+      <last_name>Karol H. Kerr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York Medical College</name>
+      <address>
+        <city>Valhalla</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mehmet F. Ozkaynak</last_name>
+      <phone>914-594-3794</phone>
+    </contact>
+    <investigator>
+      <last_name>Mehmet F. Ozkaynak</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stuart H. Gold</last_name>
+      <phone>877-668-0683</phone>
+    </contact>
+    <investigator>
+      <last_name>Stuart H. Gold</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Carolinas Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joel A. Kaplan</last_name>
+      <phone>704-355-2884</phone>
+    </contact>
+    <investigator>
+      <last_name>Joel A. Kaplan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas W. McLean</last_name>
+      <phone>336-713-6771</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas W. McLean</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Medical Center-Fargo</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nathan L. Kobrinsky</last_name>
+      <phone>701-234-6161</phone>
+    </contact>
+    <investigator>
+      <last_name>Nathan L. Kobrinsky</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Medical Center of Akron</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven J. Kuerbitz</last_name>
+      <phone>330-543-3193</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven J. Kuerbitz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John P. Perentesis</last_name>
+      <phone>513-636-2799</phone>
+    </contact>
+    <investigator>
+      <last_name>John P. Perentesis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rainbow Babies and Childrens Hospital</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yousif (Joe) H. Matloub</last_name>
+      <phone>216-844-5437</phone>
+    </contact>
+    <investigator>
+      <last_name>Yousif (Joe) H. Matloub</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark A. Ranalli</last_name>
+      <phone>614-722-2708</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark A. Ranalli</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Children's Medical Center of Dayton</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emmett H. Broxson</last_name>
+      <phone>800-228-4055</phone>
+    </contact>
+    <investigator>
+      <last_name>Emmett H. Broxson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Toledo Hospital/Toledo Children's Hospital</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dagmar T. Stein</last_name>
+      <phone>419-824-1842</phone>
+    </contact>
+    <investigator>
+      <last_name>Dagmar T. Stein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Sciences Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rene Y. McNall-Knapp</last_name>
+      <phone>405-271-4272</phone>
+      <email>julie-traylor@ouhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rene Y. McNall-Knapp</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda C. Stork</last_name>
+      <phone>503-494-1080</phone>
+      <email>trials@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Linda C. Stork</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lehigh Valley Hospital - Muhlenberg</name>
+      <address>
+        <city>Bethlehem</city>
+        <state>Pennsylvania</state>
+        <zip>18017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philip M. Monteleone</last_name>
+      <phone>484-884-2201</phone>
+    </contact>
+    <investigator>
+      <last_name>Philip M. Monteleone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Hershey Children's Hospital</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa M. McGregor</last_name>
+      <phone>717-531-6012</phone>
+    </contact>
+    <investigator>
+      <last_name>Lisa M. McGregor</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frank M. Balis</last_name>
+      <phone>215-590-2810</phone>
+    </contact>
+    <investigator>
+      <last_name>Frank M. Balis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arthur K. Ritchey</last_name>
+      <phone>412-692-5573</phone>
+    </contact>
+    <investigator>
+      <last_name>Arthur K. Ritchey</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacqueline M. Kraveka</last_name>
+      <phone>843-792-9321</phone>
+    </contact>
+    <investigator>
+      <last_name>Jacqueline M. Kraveka</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Palmetto Health Richland</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ronnie W. Neuberg</last_name>
+      <phone>803-434-3680</phone>
+    </contact>
+    <investigator>
+      <last_name>Ronnie W. Neuberg</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Greenville Cancer Treatment Center</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cary E. Stroud</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+    <investigator>
+      <last_name>Cary E. Stroud</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BI-LO Charities Children's Cancer Center</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nichole L. Bryant</last_name>
+      <phone>864-241-6251</phone>
+    </contact>
+    <investigator>
+      <last_name>Nichole L. Bryant</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford USD Medical Center - Sioux Falls</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57117-5134</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kayelyn J. Wagner</last_name>
+      <phone>605-328-1367</phone>
+    </contact>
+    <investigator>
+      <last_name>Kayelyn J. Wagner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>East Tennessee Childrens Hospital</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ray C. Pais</last_name>
+      <phone>865-541-8266</phone>
+    </contact>
+    <investigator>
+      <last_name>Ray C. Pais</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Children's Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alberto Broniscer</last_name>
+      <phone>901-595-4644</phone>
+    </contact>
+    <investigator>
+      <last_name>Alberto Broniscer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adam Esbenshade</last_name>
+      <phone>800-811-8480</phone>
+    </contact>
+    <investigator>
+      <last_name>Adam Esbenshade</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dell Children's Medical Center of Central Texas</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78723</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharon K. Lockhart</last_name>
+      <phone>512-324-8022</phone>
+    </contact>
+    <investigator>
+      <last_name>Sharon K. Lockhart</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Driscoll Children's Hospital</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78411</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>M. Cris Johnson</last_name>
+      <phone>361-694-5311</phone>
+    </contact>
+    <investigator>
+      <last_name>M. Cris Johnson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brooke Army Medical Center</name>
+      <address>
+        <city>Fort Sam Houston</city>
+        <state>Texas</state>
+        <zip>78234</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Cook Children's Medical Center</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary Meaghan P. Granger</last_name>
+      <phone>682-885-2103</phone>
+    </contact>
+    <investigator>
+      <last_name>Mary Meaghan P. Granger</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor College of Medicine</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jack M. Su</last_name>
+      <phone>713-798-1354</phone>
+      <email>burton@bcm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jack M. Su</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229-3900</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne-Marie R. Langevin</last_name>
+      <phone>210-567-0653</phone>
+      <email>che@uthscsa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Anne-Marie R. Langevin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Children's Hospital of South Texas</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jaime Estrada</last_name>
+      <phone>210-575-7000</phone>
+    </contact>
+    <investigator>
+      <last_name>Jaime Estrada</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Scott and White Memorial Hospital</name>
+      <address>
+        <city>Temple</city>
+        <state>Texas</state>
+        <zip>76508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guy H. Grayson</last_name>
+      <phone>254-724-5407</phone>
+    </contact>
+    <investigator>
+      <last_name>Guy H. Grayson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Primary Children's Medical Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Phillip E. Barnette</last_name>
+      <phone>801-585-5270</phone>
+    </contact>
+    <investigator>
+      <last_name>Phillip E. Barnette</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Naval Medical Center - Portsmouth</name>
+      <address>
+        <city>Portsmouth</city>
+        <state>Virginia</state>
+        <zip>23708-2197</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian L. Feldman</last_name>
+      <phone>757-953-5939</phone>
+    </contact>
+    <investigator>
+      <last_name>Brian L. Feldman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Asadullah Khan</last_name>
+      <phone>804-628-1939</phone>
+    </contact>
+    <investigator>
+      <last_name>Asadullah Khan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Children's Hospital</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey R. Geyer</last_name>
+      <phone>866-987-2000</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey R. Geyer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Sacred Heart Medical Center and Children's Hospital</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judy L. Felgenhauer</last_name>
+      <phone>800-228-6618</phone>
+      <email>HopeBeginsHere@providence.org</email>
+    </contact>
+    <investigator>
+      <last_name>Judy L. Felgenhauer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Bridge Children's Hospital and Health Center</name>
+      <address>
+        <city>Tacoma</city>
+        <state>Washington</state>
+        <zip>98405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert G. Irwin</last_name>
+      <phone>888-823-5923</phone>
+      <email>ctsucontact@westat.com</email>
+    </contact>
+    <investigator>
+      <last_name>Robert G. Irwin</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>West Virginia University Charleston</name>
+      <address>
+        <city>Charleston</city>
+        <state>West Virginia</state>
+        <zip>25304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Allen R. Chauvenet</last_name>
+      <phone>304-388-9944</phone>
+    </contact>
+    <investigator>
+      <last_name>Allen R. Chauvenet</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Hospital and Clinics</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kenneth B. De Santes</last_name>
+      <phone>608-262-5223</phone>
+    </contact>
+    <investigator>
+      <last_name>Kenneth B. De Santes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael J. McManus</last_name>
+      <phone>715-389-4457</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael J. McManus</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Children's Cancer Center</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael E. Kelly</last_name>
+      <phone>414-805-4380</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael E. Kelly</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>British Columbia Children's Hospital</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6H 3V4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>CancerCare Manitoba</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E 0V9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rochelle A. Yanofsky</last_name>
+      <phone>866-561-1026</phone>
+      <email>CIO_Web@cancercare.mb.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Rochelle A. Yanofsky</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>IWK Health Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3J 3G9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margaret C. Yhap</last_name>
+      <phone>902-470-8394</phone>
+    </contact>
+    <investigator>
+      <last_name>Margaret C. Yhap</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ronald M. Grant</last_name>
+      <phone>416-813-7654ext2027</phone>
+      <email>jason.mcguire@sickkids.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Ronald M. Grant</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Montreal Children's Hospital of the MUHC</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3H 1P3</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharon B. Abish</last_name>
+      <phone>514-412-4445</phone>
+      <email>info@thechildren.com</email>
+    </contact>
+    <investigator>
+      <last_name>Sharon B. Abish</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sainte-Justine</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yvan Samson</last_name>
+      <phone>514-345-4931</phone>
+    </contact>
+    <investigator>
+      <last_name>Yvan Samson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Quebec</name>
+      <address>
+        <city>Ste-Foy</city>
+        <state>Quebec</state>
+        <zip>G1V 4G2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bruno Michon</last_name>
+      <phone>418-525-4444</phone>
+    </contact>
+    <investigator>
+      <last_name>Bruno Michon</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saskatoon Cancer Centre</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <zip>S7N 4H4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher Mpofu</last_name>
+      <phone>306-655-2914</phone>
+    </contact>
+    <investigator>
+      <last_name>Christopher Mpofu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Canada</country>
+  </location_countries>
+  <removed_countries>
+    <country>Australia</country>
+  </removed_countries>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 1, 2013</lastchanged_date>
+  <firstreceived_date>November 5, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Spinal Cord Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+    <mesh_term>Vorinostat</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

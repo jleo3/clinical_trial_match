@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="431">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01540799</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pathway M-1 (CIP-003)</org_study_id>
+    <nct_id>NCT01540799</nct_id>
+  </id_info>
+  <brief_title>Pathway M-1: Sphenopalatine Ganglion Stimulation for the Treatment of Chronic or High Frequency, High Disability Migraine Headache</brief_title>
+  <acronym>Pathway M-1</acronym>
+  <official_title>Pathway M-1: Sphenopalatine Ganglion Stimulation for the Treatment of Chronic or High Frequency, High Disability Migraine Headache</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Autonomic Technologies, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Autonomic Technologies, Inc.</source>
+  <oversight_info>
+    <authority>Denmark: Danish Medicines Agency</authority>
+    <authority>Spain: Agencia Española de Medicamentos y Productos Sanitarios</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of the clinical study is to evaluate the use of an implanted sphenopalatine
+      ganglion (SPG) neurostimulator for the treatment of migraine headache pain, migraine
+      headache symptoms and migraine frequency in high disability migraineurs.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2012</start_date>
+  <completion_date type="Anticipated">September 2015</completion_date>
+  <primary_completion_date type="Anticipated">May 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Subject), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Major Device- and Surgical-Related Complications</measure>
+    <time_frame>Implantation through completion of Experimental Period (between 14 and 22 weeks following the implantation procedure)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Occurrence rate of death, any surgery or hospitalization due to deterioration in subject health, or other Major Device-related Adverse Events</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Effective Therapy</measure>
+    <time_frame>Through completion of Experimental Period (between 14 and 22 weeks following the implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Difference between the number of Migraine Pain Days during the last 4 weeks of the Baseline Period and the number of Migraine Pain Days during the last 4 weeks of the Experimental Period.
+Migraine Pain Day: Any day with
+moderate or severe headache with a duration of at least 1 hour AND meeting criteria C and D for migraine ICHD-II 1.1 OR
+Acute Medication (pharmacologic medications, not including SPG stimulation, used to treat migraine pain) use for a migraine attack (of any severity or duration).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Headache Frequency</measure>
+    <time_frame>Through completion of Experimental Period (between 14 and 22 weeks following the implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Difference between the total number of Migraine Pain Days during the last 4 weeks of the Baseline Period and the total number of Migraine Pain Days including days where SPG stimulation was used for a migraine attack (of any severity or duration) during the last 4 weeks of the Experimental Period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Relief at 1 Hour</measure>
+    <time_frame>Experimental Period (begins between 8 and 16 weeks following implantation procedure; ends between 14 and 22 weeks following implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of migraine pain treatments using SPG stimulation during the Experimental Period with Pain Relief at 1 hour following the start of SPG stimulation with no Acute Medication use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pain Freedom at 1 Hour</measure>
+    <time_frame>Experimental Period (begins between 8 and 16 weeks following implantation procedure; ends between 14 and 22 weeks following implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of migraine pain treatments using SPG stimulation during the Experimental Period with Pain Freedom at 1 hour following the start of SPG stimulation with no Acute Medication use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Migraine Associated Symptom Relief at 1 Hour</measure>
+    <time_frame>Experimental Period (begins between 8 and 16 weeks following implantation procedure; ends between 14 and 22 weeks following implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of migraine pain treatments using SPG stimulation during the Experimental Period with relief of migraine associated symptoms [i.e., photophobia, phonophobia, nausea/vomiting] at 1 hour following the start of SPG stimulation with no Acute Medication use.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Disability and Quality of Life</measure>
+    <time_frame>Through Experimental Period (assessment occurs between 14 and 22 weeks following the implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Disability and Quality of Life as categorized by the HIT-6, MIDAS and SF-36v2 surveys administered at the end of the Experimental Period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Global Evaluation of SPG Stimulation Therapy</measure>
+    <time_frame>Experimental Period (assessment occurs between 14 and 22 weeks following the implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Global patient evaluation of SPG stimulation therapy (very poor, poor, no opinion, good, very good) administered at the end of the Experimental Period.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Prophylactic Medication Use</measure>
+    <time_frame>Through Open Label Period (one year following the implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Use of prophylactic medications during the Open Label Period as compared to Baseline.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Acute Medication Use</measure>
+    <time_frame>Through Open Label Period (one year following the implantation procedure)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Use of acute medication during the Experimental and/or Open Label Periods as compared to Baseline.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Chronic Migraine</condition>
+  <condition>High Frequency, High Disability Migraine</condition>
+  <arm_group>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Stimulation not able to be felt</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ATI Neurostimulation System</intervention_name>
+    <description>ATI Neurostimulator (NS-100) and Remote Controller (RC-200)</description>
+    <arm_group_label>Treatment</arm_group_label>
+    <arm_group_label>Other</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age from &gt;= 18 years old.
+
+          -  Subject has been diagnosed with migraine headache with or without aura according to
+             the 2004 ICHD-II criteria 1.1 or 1.2.1 or chronic migraine according to 2006 ICHD-IIR
+             Appendix 1.5.1 .
+
+          -  Subject reports at least 75% of migraine attacks having predominantly fixed (non
+             side-shifting) unilateral temporal or ocular pain, with a preference that the subject
+             reports associated cranial autonomic symptoms.
+
+          -  Subject reports a minimum of 8 days per month with migraine attacks of at least
+             moderate severity based on the subject/Investigator's knowledge for at least 3 months
+             prior to inclusion and confirmed in a diary for at least 1 month (4 weeks) prior to
+             inclusion.
+
+          -  Subject reports a minimum of 4 migraine attacks per month.
+
+          -  Subject reports at least 24 hours of pain free periods between typical migraine
+             attacks, and at least 4 migraine-free days per month.
+
+          -  Subject has a MIDAS score of III or IV, or has a HIT-6 score &gt; 56.
+
+          -  Subject is medically intractable in the opinion of the Investigator.
+
+          -  Subject has had stable type and dosage of prophylactic headache medications for at
+             least 1 month prior to study enrollment and agrees to maintain stable type and dosage
+             of prophylactic headache medications through the completion of the Experimental
+             Period.
+
+          -  Subject is able to distinguish migraine attacks from other headaches (i.e., TTH).
+
+          -  Subject agrees to not participate in supplemental or alternative therapy during the
+             study.  This includes: acupuncture, spinal manipulation, TENS, and magnetic fields
+             treatments.
+
+          -  Subject has the ability to read, comprehend, and to reliably record information as
+             required by the Protocol.
+
+          -  Subject is able to provide written informed consent prior to participation in the
+             study.
+
+        Exclusion Criteria:
+
+          -  Subject's overall health, age and/or comorbidities place subject at high risk for
+             complications from surgery and/or general anesthesia.
+
+          -  Subject currently has Medication Overuse Headache (MOH) according to the ICHD-IIR
+             2006 criteria.
+
+          -  Subject reports continuous daily headaches for one month or longer at time of
+             consent.
+
+          -  Subject reports initial onset of migraines within the last year.
+
+          -  Subject has undergone facial surgery in the area of the pterygopalatine fossa or
+             zygomaticomaxillary buttress ipsilateral to the planned implant site that, in the
+             opinion of the Investigator, may lead to the inability to properly implant the
+             Neurostimulator.
+
+          -  Subject has active oral or dental abscess.
+
+          -  Subject has been treated with radiation to the facial region.
+
+          -  Subject has been diagnosed with any major infectious processes such as osteomyelitis,
+             or primary or secondary malignancies involving the face that have been active or
+             required treatment in the past 6 months or requires periodic MRI follow-up.
+
+          -  Subject's pterygomaxillary fissure is less than 1.2 mm in width at the level of the
+             vidian canal, as determined by CT scan.
+
+          -  Subject has clinically significant drug (including opioid) or alcohol abuse as
+             defined by DSM-IV-TR, will likely be unable to refrain from substance abuse
+             throughout the study, has other significant pain problem, substance abuse or active
+             depressive episode that might confound the study assessments in the opinion of the
+             Investigator.
+
+          -  Subject is currently participating or has participated in the last month in another
+             clinical study in which the subject has, is, or will be exposed to an investigational
+             drug or device.
+
+          -  Subject is felt to be at risk of non-compliance (e.g., for completing the diary or
+             maintaining a stable headache medicine regimen or returning for required follow-up
+             visits) in the Investigator's opinion.
+
+          -  Subject is a woman of childbearing age who is pregnant, nursing, or not using
+             contraception.
+
+          -  Subject has had previous lesional radiofrequency ablation of the ipsilateral
+             sphenopalatine ganglion (SPG).
+
+          -  Subject has had blocks or nonlesional pulsed RF of the ipsilateral SPG in the last 3
+             months.
+
+          -  Subject has undergone botulinium toxin injections of the head and/or neck in the last
+             3 months.
+
+          -  Subject has or requires a pacemaker/defibrillator or other implantable device having
+             a sense amplifier that is programmed 'On.'
+
+          -  Subject has a history of bleeding disorders or coagulopathy or is unable to
+             discontinue anticoagulation, antiplatelet, or GP IIb IIIa inhibitor medication in
+             preparation for the implantation procedure.
+
+          -  Subject is not suitable for the study for any reason in the judgment of the
+             Investigator.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Rigmor Jensen, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Danish Headache Center, Glostrup Hospital</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Headache Research Unit. University Department of Neurology, Citadelle Hospital</name>
+      <address>
+        <city>Liege</city>
+        <zip>B-4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Pascale Gerard</last_name>
+      <phone>+32 4 225 6391</phone>
+      <email>pascale.gerard@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Jean Schoenen, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Delphine Magis, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Danish Headache Center &amp; Department of Neurology, Glostrup Hospital, University of Copenhagen</name>
+      <address>
+        <city>Glostrup</city>
+        <state>Copenhagen</state>
+        <zip>DK-2600</zip>
+        <country>Denmark</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Messoud Ashina, MD, PhD, Dr.Med.Sci.</last_name>
+      <phone>Tel: +45 4338632062</phone>
+    </contact>
+    <investigator>
+      <last_name>Messoud Ashina, MD, PhD, Dr.Med.Sci.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Servicio de Neurologia, Hospital Clinico Universitario</name>
+      <address>
+        <city>Valencia</city>
+        <zip>46010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miguel JA Lainez, MD, PhD, FAAN, CMANA</last_name>
+      <phone>+34 963868863</phone>
+      <email>neurologia_hcv@gva.es</email>
+    </contact>
+    <investigator>
+      <last_name>Jose Miguel Lainez, MD, PhD, FAAN, CMANA</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Ana Garcia, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>Denmark</country>
+    <country>Spain</country>
+  </location_countries>
+  <removed_countries>
+    <country>France</country>
+  </removed_countries>
+  <verification_date>May 2012</verification_date>
+  <lastchanged_date>May 3, 2012</lastchanged_date>
+  <firstreceived_date>February 20, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Migraine</keyword>
+  <keyword>Chronic migraine</keyword>
+  <keyword>High frequency migraine</keyword>
+  <keyword>High disability migraine</keyword>
+  <keyword>Sphenopalatine ganglion</keyword>
+  <keyword>Neuromodulation</keyword>
+  <keyword>Neurostimulation</keyword>
+  <keyword>Autonomic nervous system</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Synovial Cyst</mesh_term>
+    <mesh_term>Ganglion Cysts</mesh_term>
+    <mesh_term>Headache</mesh_term>
+    <mesh_term>Migraine Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

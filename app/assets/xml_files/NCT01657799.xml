@@ -1,0 +1,1827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="176">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01657799</url>
+  </required_header>
+  <id_info>
+    <org_study_id>M10-897</org_study_id>
+    <secondary_id>2011-003618-18</secondary_id>
+    <nct_id>NCT01657799</nct_id>
+  </id_info>
+  <brief_title>A Clinical Study Conducted in Multiple Centers Comparing Veliparib and Whole Brain Radiation Therapy (WBRT) Versus Placebo and WBRT in Subjects With Brain Metastases From Non Small Cell Lung Cancer (NSCLC)</brief_title>
+  <official_title>A Randomized, Double-Blind, Phase 2, Dose-Ranging Study to Evaluate the Safety and Efficacy of Veliparib and Whole Brain Radiation Therapy Versus Placebo and Whole Brain Radiation Therapy in Subjects With Brain Metastases From Non-Small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>AbbVie (prior sponsor, Abbott)</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>AbbVie</source>
+  <oversight_info>
+    <authority>Australia: Department of Health and Ageing Therapeutic Goods Administration</authority>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <authority>Brazil: Ministry of Health</authority>
+    <authority>Canada: Health Canada</authority>
+    <authority>Chile: Instituto de Salud Publica de Chile</authority>
+    <authority>Czech Republic: State Institute for Drug Control</authority>
+    <authority>Egypt: Ministry of Health, Drug Policy and Planning Center</authority>
+    <authority>Finland: Ministry of Social Affairs and Health</authority>
+    <authority>Korea: Food and Drug Administration</authority>
+    <authority>Norway: Norwegian Medicines Agency</authority>
+    <authority>Russia: Ministry of Health of the Russian Federation</authority>
+    <authority>Spain: Agencia Española de Medicamentos y Productos Sanitarios</authority>
+    <authority>Taiwan : Food and Drug Administration</authority>
+    <authority>Ukraine: Ministry of Health</authority>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Argentina: Administracion Nacional de Medicamentos, Alimentos y Tecnologia Medica</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The primary objective of this study is to evaluate the Overall Survival, Best Tumor Response
+      Rate, Time to Intracranial Progression (radiographic), Time to Clinical Brain Metastasis
+      Progression, safety, and tolerability of veliparib and Whole Brain Radiation Therapy in
+      subjects with brain metastases from Non Small Cell Lung Cancer
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Anticipated">November 2014</completion_date>
+  <primary_completion_date type="Anticipated">November 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Survival assesments are performed for up to 36 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Best Tumor Response Rate</measure>
+    <time_frame>Radiographic evaluation is performed up to 24 months or until documented radiographic brain metastases progression or date of death from any cause, whichever comes first</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Intracranial Progression (radiographic)</measure>
+    <time_frame>Radiographic evaluation will be performed for up to 24 months or until documented radiographic brain metastases progression or date of death from any cause, whichever comes first</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Clinical Brain Metastasis progression</measure>
+    <time_frame>Neurological assessments will be performed up to 24 months or until documented clinical brain metastases progression or date of death from any cause, whichever comes first</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">300</enrollment>
+  <condition>Brain Metastases From Non-small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>High dose veliparib administered concomitantly with whole brain radiation therapy (WBRT).</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Low dose veliparib administered concomitantly with WBRT.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 3</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo administered concomitantly with WBRT.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Veliparib</intervention_name>
+    <description>High dose veliparib given continuously throughout the entire course of WBRT. One treatment of 3.0 Gy WBRT will be given daily 5 days per week (10 fractions) for a total of 30.0 Gy.</description>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Veliparib</intervention_name>
+    <description>Low dose veliparib given continuously throughout the entire course of WBRT. One treatment of 3.0 Gy WBRT will be given daily 5 days per week (10 fractions) for a total of 30.0 Gy.</description>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>Placebo given continuously throughout the entire course of WBRT. One treatment of 3.0 Gy WBRT will be given daily 5 days per week (10 fractions) for a total of 30.0 Gy.</description>
+    <arm_group_label>Group 3</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subject must be greater than or equal to 18 years of age
+
+          -  Subject must have cytologically or histologically confirmed non-small cell lung
+             cancer
+
+          -  Subject must have brain metastases demonstrated on a MRI brain scan
+
+          -  Subject must be eligible for WBRT
+
+        Exclusion Criteria:
+
+          -  Subject is diagnosed with brain metastases greater than 28 days prior to treatment
+
+          -  Subject received any prior form of cranial radiation and/or neurosurgery for their
+             brain metastases
+
+          -  Subject's last dose of anti-cancer therapy or investigational therapy was less than
+             or equal to 7 days prior to treatment
+
+          -  Subject has a Karnofsky Performance Score of less than 70
+
+          -  Subject has significant dyspnea requiring supplemental oxygen therapy
+
+          -  Subject has liver metastases (restaging is not required for known liver metastases)
+
+          -  Subject has more than 2 sites (organ systems) of metastases from non-small cell lung
+             cancer with the exception of intra-cranial sites of metastases from non-small cell
+             lung cancer, thoracic sites of metastases from non-small cell lung cancer and bone
+             metastases
+
+          -  Subject has leptomeningeal metastases or subarachnoid spread of tumor
+
+          -  Subject has unresolved or unstable, serious toxicity from prior administration of
+             another investigational drug and/or prior anti-cancer treatment
+
+          -  Subject has a known seizure disorder that is uncontrolled, or has seizures occurring
+             greater than or equal to 3 times a week over the past month. Subjects presenting with
+             symptoms of seizures from the brain metastases are eligible; however he/she should
+             receive adequate anti-seizure medication prior to study treatment
+
+          -  Subject is pregnant or lactating
+
+          -  Subject has previously been treated with a  poly-(ADP-ribose)-polymerase inhibitor as
+             an investigational agent
+
+          -  Subject has clinically significant and uncontrolled major medical condition(s)
+
+          -  Subject has a history of another active cancer within the past 5 years except:
+             cervical cancer in situ, in situ carcinoma of the bladder, basal or squamous cell
+             carcinoma of the skin or other cancer in situ that is considered cured
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Vincent  Giranda, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>AbbVie</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kyle  Holen, MD</last_name>
+    <phone>847-937-3484</phone>
+    <email>kyle.holen@abbvie.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tina  Waskiewicz, BS</last_name>
+    <phone>847-935-5595</phone>
+    <email>tina.waskiewicz@abbvie.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68495</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68495</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 65828</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 65828</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 66052</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 66052</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 92618</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 92618</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 92623</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 92623</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 65832</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 65832</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 96255</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 96255</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 72793</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115-1705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 72793</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 92616</name>
+      <address>
+        <city>Lone Tree</city>
+        <state>Colorado</state>
+        <zip>80124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 92616</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68161</name>
+      <address>
+        <city>Deerfield Beach</city>
+        <state>Florida</state>
+        <zip>33442</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68161</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 65824</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 65824</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 66025</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 66025</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68494</name>
+      <address>
+        <city>Goshen</city>
+        <state>Indiana</state>
+        <zip>46526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68494</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 81813</name>
+      <address>
+        <city>New Albany</city>
+        <state>Indiana</state>
+        <zip>47150</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68319</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66160-7314</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68319</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 65830</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 65830</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68311</name>
+      <address>
+        <city>Farmington Hills</city>
+        <state>Michigan</state>
+        <zip>48334</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68311</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 84773</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 84773</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80473</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80473</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68317</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68317</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 66028</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 66028</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 85054</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 85054</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 65829</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 65829</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 69291</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 69291</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 70553</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 70553</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 73993</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19124</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 73993</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 92614</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 92614</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 92621</name>
+      <address>
+        <city>Arlington</city>
+        <state>Texas</state>
+        <zip>76014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 92621</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 66703</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 66703</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 92615</name>
+      <address>
+        <city>Denton</city>
+        <state>Texas</state>
+        <zip>76210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 92615</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68564</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1180AAX</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68564</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68562</name>
+      <address>
+        <city>Santa Fe</city>
+        <zip>S3000FFU</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68562</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68366</name>
+      <address>
+        <city>Bedford Park</city>
+        <zip>5042</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68366</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 69022</name>
+      <address>
+        <city>Brisbane</city>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 69022</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68365</name>
+      <address>
+        <city>Camperdown</city>
+        <zip>2050</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68365</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68367</name>
+      <address>
+        <city>East Melbourne</city>
+        <zip>3002</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68367</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68362</name>
+      <address>
+        <city>Geelong</city>
+        <zip>3220</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68362</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68364</name>
+      <address>
+        <city>Herston</city>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68364</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68368</name>
+      <address>
+        <city>Kogarah</city>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68368</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68227</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1200</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68227</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 69382</name>
+      <address>
+        <city>Brussels</city>
+        <zip>1070</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 69382</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68226</name>
+      <address>
+        <city>Charleroi</city>
+        <zip>6000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68226</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 69384</name>
+      <address>
+        <city>Edegem</city>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 69384</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68229</name>
+      <address>
+        <city>Ghent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68229</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 69385</name>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 69385</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68153</name>
+      <address>
+        <city>Montreal</city>
+        <zip>H1T 2M4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68153</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68277</name>
+      <address>
+        <city>Montreal</city>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68277</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68276</name>
+      <address>
+        <city>Montreal</city>
+        <zip>H3G 1A4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68276</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68258</name>
+      <address>
+        <city>Ottawa</city>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68258</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68251</name>
+      <address>
+        <city>Quebec</city>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68251</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 65835</name>
+      <address>
+        <city>Toronto</city>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 65835</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68154</name>
+      <address>
+        <city>Toronto</city>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68154</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68572</name>
+      <address>
+        <city>Antofagasta</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68572</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68570</name>
+      <address>
+        <city>Renaca, Vina del Mar</city>
+        <zip>25403-64</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68570</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68569</name>
+      <address>
+        <city>Santiago</city>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68569</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68573</name>
+      <address>
+        <city>Temuco</city>
+        <zip>01745</zip>
+        <country>Chile</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68573</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68624</name>
+      <address>
+        <city>Nova Vas Pod Plesi</city>
+        <zip>26204</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68624</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68625</name>
+      <address>
+        <city>Olomouc</city>
+        <zip>775 20</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68625</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68630</name>
+      <address>
+        <city>Prague 10</city>
+        <zip>100 34</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68630</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68631</name>
+      <address>
+        <city>Prague 5</city>
+        <zip>150 00</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68631</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68632</name>
+      <address>
+        <city>Usti nad Labem</city>
+        <zip>401 13</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68632</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68803</name>
+      <address>
+        <city>Alexandria</city>
+        <zip>21131</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68803</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68802</name>
+      <address>
+        <city>Cairo</city>
+        <zip>11559</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68802</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 70733</name>
+      <address>
+        <city>Cairo</city>
+        <zip>11796</zip>
+        <country>Egypt</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 70733</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 74653</name>
+      <address>
+        <city>Helsinki</city>
+        <zip>00180</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 74653</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 75977</name>
+      <address>
+        <city>Vaasa</city>
+        <zip>65100</zip>
+        <country>Finland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 75977</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 95119</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 95119</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 95118</name>
+      <address>
+        <city>Paris</city>
+        <zip>75010</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 95118</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 95116</name>
+      <address>
+        <city>Pierre-Benite</city>
+        <zip>69310</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 95116</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 95120</name>
+      <address>
+        <city>Strasbourg</city>
+        <zip>67091</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 95120</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 77295</name>
+      <address>
+        <city>Basan</city>
+        <zip>602-715</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 77295</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68225</name>
+      <address>
+        <city>Chungcheongbuk-do</city>
+        <zip>361-711</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68225</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68224</name>
+      <address>
+        <city>Gyeonggi-do</city>
+        <zip>463-707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68224</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 77294</name>
+      <address>
+        <city>Incheon</city>
+        <zip>400-711</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 77294</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68222</name>
+      <address>
+        <city>Seoul</city>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68222</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68223</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68223</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 75120</name>
+      <address>
+        <city>Bodo</city>
+        <zip>8092</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 75120</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 75119</name>
+      <address>
+        <city>Kristiansand</city>
+        <zip>4604</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 75119</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68633</name>
+      <address>
+        <city>Oslo</city>
+        <zip>0310</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68633</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68667</name>
+      <address>
+        <city>Ekaterinburg</city>
+        <zip>620036</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68667</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 107496</name>
+      <address>
+        <city>Irkutsk</city>
+        <zip>664035</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 107496</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68662</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68662</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68666</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68666</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 71273</name>
+      <address>
+        <city>Moscow</city>
+        <zip>115478</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 71273</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 94555</name>
+      <address>
+        <city>Murmansk</city>
+        <zip>183047</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 94555</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 95257</name>
+      <address>
+        <city>Pyatigorsk</city>
+        <zip>357502</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 95257</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 95256</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <zip>197758</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 95256</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 68669</name>
+      <address>
+        <city>Tula</city>
+        <zip>300053</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 68669</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 82793</name>
+      <address>
+        <city>Ulyanovsk</city>
+        <zip>432017</zip>
+        <country>Russian Federation</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 82793</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80815</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80815</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80818</name>
+      <address>
+        <city>Barcelona</city>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80818</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80817</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28050</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80817</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80814</name>
+      <address>
+        <city>Madrid</city>
+        <zip>28007</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80814</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 82733</name>
+      <address>
+        <city>Majadahonda (Madrid)</city>
+        <zip>28222</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 82733</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80816</name>
+      <address>
+        <city>Malaga</city>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80816</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80835</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40705</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80835</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 77873</name>
+      <address>
+        <city>Taichung City</city>
+        <zip>40447</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 77873</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 77874</name>
+      <address>
+        <city>Tainan</city>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 77874</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80833</name>
+      <address>
+        <city>Taipei</city>
+        <zip>112</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80833</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 77875</name>
+      <address>
+        <city>Taipei</city>
+        <zip>10002</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 77875</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 80834</name>
+      <address>
+        <city>Taipei</city>
+        <zip>114</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 80834</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 81575</name>
+      <address>
+        <city>Chernivtsi</city>
+        <zip>58013</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 81575</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 81573</name>
+      <address>
+        <city>Donetsk</city>
+        <zip>83092</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 81573</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 82754</name>
+      <address>
+        <city>Kharkiv</city>
+        <zip>61024</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 82754</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Site Reference ID/Investigator# 81574</name>
+      <address>
+        <city>Sumy</city>
+        <zip>40005</zip>
+        <country>Ukraine</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Site Reference ID/Investigator# 81574</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Argentina</country>
+    <country>Australia</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>Chile</country>
+    <country>Czech Republic</country>
+    <country>Egypt</country>
+    <country>Finland</country>
+    <country>France</country>
+    <country>Korea, Republic of</country>
+    <country>Norway</country>
+    <country>Russian Federation</country>
+    <country>Spain</country>
+    <country>Taiwan</country>
+    <country>Ukraine</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 14, 2013</lastchanged_date>
+  <firstreceived_date>August 2, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

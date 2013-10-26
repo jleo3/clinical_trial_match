@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="132">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00185848</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BRNCNS0003</org_study_id>
+    <secondary_id>95908</secondary_id>
+    <secondary_id>BRNCNS0003</secondary_id>
+    <nct_id>NCT00185848</nct_id>
+  </id_info>
+  <brief_title>Assessing the Suitability of an Imaging Probe for Use in Clinical Cell and Gene Therapy Trials in Cancer and Rheumatoid Arthritis</brief_title>
+  <official_title>Imaging the Biodistribution of the Positron Emission Tomography Reporter Probe, [18F]FHBG, in Humans.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether [18F]FHBG is suitable for use as an
+      imaging probe in cancer or rheumatoid arthritis patients enrolled in cell or gene therapy
+      trials.  In this phase 1 study we will assess the safety and biodistribution of [18F]FHBG in
+      patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The success of cell and gene therapy depends on specific targeting of the therapeutic gene
+      or cell that is administered to the patient.  Our goal is to develop an imaging method to
+      non-invasively monitor the location of the therapeutic gene or cell.  Imaging should help in
+      the design of better protocols and potentially reduce side-effects of cell and gene therapy.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2005</start_date>
+  <completion_date type="Anticipated">July 2013</completion_date>
+  <primary_completion_date type="Anticipated">July 2013</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>The primary endpoint of the study for each patient is acquisition of PET/CT image.</measure>
+    <time_frame>Time of scan</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Collection of vital signs, EKG, blood chemistry and CBC data</measure>
+    <time_frame>day 1, 2 and 8.</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Brain Cancer</condition>
+  <condition>Arthritis, Rheumatoid</condition>
+  <condition>Central Nervous System Neoplasms</condition>
+  <condition>Glioma</condition>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>[18F]FHBG</intervention_name>
+    <description>&lt; 7mCi and 2 ug, iv</description>
+    <other_name>18F-FHBG</other_name>
+  </intervention>
+  <biospec_retention>None Retained</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Patients with intact or surgically removed gliomas.Patients with Rheumatoid Arthritis.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with Rheumatoid Arthritis.Patients with intact or surgically removed gliomas.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        - Clinical diagnosis of brain tumor or rheumatoid arthritis
+
+        Exclusion Criteria:
+
+        - Below 18 years of age
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sanjiv Sam Gambhir M.D., Ph.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Shahriar Yaghoubi</last_name>
+    <phone>(650) 725-6070</phone>
+    <email>syaghoub@stanford.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shahriar Yaghoubi</last_name>
+      <phone>650-725-6070</phone>
+      <email>syaghoub@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Shahriar Yaghoubi</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University School of Medicine</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shahriar Shah Yaghoubi, Ph.D</last_name>
+      <phone>650-725-6070</phone>
+      <email>syaghoub@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lindee Burton</last_name>
+      <phone>(650) 725-4712</phone>
+      <email>lburton@stanford.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sanjiv Sam Gambhir M.D., Ph.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Michael L Goris</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr Andrew Quon</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Dr Lawrence Recht</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Shahriar Shah Yaghoubi</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Yaghoubi S, Barrio JR, Dahlbom M, Iyer M, Namavari M, Satyamurthy N, Goldman R, Herschman HR, Phelps ME, Gambhir SS. Human pharmacokinetic and dosimetry studies of [(18)F]FHBG: a reporter probe for imaging herpes simplex virus type-1 thymidine kinase reporter gene expression. J Nucl Med. 2001 Aug;42(8):1225-34.</citation>
+    <PMID>11483684</PMID>
+  </reference>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 6, 2013</lastchanged_date>
+  <firstreceived_date>September 12, 2005</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arthritis</mesh_term>
+    <mesh_term>Arthritis, Rheumatoid</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

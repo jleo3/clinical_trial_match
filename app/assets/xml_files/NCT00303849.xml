@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="252">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00303849</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHSU-2868</org_study_id>
+    <secondary_id>P30CA069533</secondary_id>
+    <secondary_id>8507</secondary_id>
+    <secondary_id>SOL-04058-L</secondary_id>
+    <secondary_id>2868</secondary_id>
+    <nct_id>NCT00303849</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy With BBBD Followed By Sodium Thiosulfate in Treating Patients With Anaplastic Oligodendroglioma or Oligoastrocytoma</brief_title>
+  <official_title>Phase I/II Study of Carboplatin, Melphalan and Etoposide Phosphate in Conjunction With Osmotic Opening of the Blood-Brain Barrier and Delayed Intravenous Sodium Thiosulfate Chemoprotection, in Previously Treated Subjects With Anaplastic Oligodendroglioma or Oligoastrocytoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as etoposide, carboplatin, and melphalan, work
+      in different ways to stop the growth of tumor cells, either by killing the cells or by
+      stopping them from dividing. Giving more than one drug (combination chemotherapy) may kill
+      more tumor cells. Chemoprotective drugs, such as sodium thiosulfate, may protect normal
+      cells from the side effects of chemotherapy. Blood-brain barrier disruption uses certain
+      drugs, such as mannitol, to open the blood vessels around the brain and allow chemotherapy
+      to be carried directly to the brain tumor. Giving combination chemotherapy together with
+      blood-brain barrier disruption may kill more tumor cells.
+
+      PURPOSE: This phase I/II trial is studying the side effects and best dose of melphalan when
+      given together with etoposide, carboplatin and blood-brain barrier disruption followed by
+      sodium thiosulfate and to see how well they work in treating patients with anaplastic
+      oligodendroglioma or oligoastrocytoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  Evaluate toxicity and estimate the maximum tolerated dose (MTD) of melphalan
+           administered in conjunction with carboplatin and etoposide phosphate in combination
+           with blood-brain barrier disruption (BBBD) with mannitol and delayed sodium
+           thiosulfate, in patients with anaplastic oligodendroglioma or oligoastrocytoma. (phase
+           I)
+
+        -  Examine the efficacy, in terms of 1-year progression-free survival (1YPFS), in patients
+           treated with this regimen. (phase II)
+
+      Secondary
+
+        -  Evaluate the incidence of severe neutropenia (specifically febrile neutropenia or
+           sepsis) in patients treated with this regimen.
+
+        -  Evaluate the overall toxicity of this regimen.
+
+        -  Compare tumor response, 1YPFS, and survival in patients with vs without allelic loss of
+           chromosomes 1p and 19q and p53 immunocytochemistry.
+
+        -  Assess quality of life, cognitive function, and performance status in these patients.
+
+        -  Estimate differences in 1YPFS between patients with anaplastic oligodendroglioma and
+           patients with oligoastrocytoma.
+
+        -  Describe the role of biopsy versus extent of surgery (sub-maximal versus maximal safe
+           resection) on 1YPFS and survival.
+
+        -  Describe the role of prior radiotherapy on tumor response, 1YPFS, and survival.
+
+      OUTLINE: This is a multi-center, phase I dose-escalation study of melphalan followed by a
+      phase II study.
+
+        -  Phase I: Patients receive etoposide phosphate IV over 10 minutes, mannitol
+           intra-arterially (IA), carboplatin IA over 10 minutes, and melphalan IA over 10 minutes
+           on days 1 and 2 and sodium thiosulfate IV over 15 minutes beginning 4 and 8 hours after
+           completion of chemotherapy on days 1 and 2. Patients also receive filgrastim (G-CSF)
+           subcutaneously (SC) once daily beginning on day 4 and continuing until blood counts
+           recover OR a small dose of pegfilgrastim SC on day 2. Treatment repeats every 4 weeks
+           for up to 12 monthly courses in the absence of disease progression or unacceptable
+           toxicity.
+
+      Cohorts of 3-6 patients receive escalating doses of melphalan until the maximum tolerated
+      dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2
+      of 6 patients experience dose-limiting toxicity.
+
+        -  Phase II: Patients receive etoposide phosphate, mannitol, carboplatin, melphalan at the
+           MTD, sodium thiosulfate, and G-CSF or pegfilgrastim as in phase I. Treatment repeats
+           every 4 weeks for up to 12 monthly courses in the absence of disease progression or
+           unacceptable toxicity.
+
+      After completion of study treatment, patients are followed every 3 months for one year;
+      every 6 months for the next two years; then annually.
+
+      PROJECTED ACCRUAL: Up to 60 patients will be accrued for this study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2005</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD) of melphalan as measured by  NCI CTC v3   (Phase I)</measure>
+    <time_frame>Completed</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>MTD = 1 dose level below dose level that produces grade 4 toxicity attributable to the chemotherapy regimen that occurs during cycle one of chemotherapy, in 33% of subjects.
+The Melphalan MTD when given with this combination chemotherapy has been determined to be 4mg/m2/day x 2 days.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression-free survival as measured by radiographic response at one year progression free survival  (1YPFS) (Phase II)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of neutropenia as measured by complete blood cell count  lab values done weekly during study treatment</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Evaluate incidence of severe neutropenia (febrile neutropenia or sepsis) of carboplatin, melphalan, and etoposide phosphate in conjunction with BBBD</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall toxicity of chemotherapy as measured by NCI CTC v3 during study treatment</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate differences in tumor response, 1YPFS, and survival in patients with and without allelic loss as measured by lab assays before study treatment</measure>
+    <time_frame>Up to 3  years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Evaluation of allelic loss by lab assays testing for chromosomes 1p and 19q and p53 immunocytochemistry</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life (QOL) as measured by  EORTC QOL</measure>
+    <time_frame>Up to 3 years plus follow up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Every 3 months during treatment and within 30 days of final treatment. After final treatment, QOL assessment annually.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Estimate differences in 1YPFS between subjects with anaplastic oligodendroglioma and oligoastrocytoma</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe role of biopsy vs extent of surgery on 1YPFS and survival</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Role of biopsy versus extent of surgery (sub-maximal versus maximal safe resection)on 1YPFS and survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Role of prior radiation on tumor response, 1YPFS, and survival.</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Describe role of prior radiation on tumor response, 1YPFS, and survival.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Anaplastic Oligodendroglioma</condition>
+  <condition>Mixed Oligoastrocytoma</condition>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <arm_group>
+    <arm_group_label>All subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide phosphate</intervention_name>
+    <description>Dose: 200mg/m2/day x 2 days; Every 4 weeks for up to one year
+Etoposide may be substituted</description>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Melphalan</intervention_name>
+    <description>Dose: 4mg/m2/day x 2 days; Every 4 weeks for up to one year.</description>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Dose: 200mg/m2/day x 2 days;  Every 4 weeks for up to one year</description>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium thiosulfate</intervention_name>
+    <description>Dose:  4 hrs post carboplatin = 20gm/m2
+Dose:  8 hrs post carboplatin = 16gm/m2
+Every 4 weeks for up to one year</description>
+    <arm_group_label>All subjects</arm_group_label>
+    <other_name>STS</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Filgrastim</intervention_name>
+    <description>48 hrs after last dose of carboplatin, QD x 7-10 days until WBC greater than 5000.  Dose based on weight of subject.
+Pegfilgrastim (Neulasta) may be given instead.</description>
+    <arm_group_label>All subjects</arm_group_label>
+    <other_name>G-CSF</other_name>
+    <other_name>Neupogen</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pegfilgrastim</intervention_name>
+    <description>Dose:  6mg, 24-72 hrs after chemotherapy.
+Filgrastim (Neupogen) may be given instead</description>
+    <arm_group_label>All subjects</arm_group_label>
+    <other_name>G-CSF</other_name>
+    <other_name>Neulasta</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:
+
+          -  Signed written informed consent in accordance with institutional guidelines
+
+          -  Histologically confirmed anaplastic oligodendroglioma or mixed glioma (i.e.,
+             oligoastrocytoma) (At least 25% of oligodendroglial element required to qualify as a
+             mixed tumor)
+
+          -  Must have undergone prior surgical procedure, either complete resection, partial
+             resection, or biopsy
+
+          -  Prior treatment with temozolomide required and at least 28 days since prior
+             temozolomide
+
+          -  Radiation therapy: prior consultation OR at least 14 days since completion of
+             radiation
+
+          -  Age 18-75 years old
+
+          -  ECOG performance status (PS) 0-2 OR Karnofsky PS ≥ 50%
+
+          -  WBC ≥ 2,500/mm^3
+
+          -  Absolute granulocyte count &gt; 1,500/mm^3
+
+          -  Platelet count ≥ 100,000/mm^3
+
+          -  Creatinine &lt; 1.5 times upper limit of normal (ULN)
+
+          -  Bilirubin &lt; 1.5 times ULN
+
+          -  SGOT/SGPT &lt; 2.5 times ULN
+
+          -  Fertile patients must use effective contraception prior to and during study treatment
+
+        EXCLUSION CRITERIA:
+
+          -  Radiographic signs of excessive intracranial mass effect and/or spinal cord block
+
+          -  Significant risk for general anesthesia
+
+          -  Uncontrolled clinically significant confounding medical condition within the past 30
+             days
+
+          -  Pregnant, positive HCG or lactating
+
+          -  Contraindications to carboplatin, melphalan, etoposide phosphate, or sodium
+             thiosulfate
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward A. Neuwelt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>OHSU Knight Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edward A Neuwelt, MD</last_name>
+    <phone>503-494-5626</phone>
+    <email>neuwelte@ohsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cynthia A Lacy, BSN</last_name>
+    <phone>503-494-5626</phone>
+    <email>lacyc@ohsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew Hunt, MD</last_name>
+      <phone>612-626-0975</phone>
+      <email>huntx188@umn.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Natalie Brandt, BSN</last_name>
+      <phone>612-624-8117</phone>
+      <email>nbrandt10@umphysicians.umn.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Matthew Hunt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Knight Cancer Institute at Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239-3098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Knight Cancer Institute at Oregon Hea</last_name>
+      <phone>503-494-1080</phone>
+      <email>trials@ohsu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <phone>503-494-5626</phone>
+      <email>neuwelte@ohsu.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/OHSU-8507</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 30, 2013</lastchanged_date>
+  <firstreceived_date>March 15, 2006</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult anaplastic oligodendroglioma</keyword>
+  <keyword>adult oligoastrocytoma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Oligodendroglioma</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+    <mesh_term>Astrocytoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Lenograstim</mesh_term>
+    <mesh_term>Sodium thiosulfate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

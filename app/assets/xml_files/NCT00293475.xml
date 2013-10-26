@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="335">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00293475</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHSU-1012</org_study_id>
+    <secondary_id>3R01CA137488</secondary_id>
+    <secondary_id>1012</secondary_id>
+    <secondary_id>SOL-05025-L</secondary_id>
+    <nct_id>NCT00293475</nct_id>
+  </id_info>
+  <brief_title>Rituximab&amp;Methotrexate Chemotherapy w/BBBD &amp; Sodium Thiosulfate Chemoprotection for Patients With Newly Diagnosed PCNSL</brief_title>
+  <official_title>A Phase I/II Study of Patient With Newly Diagnosed Primary Central Nervous System Lymphoma Treated With Methotrexate/BBBD, and Adding Rituximab (an Anti CD-20 Antibody) and Carboplatin, to the Treatment Regimen</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Monoclonal antibodies, such as rituximab, can block cancer growth in different
+      ways. Some block the ability of cancer cells to grow and spread. Others find cancer cells
+      and help kill them or carry cancer-killing substances to them. Chemotherapy drugs such as
+      methotrexate, carboplatin, and cytarabine, work in different ways to stop the growth of
+      cancer cells, either by killing the cells or by stopping them from dividing. Chemoprotective
+      drugs, such as sodium thiosulfate, may protect normal cells from the side effects of
+      chemotherapy. Osmotic blood-brain barrier disruption uses mannitol, to open tight junctions
+      in the blood vessels in the brain and allow methotrexate and carboplatin to be carried to
+      tumor. Giving rituximab together with blood-brain barrier disruption and methotrexate-based
+      chemotherapy may kill more cancer cells.
+
+      PURPOSE: This phase I/II trial is studying the side effects and best dose of carboplatin
+      when given together with rituximab and methotrexate with blood-brain barrier disruption and
+      delayed  sodium thiosulfate chemoprotection to see how well they work in treating patients
+      with newly diagnosed primary central nervous system lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  Evaluate the safety and toxicities of rituximab in combination with blood-brain barrier
+           disruption with mannitol, combination chemotherapy comprising methotrexate and
+           carboplatin, and delayed sodium thiosulfate.
+
+        -  Determine the effect of this regimen on complete response (CR) rate within the first 3
+           months of treatment in these patients.
+
+      Secondary
+
+        -  Estimate the overall CR response rate, the 2-year overall survival, and the 2-year
+           event-free survival of these patients.
+
+      OUTLINE: This is a multicenter, phase I/II study
+
+        -  Patients receive rituximab IV on day 1 followed by blood-brain barrier disruption
+           comprising mannitol intra-arterially (IA) and combination chemotherapy comprising
+           methotrexate IA over 10 minutes and carboplatin IA over 10 minutes on days 2 and 3.
+           Patients also receive sodium thiosulfate IV over 15 minutes twice on days 2 and 3 and
+           filgrastim (G-CSF) subcutaneously (SC) once daily beginning on day 5 and continuing for
+           approximately 7-10 days or until blood counts recover OR pegfilgrastim SC once on day
+           5. Patients with positive cerebrospinal fluid (CSF) cytology also receive cytarabine
+           via Ommaya reservoir or lumbar puncture on day 14. Patients with ocular involvement
+           also receive injections of methotrexate and/or rituximab into the eye(s) up to twice a
+           week until the vitreous is clear of cancer cells and then as determined by the
+           ophthalmologist.
+
+        -  Quality of life is assessed at baseline, every 6 months during treatment, at completion
+           of treatment, and then every 3 months for 2 years, every 6 months for 3 years, and
+           annually thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2005</start_date>
+  <completion_date type="Anticipated">January 2016</completion_date>
+  <primary_completion_date type="Anticipated">January 2015</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Complete response rate</measure>
+    <time_frame>first 3 months of treatment</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival at 2 years</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Event-free survival at 2 years</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">81</enrollment>
+  <condition>Primary Central Nervous System Lymphoma</condition>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Rituximab (total dose 375mg/m2) will be administered i.v. per institutional guidelines within 24 hours prior to the first BBBD of each monthly course.
+Methotrexate 2500 mg/day x 2 days (total dose 5000mg); (1250mg if CrCl ≤ 50, but ≥ 30 ml/min) will be infused i.a.. Methotrexate will be infused over 10 minutes in 180 cc normal saline beginning immediately after the mannitol infusion.
+carboplatin (200mg/m2/day x 2 days; total dose 400 mg/m2) will be infused i.a.over 10 minutes, in 180 cc of normal saline.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rituxan</intervention_name>
+    <description>Total dose: 375mg/m2;  Every 4 weeks for up to one year.</description>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+    <other_name>rituximab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Dose 200mg/m2/day x 2 days; Every 4 weeks for up to one year</description>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate</intervention_name>
+    <description>Dose 2500mg/day x 2 days;  Every 4 weeks for up to one year</description>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium thiosulfate</intervention_name>
+    <description>Dose: 4 hrs post carboplatin = 20gm/m2; Dose: 8 hrs post carboplatin = 16gm/m2</description>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+    <other_name>STS</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Neupogen</intervention_name>
+    <description>48 hrs after last dose of methotrexate, QD x 7-10 days until WBC greater than 5000. Dose based on weight of subject. Neulasta (Pegfilgrastim) may be given instead.</description>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+    <other_name>G-CSF</other_name>
+    <other_name>filgrastim</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Neulasta</intervention_name>
+    <description>Dose: 6mg, 24-72 hours after chemotherapy. Neupogen may be given instead.</description>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+    <other_name>Pegfilgrastim</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leucovorin</intervention_name>
+    <description>80mg i.v. at 36 hours after first dose of methotrexate; then 50mg p.o. or i.v. every 6 hours for 20 doses.  Additional dosing requirements may apply as clinically indicated.</description>
+    <arm_group_label>Rituximab, Methotrexate and Carboplatin</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:
+
+          -  Signed written informed consent form
+
+          -  Histopathologic confirmation of intermediate- or high-grade primary central nervous
+             system lymphoma (PCNSL) as documented by brain biopsy or cytology (analysis from
+             cerebrospinal fluid [CSF] or vitrectomy
+
+          -  Diagnosed within the past 90 days
+
+          -  CD20-positive disease
+
+          -  No radiographic signs of excessive intracranial mass effect with associated rapid
+             neurologic deterioration and/or spinal block
+
+          -  ECOG performance status (PS) 0-3 OR Karnofsky PS 40-100%
+
+          -  Hematocrit ≥ 25% (transfusion allowed)
+
+          -  WBC ≥ 2,500/mm^3
+
+          -  Absolute granulocyte count ≥ 1,200/mm^3
+
+          -  Platelet count ≥ 100,000/mm^3 (or ≥ lower limit of normal)
+
+          -  Creatinine clearance ≥ 50 mL/min (eligible for full-dose methotrexate)
+
+          -  Creatinine clearance ≥ 30 mL/min (eligible for reduced-dose methotrexate and
+             carboplatin)
+
+          -  Bilirubin ≤ 2.0 times upper limit of normal
+
+          -  Fertile patients must use effective contraception
+
+          -  Other chemotherapy for PCNSL during the 90 days since diagnosis allowed
+
+          -  At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas and at least 10
+             days since prior methotrexate)
+
+          -  Available for follow-up for at least one year after completion of treatment
+
+        EXCLUSION CRITERIA:
+
+          -  Prior cranial or spinal radiotherapy
+
+          -  Systemic lymphoma
+
+          -  Seropositive for HIV
+
+          -  Seropositive for hepatitis B or hepatitis C
+
+          -  Uncontrolled, clinically significant confounding medical conditions within the past
+             30 days
+
+          -  Pregnant or nursing
+
+          -  Allergy to any of the study agents (rituximab, carboplatin, methotrexate, or sodium
+             thiosulfate)
+
+          -  If subject has CHF, New York Heart Association class III or IV
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward A. Neuwelt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edward A Neuwelt, MD</last_name>
+    <phone>503-494-5626</phone>
+    <email>neuwelte@ohsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cynthia A Lacy, BSN</last_name>
+    <phone>503-494-5626</phone>
+    <email>lacyc@ohsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John McGregor, MD</last_name>
+      <phone>614-293-5440</phone>
+      <email>john.mcgregor@osumc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sue Bell, CNRN,CNP</last_name>
+      <phone>614-293-3143</phone>
+      <email>susan.bell@osumc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John McGregor, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239-3098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <phone>503-494-5626</phone>
+      <email>neuwelte@ohsu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cynthia A Lacy, BSN</last_name>
+      <phone>503-494-5626</phone>
+      <email>lacyc@ohsu.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/OHSU-1012</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 30, 2013</lastchanged_date>
+  <firstreceived_date>February 16, 2006</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>drug/agent toxicity by tissue/organ</keyword>
+  <keyword>primary central nervous system non-Hodgkin lymphoma</keyword>
+  <keyword>primary central nervous system Hodgkin lymphoma</keyword>
+  <keyword>intraocular lymphoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Leucovorin</mesh_term>
+    <mesh_term>Levoleucovorin</mesh_term>
+    <mesh_term>Sodium thiosulfate</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

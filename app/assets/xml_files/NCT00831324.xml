@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="256">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00831324</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000632931</org_study_id>
+    <secondary_id>UCSF-H7858-32860-01</secondary_id>
+    <secondary_id>08109</secondary_id>
+    <secondary_id>CRAD001CUS58T</secondary_id>
+    <nct_id>NCT00831324</nct_id>
+  </id_info>
+  <brief_title>Everolimus in Treating Patients With Recurrent or Progressive Low-Grade Glioma</brief_title>
+  <official_title>Phase II Trial of RAD001 in Patients With Recurrent Low Grade Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Everolimus may stop the growth of tumor cells by blocking some of the enzymes
+      needed for cell growth and by blocking blood flow to the tumor.
+
+      PURPOSE: This phase II trial is studying how well everolimus works in treating patients with
+      recurrent or progressive low-grade glioma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To determine the 6-month progression-free survival (PFS) of patients treated with
+           everolimus who were initially diagnosed with low-grade glioma and underwent biopsy or
+           subtotal resection at the time of recurrence with pathologic evidence of recurrent
+           low-grade glioma.
+
+      Secondary
+
+        -  To further describe the safety profile of this drug in these patients.
+
+        -  To assess overall survival (OS) of patients treated with this drug.
+
+        -  To assess the objective response rate in patients treated with this drug.
+
+        -  To assess the correlation of phosphorylated PKB/Akt and PTEN expression with response,
+           progression status by 6 months, and OS of patients treated with this drug.
+
+      Tertiary
+
+        -  To determine the 6-month PFS of patients treated with this drug who also underwent
+           prior radiotherapy.
+
+      OUTLINE: Patients receive oral everolimus once daily. Courses repeat every 8-12 weeks for up
+      to 2 years in the absence of disease progression or unacceptable toxicity. After completion
+      of study therapy, patients may continue treatment for as long as benefit is shown.
+
+      Previously collected tissue samples are analyzed by IHC for phosphorylated PKB/Akt status
+      and PTEN expression for correlation with study endpoints.
+
+      After completion of study treatment, patients are followed for 30 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2009</start_date>
+  <primary_completion_date type="Anticipated">January 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression-free survival at 6 months</measure>
+    <time_frame>months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Correlation of phosphorylated PKB/Akt and PTEN expression with response, progression status by 6 months, and overall response</measure>
+    <time_frame>years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <arm_group>
+    <arm_group_label>Everolimus</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Targeted agent</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>everolimus</intervention_name>
+    <arm_group_label>Everolimus</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>immunohistochemistry staining method</intervention_name>
+    <arm_group_label>Everolimus</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <arm_group_label>Everolimus</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed intracranial low-grade glioma* at initial diagnosis,
+             including any of the following histological subtypes:
+
+               -  Astrocytoma
+
+                    -  No pilocytic astrocytomas
+
+               -  Oligodendroglioma
+
+               -  Mixed oligoastrocytoma NOTE: *Histologically confirmed progression to high-grade
+                  gliomas are allowed provided patient has undergone prior radiotherapy
+
+          -  Evaluable disease
+
+          -  Unequivocal evidence of tumor recurrence or progression by histology and MRI, as
+             determined by the following:
+
+               -  Histological review of pathology by an attending neuro-pathologist at the
+                  University of California San Francisco (UCSF)
+
+               -  Radiographic review of MRI* (performed within the past 14 days) by an attending
+                  neuro-oncologist or neuro-radiologist at UCSF NOTE: *MRI must be performed after
+                  ≥ 5 days on a stable dose of steroids or a new baseline MRI is required
+
+          -  Paraffin-embedded tissue samples acquired from surgery at time of recurrence must be
+             available
+
+          -  No leptomeningeal or uncontrolled brain metastases, including those who require
+             glucocorticoids for their metastases
+
+          -  Must be registered in University of California San Francisco Neuro-Oncology database
+
+        PATIENT CHARACTERISTICS:
+
+          -  Karnofsky performance status 60-100%
+
+          -  Life expectancy &gt; 8 weeks
+
+          -  ANC ≥ 1.5 x 10^9/L
+
+          -  Platelet count ≥ 100 x 10^9/L
+
+          -  Hemoglobin &gt; 9 g/dL
+
+          -  Serum bilirubin ≤ 1.5 times upper limit of normal (ULN)
+
+          -  INR &lt; 1.3 (or &lt; 3 on anticoagulants)
+
+          -  ALT and AST ≤ 2.5 times ULN
+
+          -  Serum creatinine ≤ 1.5 times ULN
+
+          -  Fasting serum cholesterol* ≤ 300 mg/dL OR ≤ 7.75 mmol/L
+
+          -  Fasting triglycerides* ≤ 2.5 times ULN NOTE: *If one or both of these thresholds is
+             exceeded, the patient can only be included after initiation of appropriate lipid
+             lowering medication
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  No significant medical illnesses that, in the opinion of the investigator, cannot be
+             adequately controlled with appropriate therapy, or would compromise the patient's
+             ability to tolerate study therapy
+
+          -  No other cancer except nonmelanoma skin cancer or carcinoma in-situ of the cervix,
+             unless in complete remission and off all therapy for that disease within the past 3
+             years
+
+          -  No active, bleeding diathesis
+
+          -  No severe and/or uncontrolled medical conditions or other conditions that would
+             preclude participation in the study, including any of the following:
+
+               -  NYHA class III-IV symptomatic congestive heart failure
+
+               -  Unstable angina pectoris
+
+               -  Myocardial infarction within the past 6 months
+
+               -  Serious uncontrolled cardiac arrhythmia
+
+               -  Other clinically significant cardiac disease
+
+               -  Severely impaired lung function (i.e., oxygen [O_2] saturation 88% or less at
+                  rest on room air by pulse oximetry must undergo further pulmonary function tests
+                  to confirm normal pulmonary function and eligibility)
+
+               -  Uncontrolled diabetes, defined by fasting serum glucose &gt; 1.5 times ULN
+
+               -  Active (acute or chronic) or uncontrolled severe infections
+
+               -  Liver disease (e.g., cirrhosis, chronic active hepatitis, or chronic persistent
+                  hepatitis)
+
+          -  No impairment of gastrointestinal (GI) function or GI disease that may significantly
+             alter the absorption of everolimus, including any of the following:
+
+               -  Ulcerative disease
+
+               -  Uncontrolled nausea
+
+               -  Vomiting
+
+               -  Diarrhea
+
+               -  Malabsorption syndrome
+
+               -  Small bowel resection
+
+          -  No known HIV positivity
+
+          -  No known hypersensitivity to everolimus or other rapamycins (i.e., sirolimus,
+             temsirolimus) or to its excipients
+
+          -  No history of noncompliance to medical regimens
+
+          -  Must be willing and able to comply with the protocol
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  Recovered from all prior therapy
+
+          -  Treatment for relapses prior to this recurrence allowed
+
+          -  No prior therapy for this recurrence (e.g., radiotherapy)
+
+               -  Supportive care (e.g., steroids or antiepileptics) does not constitute treatment
+                  of recurrence)
+
+          -  No prior mTOR inhibitor (i.e., sirolimus, temsirolimus, or everolimus)
+
+          -  More than 5 days since prior enzyme-inducing antiepileptic agent
+
+          -  More than 1 week since prior and no concurrent immunization with attenuated live
+             vaccines
+
+          -  Less than 4 months since prior surgical procedure for this recurrence
+
+          -  At least 2 weeks since prior non-cytotoxic or biologic agents (e.g., interferon,
+             tamoxifen, thalidomide, or cis-retinoic acid)
+
+          -  At least 4 weeks since prior radiotherapy
+
+          -  At least 4 weeks since prior cytotoxic therapy (≥ 6 weeks since nitrosourea, 3 weeks
+             since procarbazine, and 2 weeks since vincristine)
+
+          -  At least 4 weeks since prior and no concurrent investigational agent
+
+          -  No other concurrent anticancer agents
+
+          -  Concurrent enzyme-inducing antiepileptic agents allowed provided treatment is limited
+             to no more than 10 days during study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susan M. Chang, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thelma Munoz</last_name>
+    <phone>415-353-2523</phone>
+    <email>munozt@neurosurg.ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UCSF Helen Diller Family Comprehensive Cancer Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical  Trials Office - UCSF Helen Diller Family Comprehensi</last_name>
+      <phone>877-827-3222</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/UCSF-H7858-32860-01</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 8, 2013</lastchanged_date>
+  <firstreceived_date>January 27, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Susan Chang</investigator_full_name>
+    <investigator_title>MD</investigator_title>
+  </responsible_party>
+  <keyword>adult diffuse astrocytoma</keyword>
+  <keyword>adult pineal gland astrocytoma</keyword>
+  <keyword>adult subependymal giant cell astrocytoma</keyword>
+  <keyword>adult mixed glioma</keyword>
+  <keyword>adult anaplastic oligodendroglioma</keyword>
+  <keyword>adult oligodendroglioma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

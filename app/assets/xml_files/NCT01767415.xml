@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="121">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01767415</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1106011772</org_study_id>
+    <nct_id>NCT01767415</nct_id>
+  </id_info>
+  <brief_title>Intra-operative Use of Indigo Carmine Dye for the Delineation of Ill Defined Tumor Borders Using Stereotactic Injection</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Weill Medical College of Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Weill Medical College of Cornell University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to investigate whether stereotactic indigo carmine injection
+      can safely increase the extent of tumor resection.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2012</start_date>
+  <primary_completion_date type="Anticipated">March 2016</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Extent of Resection</measure>
+    <time_frame>48 hours</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Evaluation of the extent of resection of the tumor following the indigo carmine infusion to the tumor.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Absence of complications after injection</measure>
+    <time_frame>30 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Brain Tumors With Ill-defined Margins</condition>
+  <arm_group>
+    <arm_group_label>Indigo Carmine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Intraoperative stereotactic injection of Indigo Carmine</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Indigo carmine</intervention_name>
+    <arm_group_label>Indigo Carmine</arm_group_label>
+    <other_name>Indigotindisulfonate sodium</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects with gliomas or other tumors that may have ill defined margins during the
+             operative resection.
+
+        Exclusion Criteria:
+
+          -  Subjects with a contraindication for brain MRI scan.  Subjects who are pregnant,
+             younger than 18 years old or have a contraindication for indigo carmine are excluded
+             as well
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Konstantinos Margetis, MD</last_name>
+    <phone>212-746-2363</phone>
+    <phone_ext>2</phone_ext>
+    <email>kom2001@med.cornell.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tamika Wong</last_name>
+    <phone>212-746-1788</phone>
+    <email>taw2015@med.cornell.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Weill Cornell Medical College Department of Neurological Surgery</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Konstantinos Margetis, MD</last_name>
+      <email>kom2001@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Theodore Schwartz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jeffrey Greenfield, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Konstantinos Margetis, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2013</verification_date>
+  <lastchanged_date>January 10, 2013</lastchanged_date>
+  <firstreceived_date>January 10, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Weill Medical College of Cornell University</investigator_affiliation>
+    <investigator_full_name>Theodore H. Schwartz</investigator_full_name>
+    <investigator_title>Professor of Neurological Surgery</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

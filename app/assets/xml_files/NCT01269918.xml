@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="211">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01269918</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10-1056</org_study_id>
+    <nct_id>NCT01269918</nct_id>
+  </id_info>
+  <brief_title>A Comparison of Remifentanil and Dexmedetomidine for Craniotomy Perioperative Hemodynamics and Postoperative Pain</brief_title>
+  <acronym>RemivsDex</acronym>
+  <official_title>A Comparison of Remifentanil and Dexmedetomidine for Craniotomy Perioperative Hemodynamics and Postoperative Pain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Outcomes Research Consortium</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Outcomes Research Consortium</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This will be a randomized blinded clinical trial.  Patients will be randomized to receive
+      either a remifentanil or dexmedetomidine infusion for general anesthesia. The anesthesia
+      team will know the result of randomization at induction.  Data will be gathered by research
+      personnel who will be blinded to the anesthetic method used.  Patients will be blinded to
+      the anesthetic they receive till they are discharged from the PACU when they will have the
+      option to be unblinded. The Data Safety and -Toxicity Committee will review all serious
+      adverse events and toxicity reports as well as annual reviews.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Anesthesia for craniotomy presents a unique challenge to the anesthesiologist. Anesthesia
+      for neurosurgical procedures should  provide optimal surgical conditions while maintaining
+      appropriate cerebral oxygen supply and stable systemic hemodynamics. (1)  It is  important
+      to prevent patient response to noxious stimuli during the procedure like pinning, drilling
+      of the bone, opening and manipulation of the dura etc., avoid coughing and bucking during
+      surgery and during extubation thus necessitating a deeper level of anesthesia and analgesia.
+       At the same time it is desirable to have the patient fully awake toward the end of the
+      surgery in order to facilitate neurologic evaluation. Management of the above presents a
+      challenge during induction, maintenance and extubation and also during multiple critical
+      stages of surgery  Fear of the side effects of analgesic drugs frequently leads to the
+      under-treatment of post-craniotomy pain. (2) Nevertheless, this pain continues to be
+      commonly observed, is frequently severe, and, if unrelieved, may cause distress for the
+      neurosurgical patient and serious complications for the operative brain. (2) There is a need
+      for larger trials to delineate safety and efficacy of analgesic therapies with a focus on
+      short- and long-term outcomes.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2011</start_date>
+  <completion_date type="Anticipated">March 2013</completion_date>
+  <primary_completion_date type="Anticipated">February 2013</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Outcomes Assessor), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Pain Relief</measure>
+    <time_frame>every 15 minutes, during the first hour</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary aims of our study is to compare the two agents in terms of PACU (post anesthesia Care unit) pain relief.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pain relief</measure>
+    <time_frame>every hour</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary aims of our study is to compare the two agents in terms of PACU (post anesthesia Care unit) pain relief</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>perioperative hemodynamics</measure>
+    <time_frame>15 minutes after arrival in PACU</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary aims of our study is to compare the two agents in terms of PACU (post anesthesia Care unit) perioperative hemodynamics.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>perioperative hemodynamics</measure>
+    <time_frame>30 minutes after arrival in PACU</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary aims of our study is to compare the two agents in terms of PACU (post anesthesia Care unit) perioperative hemodynamics.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>perioperative hemodynamics</measure>
+    <time_frame>45 minutes after arrival in PACU</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary aims of our study is to compare the two agents in terms of PACU (post anesthesia Care unit) perioperative hemodynamics.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>perioperative hemodynamics</measure>
+    <time_frame>one hour after arrival in PACU</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary aims of our study is to compare the two agents in terms of PACU (post anesthesia Care unit) perioperative hemodynamics.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>perioperative hemodynamics</measure>
+    <time_frame>90 minutes after arrival in PACU</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary aims of our study is to compare the two agents in terms of PACU (post anesthesia Care unit) perioperative hemodynamics.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Wake Up Time comparison</measure>
+    <time_frame>from study drug stop until subject is alert</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To compare the wake up time between Dexmedetomidine and Remifentanil. To compare the time to neurological evaluation (orientation to person/time and place) between the two drugs</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to discharge comparison</measure>
+    <time_frame>discharge from PACU comparison</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To Compare the time to fitness to discharge from PACU based on Aldrete's score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Side effects evaluation comparison</measure>
+    <time_frame>during time in PACU</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate side effects like nausea, emesis and shivering</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Nursing workload comparison</measure>
+    <time_frame>during PACU stay</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the nurses workload when either of the two drugs are given in terms of a scoring sheet given to the nurses.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">142</enrollment>
+  <condition>Adult Intracranial Tumor</condition>
+  <condition>Adult Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>Remifentanil</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Remifentanil 0.08-0.15MCG/KG/MIN INFUSION THROUGHOUT PROCEDURE BASED ON HEMODYNAMICS</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Dexmedetomidine</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>DEXMEDETOMIDINE 0.4-0.7MCG/KG/HR (0.006-0.012mcg/kg/min) THROUGHOUT THE PROCEDURE BASED ON HEMODYNAMICS</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Remifentanil</intervention_name>
+    <description>Remifentanil 0.08-0.15MCG/KG/MIN INFUSION THROUGHOUT PROCEDURE BASED ON HEMODYNAMICS</description>
+    <arm_group_label>Remifentanil</arm_group_label>
+    <other_name>Ultiva, G187084B</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dexmedetomidine</intervention_name>
+    <description>DEXMEDETOMIDINE 0.4-0.7MCG/KG/HR (0.006-0.012mcg/kg/min) THROUGHOUT THE PROCEDURE BASED ON HEMODYNAMICS</description>
+    <arm_group_label>Dexmedetomidine</arm_group_label>
+    <other_name>Precedex, Dexmedetomidine Hydrochloride</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patients who undergo general anesthesia for elective surgical excision of a brain tumor
+        with following specifications:
+
+          -  Age: Older than 18
+
+          -  Primary and redo cases will be included
+
+          -  Duration of surgery not exceeding 6 hrs.
+
+        Exclusion Criteria:
+
+          -  Patient refusal
+
+          -  Emergency craniotomy
+
+          -  Morbid obesity
+
+          -  Uncontrolled hypertension - DBP more than 110
+
+          -  Cardiac conduction defects
+
+          -  Patients with chronic pain.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Shobana Rajan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Gretchen Upton</last_name>
+    <phone>216-444-3289</phone>
+    <email>uptong@ccf.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>The Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gretchen Upton, B. Psych</last_name>
+      <phone>216-444-3289</phone>
+      <email>uptong@ccf.org</email>
+    </contact>
+    <investigator>
+      <last_name>Shobana Rajan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Andrea Kurz, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gretchen Upton</last_name>
+      <phone>216-444-3289</phone>
+      <email>uptong@ccf.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Andrea Kurz, MD</last_name>
+      <phone>216-445-9924</phone>
+      <email>ak@or.org</email>
+    </contact_backup>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2013</verification_date>
+  <lastchanged_date>February 8, 2013</lastchanged_date>
+  <firstreceived_date>December 22, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Outcomes Research Consortium</investigator_affiliation>
+    <investigator_full_name>Shobana Rajan</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Craniotomy, pain relief</keyword>
+  <keyword>Adult solid neoplasm</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Pain, Postoperative</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dexmedetomidine</mesh_term>
+    <mesh_term>Remifentanil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

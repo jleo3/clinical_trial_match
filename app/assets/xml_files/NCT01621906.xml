@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="304">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01621906</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-039</org_study_id>
+    <nct_id>NCT01621906</nct_id>
+  </id_info>
+  <brief_title>18F-FLT-PET Imaging of the Brain in Patients With Metastatic Breast Cancer to the Brain Treated With Whole Brain Radiation Therapy With or Without Sorafenib: Comparison With MR Imaging of the Brain</brief_title>
+  <official_title>Pilot Study of 18F-FLT-PET Imaging of the Brain in Patients With Metastatic Breast Cancer to the Brain Treated With Whole Brain Radiation Therapy With or Without Sorafenib: Comparison With MR Imaging of the Brain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan-Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan-Kettering Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to compare two different imaging methods to examine the
+      response of brain metastases to WBRT. These two imaging methods will take pictures of the
+      brain using : 1) a positron emission tomography (PET) scanner and 2) Magnetic Resonance
+      Imaging (MRI) scanner. A PET scanner resembles a CT or MR scanner.PET scans use radioactive
+      substances also called as radioactive markers to &quot;see&quot; cancer cells. We plan to use [18F]FLT
+      as a radioactive marker. FLT is used to image tumor growth. FLT PET scan is a new clinical
+      procedure. It is in the testing stage of development unlike FDG-PET which is used more
+      commonly used. Therefore, this is considered a &quot;research&quot; study. This will help us evaluate
+      whether this scan will be safe and better used in the future to evaluate tumors. The amount
+      of radiation to the body is small. The radiation from the radiotracer drug will be gone from
+      the body in a few hours. There is no radiation risk from the MRI scans. Additionally, we
+      also plan to use MRI imaging of the brain. We expect that [18F]FLT PET is better when
+      compared to MRI and will give us more information about the brain metastases after WBRT.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2012</start_date>
+  <completion_date type="Anticipated">June 2014</completion_date>
+  <primary_completion_date type="Anticipated">June 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>radiographic response</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>by two modalities: FLT-PET and MRI. MRI is considered standard of care and response assessments are recorded as CR, PR, PD, SD, and unknown (see section 12.0). FLT-PET response assessments will be recorded as SUV-MAX and a decline by 25% is considered as significant (see Section 12.0). MRI measurements will be recorded at baseline and 10 to 12 weeks post WBRT. FLT-PET measurements will be recorded at baseline, 10 days post WBXRT, and 10-12 weeks post WBXRT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Analysis of surgical specimen</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Comparing FLT PET findings with tissue analysis will enable us to determine if imaging results are concordant with histological findings and thus allow for confirmation of this hypothesis. In this manner, we propose to generate a bridge between tissue analysis and FLT-PET brain imaging studies. For patients needing to undergo craniotomy for resection of a brain metastasis after WBRT, tissue findings (radionecrosis versus viable tumor) will be correlated with radiologic assessment in an exploratory manner.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Metastatic Breast Cancer to the Brain</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 1 will include the first ten patients treated with WBRT concomitantly with sorafenib (on a separate phase I trial). We will perform a pilot study of serial FLT-PET imaging of the brain at baseline (&lt; 4 weeks prior to initiation of WBRT), up to 7-10 days post-WBRT and 10-12 weeks after WBRT in patients with metastatic breast cancer to the brain (N=20) treated with WBRT with or without sorafenib.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort 2 will include patients treated with standard WBRT alone. Patients in both these cohorts will also be assessed with standard non-invasive MRI in addition to [18F] FLT PET at baseline (&lt; 4 weeks of WBRT) and 10-12 weeks after completion of WBRT.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>18F-FLT-PET Imaging</intervention_name>
+    <description>All patients will be imaged using FLT-PET scans at baseline (within 4 weeks of initiation of WBRT), 7-10 days after completion of WBRT and then 10-12 weeks after WBRT.
+Patients will also be evaluated with MRI imaging at baseline and then 10-12 weeks after WBRT.
+Patients will be followed with MRI every 3 months for the first year and then every 6 months thereafter which is the standard of care.</description>
+    <arm_group_label>Cohort 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>18F-FLT-PET Imaging</intervention_name>
+    <description>All patients will be imaged using FLT-PET scans at baseline (within 4 weeks of initiation of WBRT), 7-10 days after completion of WBRT and then 10-12 weeks after WBRT.
+Patients will also be evaluated with MRI imaging at baseline and then 10-12 weeks after WBRT.
+Patients will be followed with MRI every 3 months for the first year and then every 6 months thereafter which is the standard of care.</description>
+    <arm_group_label>Cohort 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically-confirmed (confirmation done at MSKCC) metastatic adenocarcinoma of
+             the breast
+
+          -  Radiologic evidence of new and/or progressive brain metastases ((≥10 mm in longest
+             dimension) by MRI imaging of the Brain
+
+          -  Planned WBRT based on number (≥ 3 lesions) and/or size (≥ 1 cm) of brain metastases.
+
+          -  Age ≥18 years; males and females
+
+          -  Patients who require additional clinically indicated stereotactic radiosurgery (SRS)
+             in addition to WBRT will also be eligible.
+
+          -  Life expectancy of &gt;12 weeks.
+
+          -  Karnofsky Performance Status (KPS) ≥ 70%.
+
+          -  Creatinine ≤2.0 times the upper limit of normal.
+
+          -  Women of childbearing potential must have a negative serum pregnancy test performed
+             within 7 days prior to enrollment, must be non-lactating and must agree to use
+             adequate contraception prior to enrollment and for the duration of study
+             participation.
+
+          -  No limit to prior therapies with last anti-cancer treatment ≥2 weeks from initiation
+             of WBRT. Please note: there is no washout period required for trastuzumab,
+             pertuzumab, or ado-trastuzumab-emtansine for patients who have developed new
+             parenchymal brain metastases while on these agents.
+
+        Exclusion Criteria:
+
+          -  Leptomeningeal metastases
+
+          -  Concurrent administration of lapatinib or other tyrosine kinase inhibitors other than
+             sorafenib
+
+          -  Craniotomy or any other major surgery, open biopsy, or significant traumatic injury
+             within 4 weeks of randomization.
+
+          -  Concurrent anti-cancer therapy (chemotherapy, hormonal therapy, radiation therapy,
+             surgery, immunotherapy, biologic therapy, or tumor embolization) other than
+             sorafenib, and protocol-specified whole-brain radiotherapy.
+
+          -  Use of any investigational drug within 30 days or 5 half-lives, whichever is longer,
+             preceding enrollment.
+
+          -  Inability to comply with protocol and /or not willing or not available for follow-up
+             assessments.
+
+          -  Any condition which in the investigator's opinion makes the patient unsuitable for
+             the study participation.
+
+          -  Patient is incontinent of urine or stool (which would make them unable to tolerate
+             lying still for 60 minutes).
+
+          -  Claustrophobia
+
+          -  Known allergic reaction to Gd-DTPA
+
+          -  Renal insufficiency with recent (&lt;3 month old) creatinine &gt;2.0
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Andrew Seidman, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan-Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Andrew Seidman, MD</last_name>
+    <phone>646-888-5445</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Heiko Schoder, MD</last_name>
+    <phone>212-639-2079</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrew Seidman, MD</last_name>
+      <phone>646-888-5445</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Heiko Schoder, MD</last_name>
+      <phone>212-639-2079</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Andrew Seidman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/</url>
+    <description>Memorial Sloan-Kettering Cancer Center</description>
+  </link>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 25, 2013</lastchanged_date>
+  <firstreceived_date>June 14, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Breast</keyword>
+  <keyword>brain metastases</keyword>
+  <keyword>18F-FLT-PET Imaging</keyword>
+  <keyword>FLT(3'DEOXY-3'FLUOROTHYMIDINE)</keyword>
+  <keyword>MR Imaging</keyword>
+  <keyword>12-039</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Alovudine</mesh_term>
+    <mesh_term>Sorafenib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

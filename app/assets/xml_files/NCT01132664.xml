@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="400">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01132664</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CBKM120X2107</org_study_id>
+    <secondary_id>2009-015417-46</secondary_id>
+    <nct_id>NCT01132664</nct_id>
+  </id_info>
+  <brief_title>Safety and Efficacy of BKM120 in Combination With Trastuzumab in Patients With Relapsing HER2 Overexpressing Breast Cancer Who Have Previously Failed Trastuzumab</brief_title>
+  <official_title>A Phase Ib/II, Open Label, Multi-center Study Evaluating the Safety and Efficacy of BKM120 in Combination With Trastuzumab in Patients With Relapsing HER2 Overexpressing Breast Cancer Who Have Previously Failed Trastuzumab</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Spain: Ministry of Health</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will assess the safety and efficacy of BKM120 in combination with trastuzumab in
+      patients with relapsing HER2 overexpressing breast cancer who have previously failed
+      trastuzumab.
+
+      The study will further assess the safety and preliminary efficacy of BKM120 in combination
+      with trastuzumab and capecitabine in patients with relapsing HER2 overexpressing breast
+      cancer and brain metastases who have previously failed trastuzumab.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2010</start_date>
+  <completion_date type="Anticipated">June 2014</completion_date>
+  <primary_completion_date type="Anticipated">June 2014</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Adverse event frequencies by patient and DLT frequencies by cohort</measure>
+    <time_frame>18 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients with an objective response after at least two cycles of therapy</measure>
+    <time_frame>18 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">88</enrollment>
+  <condition>Metastatic Breast Cancer</condition>
+  <condition>Trastuzumab</condition>
+  <condition>BKM120</condition>
+  <condition>HER2+</condition>
+  <arm_group>
+    <arm_group_label>HER2+ metastatic breast cancer</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with HER2-overexpressing metastatic breast cancer, with or without PIK3 signaling pathway alteration, who have previously failed trastuzumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>HER2+ metastatic breast cancer with BM</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with HER2-overexpressing metastatic breast cancer and brain metastases, with or without PIK3 signaling pathway alteration, who have previously failed trastuzumab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BKM120</intervention_name>
+    <arm_group_label>HER2+ metastatic breast cancer</arm_group_label>
+    <arm_group_label>HER2+ metastatic breast cancer with BM</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  World Health Organization (WHO) Performance Status of ≤ 2
+
+          -  Patients with HER2+ breast cancer by local laboratory testing (immunohistochemistry
+             [IHC] 3+ staining or fluorescence in situ hybridization [FISH] confirmation for IHC
+             2+ and 1+)
+
+          -  Documented tumor resistance to trastuzumab:
+
+               -  Recurrence while on trastuzumab or within 12 months since the last infusion for
+                  patients who received trastuzumab as adjuvant treatment
+
+               -  Progression while on or within 4 weeks since the last infusion of trastuzumab
+                  for patients who received trastuzumab for metastatic disease.
+
+          -  Documented evidence of progressive disease per Response Evaluation Criteria in Solid
+             Tumors (RECIST) on trastuzumab-based therapy defined as:
+
+               -  Phase Ib: at any time before study entry
+
+               -  Phase II: within 16 weeks before date of first dosing
+
+          -  Received at least 1 but no more than 4 prior anit-HER2 based regimens including at
+             least 1 regimen containing trastuzumab (adjuvant or neo-adjuvant trastuzumab will be
+             considered as one prior regimen).  HER2 directed therapies are defined as comprising
+             trastuzumab, lapatinib, and trastuzumab-DM1 (T-DM1) only.
+
+             • Phase II only: trastuzumab, T-DM1 or lapatinib must be part of the most recent line
+             of therapy
+
+          -  Previous lines of cytotoxic chemotherapy:
+
+               -  Phase Ib: no more than 4 lines of cytotoxic chemotherapy
+
+               -  Phase II: no more than 3 lines of cytotoxic chemotherapy
+
+        Measurable disease:
+
+          -  Phase Ib: patient has at least one measurable lesion or non-measurable disease as
+             defined per RECIST
+
+          -  Phase II: patient has at least one measureable lesion as defined per RECIST
+
+        // Specific Inclusion Criteria for patients in BM cohorts:
+
+          -  Patient has evidence of progressing brain metastases and/or new metastatic brain
+             lesion(s) without leptomeningeal disease.
+
+          -  Patient has received prior WBRT and/or SRS at at &gt;28 and &gt;/= 14 days, respectively,
+             prior to starting study drug and the patient must have recovered from the side
+             effects of the therapy
+
+          -  WHO performance status of &lt;/=1
+
+          -  PT INR &lt;/= 1.5
+
+          -  Any number of prior HER2-directed and cytotoxic regimens, and the most recent line
+             may be any type of anti-neoplastic therapy
+
+        // Exclusion Criteria:
+
+          -  Patients with untreated brain metastases
+
+          -  Patients with acute or chronic liver, renal disease or pancreatitis
+
+          -  Patients with any peripheral neuropathy ≥ Common Terminology Criteria for Adverse
+             Events (CTCAE) grade 2
+
+          -  Patients with a history of mood disorders or ≥ CTCAE grade 3 anxiety
+
+          -  Patient with clinical manifest diabetes mellitus or steroid-induced diabetes mellitus
+
+        // Specific Exclusion Criteria for patients in BM cohorts
+
+          -  Prior treatment with capecitabine
+
+          -  Patient has known dihydropyrimidine dehydrogenase (DPD) deficiency
+
+          -  Patient is currently receiving treatment with EIAED
+
+          -  Other protocol-defined inclusion/exclusion criteria may apply
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone_ext>+41613241111</phone_ext>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham/ Kirklin Clinic Univ AL - PI</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294-0006</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shameka Clark</last_name>
+      <phone>205-934-0337</phone>
+      <email>mekac@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andres Forero-Torres</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ironwood Cancer and Research Centers SC</name>
+      <address>
+        <city>Chandler</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Highlands Oncology Group Dept of Highlands Oncology Grp</name>
+      <address>
+        <city>Fayetteville</city>
+        <state>Arkansas</state>
+        <zip>72753</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vicki Weaver</last_name>
+      <phone>+1 479 872 8130</phone>
+      <email>vweaver@hogonc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Joseph Thaddeus Beck</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California at Los Angeles UCLA LeConte Location</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Regional Cancer Center Memorial Breast</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center &amp; Research Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Palm Beach Cancer Institute PB Cancer</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center Study Coordinator</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Ingalls Memorial Hospital Ingalls Mem Hosp</name>
+      <address>
+        <city>Harvey</city>
+        <state>Illinois</state>
+        <zip>60426</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paula Lueder</last_name>
+      <phone>708-915-6119</phone>
+      <email>plueder@ingalls.org</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Kozloff</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Horizon Oncology Center</name>
+      <address>
+        <city>Lafayette</city>
+        <state>Indiana</state>
+        <zip>47905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University/Karmanos Cancer Institute Dept.of KarmanosCancerInst (6)</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bryan Green</last_name>
+      <phone>313-576-9373</phone>
+      <email>greenb@karmanos.org</email>
+    </contact>
+    <investigator>
+      <last_name>Patricia M. LoRusso</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School Of Medicine-Siteman Cancer Ctr WA Siteman</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bethany Rensink</last_name>
+      <phone>314-747-8085</phone>
+      <email>brensink@dom.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy Pluard</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Medical Center BIMC</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tahir Mirziyev</last_name>
+      <phone>212-844-8292</phone>
+      <email>tmirzoye@chpnet.org</email>
+    </contact>
+    <investigator>
+      <last_name>Stephen Malamud</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center Duke South 2</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Delinda Phillips</last_name>
+      <phone>+1 919 660 1278</phone>
+      <email>delinda.phillips@duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Paul Kelly Marcom</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The West Clinic Dept. of the West Clinic</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38120</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute Sarah Cannon Cancer Center SC</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wiktoria Raby</last_name>
+      <email>wiktoria.raby@scresearch.net</email>
+    </contact>
+    <investigator>
+      <last_name>Johanna Chock Bendell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Therapy &amp; Research Center / UT Health Science Center CTRC at the UTHSCSA (2)</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance/Fred Hutchinson Cancer Research SCCA - Freh Hutch</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109-1023</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Univ Wisc</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Liege</city>
+        <zip>4000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wilrijk</city>
+        <zip>2610</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1E2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Lyon Cedex</city>
+        <zip>69373</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Saint-Herblain Cédex</city>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Toulouse Cedex 3</city>
+        <zip>31052</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Cagliari</city>
+        <state>CA</state>
+        <zip>09134</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Completed</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Catanzaro</city>
+        <state>CZ</state>
+        <zip>88100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Meldola</city>
+        <state>FC</state>
+        <zip>47014</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Macerata</city>
+        <state>MC</state>
+        <zip>62100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Milano</city>
+        <state>MI</state>
+        <zip>20141</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Rozzano</city>
+        <state>MI</state>
+        <zip>20089</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Modena</city>
+        <state>MO</state>
+        <zip>41100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Terni</city>
+        <state>TN</state>
+        <zip>05100</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Hospitalet de LLobregat</city>
+        <state>Catalunya</state>
+        <zip>08907</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Barcelona</city>
+        <state>Cataluña</state>
+        <zip>08035</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Valencia</city>
+        <state>Comunidad Valenciana</state>
+        <zip>46010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Brighton</city>
+        <state>East Sussex</state>
+        <zip>BN2 5BE</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Nottingham</city>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Oxford</city>
+        <zip>OX3 7LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Belgium</country>
+    <country>Canada</country>
+    <country>France</country>
+    <country>Italy</country>
+    <country>Spain</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 19, 2013</lastchanged_date>
+  <firstreceived_date>May 7, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>HER2</keyword>
+  <keyword>BKM120</keyword>
+  <keyword>PIK3</keyword>
+  <keyword>metastatic breast cancer</keyword>
+  <keyword>brain metastases</keyword>
+  <keyword>Herceptin</keyword>
+  <keyword>trastuzumab</keyword>
+  <keyword>capecitabine</keyword>
+  <keyword>open-label</keyword>
+  <keyword>maximum tolerated dose</keyword>
+  <keyword>Phase I</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Trastuzumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

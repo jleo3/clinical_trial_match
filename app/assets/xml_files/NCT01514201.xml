@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="377">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01514201</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-00082</org_study_id>
+    <secondary_id>NCI-2012-00082</secondary_id>
+    <secondary_id>CDR0000717423</secondary_id>
+    <secondary_id>PBTC-033</secondary_id>
+    <secondary_id>PBTC-033</secondary_id>
+    <secondary_id>U01CA081457</secondary_id>
+    <nct_id>NCT01514201</nct_id>
+    <nct_alias>NCT01507324</nct_alias>
+  </id_info>
+  <brief_title>Veliparib, Radiation Therapy, and Temozolomide in Treating Younger Patients With Newly Diagnosed Diffuse Pontine Gliomas</brief_title>
+  <official_title>A Phase I/ II Study of ABT-888, an Oral Poly( ADP-ribose) Polymerase Inhibitor, and Concurrent Radiation Therapy, Followed by ABT-888 and Temozolomide, in Children With Newly Diagnosed Diffuse Pontine Gliomas (DIPG)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial studies the side effects and the best dose of veliparib giving
+      together with radiation therapy and temozolomide and to see how well it works in treating
+      younger patients newly diagnosed with diffuse pontine gliomas. Veliparib may stop the growth
+      of tumor cells by blocking some of the enzymes needed for cell growth. Radiation therapy
+      uses high-energy x rays to kill tumor cells. Drugs used in chemotherapy, such as
+      temozolomide, work in different ways to stop the growth of tumor cells either by killing the
+      cells or by stopping them from dividing. Giving veliparib together with radiation therapy
+      and temozolomide may kill more tumor cells.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To identify the maximum-tolerated dose or recommended Phase II dose of veliparib
+      (ABT-888) which can be safely administered concurrently with radiation therapy, followed by
+      maintenance therapy with ABT-888 and temozolomide (TMZ), in patients with newly diagnosed
+      diffuse pontine gliomas (DIPG). (Phase I) II. To study the plasma pharmacokinetics (PK) of
+      ABT-888 during ABT-888 and radiation therapy. (Phase I) III. To study the feasibility of
+      intra-patient dose escalation of TMZ during maintenance therapy with ABT-888 and TMZ. (Phase
+      I) IV. To describe the toxicities associated with administering ABT-888 and radiation
+      therapy, followed by ABT-888 and TMZ, in patients with newly diagnosed DIPG. (Phase I) V. To
+      estimate the proportion of newly diagnosed DIPG patients treated on protocol that are
+      determined to have experienced pseudoprogression. (Phase I) VI. To estimate the overall
+      survival distribution for newly diagnosed patients with DIPG treated with the combination of
+      ABT-888 and radiation therapy, followed by ABT-888 and TMZ, and compare to PBTC historical
+      controls. (Phase II) VII. To study the feasibility of intra-patient dose escalation of TMZ
+      during maintenance therapy with ABT-888 and TMZ. (Phase II) VIII. To estimate the proportion
+      of newly diagnosed DIPG patients treated on protocol that are determined to have experienced
+      pseudoprogression. (Phase II)
+
+      SECONDARY OBJECTIVES:
+
+      I. To estimate the progression-free survival (PFS) distribution and to summarize the best
+      tumor responses observed prior to progression or recurrence.
+
+      II. To explore the plasma PK of ABT-888 during ABT-888 and radiation therapy. III. To
+      explore peripheral blood mononuclear cell (PBMC) polymerase (PARP) activity before and after
+      treatment with ABT-888.
+
+      IV. To explore quantifying non-homologous end-joining (NHEJ) activity or γ-H2AX levels (as
+      surrogate markers of unrepaired DSBs) in PBMC before and after treatment with ABT-888.
+
+      V. To explore quantifying PARP activity and DNA-repair protein levels in biopsied atypical
+      pontine gliomas, if available.
+
+      VI. To explore associations of molecular parameters from secondary aims III, IV, and V with
+      PFS and overall survival (OS) after conclusion of clinical trial.
+
+      VII. To explore the quantitative magnetic resonance (MR) measures of relative cerebral blood
+      volume (rCBV), vascular permeability (Ktrans, vp, and ve values), and apparent diffusion
+      coefficient (ADC) within the first six months of initiating protocol treatment to correlate
+      with disease outcome and determine whether such metrics differentiate patients with
+      pseudoprogression from those with true early progressive disease.
+
+      VIII. To explore the potential utility of urine biomarkers as a novel, non-invasive method
+      of detecting and tracking changes in the status of pediatric brain stem gliomas.
+
+      OUTLINE: This is a dose-escalation, phase I study of veliparib followed by a phase II study.
+
+      DOSE-ESCALATION: Patients receive veliparib orally (PO) twice daily (BID) 5 days a week for
+      6-7 weeks. Patients also undergo concurrent 3-dimensional conformal radiotherapy (3D-CRT) or
+      intensity-modulated radiotherapy (IMRT) once daily (QD) 5 days a week for 6-7 weeks.
+
+      MAINTENANCE THERAPY: Beginning 3-4 weeks later, patients receive veliparib PO BID on days
+      1-5 and temozolomide PO QD on days 1-5. Treatment repeats every 28 days for up to 10 courses
+      in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up periodically for up to 3
+      years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2011</start_date>
+  <primary_completion_date type="Anticipated">August 2019</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum-tolerated dose (MTD) of veliparib based on the incidence of dose-limiting toxicity (DLT) as assessed by the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) version 4.0 (Phase I)</measure>
+    <time_frame>7 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Feasibility of intra-patient dose escalation of temozolomide during maintenance therapy with veliparib (Phase I and II)</measure>
+    <time_frame>28 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall survival (phase II)</measure>
+    <time_frame>Time from initiation of therapy to the date of death from any cause or to the date patient was known to be alive for surviving patients, assessed to up to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Patients who have not failed (died) at the time of analyses will be censored at their last date of contact in the Kaplan-Meier estimate of the PFS (overall survival) distribution.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>PFS (Phase II)</measure>
+    <time_frame>Time from initiation of treatment to the earliest date of failure (disease progression, death from any cause, or second malignancy), assessed up to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Patients who start other anti-cancer therapy prior to disease progression will be censored in the Kaplan-Meier estimate of PFS as of the date the alternative therapy began. Patients who have not failed (died) at the time of analyses will be censored at their last date of contact in the Kaplan-Meier estimate of the PFS (overall survival) distribution.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of pseudoprogression</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To differentiate pseudoprogression from true early progressive disease, quantitative MR measures of relative cerebral blood volume (rCBV), permeability (Ktrans, vp, and ve values), and apparent diffusion coefficient (ADC) will be obtained of these parameters via descriptive statistics and plots. Providing 95% confidence interval estimates of the proportion of patients determined to have experienced pseudoprogression.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics of veliparib (Phase I)</measure>
+    <time_frame>At baseline, at 0.5, 1, 2 and 6-8 hours of day 1, and at day 4</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">66</enrollment>
+  <condition>Childhood Mixed Glioma</condition>
+  <condition>Untreated Childhood Anaplastic Astrocytoma</condition>
+  <condition>Untreated Childhood Brain Stem Glioma</condition>
+  <condition>Untreated Childhood Giant Cell Glioblastoma</condition>
+  <condition>Untreated Childhood Glioblastoma</condition>
+  <condition>Untreated Childhood Gliosarcoma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (veliparib, temozolomide, 3D-CRT, IMRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>DOSE-ESCALATION: Patients receive veliparib PO BID 5 days a week for 6-7 weeks. Patients also undergo concurrent 3D-CRT or IMRT QD 5 days a week for 6-7 weeks.
+MAINTENANCE THERAPY: Beginning 3-4 weeks later, patients receive veliparib PO BID on days 1-5 and temozolomide PO QD on days 1-5. Treatment repeats every 28 days for up to 10 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>veliparib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (veliparib, temozolomide, 3D-CRT, IMRT)</arm_group_label>
+    <other_name>ABT-888</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (veliparib, temozolomide, 3D-CRT, IMRT)</arm_group_label>
+    <other_name>SCH 52365</other_name>
+    <other_name>Temodal</other_name>
+    <other_name>Temodar</other_name>
+    <other_name>TMZ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>3-dimensional conformal radiation therapy</intervention_name>
+    <description>Undergo 3D-CRT</description>
+    <arm_group_label>Treatment (veliparib, temozolomide, 3D-CRT, IMRT)</arm_group_label>
+    <other_name>3D conformal radiation therapy</other_name>
+    <other_name>3D-CRT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>intensity-modulated radiation therapy</intervention_name>
+    <description>Undergo IMRT</description>
+    <arm_group_label>Treatment (veliparib, temozolomide, 3D-CRT, IMRT)</arm_group_label>
+    <other_name>IMRT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (veliparib, temozolomide, 3D-CRT, IMRT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Optional correlative studies</description>
+    <arm_group_label>Treatment (veliparib, temozolomide, 3D-CRT, IMRT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with newly diagnosed diffuse intrinsic pontine gliomas (DIPGs), defined as
+             tumors with a pontine epicenter and diffuse intrinsic involvement of the pons, are
+             eligible without histologic confirmation; patients with brainstem tumors that do not
+             meet these criteria or not considered to be typical intrinsic pontine gliomas will
+             only be eligible if the tumors are biopsied and proven to be an anaplastic
+             astrocytoma, glioblastoma multiforme, gliosarcoma, or anaplastic mixed glioma
+
+               -  Patients with juvenile pilocytic astrocytoma, pilomyxoid astrocytoma, fibrillary
+                  astrocytoma, gangliogliomas, or other mixed gliomas without anaplasia are not
+                  eligible;
+
+               -  Patients with disseminated disease are not eligible, and magnetic resonance
+                  imaging (MRI) of spine must be performed if disseminated disease is suspected by
+                  the treating physician
+
+          -  Patient must be able to swallow oral medications to be eligible for study enrollment
+
+          -  Karnofsky &gt;= 50% for patients &gt; 16 years of age and Lansky &gt;= 50% for patients =&lt; 16
+             years of age (patients who are unable to walk because of paralysis, but who are up in
+             a wheelchair, will be considered ambulatory for the purpose of assessing the
+             performance score)
+
+          -  Absolute neutrophil count &gt;= 1,000/mm^3
+
+          -  Platelets &gt;= 100,000/mm^3 (unsupported)
+
+          -  Hemoglobin &gt;= 10 g/dL (unsupported)
+
+          -  Creatinine clearance or radioisotope glomerular filtration rate (GFR) &gt;= 70
+             mL/min/1.73 m^2 or a serum creatinine based on age/gender as follows:
+
+               -  0.6 mg/dL (1 to &lt; 2 years of age)
+
+               -  0.8 mg/dL (2 to &lt; 6 years of age)
+
+               -  1.0 mg/dL (6 to &lt; 10 years of age)
+
+               -  1.2 mg/dL (10 to &lt; 13 years of age)
+
+               -  1.5 mg/dL (male) or 1.4 mg/dL (female) (13 to &lt; 16 years of age)
+
+               -  1.7 mg/dL (male) or 1.4 mg/dL (female) (&gt;= 16 years of age)
+
+          -  Total bilirubin (sum of conjugated and unconjugated) =&lt; 1.5 times upper limit of
+             normal (ULN)
+
+          -  Serum glutamic pyruvate transaminase (SGPT) (alanine aminotransferase [ALT]) =&lt; 5
+             times institutional ULN
+
+          -  Albumin &gt;= 2 g/dL
+
+          -  Female patients of childbearing potential must not be pregnant or breast-feeding;
+             female patients of childbearing potential must have a negative serum or urine
+             pregnancy test
+
+          -  Patients of childbearing or child-fathering potential must be willing to use a
+             medically acceptable form of birth control, which includes abstinence, while being
+             treated on this study
+
+          -  No patients with any clinically significant unrelated systemic illness (serious
+             infections or significant cardiac, pulmonary, hepatic or other organ dysfunction),
+             that would compromise the patient's ability to tolerate protocol therapy or would
+             likely interfere with the study procedures or results
+
+          -  No patients with inability to return for follow-up visits or obtain follow-up studies
+             required to assess toxicity to therapy
+
+          -  Patients with active seizures or a history of seizure are not eligible for study
+             entry
+
+          -  Patients must have not received any prior therapy other than surgery and/or steroids
+
+          -  Other concurrent anticancer or experimental agents or therapies are not permitted
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patricia Baxter</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Pediatric Brain Tumor Consortium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roger J. Packer</last_name>
+      <phone>202-884-2120</phone>
+      <email>rpacker@cnmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Roger J. Packer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lurie Children's Hospital-Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stewart Goldman</last_name>
+      <phone>773-880-4562</phone>
+    </contact>
+    <investigator>
+      <last_name>Stewart Goldman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Institute Pediatric Oncology Branch</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katherine E. Warren</last_name>
+      <phone>301-435-4683</phone>
+    </contact>
+    <investigator>
+      <last_name>Katherine E. Warren</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sridharan Gururangan</last_name>
+      <phone>919-684-3506</phone>
+      <email>gurur002@mc.duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sridharan Gururangan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jane E. Minturn</last_name>
+      <phone>215-590-2299</phone>
+    </contact>
+    <investigator>
+      <last_name>Jane E. Minturn</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ian F. Pollack</last_name>
+      <phone>412-692-5881</phone>
+      <email>ian.pollack@chp.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ian F. Pollack</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Children's Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Larry E. Kun</last_name>
+      <phone>901-595-3565</phone>
+      <email>larry.kun@stjude.org</email>
+    </contact>
+    <investigator>
+      <last_name>Larry E. Kun</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hospital</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia A. Baxter</last_name>
+      <email>burton@bcm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Patricia A. Baxter</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 4, 2013</lastchanged_date>
+  <firstreceived_date>January 16, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+    <mesh_term>Pontine Glioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

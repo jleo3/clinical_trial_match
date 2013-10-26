@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="70">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01510743</url>
+  </required_header>
+  <id_info>
+    <org_study_id>B1112_069_003</org_study_id>
+    <nct_id>NCT01510743</nct_id>
+  </id_info>
+  <brief_title>Ultrasound Guided Central Vein Catheterization and Complications</brief_title>
+  <official_title>Incidence of Complication Depending on the Cannulation Site in US Guided Central Vein Catheterization</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Seoul National University Bundang Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Seoul National University Bundang Hospital</source>
+  <oversight_info>
+    <authority>South Korea: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There has been no study comparing the complication rates between internal jugular vein
+      catheterization and subclavian vein catheterization when they are performed using
+      sonographic view. This prospective study would reveal the sort of complication and its rate.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2012</start_date>
+  <completion_date type="Anticipated">January 2014</completion_date>
+  <primary_completion_date type="Anticipated">January 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Case Control, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>complication</measure>
+    <time_frame>during central vein catheterization and operation day</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>any one of arterial puncture, hematoma, pneumothorax, hemothorax</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Access time</measure>
+    <time_frame>during central venous catheterization</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>from penetration of skin to aspiration of venous blood into the syringe</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of attempts</measure>
+    <time_frame>during central venous catheterization</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>once/twice/three times</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>catheter tip placement</measure>
+    <time_frame>postoperative 1 day</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>After reviewing the postoperative chest X ray film, we will check the position of the central venous catheter tip. The possible pisition of catheter tip is as follows:
+(1) Superior vena cava and Rirht Atrium junction (2)Right internal jugular vein (3)Left Internal jugular vein (4)Right Axillary vein (5)Lt. Axillary vein</description>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">1484</enrollment>
+  <condition>Brain Tumor</condition>
+  <arm_group>
+    <arm_group_label>Group SC</arm_group_label>
+    <description>US guided subclavian vein catheterization</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group IJ</arm_group_label>
+    <description>US-guided internal jugular vein catheterization</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients undergoing surgeries requiring central vein catheterizations for anesthetic
+        management.
+      </textblock>
+    </study_pop>
+    <sampling_method>Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients undergoing surgeries requiring central vein catheterizations for anesthetic
+             management.
+
+        Exclusion Criteria:
+
+          -  Refuse
+
+          -  hematologic disorder
+
+          -  Anatomical abnormalities of central vein structure
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jin-Hee Kim, Professor</last_name>
+    <role>Study Director</role>
+    <affiliation>Seoul National University Bundang Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Hyo-Seok Na, Professor</last_name>
+    <phone>82 31 787 7507</phone>
+    <email>hsknana@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Seoul National University Bundang Hospital</name>
+      <address>
+        <city>Seongnam</city>
+        <state>Gyounggi</state>
+        <zip>463-707</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hyo-Seok Na, Professor</last_name>
+      <phone>82-31-787-7507</phone>
+      <email>hsknana@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Hyo-Seok Na, Professor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 16, 2013</lastchanged_date>
+  <firstreceived_date>January 9, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Seoul National University Bundang Hospital</investigator_affiliation>
+    <investigator_full_name>Hyo-Seok Na</investigator_full_name>
+    <investigator_title>Assistant professor</investigator_title>
+  </responsible_party>
+  <keyword>open heart surgery</keyword>
+  <keyword>lung surgery</keyword>
+  <keyword>spine surgery</keyword>
+  <keyword>hepatobiliary surgery</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

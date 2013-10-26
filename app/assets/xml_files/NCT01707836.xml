@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="17">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01707836</url>
+  </required_header>
+  <id_info>
+    <org_study_id>201208141</org_study_id>
+    <nct_id>NCT01707836</nct_id>
+  </id_info>
+  <brief_title>Genetic Influences on Pediatric Brain Tumor Development in Neurofibromatosis Type 1</brief_title>
+  <official_title>Genetic Variation in the Folate Pathway and Risk of Pediatric Brain Cancers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will analyze DNA samples to determine associations between maternal and offspring
+      genetic factors and pediatric brain tumor development in children with Neurofibromatosis
+      Type 1. Participating families (mother, father, child) will be asked to complete a short
+      questionnaire and provide DNA samples (either saliva or blood). The information gained from
+      your participation may one day help doctors develop strategies to reduce brain tumor risk in
+      individuals with NF1. Please note: there is no therapy associated with this study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The prenatal period is a developmentally vulnerable time point during which environmental
+      conditions, including nutrition, can have life-long impacts on health.1,2 This is
+      particularly relevant to many childhood cancers that are thought to initiate during
+      pregnancy.3 As a consequence, there has been intense interest in whether prenatal exposures
+      can modulate childhood cancer risk.4-6 It is important to recognize that both maternal and
+      offspring genetic factors including those in nutritional pathways may play an important role
+      in pediatric cancer risk through their effect on the child's exposure to nutrients important
+      in development during the prenatal period. The purpose of this research study is to evaluate
+      whether there are any maternal or offspring genetic factors in the folate pathway that may
+      contribute to the development of brain tumors in children with Neurofibromatosis Type 1
+      through analysis of DNA samples collected from families.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2012</start_date>
+  <completion_date type="Anticipated">December 2013</completion_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Family-Based, Time Perspective: Cross-Sectional</study_design>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Neurofibromatosis Type 1</condition>
+  <condition>Pediatric Brain Tumor</condition>
+  <arm_group>
+    <arm_group_label>Family</arm_group_label>
+    <description>Families with a child with Neurofibromatosis Type 1 who has been diagnosed with a brain tumor.</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood or saliva samples
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Families will be recruited from the Washingington University Neurofibromatosis-1 (NF1)
+        Patient Registry Initiative (NPRI) and NF Center Clinic.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Pediatric participant (born during 1994-2012) with NF1 and diagnosed with a brain
+             tumor
+
+          -  Biological mother or father (or full sibling if mother or father is unable to
+             participate) able to participate
+
+          -  All family members (pediatric participant, biological mother, and biological father
+             or full sibling) must be willing to contribute a blood or saliva sample
+
+          -  ability to understand consent forms
+
+        Exclusion Criteria:
+
+        -those who do not meet inclusion criteria
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kimberly J Johnson, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University in St. Louis</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kimberly Johnson, PhD, MPH</last_name>
+    <phone>314-935-9154</phone>
+    <email>kijohnson@brownschool.wustl.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nancy Mueller, MPH</last_name>
+    <phone>314-935-5117</phone>
+    <email>nancymueller@wustl.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Washington University</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Kimberly J Johnson, PhD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2012</verification_date>
+  <lastchanged_date>October 16, 2012</lastchanged_date>
+  <firstreceived_date>October 12, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neurofibromatoses</mesh_term>
+    <mesh_term>Neurofibromatosis 1</mesh_term>
+    <mesh_term>Osteitis Fibrosa Cystica</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

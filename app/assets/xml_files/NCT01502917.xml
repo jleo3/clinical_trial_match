@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="137">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01502917</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11-011</org_study_id>
+    <nct_id>NCT01502917</nct_id>
+  </id_info>
+  <brief_title>Convection-Enhanced Delivery of 124I-8H9 for Patients With Non-Progressive Diffuse Pontine Gliomas Previously Treated With External Beam Radiation Therapy</brief_title>
+  <official_title>A Phase I Study of Convection-Enhanced Delivery of 124I-8H9 for Patients With Non-Progressive Diffuse Pontine Gliomas Previously Treated With External Beam Radiation Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan-Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Weill Medical College of Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Johns Hopkins University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan-Kettering Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test the safety of a new method to treat Diffuse Intrinsic
+      Pontine Glioma (DIPG). The researchers will use &quot;convection-enhanced delivery&quot; (CED) to
+      deliver an agent called 124I-8H9. CED is performed during surgery. The study agent is
+      infused through a small tube placed into the tumor in the brain. Many studies have shown
+      this can safely be done in animals but this study is the first time 124I-8H9 will be given
+      by CED in humans. This will be one of the first times that CED has been performed in the
+      brain stem.
+
+      8H9 is something called an antibody. Antibodies are made by the body to fight infections and
+      sometimes cancer. The antibody 8H9 is produced by mice and can attack many kinds of tumors.
+      A radioactive substance, 124I, is attached to 8H9. 124I-8H9 sticks to parts of tumor cells
+      and can cause the tumor cells to die from radiation. Studies have also been done on humans
+      using 124I-8H9 to treat other kinds of cancer. Our studies of some DPG and related tumors
+      suggest that 8H9 will bind to the tumor, but the investigators don't know that for sure.
+
+      In this study, the researchers want to find out how safe 124I-8H9 given by CED is at
+      different dose levels. They will look to see what effects (both good and bad) it has on the
+      patient. The dose of 124I-8H9 will increase for each new group of patients. The amount they
+      get will depend on when they enter the study. If too many serious side effects are seen with
+      a certain dose, no one will be treated with a higher dose, and some more patients may be
+      treated with a lower dose to make sure that dose is safe.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2011</start_date>
+  <completion_date type="Anticipated">December 2014</completion_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>maximum tolerated dose</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Determination that a dose is safe will be made following the treatment of at least 3 but no more than 6 patients at a particular dose level. The dose levels are DL1 (0.25 mCi), DL2 (0.5 mCi), DL3 (0.75 mCi), DL4 (1 mCi) and fallback DL0 (0.125 mCi). An incidence of dose-limiting toxicity (DLT) in the range of 25% is considered acceptable in this population.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>safety</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Adverse events (toxicity) will be assessed and classified by the Clinical Terminology Criteria for Adverse Events version 4.0 (CTCAE). Generally, grade 3 toxicities interfere with activities of daily living (ADLs) and grade 4 toxicities are life-threatening. Grade 5 toxicities cause death.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>overall survival</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall survival from the time of diagnosis will be recorded for every patient in this study. Overall survival will be estimated by Kaplan-Meier methodology.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Brain Cancer</condition>
+  <condition>Brain Stem Glioma</condition>
+  <arm_group>
+    <arm_group_label>Radioactive iodine-labeled monoclonal antibody 8H9</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a therapeutic Phase I study intended to assess the safety of convection-enhanced delivery (CED) of radioimmunotherapy in the treatment of children with diffuse pontine glioma.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radioactive iodine-labeled monoclonal antibody 8H9</intervention_name>
+    <description>Each patient is planned to undergo stereotactic placement of an infusion cannula. Through this cannula, CED of 124I-8H9 at a rate of ≤ 10 μl/min will be performed. Infusion doses of 124I-8H9 will be incrementally increased in subsequent groups of patients to test for safety of the procedure and therapeutic agent (0.25, 0.5, 0.75 and 1 mCi).  They will be monitored for a minimum of one night in the pediatric intensive care unit after the completion of the infusion. They will then be transferred to the standard pediatric inpatient ward for observation and discharged once deemed appropriate by the principal or co-investigators. PET/CT scans will be performed following surgery to document both radiographic change and infusate distribution in tumor as well as to provide the time-activity data needed for radiation dosimetry analysis. PET/CT will be performed of the entire body, low mA will be used.</description>
+    <arm_group_label>Radioactive iodine-labeled monoclonal antibody 8H9</arm_group_label>
+    <other_name>These images will be co-registered to MRIs previously performed to accurately</other_name>
+    <other_name>describe radiation distribution. After d/c mandated pt f/u will be seen on a</other_name>
+    <other_name>weekly basis post-op for 1 month during which detailed neuro exam will be</other_name>
+    <other_name>performed. At about 2 weeks following surg suture removal &amp; blood work</other_name>
+    <other_name>(cbc, comprehensive metabolic panel, PT/PTT &amp; HAMA testing) will be performed.</other_name>
+    <other_name>Patient will then be clinically evaluated with detailed neurological examination</other_name>
+    <other_name>again about 30 days following infusion to evaluate for any delayed toxicity.</other_name>
+    <other_name>This evaluation will also include blood work (complete blood count,</other_name>
+    <other_name>comprehensive metabolic panel, PT/PTT, TSH, HAMA testing &amp; an MRI of the brain).</other_name>
+    <other_name>After the 30 day evaluation, recommended pt f/u will be performed as follows:</other_name>
+    <other_name>Pt will be seen approximately monthly until disease progression by any oncologic caregiver.</other_name>
+    <other_name>During these visits, objective neurological examination &amp; Karnofsky score</other_name>
+    <other_name>should be documented. MRIs and imaging to be requested at the discretion of the primary oncologist.</other_name>
+    <other_name>Copies of the images and reports are to be sent to the study investigator. HAMA testing will be</other_name>
+    <other_name>performed after 2 weeks, 1 month &amp;</other_name>
+    <other_name>then at the discretion of the study investigator.</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Consensus of diagnosis must be reached by a multidisciplinary pediatric
+             neuro-oncology team by considering both clinical evidence and MRI presentation.
+             Tissue diagnosis is not required.
+
+          -  The patient must have undergone prior external beam radiotherapy to a dose of 54-60
+             Gy to the brain stem. At least 4 weeks but no more than 14 weeks must have elapsed
+             from the completion of radiotherapy.
+
+          -  The patient must be in adequate general condition for study, with Lansky or Karnofsky
+             Performance Score of &gt; or = to 50 at study entry .
+
+        Lansky Performance scale will be used for patients ≤16 years of age.
+
+          -  The patient must be &gt; to or = to 3 and ≤ 21 years old.
+
+          -  Patient must weigh a minimum of 8 kg.
+
+        Exclusion Criteria:
+
+          -  Clinical and/or radiographic (MRI) progression of tumor following external beam
+             radiation therapy.
+
+          -  Metastatic disease.
+
+          -  Untreated symptomatic hydrocephalus determined by treating physician.
+
+          -  AST or ALT &gt; 2x the upper limit of normal.
+
+          -  Platelets &lt; 100,000/mcL.
+
+          -  ANC &lt; 1000/mcL.
+
+          -  Abnormal PT (Inr) &gt;1.5 INR or PTT &gt; 42 sec (may be corrected with FFP,
+             cryoprecipitate, vitamin K, etc).
+
+          -  Total bilirubin &gt; 2.0 mg/dl.
+
+          -  Serum creatinine &gt; 1.5x the upper limit of normal for age, or calculated creatinine
+             clearance or nuclear GFR &lt; 70 ml/min/1.73 m2.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mark Souweidane, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan-Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Mark Souweidane, MD</last_name>
+    <phone>212-639-2336</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ira Dunkel, MD</last_name>
+    <phone>212-639-2336</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kim Springer</last_name>
+      <phone>212-639-2336</phone>
+    </contact>
+    <investigator>
+      <last_name>Mark Souweidane, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Weill Medical College of Cornell University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Kim Springer</last_name>
+      <phone>212-639-2336</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/</url>
+    <description>Memorial Sloan-Kettering Cancer Center</description>
+  </link>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 5, 2013</lastchanged_date>
+  <firstreceived_date>December 29, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Brain stem glioma</keyword>
+  <keyword>CNS</keyword>
+  <keyword>MAB 124I-8H9</keyword>
+  <keyword>infusion cannula</keyword>
+  <keyword>DIPG</keyword>
+  <keyword>Diffuse Intrinsic Pontine Glioma</keyword>
+  <keyword>11-011</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Pontine Glioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Iodine</mesh_term>
+    <mesh_term>N-(2-aminoethyl)-5-isoquinolinesulfonamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="38">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00659126</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHSU-2864</org_study_id>
+    <secondary_id>5R01NS053468-02</secondary_id>
+    <secondary_id>2864</secondary_id>
+    <secondary_id>SOL-06077-L</secondary_id>
+    <nct_id>NCT00659126</nct_id>
+  </id_info>
+  <brief_title>Ferumoxytol and Gadolinium Magnetic Resonance Imaging (MRI) at 3T and 7T in Patients With Malignant Brain Tumors</brief_title>
+  <official_title>A Phase II Study of Ferumoxytol and Gadolinium Magnetic Resonance Imaging at 3T and 7T in Patients With Malignant Brain Tumors Either Before or After Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      In this study the investigators would like to compare special magnetic resonance (MR) brain
+      imaging techniques (called: dynamic perfusion, blood-brain barrier (BBB) permeability
+      measurement) in two different magnetic fields (3 and 7 Tesla) in the evaluation of brain
+      tumors. Two contrast agents will be used; the standard gadolinium, and ferumoxytol, a new,
+      iron containing agent. The investigators think that these new methods will give us better
+      assessment of brain tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients will be scanned either before or after treatment (radiation and/or chemotherapy).
+      There will be three visits on three consecutive days. On first day: MRI with and without
+      gadolinium (the usual MR contrast agent) infusion (0.1 mmol/kg). On second day: MRI with
+      ferumoxytol infusion (4 mg/kg). On the third day: MRI without additional contrast agent, 24
+      hr post ferumoxytol infusion. On the first and third day scans will be done in both magnets,
+      on the second day scans will be done either on 3T or 7T.
+
+      Various types of MR measurements (Perfusion, blood-brain barrier permeability, tumor volume)
+      will be measured using both contrast agents, in 3 and/or 7 Tesla. Certain regions will be
+      described and the data will be evaluated throughout the study. The tumor volume will be
+      evaluated by 2 radiologists, measuring the diameters of the largest areas of contrast
+      enhancement and signal intensities will be also compared (semi-quantitatively).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2006</start_date>
+  <completion_date type="Anticipated">May 2015</completion_date>
+  <primary_completion_date type="Anticipated">May 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>The primary objective of this project is to compare quantitative imaging measures of brain tumor vascularity obtained from 3 T and 7T MRI instruments</measure>
+    <time_frame>3 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare blood brain barrier permeabilities of Ferumoxytol and a standard  gadolinium based MRI contrast agent.</measure>
+    <time_frame>3 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare cerebral blood volume (CBV) measurements obtained using a standard gadolinium MRI contrast agent and ferumoxytol CBV will be quantified using dynamic susceptibility contrast (DSC) techniques using both Gd and Ferumoxytol contrast agents.</measure>
+    <time_frame>3 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To compare perfusion and permeability parameters between treated and untreated patients</measure>
+    <time_frame>3 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To determine the microscopic distribution of ferumoxytol particles in tissue removed from patients undergoing surgery. .</measure>
+    <time_frame>3 days</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">112</enrollment>
+  <condition>Brain Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>MR imaging at 3T</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>MR imaging at 7T</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ferumoxytol</intervention_name>
+    <description>4mg/kg</description>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+    <other_name>Ferumoxytol</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have histologically or cytologically confirmed primary malignant brain
+             tumors or brain metastasis
+
+          -  Patients must have had radiographically evaluable or measurable disease with standard
+             MR imaging, and the tumor must have an enhancing component.
+
+          -  Patients may or may not have had prior surgery, radiation therapy, or chemotherapy.
+
+          -  Age &gt;18 years
+
+          -  Men and women and members of all races and ethnic groups will be included.
+
+          -  Life expectancy of greater than 2 weeks.
+
+          -  ECOG performance status &lt; 3.
+
+          -  Ability to understand and the willingness to sign a written informed consent
+             document, or have a representative able to consent for the patient.
+
+        Exclusion Criteria:
+
+          -  Subjects with clinically significant signs of uncal herniation
+
+          -  Subjects who have a contraindication for MRI
+
+          -  Subjects with known hepatic insufficiency or cirrhosis
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to ferumoxytol
+
+          -  Subjects with known or suspected iron overload (genetic hemochromatosis or history of
+             multiple transfusions)
+
+          -  Patients expecting to undergo surgery between the imaging sessions.  Patients may
+             undergo surgery at any time before the first, or after the last imaging session.
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with
+             study requirements.
+
+          -  Pregnant or lactating women are excluded from this study because of possible risk to
+             the fetus or infant.
+
+          -  Inability or unwillingness to undergo the complete series of imaging sessions.
+             Inability or unwillingness to return to the neuro-oncology clinic at OHSU for the one
+             month follow-up.
+
+          -  Known immunosuppression or immunodeficiency.
+
+          -  Patients with stage IV or V renal insufficiency.
+
+          -  Patients may not be receiving any other investigational agents.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward A Neuwelt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edward A Neuwelt, MD</last_name>
+    <phone>503-494-5626</phone>
+    <email>neuwelte@ohsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cynthia A Lacy, BSN</last_name>
+    <phone>503-494-5626</phone>
+    <email>lacyc@ohsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 30, 2013</lastchanged_date>
+  <firstreceived_date>April 10, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ferumoxytol</keyword>
+  <keyword>Diagnostic imaging</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ferumoxytol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

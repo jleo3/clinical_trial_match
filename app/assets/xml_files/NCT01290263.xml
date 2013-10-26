@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="276">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01290263</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-185</org_study_id>
+    <nct_id>NCT01290263</nct_id>
+  </id_info>
+  <brief_title>Amgen 386 for Recurrent Glioblastoma</brief_title>
+  <official_title>Phase I/II Study of Amgen 386 With and Without Bevacizumab for Recurrent Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Dana-Farber Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Amgen</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Primary Objectives
+
+      Cohort A ‐‐ monotherapy:
+
+      To determine the efficacy of AMG 386 in participants with recurrent glioblastoma (GBM) as
+      measured by 6‐month progression‐free survival (PFS6)
+
+      Cohort B - combination therapy:
+
+      Phase I To determine the maximum tolerated dose of AMG 386 in combination with bevacizumab
+      given at 10mg/kg every 2 weeks in participants with recurrent glioblastoma.
+
+      Phase II To determine the efficacy of AMG 386 plus bevacizumab in participants with
+      recurrent glioblastoma (GBM) as measured by 6‐month progression‐free survival (PFS6).
+
+      Secondary Objectives:
+
+      To evaluate radiographic response in both cohort populations. To evaluate overall survival
+      in both cohort populations. To assess time‐to‐progression in both cohort populations. To
+      investigate the safety profile in both cohort populations.
+
+      Exploratory Objectives:
+
+      To evaluate expression of factors associated with tumor angiogenesis using a multiples
+      cytokine assay among participants undergoing therapy with AMG 386 with response to therapy
+      and development of resistance.
+
+      This is an open‐label Phase I/II study of AMG 386 monotherapy and AMG 386 in combination
+      with bevacizumab. Two cohorts will accrue and will be assessed sequentially. Each cohort
+      will enroll participants with recurrent GBM. Cohort A will assess recurrent GBM participants
+      who receive AMG 386 monotherapy at 30 g/kg every week. (Cohort A initially accrued at a dose
+      of 15mg/kg, but this was increased to 30 mg/kg every week following an amendment). Cohort B
+      will assess recurrent GBM participants who receive weekly AMG 386 plus bi‐weekly bevacizumab
+      (10mg/kg). Cohort B will start with a Phase I component to determine the MTD of AMG 386 that
+      is safe when used in combination with bevacizumab. AMG 386 is administered intravenously,
+      and, when used in combination with intravenous bevacizumab, will be administered first.
+
+      Patients will be required to come to the clinic weekly for study drug administration.
+
+      For study purposes, a cycle of therapy will be 4 weeks. Treatment will continue until either
+      evidence of progressive disease, unacceptable toxicity, non‐compliance with study follow‐up,
+      or withdrawal of consent.
+
+      The estimated rate of accrual is 60 participants per year. The estimated date of accrual
+      completion is 1.5 years from study initiation. The estimated date of study completion will
+      be approximately 12 months from enrollment of the last study participant.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2010</start_date>
+  <completion_date type="Anticipated">December 2016</completion_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Radiological response rates</measure>
+    <time_frame>6 month</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary outcome is 6 month progression-free survival. The primary basis for assessing efficacy will be the proportion of patients who survive 6 months without disease progression (PFS-6).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic response and Median progression free survival and overall survival.</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Median progression free survival and overall survival. The primary measure of safety outcome will include a tabulation of all grade 2 or greater, treatment related toxicities.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">86</enrollment>
+  <condition>Glioblastoma Multiforme</condition>
+  <arm_group>
+    <arm_group_label>Amgen 386</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort A will assess recurrent Glioblastoma Multiforme (GBM) patients who receive AMG 386 monotherapy. For each cohort, AMG 386 will be administered intravenously at 15 mg/kg every week. The dose of bevacizumab will be 10 mg/kg and will be administered intravenously every other week.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Amgen 386 and Bevacizumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cohort B will assess recurrent Glioblastoma Multiforme(GBM) patients who receive AMG 386 plus bevacizumab. For each cohort, AMG 386 will be administered intravenously at 15 mg/kg every week. The dose of bevacizumab will be 10 mg/kg and will be administered intravenously every other week.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amgen 386</intervention_name>
+    <description>For each cohort, AMG 386 will be administered intravenously at 15 mg/kg every week.</description>
+    <arm_group_label>Amgen 386</arm_group_label>
+    <arm_group_label>Amgen 386 and Bevacizumab</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>The dose of bevacizumab will be 10 mg/kg and will be administered intravenously every other week.</description>
+    <arm_group_label>Amgen 386 and Bevacizumab</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+          -  Signed informed consent approved by the Institutional Review Board prior to
+             participant entry
+
+          -  Age ≥ 18 years.
+
+          -  Karnofsky ≥ 70%
+
+          -  Participant must be able and willing to comply with study and/or follow‐up procedures
+             Participants must have histologically confirmed diagnosis of GBM patients with either
+             grade III or IV malignant glioma are eligible to the Phase I portion of the study)
+             and radiographic evidence of recurrence or disease  progression (defined as either a
+             greater than 25% increase in the largest bidimensional product of enhancement, a new
+             enhancing lesion, or significant increase in T2 FLAIR) following prior therapy (i.e.
+             chemotherapy, XRT, other investigational therapies).
+
+          -  No more than 3 prior episodes of progressive disease (patients with more than 3 prior
+             episodes of progressive disease are eligible for the Phase I portion of this study)
+
+          -  An interval of at least 4 weeks (to start of study agent) between prior surgical
+             resection or one week from stereotactic biopsy
+
+          -  An interval of at least 12 weeks (to start of study agent) from the end of prior
+             radiotherapy unless there is a new area of enhancement consistent with recurrent
+             tumor outside of the radiation field, or there is histological confirmation of
+             unequivocal tumor progression
+
+          -  From the projected start of scheduled study treatment, the following time periods
+             must have relapsed: 4 weeks from any investigational agent, 4 weeks from cytotoxic
+             therapy (except 23 days for temozolomide and 6 weeks from  nitrosoureas), 6 weeks
+             from antibodies, or 4 weeks from other anti‐tumor therapies.
+
+          -  Participants must have recovered to a grade 0 or 1 from the toxic effects of prior
+             therapy (with the exception of lymphopenia, which is common after therapy with
+             temozolomide, and alopecia).
+
+          -  No evidence of hemorrhage on the baseline MRI or CT scan other than those that are ≤
+             grade 1 and either post‐operative or stable on at least two consecutive scans.
+             Clinical Labs - performed within 14 days prior to enrollment
+
+          -  Hematocrit &gt; 29%, ANC &gt; 1,000 cells/μl, platelets &gt; 100,000 cells/μl ;
+
+          -  Serum creatinine &lt; 1.5 mg/dl, serum SGOT and bilirubin &lt; 2.5 times upper limit of
+             normal;
+
+          -  PTT or aPTT ≤ 1.5 times upper limit of normal and INR ≤ 1.5
+
+          -  Calculated creatinine clearance &gt; 40 mL/min according to the Cockcroft‐Gault formula
+             OR per 24 hour urine collection
+
+          -  Urinary protein quantitative value of &lt; 30 mg/dL in urinalysis or &lt;1+ on dipstick,
+             unless quantitative protein is &lt; 1000 mg in a 24 hour urine sample;
+
+          -  Participants of child‐bearing potential who have not undergone a bilateral
+             salpingo‐oopherectomy and are sexually active must consent to use an accepted and
+             highly effective non‐hormonal method of contraception (i.e. double barrier method
+             [e.g., condom plus diaphragm]) from signing the informed consent through 6 months
+             after last dose of study drug.
+
+        Exclusion Criteria:
+
+          -  Prior anti‐angiogenic therapy targeting VEGF or VEGF receptor including prior
+             bevacizumab.
+
+          -  Prior AMG 386 therapy or other molecules that inhibit the angiopoietins or Tie2
+             receptor.
+
+          -  Co‐medication that may interfere with study results; e.g. immunosuppressive agents
+             other than corticosteroids.
+
+          -  Active infection requiring intravenous antibiotics
+
+          -  Current or within 30 days prior to enrollment treatment with immune modulators such
+             as systemic cyclosporine and tacrilomus.
+
+          -  Current us of warfarin sodium or any other Coumadin‐derivative anticoagulant.
+             Participant must be off Coumadin‐derivative anticoagulants for at least seven days
+             prior to starting study drug. ow molecular weight heparin is allowed.
+
+          -  Current, recent (within 4 weeks of the first infusion of this study), or planned
+             participation in an experimental drug study other than supportive care or
+             epidemiologic studies.
+
+          -  History of clinically significant bleeding within 6 months of enrollment
+
+          -  History of allergic reactions to bacterially produced proteins
+
+          -  Known hypersensitivity to any component of bevacizumab (cohort B only)
+
+          -  Known sensitivity to any of the products to be administered during dosing
+
+          -  History of venous or arterial thromboembolism within 12 months prior to enrollment.
+
+          -  Severe hepatic insufficiency (ongoing grade 3 or greater hepatic adverse events) or
+             known active chronic hepatitis.
+
+          -  Inadequately controlled hypertension (defined as systolic blood pressure &gt;140 and/or
+             diastolic blood pressure &gt; 90 mmHg). The use of anti‐hypertensive medications to
+             control hypertension is permitted.
+
+          -  Any prior history of hypertensive crisis or hypertensive encephalopathy
+
+          -  Clinically significant cardiovascular disease within 12 months prior to enrollment,
+             including myocardial infarction, unstable angina, grade 2 or greater peripheral
+             vascular disease, cerebrovascular accident, transient ischemic attack, congestive
+             heart failure, or arrhythmias not controlled by  outpatient medication, percutaneous
+             transluminal coronary angioplasty/stent.
+
+          -  Evidence of bleeding diathesis or coagulopathy
+
+          -  Major surgical procedure, open biopsy, or significant traumatic injury within 28 days
+             prior to study enrollment or anticipation of need for major surgical procedure during
+             the course of the study
+
+          -  Core biopsy or other minor surgical procedure, excluding placement of a vascular
+             access device, within 7 days prior to study enrollment.
+
+          -  History of abdominal fistula, gastrointestinal perforation, or intra-abdominal
+             abscess within 6 months prior to study enrollment.
+
+          -  Serious, non‐healing wound, ulcer (including gastrointestinal), or bone fracture.
+
+          -  Any condition which in the investigator's opinion makes the subject unsuitable for
+             study participation.
+
+          -  Pregnant (positive pregnancy test) or lactating. Refusal or inability to use highly
+             effective means of contraception (men and women) in participants of child‐bearing
+             potential.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Reardon, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>David Reardon, M.D.</last_name>
+    <phone>617-632-2166</phone>
+    <email>dreardon3@partners.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <investigator>
+      <last_name>Timothy Cloughesy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Doherty, N.P.</last_name>
+      <phone>617-632-5925</phone>
+      <email>Lisa_Doherty@dfci.harvard.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Rifenburg, N.P.</last_name>
+      <phone>617-582-8644</phone>
+      <email>Jennifer_Rifenburg@dfci.harvard.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>David A. Reardon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hosptial</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Faye Safavi</last_name>
+      <phone>617-724-1990</phone>
+      <email>fsafavi@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth R. Gerstner, MD, MMSc</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York - Presbyterian/Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francine Armentano, NP, NP</last_name>
+      <phone>212-305-5969</phone>
+      <email>fa2301@columbia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew B. Lassman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Fabio Iwamoto, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Monika Thielen</last_name>
+      <phone>434-243-9900</phone>
+      <email>MJT3C@hscmail.mcc.virginia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Schiff, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 2, 2013</lastchanged_date>
+  <firstreceived_date>January 9, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber Cancer Institute</investigator_affiliation>
+    <investigator_full_name>David Reardon, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Glioblastoma</keyword>
+  <keyword>GBM</keyword>
+  <keyword>Brain Tumor</keyword>
+  <keyword>Glioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

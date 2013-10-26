@@ -1,0 +1,1070 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="403">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01038583</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1U01AG029824-01A2</org_study_id>
+    <nct_id>NCT01038583</nct_id>
+  </id_info>
+  <brief_title>Aspirin in Reducing Events in the Elderly</brief_title>
+  <acronym>ASPREE</acronym>
+  <official_title>Aspirin in Reducing Events in the Elderly</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Minneapolis Medical Research Foundation</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Health and Medical Research Council, Australia</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Bayer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Monash University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Berman Center for Outcomes and Clinical Research</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Minneapolis Medical Research Foundation</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The ASPREE study will examine whether the potential benefits of low dose aspirin
+      (particularly preventing heart disease, stroke, certain cancers and dementia) outweigh the
+      risks (particularly bleeding) in people over age 65.
+
+      ASPREE will determine whether taking a daily low-dose aspirin will extend the length of a
+      disability-free life in healthy participants aged 65 years and above.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Low dose aspirin therapy has been shown to reduce the risk of vascular events, largely in
+      middle-aged people.  There is also some evidence of its potential to reduce the rate of
+      intellectual decline and certain types cancers in older participants.  However, part of the
+      benefit of aspirin may be offset by adverse effects, such as those related to its potential
+      to cause bleeding.
+
+      The balance of risks and benefits of low dose aspirin has not been established in older
+      persons.  Previous studies on the effects of aspirin in primary prevention have mainly
+      focused on cardiovascular outcomes. In the elderly, these alone may not be the most
+      appropriate measure of benefit associated with aspirin treatment. Prolonging a life free of
+      functional disability in a healthy aging population would be the most desirable benefit of
+      aspirin as a preventative medicine.
+
+      ASPREE will determine whether taking a daily low-dose aspirin will extend the length of a
+      disability-free life in healthy participants aged 65 years and above.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2010</start_date>
+  <completion_date type="Anticipated">August 2016</completion_date>
+  <primary_completion_date type="Anticipated">August 2016</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator, Outcomes Assessor), Primary Purpose: Prevention</study_design>
+  <primary_outcome>
+    <measure>The primary endpoint is death from any cause or incident, dementia or persistent physical disability.</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>All-cause mortality</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatal and non fatal cardiovascular events including a) coronary heart disease death, b) non-fatal MI, c) fatal and non-fatal stroke and d) any hospitalization for heart failure</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Fatal and non-fatal cancer, excluding non-melanoma skin cancer</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Dementia</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Mild Cognitive Impairment (MCI; assessed using the Modified Mini-Mental State Examination or 3MS 70 and other cognitive function measures - see below)</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Physical disability</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Major hemorrhagic events</measure>
+    <time_frame>every 6 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">19000</enrollment>
+  <condition>Functional Disability</condition>
+  <condition>Dementia</condition>
+  <condition>Heart Disease</condition>
+  <condition>Stroke</condition>
+  <condition>Cancer</condition>
+  <condition>Bleeding</condition>
+  <arm_group>
+    <arm_group_label>Aspirin</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>100 mg enteric-coated aspirin</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>Placebo</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>100 mg enteric-coated aspirin</intervention_name>
+    <description>100 mg enteric-coated aspirin, taken daily</description>
+    <arm_group_label>Aspirin</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>100 mg enteric-coated placebo</description>
+    <arm_group_label>Placebo</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Men and women
+
+          -  African American and Hispanic persons age 65 or older
+
+          -  Any person from another ethnic minority group age 70 or older
+
+          -  Willing and able to provide informed consent, and willing to accept the study
+             requirements
+
+        [ASPREE has completed enrollment of Caucasian participants in the US.]
+
+        Exclusion Criteria:
+
+          -  A history of a diagnosed cardiovascular event
+
+          -  A serious intercurrent illness likely to cause death within the next 5 years, such as
+             terminal cancer or obstructive airways disease
+
+          -  A current or recurrent condition with a high risk of major bleeding, ex: cerebral
+             aneurysm
+
+          -  Anemia
+
+          -  Absolute contraindication or allergy to aspirin
+
+          -  Current participation in a clinical trial
+
+          -  Current continuous use of aspirin or other anti-platelet drug or anticoagulant for
+             secondary prevention.  People with previous use of aspirin for primary prevention may
+             enter the trial, provided they agree to cease existing use of aspirin and understand
+             that they may be subsequently randomly allocated to low dose aspirin or placebo.
+
+          -  A systolic blood pressure ≥180 mmHg and / or a diastolic blood pressure ≥105 mmHg
+
+          -  A history of dementia
+
+          -  Severe difficulty or an inability to perform any one of the 6 Katz ADLs
+
+          -  Non-compliance to taking pill
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>65 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard Grimm, MD, PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Berman Center for Outcomes and Clinical Research</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>John McNeil, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Monash University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nathan J Tessum</last_name>
+    <phone>612-341-7907</phone>
+    <email>ntessum@bermancenter.org</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Brenda Kirpach</last_name>
+    <phone>612-341-7922</phone>
+    <email>bkirpach@bermancenter.org</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>The University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cathy Stallings</last_name>
+      <phone>205-934-7683</phone>
+    </contact>
+    <investigator>
+      <last_name>Beth Lewis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Palo Alto Medical Foundation Research Institute</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elsie Wang</last_name>
+      <phone>650-853-2871</phone>
+    </contact>
+    <investigator>
+      <last_name>Latha Palaniappan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Howard University</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20060</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Oludolapo Ogunlana</last_name>
+      <phone>202-865-1973</phone>
+    </contact>
+    <investigator>
+      <last_name>Thomas Obisesan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida Department of Aging and Geriatrics</name>
+      <address>
+        <city>Gainsville</city>
+        <state>Florida</state>
+        <zip>32611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emily Chappelle</last_name>
+      <phone>352-273-5919</phone>
+    </contact>
+    <investigator>
+      <last_name>Steven Anton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emory/ Atlanta VAMC</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stephanie Stennett</last_name>
+      <phone>404-321-6111</phone>
+      <phone_ext>7364</phone_ext>
+    </contact>
+    <investigator>
+      <last_name>Peter Wilson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Morehouse School of Medicine</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30310</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Connie Jones</last_name>
+      <phone>404-752-1133</phone>
+    </contact>
+    <investigator>
+      <last_name>Pricilla Pema, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Health Sciences University</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Darlene Gibson</last_name>
+      <phone>706-721-4335</phone>
+      <email>dagibson@gru.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daron Ferris, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Alzheimer's Disease Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Graham</last_name>
+      <phone>312-942-6118</phone>
+    </contact>
+    <investigator>
+      <last_name>Raj Shah, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Ernst</last_name>
+      <phone>319-384-7756</phone>
+    </contact>
+    <investigator>
+      <last_name>Michael Ernst, PharmD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas University Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Kansas</state>
+        <zip>66106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natalya Stolyar</last_name>
+      <phone>913-945-7676</phone>
+    </contact>
+    <investigator>
+      <last_name>Jeffery Burns, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pennington Biomedical Research Center</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70808</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heidi Millet</last_name>
+      <phone>225-763-3089</phone>
+    </contact>
+    <investigator>
+      <last_name>Timothy Church, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Bird Perkins Our Lady of the Lake Cancer Center</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dawn Rachal</last_name>
+      <phone>225-215-1185</phone>
+      <email>drachal@marybird.com</email>
+    </contact>
+    <investigator>
+      <last_name>David Hanson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baton Rouge General</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heidi Millet</last_name>
+      <phone>225-763-3089</phone>
+      <email>Heidi.Millet@pbrc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy Church, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Bird Perkins St. Tammany Parish Hospital</name>
+      <address>
+        <city>Covington</city>
+        <state>Louisiana</state>
+        <zip>70433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie Nunez</last_name>
+      <email>jnunez@marybird.com</email>
+    </contact>
+    <investigator>
+      <last_name>Patricia Braly, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Bird Perkins Terrebonne General Hospital</name>
+      <address>
+        <city>Houma</city>
+        <state>Louisiana</state>
+        <zip>70360</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ann Toups</last_name>
+      <email>Ann.toups@tgmc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Raul Doria, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LSU Health Sciences- New Orleans</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Renee Jenkins</last_name>
+      <phone>504-568-2108</phone>
+      <email>rjenk4@lsuhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Augusto Ochoa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Medical Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandria Augustus</last_name>
+      <phone>504-988-6124</phone>
+      <email>aaugustu@tulane.edu</email>
+    </contact>
+    <investigator>
+      <last_name>William Robinson III, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LSU Health Sciences- Shreveport</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71130</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lori Panu</last_name>
+      <phone>318-813-1405</phone>
+      <email>lpanu@lsuhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Gary Burton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Denise Cornish</last_name>
+      <phone>734-998-7947</phone>
+    </contact>
+    <investigator>
+      <last_name>Jocelyn Wiggins, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elisabeta Levcovici</last_name>
+      <phone>313-993-0419</phone>
+    </contact>
+    <investigator>
+      <last_name>John Flack, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Detroit Clinical Research Center</name>
+      <address>
+        <city>Novi</city>
+        <state>Michigan</state>
+        <zip>48377</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sonia Amin</last_name>
+      <phone>248-773-8979</phone>
+    </contact>
+    <investigator>
+      <last_name>Mutahhar Ahmad, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Health Partners Research Foundation</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rachel Pritchard</last_name>
+      <phone>612-341-1957</phone>
+    </contact>
+    <investigator>
+      <last_name>Karen Margolis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Phalen Village Clinic</name>
+      <address>
+        <city>St. Paul</city>
+        <state>Minnesota</state>
+        <zip>55106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lea Seaquist</last_name>
+      <phone>651-793-8640</phone>
+    </contact>
+    <investigator>
+      <last_name>Kevin Peterson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Central Jersey Medical Center</name>
+      <address>
+        <city>Elizabeth</city>
+        <state>New Jersey</state>
+        <zip>07202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Namrata Thakkar</last_name>
+      <phone>908-576-8038</phone>
+    </contact>
+    <investigator>
+      <last_name>Mandeep Oberoi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New Jersey Medical College</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasmeen Beckett</last_name>
+      <phone>973-972-3173</phone>
+      <email>barberys@umdnj.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Wieder, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Downstate Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nikita Watson</last_name>
+      <phone>718-270-2931</phone>
+      <email>nikita.watson@downstate.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Karen Benker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Winthrop University Hospital</name>
+      <address>
+        <city>Mineola</city>
+        <state>New York</state>
+        <zip>11501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Migdalia Reid</last_name>
+      <phone>516-663-2592</phone>
+    </contact>
+    <investigator>
+      <last_name>John Aloia, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queens Cancer Medical Center</name>
+      <address>
+        <city>Queens</city>
+        <state>New York</state>
+        <zip>11432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda Bulone, RN</last_name>
+      <phone>718-883-3751</phone>
+      <email>bulonel@nychhc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Parampreet Bakshi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Baptist Medical Center</name>
+      <address>
+        <city>Greensboro</city>
+        <state>North Carolina</state>
+        <zip>27408</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia Wittmer</last_name>
+      <phone>336-713-8243</phone>
+    </contact>
+    <investigator>
+      <last_name>Jamehl Demons, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Brody School of Medicine at ECU</name>
+      <address>
+        <city>Greenville</city>
+        <state>North Carolina</state>
+        <zip>27834</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brittany Brown</last_name>
+      <phone>252-744-1904</phone>
+    </contact>
+    <investigator>
+      <last_name>James Powell, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Albert Einstein Medical Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie Whinner</last_name>
+      <phone>215-456-1959</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregg Pressman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Health Sciences Research Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cheryl Albig</last_name>
+      <phone>412-383-1470</phone>
+    </contact>
+    <investigator>
+      <last_name>Anne Newman, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital of Rhode Island</name>
+      <address>
+        <city>Pawtucket</city>
+        <state>Rhode Island</state>
+        <zip>02860</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Liz Coccio</last_name>
+      <phone>401-729-2183</phone>
+    </contact>
+    <investigator>
+      <last_name>Charles Eaton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee Health Science Center</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margaret Caulfield</last_name>
+      <phone>901-448-6732</phone>
+    </contact>
+    <investigator>
+      <last_name>Suzanne Satterfield, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Meharry Medical College</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>57208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Donna Skupien</last_name>
+      <phone>615-327-5725</phone>
+      <email>dskupien@mmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>John Murray, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center at Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pat Knowles</last_name>
+      <phone>214-648-3612</phone>
+    </contact>
+    <investigator>
+      <last_name>Shawna Nesbitt, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of TX Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roxana Hirst</last_name>
+      <phone>409-266-9641</phone>
+    </contact>
+    <investigator>
+      <last_name>Elena Volpi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Regional Academic Health Center</name>
+      <address>
+        <city>Harlingen</city>
+        <state>Texas</state>
+        <zip>78550</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julia Zuniga</last_name>
+      <phone>956-365-8688</phone>
+      <email>zunigaj3@uthscsa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sarah Espinoza, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UT Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melissa Navarro</last_name>
+      <phone>210-450-0550</phone>
+    </contact>
+    <investigator>
+      <last_name>Sarah Espinoza, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.aspree.org</url>
+  </link>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 18, 2013</lastchanged_date>
+  <firstreceived_date>December 21, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Aspirin</keyword>
+  <keyword>Prevention</keyword>
+  <keyword>Healthy</keyword>
+  <keyword>Over 65 years old</keyword>
+  <keyword>ASPREE</keyword>
+  <keyword>Aspirin in Reducing Events in the Elderly</keyword>
+  <keyword>Australia</keyword>
+  <keyword>Functional disability</keyword>
+  <keyword>Dementia</keyword>
+  <keyword>Heart Disease/ Stroke</keyword>
+  <keyword>Cancer</keyword>
+  <keyword>Bleeding</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dementia</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Stroke</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Aspirin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="78">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01806675</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VARIMG0002</org_study_id>
+    <secondary_id>NCI-2013-00535</secondary_id>
+    <nct_id>NCT01806675</nct_id>
+  </id_info>
+  <brief_title>18F FPPRGD2 Positron Emission Tomography/Computed Tomography in Predicting Early Response in Patients With Cancer Receiving Anti-Angiogenesis Therapy</brief_title>
+  <official_title>Phase I/II 18F FPPRGD2 PET/CT Imaging of αvβ3 Integrins Expression as a Biomarker of Angiogenesis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial studies fluorine 18 2-fluoropropionyl-labeled pegylated dimeric
+      arginine-glycine-aspartic acid (RGD) peptide (18F FPPRGD2) positron emission tomography
+      (PET)/computed tomography (CT) in predicting early response in patients with cancer
+      receiving anti-angiogenesis therapy. Diagnostic procedures, such as 18F FPPRGD2 PET/CT, may
+      be a less invasive method of finding cancer early and determining response to treatment
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Evaluate 18F FPPRGD2 PET/CT for prediction and early assessment of response to
+      anti-angiogenesis therapy in patients with non-small cell lung cancer (NSCLC), breast
+      cancer, glioblastoma multiforme (GBM) and other cancers.
+
+      OUTLINE:
+
+      Patients undergo 18F FPPRGD2 PET/CT imaging at baseline, 1 week, and 6 weeks and 18F FDG
+      PET/CT at baseline and 6 weeks.
+
+      After completion of study imaging, patients are followed up at 12 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2013</start_date>
+  <completion_date type="Anticipated">March 2019</completion_date>
+  <primary_completion_date type="Anticipated">March 2018</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Change in maximum standard uptake values (SUVmax) on 18F FPPRGD2 and 18F FDG PET</measure>
+    <time_frame>From baseline up to 6 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Response to treatment is based on the change in PET uptake, change in CT tumor size, PET European Organization for Research and Treatment of Cancer (EORTC) response criteria, and CT Response Evaluation Criteria In Solid Tumors (RECIST) response criteria. Each of the four response criteria will be dichotomized into responding or non-responding to treatment. The Mann-Whitney test and logistic regression of response/non-response will be performed.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>Up to 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>For each SUV measure patients will be divided into two groups based on whether their SUV uptake is above or below the median. Kaplan-Meir curves for the two groups will be plotted and a log-rank test for difference in PFS will be performed. A Cox proportional-hazards regression of PFS on group will be performed.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Adult Giant Cell Glioblastoma</condition>
+  <condition>Adult Glioblastoma</condition>
+  <condition>Adult Gliosarcoma</condition>
+  <condition>Male Breast Cancer</condition>
+  <condition>Metastatic Squamous Neck Cancer With Occult Primary Squamous Cell Carcinoma</condition>
+  <condition>Recurrent Adenoid Cystic Carcinoma of the Oral Cavity</condition>
+  <condition>Recurrent Adult Brain Tumor</condition>
+  <condition>Recurrent Basal Cell Carcinoma of the Lip</condition>
+  <condition>Recurrent Breast Cancer</condition>
+  <condition>Recurrent Colon Cancer</condition>
+  <condition>Recurrent Esthesioneuroblastoma of the Paranasal Sinus and Nasal Cavity</condition>
+  <condition>Recurrent Hypopharyngeal Cancer</condition>
+  <condition>Recurrent Inverted Papilloma of the Paranasal Sinus and Nasal Cavity</condition>
+  <condition>Recurrent Laryngeal Cancer</condition>
+  <condition>Recurrent Lip and Oral Cavity Cancer</condition>
+  <condition>Recurrent Lymphoepithelioma of the Nasopharynx</condition>
+  <condition>Recurrent Lymphoepithelioma of the Oropharynx</condition>
+  <condition>Recurrent Metastatic Squamous Neck Cancer With Occult Primary</condition>
+  <condition>Recurrent Midline Lethal Granuloma of the Paranasal Sinus and Nasal Cavity</condition>
+  <condition>Recurrent Mucoepidermoid Carcinoma of the Oral Cavity</condition>
+  <condition>Recurrent Nasopharyngeal Cancer</condition>
+  <condition>Recurrent Non-small Cell Lung Cancer</condition>
+  <condition>Recurrent Oropharyngeal Cancer</condition>
+  <condition>Recurrent Pancreatic Cancer</condition>
+  <condition>Recurrent Paranasal Sinus and Nasal Cavity Cancer</condition>
+  <condition>Recurrent Rectal Cancer</condition>
+  <condition>Recurrent Renal Cell Cancer</condition>
+  <condition>Recurrent Salivary Gland Cancer</condition>
+  <condition>Stage IIIA Breast Cancer</condition>
+  <condition>Stage IIIA Non-small Cell Lung Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IIIB Non-small Cell Lung Cancer</condition>
+  <condition>Stage IIIC Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Stage IV Non-small Cell Lung Cancer</condition>
+  <condition>Stage IV Pancreatic Cancer</condition>
+  <condition>Stage IV Renal Cell Cancer</condition>
+  <condition>Stage IVA Colon Cancer</condition>
+  <condition>Stage IVA Rectal Cancer</condition>
+  <condition>Stage IVA Salivary Gland Cancer</condition>
+  <condition>Stage IVB Colon Cancer</condition>
+  <condition>Stage IVB Salivary Gland Cancer</condition>
+  <condition>Stage IVC Salivary Gland Cancer</condition>
+  <condition>Tongue Cancer</condition>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <arm_group>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo 18F FPPRGD2 PET/CT imaging at baseline, 1 week, and 6 weeks and 18F FDG PET/CT at baseline and 6 weeks.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>fludeoxyglucose F 18</intervention_name>
+    <description>Undergo 18F FDG PET/CT</description>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+    <other_name>18FDG</other_name>
+    <other_name>FDG</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>2-fluoropropionyl-labeled pegylated dimeric RGD peptide</intervention_name>
+    <description>Undergo 18F FPPRGD2 PET/CT</description>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+    <other_name>104150</other_name>
+    <other_name>18F-FPPRGD2</other_name>
+    <other_name>[18F] FPPRGD2</other_name>
+    <other_name>fluorine 18 ((18)F) FPPRGD2</other_name>
+    <other_name>PEG3-E[c(RGDyk)]2</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>positron emission tomography</intervention_name>
+    <description>Undergo 18F FPPRGD2 PET/CT</description>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+    <other_name>FDG-PET</other_name>
+    <other_name>PET</other_name>
+    <other_name>PET scan</other_name>
+    <other_name>tomography, emission computed</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>computed tomography</intervention_name>
+    <description>Undergo 18F FPPRGD2 PET/CT</description>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+    <other_name>tomography, computed</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>positron emission tomography</intervention_name>
+    <description>Undergo 18F FDG PET/CT</description>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+    <other_name>FDG-PET</other_name>
+    <other_name>PET</other_name>
+    <other_name>PET scan</other_name>
+    <other_name>tomography, emission computed</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>computed tomography</intervention_name>
+    <description>Undergo 18F FDG PET/CT</description>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+    <other_name>tomography, computed</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Diagnostic (18F FPPRGD2 PET/CT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Provides written informed consent
+
+          -  Diagnosed with advanced NSCLC, breast cancer, GBM or other cancers (such as head and
+             neck, colorectal, pancreatic, renal cancers); patients will undergo anti-angiogenesis
+             treatment
+
+          -  Able to remain still for duration of each imaging procedure (about one hour)
+
+        Exclusion Criteria:
+
+          -  Pregnant or nursing
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sanjiv Gambhir</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jonathan Euodia</last_name>
+    <phone>650-723-7419</phone>
+    <email>euodia@stanford.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Stanford University Cancer Institute</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Sanjiv Gambhir</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2013</verification_date>
+  <lastchanged_date>March 6, 2013</lastchanged_date>
+  <firstreceived_date>March 5, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Colonic Neoplasms</mesh_term>
+    <mesh_term>Laryngeal Neoplasms</mesh_term>
+    <mesh_term>Rectal Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Basal Cell</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Carcinoma, Squamous Cell</mesh_term>
+    <mesh_term>Carcinoma, Adenoid Cystic</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Granuloma</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Mouth Neoplasms</mesh_term>
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+    <mesh_term>Papilloma</mesh_term>
+    <mesh_term>Tongue Neoplasms</mesh_term>
+    <mesh_term>Oropharyngeal Neoplasms</mesh_term>
+    <mesh_term>Nasopharyngeal Neoplasms</mesh_term>
+    <mesh_term>Hypopharyngeal Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Mucoepidermoid</mesh_term>
+    <mesh_term>Esthesioneuroblastoma, Olfactory</mesh_term>
+    <mesh_term>Papilloma, Inverted</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Unknown Primary</mesh_term>
+    <mesh_term>Salivary Gland Neoplasms</mesh_term>
+    <mesh_term>Lip Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Arginyl-glycyl-aspartic acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

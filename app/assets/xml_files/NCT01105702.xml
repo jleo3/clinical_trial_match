@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="94">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01105702</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NYU 07-712</org_study_id>
+    <nct_id>NCT01105702</nct_id>
+  </id_info>
+  <brief_title>Temodar (Temozolomide), Bevacizumab, Lithium and Radiation for High Grade Glioma</brief_title>
+  <official_title>Temozolomide, Bevacizumab, Lithium and Radiation Treatment for Newly Diagnosed High Grade Glioma: A Phase II Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>New York University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Atlantic Health System</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>New York University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is an open-label, Phase II study to estimate the effect on time to tumor progression
+      and safety in patients with newly diagnosed high grade glioma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Cycle 1 (42-day cycle):
+
+      Temozolomide will be taken at a dose of 75 mg/m^2 orally, beginning the night prior to the
+      first radiation treatment.  Duration of temozolomide treatment is 42 consecutive days.
+
+      Radiation therapy must begin within 3-5 weeks of surgery.  Treatment of 1.8 Gy will be given
+      daily for 5 days per week, Monday through Friday.  Treatment will continue for 33 fractions
+      for a total dose of 59.4 Gy over 6.5 weeks. All portals shall be treated during each
+      treatment session.  Doses are specified as the target dose that shall be to the center of
+      the target volume.
+
+      Bevacizumab will be added to the temozolomide/radiation treatment plan 29(+3 if necessary)
+      days post surgery . This may be delayed to ensure that 28 days has elapsed between surgery
+      and the first dose of bevacizumab. No patient will be treated with bevacizumab before 28
+      days after a surgical procedure.
+
+      Bevacizumab treatment continues until the first post-treatment MRI is performed.
+      Radiological re-evaluation by MRI with gadolinium contrast with perfusion sequences will be
+      performed at 35 days (+ 2 days) after completion of radiation therapy.  Assessment of
+      response will continue to be performed following every 2 cycles.
+
+      Treatment Cycle 2-7 (28 day cycles):
+
+      If the Cycle 1 post-treatment MRI is stable or without sign of recurrent tumor the
+      subsequent cycles (Cycles 2 - 7) will be administered as follows:
+
+        -  Temozolomide at a dose of 150 mg/m^2 will be taken orally on Days 1-7
+
+        -  Bevacizumab will be administered at a dose of 10 mg/kg per dosing administration on Day
+           8 and Day 22
+
+        -  Magnetic Resonance Imaging is performed after every 2 cycles
+
+      Lithium Carbonate: Initiate treatment at 300 mg PO BID; increase dose every 7 days by 300 mg
+      to goal total dose of 1200 mg per day. Serum levels will than be assessed and dose adjusted
+      until therapeutic level of 0.8 to 1.2 mEq/L is reached.  Adjust dose according to clinical
+      response and trough serum level (12 h) after steady state is reached (4-5 days).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2010</start_date>
+  <completion_date type="Anticipated">April 2015</completion_date>
+  <primary_completion_date type="Anticipated">April 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Time to Tumor Progression</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">54</enrollment>
+  <condition>Brain Cancer</condition>
+  <arm_group>
+    <arm_group_label>Temozolomide, Bevacizumab, Lithium, Radiation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cycle 1(One 42-day cycle)
+Temozolomide 75 mg/m^2 orally (42 consecutive days), beginning the night prior to the first radiation treatment
+Radiation within 3-5 weeks of surgery
+Bevacizumab 10mg/kg will be added 29 days post surgery.
+Treatment Cycle 2-7 (28-day cycles)
+Temozolomide at a dose of 150 mg/m^2 on Days 1-7
+Bevacizumab 10 mg/kg on Day 8 and Day 22
+Initiate lithium treatment at 300 mg PO BID; increase dose every 7 days by 300 mg to goal total dose of 1200 mg per day
+Magnetic Resonance Imaging is performed after every 2 cycles</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide, bevacizumab, lithium, radiation</intervention_name>
+    <arm_group_label>Temozolomide, Bevacizumab, Lithium, Radiation</arm_group_label>
+    <other_name>Temodar</other_name>
+    <other_name>Avastin</other_name>
+    <other_name>Lithobid</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Newly diagnosed high grade glioma (WHO Grade III and IV)
+
+          -  Brain magnetic resonance imaging (MRI) scan with gadolinium contrast
+
+          -  Patient must have normal organ and marrow function as defined below:
+
+               -  Absolute neutrophil count &gt;= 1,500/mm^3;
+
+               -  Platelet count &gt;=100,000/mm^3;
+
+               -  Hemoglobin &gt;= 10g/dL;
+
+               -  Blood urea nitrogen and serum creatinine both =&lt; 1.5 times upper limit of normal
+                  (ULN);
+
+               -  Total bilirubin both =&lt; 1.5 times ULN;
+
+               -  SGOT and SGPT both =&lt; 3 times ULN;
+
+               -  Alkaline phosphatase =&lt; 2 times ULN.
+
+          -  &gt;=18 years of age;
+
+          -  Karnofsky Performance Score &gt;= 70;
+
+          -  Life expectancy &gt;= 8 weeks;
+
+          -  Negative serum or urine beta-hCG pregnancy test at screening for patients of child
+             bearing potential;
+
+          -  Men and women with reproductive potential must agree to use an acceptable method of
+             birth control (surgical, hormonal or double barrier, ie, condom and diaphragm) during
+             treatment and for 6 months after completion of treatment;
+
+          -  Patient or their legal proxy must provide written informed consent prior to
+             registration on study;
+
+          -  Residual measurable disease.
+
+        Exclusion Criteria:
+
+          -  Current, recent (within 4 weeks of the first infusion of this study), or planned
+             participation in an experimental drug study;
+
+          -  Prior radiation therapy to the brain;
+
+          -  Prior treatment with Chemotherapy or Targeted agent
+
+          -  Previous (within last 5 years) or current malignancies at other sites except for
+             adequately treated basal cell or squamous cell skin cancer in situ carcinoma of the
+             cervix;
+
+          -  (Uncontrolled High blood pressure &gt;150/100
+
+          -  Common Terminology Criteria Adverse Event 3.0 &gt;= Grade 2 congestive heart failure
+             (CHF);
+
+          -  History of myocardial infarction within 6 months;
+
+          -  History of stroke within 6 months;
+
+          -  Clinically significant peripheral vascular disease;
+
+          -  Evidence of bleeding diathesis or coagulopathy;
+
+          -  Major surgical procedure, open biopsy, or significant traumatic injury within 28 days
+             prior to the first dose of bevacizumab or anticipation of need for major surgical
+             procedure during the course of the study;
+
+          -  Minor surgical procedures, fine needle aspirations or core biopsies within 7 days
+             prior to study enrollment;
+
+          -  Urine protein/Creatinine ratio &gt;= 2.0 at screening;
+
+          -  Serious, non-healing wound, ulcer, or bone fracture;
+
+          -  Inability to comply with study and/or follow-up procedures;
+
+          -  Glioma showing active intratumoral bleeding;
+
+          -  Patients on enzyme-inducing anti-epileptic drugs;
+
+          -  Known Positive HIV-1, hepatitis B surface antigen, or hepatitis C antibody;
+
+          -  Medications  like NSAIDs, antipsychotics, iodides, and ACEI,  If they are receiving
+             them, they must have been discontinued for 7 days prior to initiating lithium;
+
+          -  Any previous cytotoxic drug therapies, excluding corticosteroids and temozolomide
+             concurrent with radiation therapy;
+
+          -  Any known genetic cancer-susceptibility syndromes;
+
+          -  Acute infection: any active viral, bacterial, or fungal infection that requires
+             specific therapy.
+
+          -  Active uncontrolled infection - examples include sexually transmitted disease,
+             herpes, scrofula, malaria, etc.;
+
+          -  Fever &gt; 101.5 F0;
+
+          -  Unstable or severe intercurrent medical conditions such as unstable angina,
+             uncontrolled arrythmias, Crohn's disease, ulcerative colitis, psoriasis, etc.;
+
+          -  Implantation of Gliadel wafers at surgery;
+
+          -  Patients with organ allografts; and
+
+          -  Allergies to reagents used in this study.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deborah Gruber, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>New York University Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Deborah Gruber, MD</last_name>
+    <phone>212-731-5577</phone>
+    <email>deborah.gruber@nyumc.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Overlook Hospital</name>
+      <address>
+        <city>Summit</city>
+        <state>New Jersey</state>
+        <zip>07902</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>New York University Clinical Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Michael Gruber, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Deborah Gruber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Edward Knopp, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Erik Parker, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jeffrey Allen, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>John Golfino, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 11, 2013</lastchanged_date>
+  <firstreceived_date>April 12, 2010</firstreceived_date>
+  <responsible_party>
+    <name_title>Deborah Gruber, MD</name_title>
+    <organization>New York University Cancer Institute</organization>
+  </responsible_party>
+  <keyword>brain tumor</keyword>
+  <keyword>brain cancer</keyword>
+  <keyword>glioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lithium</mesh_term>
+    <mesh_term>Lithium Carbonate</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

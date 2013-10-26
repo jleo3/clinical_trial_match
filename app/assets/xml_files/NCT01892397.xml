@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="147">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01892397</url>
+  </required_header>
+  <id_info>
+    <org_study_id>13-067</org_study_id>
+    <nct_id>NCT01892397</nct_id>
+  </id_info>
+  <brief_title>Pilot Study of NovoTTF-100A for Recurrent Atypical and Anaplastic Meningioma</brief_title>
+  <official_title>Pilot Study of NovoTTF-100A for Recurrent Atypical and Anaplastic Meningioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan-Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NovoCure Ltd.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan-Kettering Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to find out what effects, good or bad, the NovoTTF-100A device
+      has on the patient and meningioma. This study is being done because currently there are no
+      proven effective medical treatments for a progressive meningioma that has failed surgery
+      and/or radiation. The study uses an experimental device called NovoTTF-100A. NovoTTF-100A is
+      &quot;experimental&quot; because it has not been approved by the U.S. Food and Drug Administration
+      (FDA) for this type of tumor, although it has been approved for a different type of tumor.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2013</start_date>
+  <completion_date type="Anticipated">June 2015</completion_date>
+  <primary_completion_date type="Anticipated">June 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>progression-free survival rate</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>From the treatment start date to the date of the first observation of progressive disease (including clinical progression) or death due to any cause. Patients not known to be progression-free at 6 months will be considered treatment failures.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>overall survival</measure>
+    <time_frame>2 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>From the treatment start date to date of death of any cause.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>safety and tolerability</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>graded according to most up-to-date CTCAE version</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">21</enrollment>
+  <condition>Brain Cancer</condition>
+  <arm_group>
+    <arm_group_label>NovoTTF-100A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The treatment plan is to have patients use the NovoTTF-100A device in monotherapy for &gt; 18 hours per day as per the treatment standard established from prior studies. A medical professional will see each patient at least once per month while on the device for toxicity assessment, compliance evaluation via downloading of the log-file on the device by the Novocure technician (which involves the technician simply attaching the device to a computer via USB where software reads how many hours per day on each day the device was used), and physical examination. Extent of disease evaluations will occur at baseline, 8 weeks, and then every 8 weeks thereafter. These evaluations will include MRI of the brain (or CT head if a patient cannot undergo MRI).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>NovoTTF-100A</intervention_name>
+    <arm_group_label>NovoTTF-100A</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically proven recurrent WHO grade II (atypical) or grade III (anaplastic)
+             intracranial supratentorial meningioma.
+
+          -  Unequivocal evidence for tumor progression by MRI (or CT scan is MRI is
+             contraindicated). The scan must be performed within 14 days of registration.
+
+          -  Patients must be on a stable or decreased dose of steroids for at least 5 days prior
+             to baseline imaging
+
+          -  Patients with recent resection for recurrent disease must have recovered from the
+             effects of surgery and should not start treatment for at least 28 days after surgery.
+
+          -  Patients must have measurable disease, defined as at least 1cm x 1 cm of contrast
+             enhancing disease.
+
+          -  Patients must have received prior radiotherapy for meningioma. Patients may have
+             received standard external beam radiation, interstitial brachytherapy, or
+             radiosurgery in any combination. An interval of &gt; 4 weeks (28 days) must have elapsed
+             from the completion of radiotherapy to study entry and there must be subsequent
+             evidence of tumor progression. Patients with prior interstitial brachytherapy or
+             stereotactic radiosurgery must have confirmation of true progressive disease rather
+             than radiation necrosis based on PET, MR-perfusion, MR-spectroscopy, or surgical
+             documentation of disease. If there is any question, investigators should discuss with
+             the study PI.
+
+          -  Prior therapy: there is no limit on the number of prior surgeries, radiation therapy
+             treatments, radiosurgery treatments, or chemotherapy.
+
+          -  All patients must sign an informed consent indicating that they are aware of the
+             investigational nature of the study. Patients must sign an authorization for the
+             release of their protected health information.
+
+          -  Age &gt; or = to 18 years old
+
+          -  Karnofsky performance status &gt; or = to 60%
+
+          -  4 weeks (28 days) from any radiation treatment, stereotactic radiosurgery,
+             conventional surgery, or chemotherapy.
+
+          -  Life expectancy at least 3 months
+
+          -  Patients with NF (Neurofibromatosis) are eligible, and may have other stable CNS
+             tumors, such as schwannoma, acoustic neuroma, or ependymoma, but ONLY if these
+             lesions have been stable in size for the preceding 6 months.
+
+        Exclusion Criteria:
+
+          -  Patients with a history of any other cancer (except non-melanoma skin cancer or
+             carcinoma in-situ of the cervix, unless in complete remission and off all therapy for
+             the disease for a minimum of 3 years).
+
+          -  Concomitant use of any other investigational drugs.
+
+          -  Concurrent treatment on another clinical trial. Supportive care trials or
+             non-treatment trials (i.e. Quality of life) are allowed.
+
+          -  Pregnancy or breast feeding. Patients must be surgically sterile, postmenopausal, or
+             agree to use effective contraception during the period of therapy. The definition of
+             effective contraception will be based on the judgment of the principal investigator
+             or a designated associate. Male patients must be surgically sterile or agree to
+             effective contraception. Woman of childbearing potential must have a negative B-HCG
+             pregnancy test documented within 14 days prior to registration.
+
+          -  Implanted pacemaker, defibrillator, deep brain stimulator, or vagus nerve stimulator,
+             or documented significant arrhythmia at the discretion of the investigator.
+
+          -  Evidence of increased intracranial pressure (midline shift &gt;5mm, clinically
+             significant papilledema, vomiting and nausea, or reduced level of consciousness).
+
+          -  Infratentorial meningioma (patients may have infratentorial meningioma if there is
+             concurrent growing supratentorial meningioma that serves as the target lesion)
+
+          -  Coagulopathy (as evidenced by PT or APTT &gt;1.5 times upper limit of normal in patients
+             not undergoing anticoagulation)
+
+          -  Thrombocytopenia (platelet count &lt;100x10^3/uL) Neutropenia (absolute neutrophil count
+             &lt;1x10^3/uL)
+
+          -  Severe acute infection
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas Kaley, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan-Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thomas Kaley, MD</last_name>
+    <phone>212-639-5122</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Lisa DeAngelis, MD</last_name>
+    <phone>212-639-7123</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memoral Sloan Kettering Cancer Center</name>
+      <address>
+        <city>Basking Ridge</city>
+        <state>New Jersey</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Kaley, MD</last_name>
+      <phone>212-639-5122</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center at Commack</name>
+      <address>
+        <city>Commack</city>
+        <state>New York</state>
+        <zip>11725</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Kaley, MD</last_name>
+      <phone>212-639-5122</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Kaley, MD</last_name>
+      <phone>212-639-5122</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Lisa DeAngelis, MD</last_name>
+      <phone>212-639-7123</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Thomas Kaley, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/</url>
+    <description>Memorial Sloan-Kettering Cancer Center</description>
+  </link>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 1, 2013</lastchanged_date>
+  <firstreceived_date>July 1, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>intracranial supratentorial meningioma</keyword>
+  <keyword>Atypical and Anaplastic Meningioma</keyword>
+  <keyword>NovoTTF-100A</keyword>
+  <keyword>13-067</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Meningioma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

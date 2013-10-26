@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="30">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01534104</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12-008</org_study_id>
+    <nct_id>NCT01534104</nct_id>
+  </id_info>
+  <brief_title>MRI and Diffusion Tensor Imaging of the Motor and Language Pathways to Optimize Brain Tumor Resection</brief_title>
+  <official_title>Using Functional MRI and Diffusion Tensor Imaging of the Motor and Language Pathways to Optimize Brain Tumor Resection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan-Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan-Kettering Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Many patients with brain tumors require surgery. Some patients have brain tumors near
+      important parts of the brain. These brain areas have roles in language or motor function.
+      Avoiding these motor and language areas helps to prevent neurological deficits. These
+      patients usually get functional MRI (fMRI) and diffusion tensor imaging (DTI). These special
+      MRI sequences are used to plan surgery. The researchers are studying the parts of the brain
+      involved in motor and language. Patients are scheduled to have fMRI and DTI, and then
+      undergo surgery.
+
+      Some patients may require stimulation during surgery to motor and language areas. In
+      patients who require stimulation as part of their standard of care, the investigators will
+      compare the investigators imaging results with the stimulation results. The purpose of this
+      study is to improve MRI mapping of the motor and language pathways in the brain.
+
+      The fMRI and DTI scans are necessary stimulation for this protocol are part of the standard
+      of care. In other words, these tests done as part of the best possible care even if they did
+      not join this study. The investigators are studying new techniques for analyzing the MRI
+      data. These new techniques may give the doctor a better view of where the brain tumor is
+      located relative to important parts of the brain.
+
+      If the patient agrees we may also perform an optional diffusion spectrum imaging (DSI). This
+      is a modified version of the usual DTI scan that we routinely acquire. DSI may help us
+      better identify connections between different parts of the brain. The DSI is for research
+      only. The patient would not get DSI if they choose not to enroll in this study.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2012</start_date>
+  <completion_date type="Anticipated">February 2014</completion_date>
+  <primary_completion_date type="Anticipated">February 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>standard vs. probabilistic tractography</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The standard and probabilistic tractography results will be compared to expected anatomy as determined by expert operators. The reconstructed tracts will be examined for their configurations near the tumor and/or edema, and the completeness of their courses. All analyses will be scored by two expert operators (2 board certified radiologists who hold Certificates of Added Qualification in Neuroradiology and are familiar with DTI and tractography), with disagreements resolved by consensus.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>the feasibility of diffusion spectrum imaging (DSI)</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>(Optional) DSI is a newly proposed modification of DTI that allows potentially improved visualization of the complex white matter architecture. Recent technical advances have allowed marked reduction of the DSI scan time to match other clinical scan times.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">48</enrollment>
+  <condition>Brain Cancer</condition>
+  <arm_group>
+    <arm_group_label>pts who have primary or secondary brain tumors</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>The study will prospectively enroll subjects who have primary or secondary brain tumors located near the motor pathway (corticospinal tract) or language pathway (arcuate fasciculus). This is a nonrandomized study in which each subject will receive the standard of care as per the treating neurosurgeon.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>preoperative fMRI. DTI and DSI with tractography</intervention_name>
+    <description>Within approximately 4-6 weeks of the fMRI, DTI &amp; DSI, neurological/physical testing &amp; brain MRI showing tumor &amp;/or edema located in or near (&lt;2 cm) the motor cortex (precentral gyrus), motor pathway (corticospinal tract), language cortex (Broca's area, Wernicke's area), &amp;/or language pathway (arcuate fasciculus) Preoperative MRI for surgical planning (approximately &lt;48 hours before surgery*) fMRI to localize gray matter DTI, DSI &amp; tractography to localize white matter * Most patients will undergo surgery within 48 hrs of their preoperative MRI. However, for some patients, the MRI results will be used for preoperative counseling. In this subset of patients, we expect that surgery will occur within 3-4 months of the MRI. Brain tumor resection as per the treating neurosurgeon Electrical stimulation to localize gray &amp;/or white matter structures if clinically necessary according to the standard of care at MSKCC Postoperative neurological/physical examination (&lt;48 hours after surgery)</description>
+    <arm_group_label>pts who have primary or secondary brain tumors</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Primary or secondary brain tumor (enhancing mass lesion ± nonenhancing abnormality)
+             located near (&lt; 2 cm) any portion of the motor cortex, motor pathway, language
+             cortex, or language pathway as determined on anatomical images;
+
+          -  Planned resection of the tumor;
+
+          -  fMRI and DTI required for preoperative imaging as part of the standard of care
+
+          -  Patient and/or guardian is able to provide written informed consent prior to study
+             registration
+
+          -  Age ≥ 18 years old
+
+        Exclusion Criteria:
+
+          -  Any contraindication to MRI (e.g., claustrophobia, pacemaker, aneurysm clip, tissue
+             expander)
+
+          -  Unable to cooperate for MRI and/or perform fMRI tasks
+
+          -  Pregnant or nursing female
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert Young, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan-Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Robert Young, MD</last_name>
+    <phone>212-639-8196</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Andrei Holodny, MD</last_name>
+    <phone>212-639-3182</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Young, MD</last_name>
+      <phone>212-639-8196</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Andrei Holodny, MD</last_name>
+      <phone>212-639-3182</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert Young, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/</url>
+    <description>Memorial Sloan-Kettering Cancer Center</description>
+  </link>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 1, 2013</lastchanged_date>
+  <firstreceived_date>February 9, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>fMRI</keyword>
+  <keyword>DTI</keyword>
+  <keyword>DSI</keyword>
+  <keyword>tractography</keyword>
+  <keyword>neurological/physical testing</keyword>
+  <keyword>Motor and Language Pathways</keyword>
+  <keyword>12-008</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

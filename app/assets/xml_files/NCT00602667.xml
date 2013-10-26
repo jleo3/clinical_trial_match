@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="126">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00602667</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SJYC07</org_study_id>
+    <nct_id>NCT00602667</nct_id>
+  </id_info>
+  <brief_title>Risk-Adapted Therapy for Young Children With Embryonal Brain Tumors, Choroid Plexus Carcinoma, High Grade Glioma or Ependymoma</brief_title>
+  <official_title>Risk-Adapted Therapy for Young Children With Embryonal Brain Tumors, Choroid Plexus Carcinoma, High Grade Glioma or Ependymoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Jude Children's Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Florida</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>St. Jude Children's Research Hospital</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: In this study a combination of anti-cancer drugs (chemotherapy) is used to treat
+      brain tumors in young children. Using chemotherapy gives the brain more time to develop
+      before radiation is given. The chemotherapy in this study includes the drug methotrexate.
+      This drug was an important part of the two clinical trials which resulted in the best
+      survival results for children less than 3 years of age with medulloblastoma. Most patients
+      treated on this trial will also receive radiation which is carefully targeted to the area of
+      the tumor. This type of radiation (focal conformal or proton beam radiotherapy) may result
+      in fewer problems with thinking and learning than radiation to the whole brain and spinal
+      cord.
+
+      PURPOSE: This clinical trial is studying how well giving combination chemotherapy together
+      with radiation therapy works in treating young patients with newly diagnosed central nervous
+      system tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To identify patterns of tumor gene expression that are associated with progression-free
+           survival among young pediatric patients with newly diagnosed medulloblastoma treated
+           with risk-adapted therapy.
+
+        -  To estimate the event-free survival distribution of young medulloblastoma patients
+           treated with risk-adapted therapy.
+
+      Secondary
+
+        -  To perform high-resolution genome-wide analyses of chromosomal abnormalities and gene
+           expression patterns, and evaluate the relationship of these to other
+           clinicopathological variables.
+
+        -  To evaluate specific tumor types for molecular abnormalities with suspected prognostic
+           or therapeutic significance.
+
+        -  To evaluate the feasibility of collecting frozen and fixed tumor samples for analysis
+           using high-resolution molecular biology tools.
+
+        -  To estimate the event-free and overall survival of patients treated with the proposed
+           risk-adapted therapy regimen, and compare these survival rates to historical controls.
+
+        -  To estimate the rates of local and distant disease progression in patients treated with
+           focal radiotherapy to the post-operative tumor bed using a 5 mm clinical target volume
+           margin.
+
+        -  To estimate the objective response rate (sustained for 8 weeks) to induction
+           chemotherapy including high-dose intravenous methotrexate for patients with residual or
+           metastatic disease.
+
+        -  To evaluate the feasibility and toxicity of administering low-dose intravenous
+           vinblastine in conjunction with induction chemotherapy to patients with metastatic
+           disease.
+
+        -  To evaluate the feasibility and toxicity of administering consolidation therapy
+           including cyclophosphamide and pharmacokinetically targeted topotecan to patients with
+           metastatic disease, and to estimate the sustained (for 8 weeks) objective response rate
+           (complete response and partial response) to such therapy in patients with measurable
+           residual disease after induction.
+
+        -  To evaluate the feasibility and toxicity of administering oral maintenance therapy in
+           young children.
+
+        -  To use quantitative magnetic resonance (MR) measures (volumetric, diffusion, and
+           perfusion) of young brain tumor patients receiving chemotherapy including high-dose
+           intravenous methotrexate to assess impact of treatment on developing brain.
+
+        -  To estimate the event free survival of average risk (M0 with gross total resection)
+           medulloblastoma patients who were ≥3-&lt;5 years of age at the time of diagnosis and
+           treated on the intermediate risk arm of the study.
+
+      OUTLINE: This is a multicenter study. Patients are stratified according to disease risk
+      (low-risk vs intermediate-risk vs high-risk).  Therapy consists of risk adapted induction,
+      consolidation and maintenance chemotherapy.  Focal irradiation is given to intermediate risk
+      patients who have reached at least 12 months of age upon completion of induction.
+      Intermediate risk patients who have not will receive low risk chemotherapy to delay RT until
+      the age of 12 months.
+
+      Patients may consent to provide tumor tissue and blood samples for biological studies. Tumor
+      tissues are analyzed for the activation of the wnt signaling pathway (β-catenin), activation
+      of the shh signaling pathway (Gli-1/SFRP1), and ERBB2; validation of novel patterns of gene
+      expression via immunohistochemical (IHC) analysis; loss of chromosomes 6, 8p, 9q22,
+      isochromosome 17q; amplification of MYCC, MYCN, and MYCL; validation of genetic
+      abnormalities via interphase fluorescence in situ hybridization (iFISH); construction of
+      gene expression profiles via microarray analysis; single nucleotide polymorphism (SNP)
+      analysis for DNA purity and integrity using UV spectrophotometry and agarose gel
+      electrophoresis; amplification of DNA via PCR and a combination of previously published and
+      'in-house' generated primers; potential oncogenes and tumor suppressor genes via DNA
+      sequence analysis; expression of a number of cell signal proteins implicated in the biology
+      of medulloblastoma via western blot; expression of additional proteins encoded by genes
+      associated through SNP and gene expression array analysis with clinical disease behavior;
+      and differential expression pattern of genes detected using microarray analysis via RT-PCR.
+      DNA extraction and construction of tissue microarrays (TMAs) from tumor tissue will also be
+      used for future IHC and FISH analysis. Blood samples are analyzed for constitutional DNA
+      from patients whose tumors contain gene mutations via sequence analysis of constitutional
+      DNA; cyclophosphamide and its metabolites via liquid chromatography mass spectroscopy
+      method; topotecan lactone via isocratic high-performance liquid chromatography assay with
+      fluorescence detection; and alpha-1-acid glycoprotein (AAGP) concentrations via
+      immunoturbidimetric assay.
+
+      After completion of study treatment, patients are followed every 6 months for 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2007</start_date>
+  <completion_date type="Anticipated">December 2019</completion_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>To identify patterns of tumor gene expression that are associated with progression-free survival among patients with medulloblastoma younger than three years of age at diagnosis treated with risk-adapted therapy.</measure>
+    <time_frame>7 Years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To estimate the event free survival distribution of medulloblastoma patients younger than three years of age at diagnosis treated with risk-adapted therapy.</measure>
+    <time_frame>12 Years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">400</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <arm_group>
+    <arm_group_label>Low-Risk Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with GTR/M0 medulloblastoma, nodular desmoplastic or high grade glioma histology will receive induction chemotherapy and low-risk therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>High-Risk Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with CNS metastatic disease will receive induction chemotherapy and high-risk therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intermediate-Risk Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with M0 medulloblastoma or nodular desmoplastic histology with less than a GTR, other histologic diagnoses with no metastatic disease, will receive induction chemotherapy and intermediate-risk therapy.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Induction Chemotherapy</intervention_name>
+    <description>All patients will receive 4 identical cycles of induction chemotherapy including highdose (5 g/m2 or 2.5g/m2 for patients less than or equal to 31 days of age at enrollment) intravenous methotrexate and standard dose vincristine, cisplatin, and cyclophosphamide.</description>
+    <arm_group_label>Low-Risk Patients</arm_group_label>
+    <arm_group_label>High-Risk Patients</arm_group_label>
+    <arm_group_label>Intermediate-Risk Therapy</arm_group_label>
+    <other_name>MTX (methotrexate)</other_name>
+    <other_name>Oncovin(R) (vincristine)</other_name>
+    <other_name>Platinol-AQ(R) (cisplatin)</other_name>
+    <other_name>Cytoxan(R) (cyclophosphamide)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Low-Risk Therapy</intervention_name>
+    <description>Induction will be followed by further conventional chemotherapy with carboplatin, cyclophosphamide, and etoposide. After consolidation, patients will receive 6 cycles of oral maintenance chemotherapy with cyclophosphamide, topotecan, and depending on the diagnosis, either erlotinib or etoposide (VP-16).</description>
+    <arm_group_label>Low-Risk Patients</arm_group_label>
+    <other_name>Cytoxan(R) (cyclophosphamide)</other_name>
+    <other_name>Paraplatin(R) (carboplatin)</other_name>
+    <other_name>Vepesid(R), VP-16 (etoposide)</other_name>
+    <other_name>Hycamptin(R) (topotecan)</other_name>
+    <other_name>Tarceva(TM) (erlotinib)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>High-Risk Therapy</intervention_name>
+    <description>High risk patients will also receive vinblastine with each course of induction chemotherapy. Induction will be followed by either chemotherapy with targeted intravenous topotecan and cyclophosphamide or optional craniospinal irradiation (CSI). CSI will be offered only to patients who reach 3 years of age by the end of induction only. After consolidation, all patients will receive 6 cycles of oral maintenance chemotherapy with cyclophosphamide, topotecan, and depending on the diagnosis, either erlotinib or etoposide (VP-16).</description>
+    <arm_group_label>High-Risk Patients</arm_group_label>
+    <other_name>Velban(R) (vinblastine)</other_name>
+    <other_name>Cytoxan(R) (cyclophosphamide)</other_name>
+    <other_name>Hycamptin(R) (topotecan)</other_name>
+    <other_name>Tarceva(TM) (erlotinib)</other_name>
+    <other_name>Vepesid(R), VP-16 (etoposide)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Intermediate-Risk Therapy</intervention_name>
+    <description>Induction will be followed by consolidation focal radiotherapy (RT) to the tumor bed. Patients less than 12 months old upon completion of induction will receive low risk chemotherapy to delay RT until the age of 12 months. After consolidation, patients will receive 6 cycles of oral maintenance chemotherapy with cyclophosphamide, topotecan, and depending on the diagnosis, either erlotinib or etoposide (VP-16).</description>
+    <arm_group_label>Intermediate-Risk Therapy</arm_group_label>
+    <other_name>Cytoxan(R) (cyclophosphamide)</other_name>
+    <other_name>Hycamptin(R) (topotecan)</other_name>
+    <other_name>Tarceva(TM) (erlotinib)</other_name>
+    <other_name>Vepesid(R), VP-16 (etoposide)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Histologically confirmed newly diagnosed CNS tumors of any of the following :
+
+          -  Medulloblastoma (all histologic subtypes, including medullomyoblastoma and melanotic
+             medulloblastoma)
+
+          -  Supratentorial primitive neuroectodermal tumor (PNET) (including CNS neuroblastoma or
+             ganglioneuroblastoma, medulloepithelioma, and ependymoblastoma)
+
+          -  Pineoblastoma
+
+          -  Atypical teratoid rhabdoid tumor (ATRT)
+
+          -  Choroid plexus carcinoma
+
+          -  High grade glioma (including anaplastic astrocytoma, anaplastic oligodendroglioma,
+             anaplastic ganglioglioma, pleomorphic xanthoastrocytoma with anaplastic features,
+             high-grade astroblastoma , anaplastic pilocytic astrocytoma, malignant glioneuronal
+             tumor, glioblastoma multiforme), or gliosarcoma,
+
+          -  Ependymoma (including all ependymoma histological variants)
+
+          -  Age &lt; 3 years at time of diagnosis for all histological diagnosis. Medulloblastoma
+             patients ≥ 3 and &lt; 5years old at diagnosis who have non-metastatic disease with no
+             more than 1cm2 of residual tumor are also eligible.
+
+               -  Meets criteria for 1 of the following risk groups:
+
+          -  Low-risk group:
+
+               -  Histologically confirmed nodular desmoplastic medulloblastoma, including
+                  medulloblastoma with extensive nodularity
+
+                    -  Focal areas of anaplasia or other atypical features suggesting more
+                       aggressive phenotype in a tumor otherwise considered nodular desmoplastic
+                       should be treated on the intermediate-risk group, with final risk
+                       stratification at the discretion of principal investigator and study
+                       pathologist
+
+               -  No evidence of CNS metastasis 7 to 28 days after surgery by MRI and cytologic
+                  examination of lumbar cerebrospinal fluid (CSF)
+
+                    -  Ventricular CSF from a shunt or Ommaya reservoir may be used to rule out M1
+                       disease when lumbar puncture is medically contraindicated
+
+                    -  Intermediate-risk group assignment when there is no other evidence of
+                       metastasis and CSF sampling is not possible
+
+               -  Gross total resection, defined as residual tumor or imaging abnormality (not
+                  definitive for residual tumor) with a size of &lt; 1 cm2 confirmed on postoperative
+                  CT scan or MRI
+
+               -  Brain stem invasion by the tumor in the absence of imaging evidence of residual
+                  tumor (tumor size &lt; 1 cm2) and otherwise meets criteria for the low-risk group,
+                  the patient will be classified as low-risk
+
+               -  Desmoplastic medulloblastoma patients who are ≥3 -&lt;5 years of age will NOT be
+                  eligible for the low risk arm of the protocol.
+
+          -  Intermediate-risk group:
+
+               -  Histologically confirmed nodular desmoplastic medulloblastoma with less than
+                  gross total resection and no evidence of metastasis
+
+               -  Any eligible histologic diagnosis other than desmoplastic medulloblastoma with
+                  no evidence of CNS metastasis
+
+               -  Medulloblastoma patients who are ≥3 and &lt; 5 yrs of age irrespective of histology
+                  and with no evidence of CNS metastasis
+
+          -  High-risk group:
+
+               -  Any eligible histologic diagnosis with evidence of CNS metastasis
+
+               -  Patients with extraneural metastasis are eligible for treatment on the high-risk
+                  group
+
+        PATIENT CHARACTERISTICS:
+
+          -  Lansky performance status ≥ 30 (except for posterior fossa syndrome)
+
+          -  WBC &gt; 2,000/mm3
+
+          -  Platelets &gt; 50,000/mm3 (without support)
+
+          -  Hemoglobin &gt; 8 g/dL (with or without support)
+
+          -  ANC &gt; 500/mm3
+
+          -  Serum creatinine &lt; 3 times upper limit of normal (ULN)
+
+          -  ALT &lt; 5 times ULN
+
+          -  Total bilirubin &lt; 3 times ULN
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  See Disease Characteristics
+
+          -  No more than 31 days since prior definitive surgery
+
+          -  No prior radiotherapy or chemotherapy other than corticosteroid therapy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>5 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amar Gajjar, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>St. Jude Children's Research Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Amar Gajjar, MD</last_name>
+    <phone>1-866-278-5833</phone>
+    <email>info@stjude.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Lucile Packard Children's Hospital at Stanford University Medical Center</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul G. Fisher, MD, MHS</last_name>
+      <phone>650-497-8953</phone>
+      <email>pfisher@stanford.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rady Children's Hospital</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Crawford, MD, MS</last_name>
+      <phone>858-576-1700</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospitals and Clinics of Minnesota - St. Paul</name>
+      <address>
+        <city>St. Paul</city>
+        <state>Minnesota</state>
+        <zip>55102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne E. Bendel, MD</last_name>
+      <phone>651-220-6732</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Children's Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amar Gajjar, MD</last_name>
+      <phone>901-495-5007</phone>
+      <email>amar.gajjar@stjude.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center at Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel C. Bowers, MD</last_name>
+      <phone>214-456-6139</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Children's Hospital</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tim Hassall, MBBS, FRACP</last_name>
+      <phone>61-7-3636-9115</phone>
+      <email>tim_hassall@health.qld.gov.au</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Australia</country>
+  </location_countries>
+  <link>
+    <url>http://www.stjude.org</url>
+    <description>St. Jude Children's Research Hospital</description>
+  </link>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 14, 2013</lastchanged_date>
+  <firstreceived_date>January 10, 2008</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>untreated childhood medulloblastoma</keyword>
+  <keyword>untreated childhood supratentorial primitive neuroectodermal tumor</keyword>
+  <keyword>untreated childhood pineoblastoma</keyword>
+  <keyword>childhood atypical teratoid/rhabdoid tumor</keyword>
+  <keyword>childhood choroid plexus tumor</keyword>
+  <keyword>childhood high grade glioma</keyword>
+  <keyword>newly diagnosed childhood ependymoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Ependymoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+    <mesh_term>Vinblastine</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Topotecan</mesh_term>
+    <mesh_term>Erlotinib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

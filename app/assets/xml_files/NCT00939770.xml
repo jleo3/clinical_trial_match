@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="311">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00939770</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000647587</org_study_id>
+    <secondary_id>COG-ADVL0912</secondary_id>
+    <nct_id>NCT00939770</nct_id>
+    <nct_alias>NCT01182896</nct_alias>
+  </id_info>
+  <brief_title>Crizotinib in Treating Young Patients With Relapsed or Refractory Solid Tumors or Anaplastic Large Cell Lymphoma</brief_title>
+  <official_title>A Phase I/II Study of PF-02341066, an Oral Small Molecule Inhibitor of Anaplastic Lymphoma Kinase (ALK) and c-Met, in Children With Relapsed/Refractory Solid Tumors, Primary CNS Tumors, and Anaplastic Large Cell Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>Unspecified</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Crizotinib may stop the growth of cancer cells by blocking some of the enzymes
+      needed for cell growth.
+
+      PURPOSE: This phase I/II trial is studying the side effects and best dose of crizotinib and
+      to see how well it works in treating young patients with relapsed or refractory solid tumors
+      or anaplastic large cell lymphoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To estimate the maximum-tolerated dose and recommended phase II dose of crizotinib
+           administered orally twice daily to children with relapsed or refractory solid tumors or
+           anaplastic large cell lymphoma (ALCL).
+
+        -  To define and describe the toxicities of this drug when administered on this schedule.
+
+        -  To characterize the pharmacokinetics of this drug in these patients.
+
+      Secondary
+
+        -  To preliminarily define the antitumor activity of this drug within the confines of a
+           phase I study.
+
+        -  To obtain initial phase II data on the antitumor activity of this drug in children with
+           relapsed or refractory neuroblastoma or ALCL.
+
+        -  To preliminarily examine the relationship between response to treatment and anaplastic
+           lymphoma kinase gene status (e.g., the presence of a mutation, duplication,
+           amplification, and/or translocation) in children with relapsed or refractory
+           neuroblastoma or ALCL.
+
+        -  To preliminarily examine the relationship between minimal residual disease status and
+           clinical response to treatment in children with ALCL.
+
+      OUTLINE: This is a multicenter, phase I dose-escalation study followed by a phase II study.
+
+      Patients receive oral crizotinib twice daily on days 1-28. Treatment repeats every 28 days
+      in the absence of disease progression or unacceptable toxicity.
+
+      Plasma and whole blood samples are collected for pharmacokinetic and pharmacogenomic
+      analysis. Tumor tissue (from patients with neuroblastoma) and bone marrow and/or peripheral
+      blood (from patients with anaplastic large cell lymphoma) samples are collected for further
+      correlative laboratory studies.
+
+      After completion of study treatment, patients are followed up periodically.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2009</start_date>
+  <primary_completion_date type="Anticipated">February 2013</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum-tolerated dose and recommended phase II dose of crizotinib in children with relapsed or refractory solid tumors or anaplastic large cell lymphoma (ALCL)</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Toxicities of crizotinib</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Pharmacokinetics of crizotinib</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Antitumor activity of crizotinib in children with relapsed or refractory solid tumors or ALCL</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Antitumor activity of crizotinib in children with relapsed or refractory neuroblastoma or ALCL</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship between response to treatment and anaplastic lymphoma kinase gene status in children with relapsed or refractory neuroblastoma or ALCL</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Relationship between minimal residual disease status and clinical response to treatment in children with ALCL</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <enrollment type="Anticipated">196</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <condition>Lymphoma</condition>
+  <condition>Neuroblastoma</condition>
+  <condition>Unspecified Childhood Solid Tumor, Protocol Specific</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>crizotinib</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacogenomic studies</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed* malignancy at original diagnosis or relapse, including the
+             following:
+
+               -  Solid tumors (phase I)
+
+               -  CNS tumors (phase I)
+
+                    -  Neurologic deficits must have been relatively stable for ≥ 1 week before
+                       study enrollment
+
+               -  Anaplastic large cell lymphoma (ALCL) (phase I or II)
+
+                    -  No primary cutaneous ALCL
+
+               -  Confirmed anaplastic lymphoma kinase (ALK) fusion proteins, ALK mutations, or
+                  ALK amplification (defined as &gt; 4-fold increase in the ALK signal number as
+                  compared to reference signal number on chromosome 2q arm) (phase I)
+
+               -  Neuroblastoma (phase I or II) NOTE: *Histologic confirmation is not required for
+                  patients with diffuse intrinsic brain stem tumors, optic pathway tumors, or
+                  pineal region tumors with elevations of serum or CSF tumor markers (e.g.,
+                  alpha-fetoprotein or beta-HCG).
+
+          -  Relapsed or refractory disease
+
+          -  Measurable and/or evaluable disease
+
+               -  Patients with neuroblastoma must have measurable tumor on MRI, CT scan, or x-ray
+                  obtained within the past 2 weeks and/or evaluable tumor by MIBG scan and/or bone
+                  marrow involvement with tumor cells seen on routine morphology
+
+               -  Patients with ALCL enrolled in the phase II portion of the trial must have
+                  measurable disease
+
+          -  No known curative therapy or therapy proven to prolong survival with an acceptable
+             quality of life exists
+
+        PATIENT CHARACTERISTICS:
+
+          -  Karnofsky performance status (PS) 50-100% (for patients &gt; 16 years of age) or Lansky
+             PS 50-100% (for patients ≤ 16 years of age)
+
+               -  Patients who are up in a wheelchair and are unable to walk due to paralysis will
+                  be considered ambulatory for the purpose of assessing PS
+
+          -  ANC ≥ 1,000/mm^3 (≥ 750/mm^3 in patients with metastatic bone marrow disease)
+
+          -  Platelet count ≥ 75,000/mm^3 (transfusion independent, defined as no platelet
+             transfusions within the past 7 days) in patients without bone marrow involvement OR ≥
+             25,000/mm^3 (platelet transfusions allowed) in patients with metastatic bone marrow
+             disease
+
+          -  Hemoglobin ≥ 8.0 g/dL (RBC transfusions allowed)
+
+          -  Creatinine clearance or radioisotope GFR ≥ 70 mL/min OR serum creatinine based on
+             age/gender as follows:
+
+               -  ≤ 0.6 mg/dL (for patients 1 year of age)
+
+               -  ≤ 0.8 mg/dL (for patients 2 to 5 years of age)
+
+               -  ≤ 1.0 mg/dL (for patients 6 to 9 years of age)
+
+               -  ≤ 1.2 mg/dL (for patients 10 to 12 years of age)
+
+               -  ≤ 1.4 mg/dL (for female patients ≥ 13 years of age)
+
+               -  ≤ 1.5 mg/dL (for male patients 13 to 15 years of age)
+
+               -  ≤ 1.7 mg/dL (for male patients ≥ 16 years of age)
+
+          -  Bilirubin (sum of conjugated and unconjugated) ≤ 1.5 times upper limit of normal for
+             age
+
+          -  SGPT ≤ 110 U/L
+
+          -  Serum albumin ≥ 2 g/dL
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  Body surface area ≥ 0.4 mm² (for patients enrolled at dose levels 0 and 1 only)
+
+          -  Able to swallow capsules or a liquid suspension/solution
+
+          -  Able to comply with the safety monitoring requirements of the study, in the opinion
+             of the investigator
+
+          -  No uncontrolled infection
+
+          -  No evidence of active graft vs host disease
+
+          -  Not refractory to red cell or platelet transfusion (in patients with metastatic bone
+             marrow disease)
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  Recovered from prior chemotherapy, immunotherapy, or radiotherapy
+
+          -  No prior crizotinib
+
+          -  At least 6 months since prior total-body radiotherapy (TBI), craniospinal
+             radiotherapy, or radiotherapy to ≥ 50% of the pelvis
+
+          -  At least 3 months since prior bone marrow or stem cell transplant (without TBI) (≥ 6
+             weeks for patients with neuroblastoma or patients with confirmed ALK fusion proteins,
+             ALK mutations, or ALK amplification)
+
+               -  No evidence of active graft-vs-host disease
+
+          -  At least 6 weeks since prior therapeutic doses of MIBG
+
+          -  At least 6 weeks since other prior substantial bone marrow radiotherapy
+
+          -  At least 2 weeks since prior local palliative radiotherapy (small port)
+
+          -  More than 3 weeks since prior myelosuppressive chemotherapy (6 weeks for
+             nitrosoureas) for patients with solid tumors
+
+          -  At least 14 days since prior cytotoxic therapy for patients with ALCL who relapse
+             while receiving cytotoxic therapy
+
+               -  Patients with lymphoma who relapse during standard maintenance therapy are
+                  eligible at time of relapse
+
+               -  Cytoreduction with hydroxyurea may be initiated and continued for up to 24 hours
+                  before the start of study treatment
+
+          -  At least 7 days since prior growth factor therapy
+
+          -  At least 7 days since prior biological agents
+
+          -  At least 7 days or 3 half-lives (whichever is longer) since prior monoclonal antibody
+
+          -  More than 12 days since prior and no concurrent potent CYP3A4 inducers including, but
+             not limited to carbamazepine, phenobarbital, phenytoin, rifabutin, rifampin,
+             tipranavir, ritonavir, or St. John wort
+
+          -  More than 7 days since prior and no concurrent potent CYP3A4 inhibitors including,
+             but not limited to ketoconazole, itraconazole, miconazole, clarithromycin,
+             erythromycin, ritonavir, indinavir, nelfinavir, saquinavir, amprenavir, delavirdine,
+             nefazodone, diltiazem, verapamil, or grapefruit juice
+
+          -  No concurrent medications known to be metabolized by CYP3A4 with narrow therapeutic
+             indices, including pimozide, aripiprazole, triazolam, ergotamine, and halofantrine
+
+          -  No other concurrent anticancer therapy (including chemotherapy, radiotherapy,
+             immunotherapy, or biologic therapy), except for hydroxyurea for patients with ALCL or
+             decadron for patients with CNS tumors
+
+          -  No other concurrent investigational drugs
+
+          -  Concurrent corticosteroids for CNS tumors allowed provided the dose has been stable
+             or decreasing for the past 7 days
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Yael P. Mosse, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UAB Comprehensive Cancer Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - UAB Comprehensive Cancer Center</last_name>
+      <phone>205-934-0309</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Violet Shen</last_name>
+      <phone>714-532-8636</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Helen Diller Family Comprehensive Cancer Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical  Trials Office - UCSF Helen Diller Family Comprehensi</last_name>
+      <phone>877-827-3222</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Colorado Center for Cancer and Blood Disorders</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kelly W. Maloney</last_name>
+      <phone>720-777-6673</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010-2970</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Children's National Medical Center</last_name>
+      <phone>202-884-2549</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AFLAC Cancer Center and Blood Disorders Service of Children's Healthcare of Atlanta - Egleston Campus</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Todd M. Cooper</last_name>
+      <phone>404-785-1838</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Memorial Hospital - Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stewart Goldman</last_name>
+      <phone>312-227-4844</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Riley's Children Cancer Center at Riley Hospital for Children</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James M. Croop</last_name>
+      <phone>317-944-8784</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Warren Grant Magnuson Clinical Center - NCI Clinical Trials Referral Office</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1182</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Warren Grant Magnusen Clinical Center</last_name>
+      <phone>888-NCI-1937</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber/Harvard Cancer Center at Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>2115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos Rodriguez-Galindo</last_name>
+      <phone>617-632-4580</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>C.S. Mott Children's Hospital at University of Michigan Medical Center</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-0286</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - C.S. Mott Children's Hospital</last_name>
+      <phone>800-865-1125</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Masonic Cancer Center at University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Masonic Cancer Center at University o</last_name>
+      <phone>612-624-2620</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center at Barnes-Jewish Hospital - Saint Louis</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert J. Hayashi</last_name>
+      <phone>314-454-2041</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Herbert Irving Comprehensive Cancer Center at Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Herbert Irving Comprehensive Cancer C</last_name>
+      <phone>212-305-8615</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229-3039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Cincinnati Children's Hospital Medica</last_name>
+      <phone>513-636-2799</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205-2696</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura T. Martin</last_name>
+      <phone>614-722-3582</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Knight Cancer Institute at Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239-3098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Knight Cancer Institute at Oregon Hea</last_name>
+      <phone>503-494-1080</phone>
+      <email>trials@ohsu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Fox</last_name>
+      <phone>267-425-3010</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Children's Hospital of Pittsburgh</last_name>
+      <phone>412-692-7056</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Children's Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - St. Jude Children's Research Hospital</last_name>
+      <phone>901-595-4644</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt-Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232-6838</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Vanderbilt-Ingram Cancer Center</last_name>
+      <phone>800-811-8480</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Simmons Comprehensive Cancer Center at University of Texas Southwestern Medical Center - Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Simmons Comprehensive Cancer Center a</last_name>
+      <phone>866-460-4673; 214-648-7097</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor University Medical Center - Houston</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-2399</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick A. Thompson</last_name>
+      <phone>832-824-4029</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital and Regional Medical Center - Seattle</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie R. Park</last_name>
+      <phone>206-987-2106</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Children's Cancer Center at Children's Hospital of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael E. Kelly</last_name>
+      <phone>414-456-4170</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sylvain Baruchel</last_name>
+      <phone>416-813-7795</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/COG-ADVL0912</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>October 2012</verification_date>
+  <lastchanged_date>October 11, 2012</lastchanged_date>
+  <firstreceived_date>July 14, 2009</firstreceived_date>
+  <responsible_party>
+    <name_title>Susan M. Blaney</name_title>
+    <organization>Texas Children's Cancer Center and Hematology Service at Texas Children's Hospital</organization>
+  </responsible_party>
+  <keyword>unspecified childhood solid tumor, protocol specific</keyword>
+  <keyword>recurrent neuroblastoma</keyword>
+  <keyword>recurrent childhood anaplastic large cell lymphoma</keyword>
+  <keyword>recurrent childhood brain stem glioma</keyword>
+  <keyword>recurrent childhood cerebellar astrocytoma</keyword>
+  <keyword>recurrent childhood cerebral astrocytoma</keyword>
+  <keyword>recurrent childhood anaplastic astrocytoma</keyword>
+  <keyword>recurrent childhood anaplastic oligoastrocytoma</keyword>
+  <keyword>recurrent childhood anaplastic oligodendroglioma</keyword>
+  <keyword>recurrent childhood fibrillary astrocytoma</keyword>
+  <keyword>recurrent childhood gemistocytic astrocytoma</keyword>
+  <keyword>recurrent childhood giant cell glioblastoma</keyword>
+  <keyword>recurrent childhood glioblastoma</keyword>
+  <keyword>recurrent childhood gliomatosis cerebri</keyword>
+  <keyword>recurrent childhood gliosarcoma</keyword>
+  <keyword>recurrent childhood oligoastrocytoma</keyword>
+  <keyword>recurrent childhood oligodendroglioma</keyword>
+  <keyword>recurrent childhood pilocytic astrocytoma</keyword>
+  <keyword>recurrent childhood pilomyxoid astrocytoma</keyword>
+  <keyword>recurrent childhood pleomorphic xanthoastrocytoma</keyword>
+  <keyword>recurrent childhood protoplasmic astrocytoma</keyword>
+  <keyword>recurrent childhood subependymal giant cell astrocytoma</keyword>
+  <keyword>recurrent childhood visual pathway and hypothalamic glioma</keyword>
+  <keyword>recurrent childhood visual pathway glioma</keyword>
+  <keyword>recurrent childhood medulloblastoma</keyword>
+  <keyword>recurrent childhood ependymoma</keyword>
+  <keyword>recurrent childhood pineoblastoma</keyword>
+  <keyword>recurrent childhood supratentorial primitive neuroectodermal tumor</keyword>
+  <keyword>childhood choroid plexus tumor</keyword>
+  <keyword>childhood craniopharyngioma</keyword>
+  <keyword>childhood ependymoblastoma</keyword>
+  <keyword>childhood medulloepithelioma</keyword>
+  <keyword>childhood grade I meningioma</keyword>
+  <keyword>childhood grade II meningioma</keyword>
+  <keyword>childhood grade III meningioma</keyword>
+  <keyword>childhood central nervous system germ cell tumor</keyword>
+  <keyword>recurrent childhood spinal cord neoplasm</keyword>
+  <keyword>childhood infratentorial ependymoma</keyword>
+  <keyword>childhood supratentorial ependymoma</keyword>
+  <keyword>childhood high-grade cerebellar astrocytoma</keyword>
+  <keyword>childhood high-grade cerebral astrocytoma</keyword>
+  <keyword>childhood low-grade cerebellar astrocytoma</keyword>
+  <keyword>childhood low-grade cerebral astrocytoma</keyword>
+  <keyword>childhood atypical teratoid/rhabdoid tumor</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Neuroblastoma</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+    <mesh_term>Lymphoma, Large-Cell, Anaplastic</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

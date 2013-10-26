@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="65">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01228448</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10-241</org_study_id>
+    <nct_id>NCT01228448</nct_id>
+  </id_info>
+  <brief_title>In-Room PET in Proton Radiation Therapy</brief_title>
+  <official_title>Pilot Study of In-Room PET in Proton Radiation Therapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The investigational part of this study is using a mobile PET scanner called NeuroPET to take
+      images of the participants tumor while they are receiving proton radiation treatment.  This
+      allows the participant to be treated and imaged in the same bed.  The information obtained
+      may improve the accuracy of treatment and may help to minimize the dose delivered
+      unnecessarily to healthy tissue.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      -  Depending upon when the participant enrolls in the study, they will have anywhere from
+           1 to 4 in-room PET scans during proton radiation treatment. There are three groups.
+
+        -  Group 1: A total of 24 participants in the study will have a PET scan right after their
+           first radiation treatment is completed.  The scan will take 15-20 minutes.  For 5 of
+           the first 19 participants, the PET scan will be performed three more times within a
+           week (Monday, Wednesday, Friday). For participants 20-24 the scan will be performed
+           three times in the 1st, 3rd and 5th weeks.
+
+        -  Group 2: Three participants will have a 20 minute PET scan done after the first dose of
+           radiation given to the tumor.
+
+        -  Group 3: Three participants will have a 5-20 minute PET scan done after the delivery of
+           the first dose of radiation, and a 15-20 minute PET scan will be done after the
+           delivery of the second dose of radiation.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2010</start_date>
+  <primary_completion_date type="Anticipated">April 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Effectiveness</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Acquire PET scan data in list-mode on patients undergoing external beam proton radiotherapy for brain and soft tissue tumors in head.  Analyze these data to assess the effectiveness of using NeuroPET for in-room PET monitoring or proton radiation therapy quality assurance.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Optimize the in-room PET acquisition length</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Reconstruct these list-mode PET data for different scan durations and optimize in-room PET acquisition length</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Brain Tumor</condition>
+  <condition>Head and Neck Tumor</condition>
+  <condition>Skull Base Tumor</condition>
+  <arm_group>
+    <arm_group_label>Participants 1-24</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PET Scan done right after the first radiation treatment is complete and will take 15-20 minutes.   The scan will then be performed three more times.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Participants 25-27</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>20 minute PET scan done after the first dose of radiation given to the tumor.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Participants 28-30</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>5-10 minute PET scan will be done after the delivery of the first dose of radiation, and a 15-20 minute PET scan will be done after the delivery of the second dose of radiation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>PET scan</intervention_name>
+    <description>In-Room PET scan</description>
+    <arm_group_label>Participants 1-24</arm_group_label>
+    <arm_group_label>Participants 25-27</arm_group_label>
+    <arm_group_label>Participants 28-30</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult subjects with brain, head and neck, and skull base tumors receiving external
+             beam proton radiotherapy at the Francis H. Burr Proton Therapy Center at MGH
+
+          -  Age 18 or over
+
+          -  ECOG Performance status 0, 1 or 2
+
+          -  Subjects must have internal CT markers implanted on the skull as part of their
+             radiation treatment planning
+
+        Exclusion Criteria:
+
+          -  Uncontrolled intercurrent illness that, in the opinion of the investigator, would
+             limit the participant's compliance with study requirements.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Helen A. Shih, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Massachusetts General Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barbara Winrich, MA</last_name>
+    <phone>617-724-2334</phone>
+    <email>bwinrich@partners.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 9, 2013</lastchanged_date>
+  <firstreceived_date>October 25, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>Helen A. Shih, MD</investigator_full_name>
+    <investigator_title>Attending Radiation Oncologist</investigator_title>
+  </responsible_party>
+  <keyword>external beam proton radiotherapy</keyword>
+  <keyword>PET</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Head and Neck Neoplasms</mesh_term>
+    <mesh_term>Skull Base Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

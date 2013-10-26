@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="295">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01272622</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DKSR 463</org_study_id>
+    <nct_id>NCT01272622</nct_id>
+  </id_info>
+  <brief_title>Prospective Study of Children and Adolescents With Craniopharyngioma</brief_title>
+  <official_title>KRANIOPHARYNGEOM 2007 - Multicenter Prospective Study of Children and Adolescents With Craniopharyngioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Klinikum Oldenburg gGmbH</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>German society of pediatric oncology and hematology (GPOH)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Association of pediatric endocrinology (APE)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>German Society for Endocrinology (DGE)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Working group pediatric radiation oncology (APRO)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Task force of the German society of radiation oncology (DEGRO)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Deutsche Kinderkrebsstiftung (DKKS)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Klinikum Oldenburg gGmbH</source>
+  <oversight_info>
+    <authority>Germany: Ethical board</authority>
+    <authority>Germany: Federal Office for Radiation Protection</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The present investigation is a prospective, multicenter study evaluating craniopharyngioma
+      patients' prognoses following the various currently-practiced therapeutic strategies.Primary
+      goals of the study are to establish quality standards and compare the various therapy
+      strategies with respect to their effectiveness and impact on the quality of life of treated
+      patients. A stratified randomization of two treatment arms will be conducted with respect to
+      timing of postoperative irradiation for the subgroup of patients ≥5 years of age whose
+      tumors are incompletely resected. The researchers will investigate whether an immediate,
+      postoperative irradiation is superior to progression-contingent irradiation based on
+      alterations to quality of life (PEDQOL) from the time randomization is initiated (3rd month
+      post op) to 3 years after randomization. Progression-free survival and overall survival will
+      be examined as closely-related subgoals.Postoperative data will be evaluated via a
+      surveillance study for all complete resection patients as well as for those patients under 5
+      years of age regardless of their resection grade.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2007</start_date>
+  <completion_date type="Anticipated">April 2014</completion_date>
+  <primary_completion_date type="Anticipated">April 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Quality of life</measure>
+    <time_frame>3 years after diagnosis</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>•Randomized investigation of children (≥ 5 years of age) and adolescent QoL changes (main goal assessment) following incomplete craniopharyngioma resections at primary diagnosis per QoL endpoint scores (PEDQOL &quot;physical functions&quot; domain) measured from 3rd month after surgery for 3 years after randomization; and the progression-free and total survival rates (subgoal assessments) relative to how these rates relate to postoperative irradiation timing (immediate postsurgery irradiation versus wait-and-see approach + progression-contingent irradiation of residual tumor).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rate of Progression or relapse</measure>
+    <time_frame>3 years after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Compilation of applied therapy strategies for craniopharyngiomas in children and adolescents using data capture conforming to SIOP brain tumor groups
+Evaluation of patients' remission status following the various therapy strategies/modalities for craniopharyngiomas using data detection consistent with SIOP brain tumor groups
+Evaluation of the health status (ophthalmologic, neuropsychologic and endocrine conditions) and health-related QoL of children and adolescents following treatment of craniopharyngiomas using data capture conforming to SIOP brain tumor groups</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Craniopharyngioma</condition>
+  <condition>Obesity</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Children and adolescents &gt;= 18 years of age new diagnosed with craniopharyngioma
+&gt;= 5 years of age and with incomplete resected tumor =&gt; randomized in two arms: immediate irradiation after surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>incomplete resection and irradiation at the time of progression of residual tumor</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation</intervention_name>
+    <description>Immediate irradiation after incomplete resection (fractionated, percutaneous irradiation, 54 gy)</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>wait and watch</intervention_name>
+    <description>wait ans watch, MRI controls, irradiation at the time of progression of residual tumor</description>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Diagnosed with craniopharyngioma for the first time
+
+          2. Age at diagnosis 18 years or less of age
+
+          3. Agreement from patient's parents or legal guardian as well as the patient
+
+        Criteria for inclusion in randomization study
+
+          1. Histological diagnosis of craniopharyngioma
+
+          2. Age at diagnosis 18 years or less of age
+
+          3. Age at primary surgery over 5 years of age
+
+          4. Incomplete primary resection
+
+          5. Reference radiological confirmation of an incomplete resection
+
+          6. Agreement from patient's parents or legal guardian as well as the patient
+
+        Exclusion Criteria:
+
+        Age at diagnosis over 18 years of age No QoL measurement for randomization (3 months after
+        surgery).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Hermann L Mueller, MD</last_name>
+    <phone>+49 441 403</phone>
+    <phone_ext>2013</phone_ext>
+    <email>mueller.hermann@klinikum-oldenburg.de</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Ursel Gebhardt, phD</last_name>
+    <phone>+49 403 441</phone>
+    <phone_ext>2072</phone_ext>
+    <email>kikra.doku@klinikum-oldenburg.de</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Klinikum Oldenburg</name>
+      <address>
+        <city>Oldenburg</city>
+        <state>Niedersachsen</state>
+        <zip>26133</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hermann L Mueller, MD</last_name>
+      <phone>+49 441 403</phone>
+      <phone_ext>2013</phone_ext>
+      <email>mueller.hermann@klinikum-oldenburg.de</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ursel Gebhardt, phD</last_name>
+      <phone>+49 441 403</phone>
+      <phone_ext>2072</phone_ext>
+      <email>kikra.doku@klinikum-oldenburg.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hermann L Mueller, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Germany</country>
+  </location_countries>
+  <link>
+    <url>http://kraniopharyngeom.net</url>
+    <description>Study Protocol and information about the ongoing trial</description>
+  </link>
+  <verification_date>July 2011</verification_date>
+  <lastchanged_date>August 8, 2011</lastchanged_date>
+  <firstreceived_date>January 7, 2011</firstreceived_date>
+  <responsible_party>
+    <name_title>Prof. Dr. Hermann Mueller</name_title>
+    <organization>Klinikum Oldenburg gGmbH</organization>
+  </responsible_party>
+  <keyword>Quality of life</keyword>
+  <keyword>Endocrinology</keyword>
+  <keyword>Oncology</keyword>
+  <keyword>Hypothalamus</keyword>
+  <keyword>Irradiation</keyword>
+  <keyword>Neurosurgery</keyword>
+  <keyword>Pediatric Brain tumors</keyword>
+  <keyword>Randomized trial</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Craniopharyngioma</mesh_term>
+    <mesh_term>Adamantinoma</mesh_term>
+    <mesh_term>Obesity</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="397">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01949376</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1R01NR014182-01</org_study_id>
+    <secondary_id>1R01NR014182-01</secondary_id>
+    <nct_id>NCT01949376</nct_id>
+  </id_info>
+  <brief_title>Mild Cognitive Impairment in Breast Cancer Patients</brief_title>
+  <acronym>HippoPCI</acronym>
+  <official_title>Hippocampal Predictors of Cognitive Impairment (HippoPCI) in Breast Cancer Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Nursing Research (NINR)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Northwestern University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to improve our understanding of differences in size, shape and
+      activity of a variety of brain areas that can occur in women with breast cancer undergoing
+      adjuvant chemotherapy or hormonal therapy, and how these brain areas are related to the
+      development of mild cognitive impairment as the result of these treatments.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study aims to identify neuroimaging biomarkers for predicting mild cognitive impairment
+      (MCI) in breast cancer patients receiving adjuvant chemo and/or hormonal therapy by
+      examining hippocampal-cortical neurocircuitry. Adjuvant therapies increase long-term
+      survival, but produce changes in cognitive function in 30% (up to 70%) of women on average
+      with breast cancer. Cognitive decline negatively impacts quality of life in patients and
+      their supporters. Therefore, early identification of patients at risk for developing
+      treatment-related cognitive impairment is needed to develop potential prevention or
+      treatment options and prevent further decline. Our recent work demonstrates that patients
+      receiving adjuvant hormonal treatment exhibit decline in cognition as soon as three months
+      post treatment. Although neuroimaging studies have identified brain changes associated with
+      chemotherapy (&quot;chemo brain&quot;, no investigation has assessed the type and severity of such
+      changes following hormonal therapy, nor has any study determined which individuals are at
+      greatest risk for cognitive impairment.
+
+      Our central hypothesis is that measures of the hippocampal-cortical integrity can be used to
+      predict cognitive decline, and changes of specific domains of cognitive performance in
+      patients receiving adjuvant therapy over time will be related to changes in specific
+      components of this circuitry over time.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2013</start_date>
+  <completion_date type="Anticipated">December 2018</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Case Control, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>Rates of change in cognitive function from baseline to one year</measure>
+    <time_frame>Baseline to one year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measured using a neuropsychological test battery</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Rates of change of brain structure from baseline to one year</measure>
+    <time_frame>Baseline to one year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measured using structural MRI scan</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Rates of change of brain function from baseline to one year</measure>
+    <time_frame>Baseline to one year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measured using a functional MRI scan</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Cognitive Impairment</condition>
+  <arm_group>
+    <arm_group_label>CH+ Patients</arm_group_label>
+    <description>any stage of breast cancer without brain metastasis, has undergone surgery prior to screening, will undergo hormonal therapy with or without chemotherapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CH- Patients</arm_group_label>
+    <description>any stage of breast cancer without brain metastasis, has undergone surgery prior to screening, will undergo no therapy or radiation therapy.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CON (Controls)</arm_group_label>
+    <description>healthy, cognitively normal subjects</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        CON subjects will be recruited from advertisement and through the Northwestern University
+        (NU) Cognitive Neurology and Alzheimer's Disease Center (CNADC).
+
+        The CH+ and CH- patients will be recruited from the 3 following sites, through physician
+        referral: a) outpatient facility at Galter Pavilion of Northwestern Memorial Hospital; b)
+        to Maggie Daley Center for Women's Cancer Care at Prentice Women's Hospital; and c) Lynn
+        Sage Comprehensive Breast Cancer Center at Prentice Women's Hospital.
+
+        Additional participants will be recruited (a) through advertisement in local newspapers,
+        craigslist, and at community programs that serve cancer patients, including hospitals and
+        support groups, and (b) from community educational events sponsored by the Robert H. Lurie
+        Comprehensive Cancer Center and the Women's Health Research Institute.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Female, within the age range of 40-70
+
+          -  Post-menopausal, or will undergo hormonal therapy.
+
+          -  CH+ patients - any stage of breast cancer without brain metastasis, has undergone
+             surgery prior to screening, will undergo hormonal therapy with or without
+             chemotherapy.
+
+          -  CH- patients - any stage of breast cancer without brain metastasis, has undergone
+             surgery prior to screening, will undergo no therapy or radiation therapy.
+
+          -  CON - cognitively normal on the basis of annual neuropsychological and research
+             neurological examinations done as part of the Uniform Data Set (UDS), of the NIA
+             Alzheimer's Disease Centers (ADC) program, recruited from the NU CNADC Clinical Core.
+
+          -  All subjects must have given signed, informed consent prior to registration on study.
+
+        Exclusion Criteria:
+
+          -  Individuals who report significant medical, neurologic, or psychiatric illness,
+             including but not limited to:
+
+          -  Major depression
+
+          -  Schizophrenia
+
+          -  ADHD
+
+          -  Autism
+
+          -  Alzheimer's disease
+
+          -  Dementia
+
+          -  Obsessive-compulsive disorder
+
+          -  Post-traumatic stress disorder
+
+          -  Individuals with an Inventory of Depressive Symptomatology - Self Report (IDS-SR)
+             score of 30 or higher, since this level of depression could affect cognitive test
+             performance.
+
+          -  Left-handed individuals, as including this population would muddy MRI brain analysis
+             due to differing lateralization of function between right- and left-handed
+             individuals
+
+          -  Brain surgery or head injury
+
+               -  Individuals reporting previous head injury
+
+               -  Individuals requiring neurosurgical procedures
+
+          -  Ineligibility for MRI scanning, including but not limited to:
+
+               -  Individuals who have non-MRI compatible medical implants or devices
+
+               -  Individuals who have any potential metal in their bodies
+
+               -  Individuals who have claustrophobia
+
+               -  Individuals with permanent makeup
+
+          -  Individuals reporting consumption of drugs that would affect cognition
+             (neuropsychiatric or illicit)
+
+          -  Individuals indicating a history of breast cancer will be excluded from the healthy
+             control group
+
+          -  Women entering this study should be post-menopausal.  If, however, a woman becomes
+             pregnant after enrolling in the study, she will be excluded.
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>40 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Lei Wang, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Northwestern University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jessica Berger, LCSW</last_name>
+    <phone>312-503-4995</phone>
+    <email>jessica.berger1@northwestern.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Melody Fairchild, M.A.T.</last_name>
+    <phone>312-503-7071</phone>
+    <email>m-fairchild@northwestern.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Northwestern University</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Berger, LCSW</last_name>
+      <phone>312-503-4995</phone>
+      <email>jessica.berger1@northwestern.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Melody Fairchild, M.A.T.</last_name>
+      <phone>312-503-7071</phone>
+      <email>m-fairchild@northwestern.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lei Wang, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://niacal.northwestern.edu/projects/16</url>
+    <description>Hippocampal Predictors of Cognitive Impairment (HippoPCI) in Breast Cancer Patients</description>
+  </link>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 19, 2013</lastchanged_date>
+  <firstreceived_date>September 19, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Northwestern University</investigator_affiliation>
+    <investigator_full_name>Lei Wang</investigator_full_name>
+    <investigator_title>Assistant Professor</investigator_title>
+  </responsible_party>
+  <keyword>breast cancer</keyword>
+  <keyword>cognitive impairment</keyword>
+  <keyword>adjuvant therapy</keyword>
+  <keyword>hormone therapy</keyword>
+  <keyword>chemo brain</keyword>
+  <keyword>MRI</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Cognition Disorders</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

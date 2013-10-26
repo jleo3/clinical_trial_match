@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="254">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01390571</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000702605</org_study_id>
+    <secondary_id>CRUK-CR0901-11</secondary_id>
+    <secondary_id>EUDRACT-2010-018615-15</secondary_id>
+    <nct_id>NCT01390571</nct_id>
+  </id_info>
+  <brief_title>Olaparib and Temozolomide in Treating Patients With Relapsed Glioblastoma</brief_title>
+  <official_title>A Cancer Research UK Phase I Trial of Olaparib (AZD2281), an Oral PARP Inhibitor, in Combination With Extended Low-Dose Oral Temozolomide in Patients With Relapsed Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cancer Research UK</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Cancer Research UK</source>
+  <oversight_info>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>United Kingdom: Research Ethics Committee</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Olaparib may stop the growth of tumor cells by blocking some of the enzymes
+      needed for cell growth. Drugs used in chemotherapy, such as temozolomide, work in different
+      ways to stop the growth of tumor cells, either by killing the cells or by stopping them from
+      dividing. Olaparib may help temozolomide kill more tumor cells by making tumor cells more
+      sensitive to the drug.
+
+      PURPOSE: This phase I trial is studying the side effects and best dose of olaparib and
+      temozolomide in treating patients with relapsed glioblastoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To determine whether olaparib crosses the blood-brain barrier (BBB) and achieves tumor
+           penetration in patients with relapsed glioblastoma. (Stage 1)
+
+        -  To determine the safety and tolerability of the combination of olaparib and
+           temozolomide in patients with relapsed glioblastoma. (Stage 2)
+
+      Secondary
+
+        -  To assess BBB disruption and BBB permeability in patients with relapsed glioblastoma.
+           (Stage 1 and stage 2 maximum-tolerated dose [MTD] expansion cohort)
+
+        -  To assess the possible anti-tumor activity of the combination of olaparib and
+           temozolomide in patients with relapsed glioblastoma. (Stage 2)
+
+      Tertiary
+
+        -  To assess biological markers as possible predictors of olaparib efficacy in patients
+           with glioblastoma.
+
+        -  To optimize techniques for measuring DNA damage responses to PARP inhibition in tumor
+           tissue.
+
+        -  To determine plasma concentration of olaparib at the time of surgery in patients with
+           glioblastoma.
+
+        -  To evaluate the PARP inhibition at the time of surgery in peripheral blood mononuclear
+           cells (PBMCs).
+
+      OUTLINE: This is a multicenter, dose-escalation study.
+
+        -  Stage 1: Patients receive fixed-dose oral olaparib twice daily for 3 days prior to
+           resection and then receive a dose of oral olaparib on the morning of the resection.
+           After the surgical resection, patient receive standard of care treatment. Patients
+           undergo dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) and
+           diffusion-weighted imaging (DWI) scans to assess the disruption and permeability of the
+           blood-brain barrier (BBB).
+
+      If it is proven that olaparib can cross the BBB and achieve tumor penetration as measured by
+      liquid chromatography mass spectrometry (LC-MS) in at least one out of six patients, then
+      new patients are recruited to stage 2 of the study.
+
+        -  Stage 2: Patients receive escalating doses of oral olaparib once or twice daily for 3
+           days prior to resection and then receive a dose of oral olaparib on the morning of the
+           resection. After recovery from surgery, patients receive oral olaparib once or twice
+           daily and oral temozolomide once daily on days 1-42. Treatment repeats every 8 weeks
+           for up to 3 courses in the absence of disease progression or unacceptable toxicity.
+           Patients may receive 3 additional courses of treatment in the absence of disease
+           progression.
+
+      Once the maximum tolerated dose (MTD) is established, 10 more patients are treated at the
+      MTD as stage 2 MTD expansion cohort. These patients also undergo DCE-MRI and DWI scans.
+
+      All patients undergo blood collection periodically for pharmacokinetic and pharmacodynamic
+      studies.
+
+      After completion of study treatment, patients are followed up for 28 days and then monthly
+      until resolution of study drug-related adverse events.
+
+      Peer Reviewed and Funded or Endorsed by Cancer Research UK.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2011</start_date>
+  <primary_completion_date type="Anticipated">September 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Detection of olaparib in tumor tissue using liquid chromatography mass spectrometry (LC-MS) seen in at least 1  out of the 6  patients treated in stage 1 of the study</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum-tolerated dose of  olaparib in combination with  temozolomide (stage 2)</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Toxicity profile and  dose-limiting toxicity as  assessed by NCI CTCAE Version 4.02 (stage 2)</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of blood-brain barrier (BBB) disruption and permeability biomarkers by dynamic contrast-enhanced magnetic resonance imaging (DCE-MRI) and diffusion-weighted imaging (DWI) (stage 1 and stage 2 MTD expansion cohort)</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival at 6  months post-surgery as assessed by  the Response Assessment in Neuro-Oncology Working Group (RANO) criteria from conventional MRI and clinical assessment (stage 2)</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gene copy number analysis of DNA repair genes</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of DNA repair gene expression</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of methylation of the MGMT promoter gene by bisulfite modification of DNA and pyrosequencing</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of microsatellite instability by Multiplex PCR</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of mismatch repair (MMR) gene expression by quantitative real time polymerase chain reaction (QRT-PCR) analysis</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of phosphatase and tensin homolog (PTEN) protein and gene expression</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quantification of global DNA strand breaks in tumour tissue by Immunostaining for γH2AX</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Measurement of Rad51 foci and nuclear staining intensity as markers of homologous recombination (HR) repair activity</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Plasma levels of olaparib measured by LC-MS</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PARP inhibition measured by validated assays</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">34</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>olaparib</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>gene expression analysis</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>protein expression analysis</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>diffusion-weighted magnetic resonance imaging</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>dynamic contrast-enhanced magnetic resonance imaging</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>therapeutic conventional surgery</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed grade IV glioblastoma
+
+          -  Radiological diagnosis of recurrent or progressive disease according to Response
+             Assessment in Neuro-Oncology Working Group (RANO) criteria, which is suitable for
+             palliative resection
+
+          -  Must have an adequate amount of tumor tissue available
+
+          -  Previously received first-line treatment with radical radiotherapy, or chemoradiation
+             followed by adjuvant chemotherapy
+
+               -  No prior chemotherapy for recurrent disease
+
+        PATIENT CHARACTERISTICS:
+
+          -  WHO performance status 0-2
+
+          -  Life expectancy &gt; 12 weeks
+
+          -  Hemoglobin ≥ 9.0 g/dL
+
+          -  Absolute neutrophil count ≥ 1.5 x 10^9/L
+
+          -  Platelet count ≥ 100 x 10^9/L
+
+          -  Serum bilirubin ≤ 1.5 times upper limit of normal (ULN)
+
+          -  ALT or AST ≤ 2.5 times ULN
+
+          -  Calculated creatinine clearance ≥ 50 mL/min OR isotope clearance measurement ≥ 50
+             mL/min (uncorrected)
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use one (male) or two (female) highly effective forms of
+             contraception 4 weeks prior to, during, and for 6 months after completion of study
+             therapy
+
+          -  Able to swallow and retain oral medications
+
+          -  Not at high medical risk due to non-malignant systemic disease, including active
+             uncontrolled infection
+
+          -  No known hepatitis B, hepatitis C, or HIV seropositivity
+
+          -  No concurrent congestive heart failure, prior history of NYHA class III-IV cardiac
+             disease, prior history of cardiac ischemia, or prior history of cardiac arrhythmia
+             within the past 12 months
+
+          -  No grand mal seizures occurring ≥ 3 times per week over the past month
+
+          -  No gastrointestinal disorders likely to interfere with absorption of the study
+             medication
+
+          -  No known hypersensitivity to any of the components of olaparib
+
+          -  No known hypersensitivity to temozolomide (TMZ) or any of its components, or to
+             dacarbazine (DTIC) (for patients enrolled in stage 2 study only)
+
+          -  No known lactose intolerance (for patients enrolled in the stage 2 study only)
+
+          -  No metal fragments in the eyes (shrapnel or bullet injuries are excluded on the basis
+             of their unsuitability to undergo MRI scans)
+
+          -  No other condition which, in the Investigator's opinion, would not make the patient a
+             good candidate for the clinical trial
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  See Disease Characteristics
+
+          -  No ongoing toxic manifestations from previous treatments except for alopecia or grade
+             1 toxicities which, in the opinion of the Investigator and the Drug Development
+             Office (DDO), should not exclude the patient
+
+          -  At least 12 weeks since prior radiotherapy, endocrine therapy, or immunotherapy
+
+          -  At least 6 weeks since prior major surgery
+
+          -  At least 4 weeks since prior chemotherapy
+
+          -  At least 4 weeks since prior immunizations with live vaccines (or expected to receive
+             vaccines during the trial and up to at least 6 months after receiving last study
+             treatment), including BCG and yellow fever vaccines
+
+          -  No prior PARP inhibitors, including olaparib
+
+          -  No prior major thoracic or abdominal surgery from which the patient has not yet
+             recovered
+
+          -  No prior heart surgery
+
+          -  No pacemakers
+
+          -  No change to systemic steroids dose within 5 days prior to enrollment (i.e., must be
+             on a stable dose at time of enrollment and remain on a stable dose throughout the
+             treatment period)
+
+          -  No herbal supplements and/or ingestion of foods known to modulate CYP3A4 enzyme
+             activity from time entered on screening period until 28 days after the last dose of
+             study medication
+
+          -  No concurrent drugs known to be potent inducers of CYP3A4, including phenytoin,
+             carbamazepine, phenobarbital, rifampicin, rifapentine, rifabutin, nevirapine,
+             modafinil, or St. John wort (wash-out period for phenobarbital is 5 weeks, 3 weeks
+             for all others)
+
+          -  No concurrent drugs known to be potent inhibitors of CYP3A4, including ketoconazole,
+             itraconazole, ritonavir, indinavir, saquinavir, telithromycin, clarithromycin, or
+             nelfinavir (wash-out period is 1 week)
+
+          -  No concurrent or planned participation in another interventional clinical study
+
+               -  Participation in an observational study is acceptable
+
+          -  No concurrent warfarin (patients requiring anticoagulation should be given
+             subcutaneous low molecular weight heparin)
+
+          -  No other concurrent anticancer therapy (including radiotherapy) or investigational
+             drugs
+
+               -  Patients in stage 1 of the study only may receive additional anticancer
+                  therapies as soon as the resection has been performed
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Anthony Chalmers, Prof</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Beatson West of Scotland Cancer Centre</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Bristol Haematology and Oncology Centre</name>
+      <address>
+        <city>Bristol</city>
+        <state>England</state>
+        <zip>BS2 8ED</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>01173423008</phone>
+      <email>Kristen.Hopkins@UHBristol.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Kristen Hopkins, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Addenbrooke's Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <state>England</state>
+        <zip>CB2 0QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>01223586705</phone>
+      <email>sarah.jefferies@addenbrookes.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Sarah Jefferies, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Christie Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <state>England</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>0161 446 3495</phone>
+      <email>catherine.mcbain@christie.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Catherine McBain, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden Hospital</name>
+      <address>
+        <city>Sutton</city>
+        <state>England</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>020 8661 3988</phone>
+      <email>Rhoda.molife@icr.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Rhoda Molife, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beatson West of Scotland Cancer Centre</name>
+      <address>
+        <city>Glasgow</city>
+        <state>Scotland</state>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>0141 301 7097</phone>
+      <email>anthony.chalmers@glasgow.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Anthony Chalmers, Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital</name>
+      <address>
+        <city>Birmingham</city>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>0121 697 8231</phone>
+      <email>Garth.Cruickshank@uhb.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Garth Cruikshank, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Western General Hospital</name>
+      <address>
+        <city>Edinburgh</city>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>0131 537 1052</phone>
+      <email>serridge@staffmail.ed.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Sara Erridge, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/CRUK-CR0901-11</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 24, 2013</lastchanged_date>
+  <firstreceived_date>July 7, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

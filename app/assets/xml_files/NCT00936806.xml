@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="210">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00936806</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2008/666</org_study_id>
+    <nct_id>NCT00936806</nct_id>
+  </id_info>
+  <brief_title>Observational Study of the Differences in Characteristics of the Spontaneous Electroencephalogram, Derived From the Left and Right Hemisphere in Patients With Unilateral Intracranial Tumor During Routine Anesthesia: Comparison With a Control Group Without Intracranial Pathology</brief_title>
+  <acronym>VISTA</acronym>
+  <official_title>Observational Study of the Differences in Characteristics of the Spontaneous Electroencephalogram, Derived From the Left and Right Hemisphere in Patients With Unilateral Intracranial Tumor During Routine Anesthesia. Comparison With a Control Group Without Intracranial Pathology.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Ghent</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Covidien</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University Hospital, Ghent</source>
+  <oversight_info>
+    <authority>Belgium: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Study of the influence of brain tumor on bilateral electroencephalogram (EEG) during
+      anaesthesia.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2009</start_date>
+  <completion_date type="Anticipated">December 2013</completion_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Case Control, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>Asymmetry of EEG extracted indices obtained from either healthy or diseased hemispheres.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Covariates that causes asymmetry between bilaterally derived EEG.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_groups>2</number_of_groups>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Intracranial Tumor</condition>
+  <arm_group>
+    <arm_group_label>Unilateral intracranial tumor</arm_group_label>
+    <description>Subjects with unilateral intracranial tumor</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Control group</arm_group_label>
+    <description>Subjects without intracranial pathology</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients with unilateral intracranial tumor during routine anesthesia at the University
+        Hospital Ghent
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Adult ≥ 18 - 80 years old
+
+          -  Able to comprehend, sign, and date the written informed consent document to
+             participate in the clinical trial
+
+          -  Scheduled for &quot;procedure&quot;
+
+          -  ASA Class I, II or III as assigned by the anaesthesiologist
+
+        Exclusion Criteria:
+
+          -  Allergy or inability to tolerate &quot;product&quot;
+
+          -  Body weight less than 70% or more than 130% of ideal body weight
+
+          -  Pregnant or nursing females
+
+          -  Participation in a clinical trial within the past 30 days
+
+          -  Congenital mental disability or congenital anatomical brain abnormality
+
+          -  A medical history of cerebrovascular accident or thrombosis
+
+          -  A medical history of carotic artery occlusive pathology
+
+          -  A medical history of degenerative cerebral pathology (MS, Dementia, ALS, para-or
+             tetraplegia due to a traumatic disruption of the spinal cord)
+
+          -  A medical history of severe psychiatric pathology (Schizophrenia, severe depression,
+             alcoholism, drug abuse) Mild depression evoked by coping with the diagnosis of cancer
+             is not excluded
+
+          -  Patients with a history of  epileptic insults. Patients receiving preventive
+             anti-epileptic treatment due to the tumoral process are not excluded.
+
+          -  Patients with low cardiac output conditions due to pre-existing cardiac pathology
+             (Cardiac insufficiency, valve pathology, dysrhythmia, myocardial infarction).
+             Patients presenting with stable coronary artery disease with a normal myocardial
+             function are not excluded)
+
+          -  Arterial hypertension is not an exclusion criteria, nor is the use of
+             antihypertensive medication, except beta blockers for their potential interfering
+             effects on spontaneous EEG.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Hugo Vereecke, MD PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospital, Ghent</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Barbara Wyler</last_name>
+    <email>barbara.wyler@ugent.be</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Hospital Ghent</name>
+      <address>
+        <city>Ghent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Barbara Wyler</last_name>
+      <email>barbara.wyler@ugent.be</email>
+    </contact>
+    <investigator>
+      <last_name>Stefan De Hert, MD PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+  </location_countries>
+  <link>
+    <url>http://www.uzgent.be</url>
+    <description>website of the University Hospital Ghent</description>
+  </link>
+  <verification_date>February 2013</verification_date>
+  <lastchanged_date>February 1, 2013</lastchanged_date>
+  <firstreceived_date>July 9, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Intracranial tumor patients</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Anesthetics</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

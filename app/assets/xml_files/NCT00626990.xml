@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="336">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00626990</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000582632</org_study_id>
+    <secondary_id>EORTC-26053</secondary_id>
+    <secondary_id>CAN-NCIC-CEC1</secondary_id>
+    <secondary_id>RTOG-0834</secondary_id>
+    <secondary_id>EORTC-22054</secondary_id>
+    <secondary_id>EUDRACT-2006-001533-17</secondary_id>
+    <secondary_id>SPRI-EORTC-26053</secondary_id>
+    <secondary_id>MERCK-EORTC-26053</secondary_id>
+    <secondary_id>MRC-BR14</secondary_id>
+    <secondary_id>COGNO-EORTC-26053</secondary_id>
+    <nct_id>NCT00626990</nct_id>
+  </id_info>
+  <brief_title>Radiation Therapy With or Without Temozolomide in Treating Patients With Anaplastic Glioma</brief_title>
+  <official_title>Phase III Trial on Concurrent and Adjuvant Temozolomide Chemotherapy in Non-1p/19q Deleted Anaplastic Glioma. The CATNON Intergroup Trial.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>European Organisation for Research and Treatment of Cancer - EORTC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>NCIC Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Radiation Therapy Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Medical Research Council</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cooperative Trials Group for Neuro-Oncology</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>Unspecified</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Radiation therapy uses high-energy x-rays to kill tumor cells. Drugs used in
+      chemotherapy, such as temozolomide, work in different ways to stop the growth of tumor
+      cells, either by killing the cells or by stopping them from dividing. Giving radiation
+      therapy together with temozolomide may kill more tumor cells. It is not yet known whether
+      giving temozolomide during and/or after radiation therapy is more effective than radiation
+      therapy alone in treating anaplastic glioma.
+
+      PURPOSE: This randomized phase III trial is studying giving temozolomide during and/or after
+      radiation therapy to see how well it works compared to radiation therapy alone in treating
+      patients with anaplastic glioma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To assess whether concurrent radiotherapy with daily temozolomide improves overall
+           survival as compared to no daily temozolomide in patients with non-1p/19q deleted
+           anaplastic glioma.
+
+        -  To assess whether adjuvant temozolomide improves survival as compared to no adjuvant
+           temozolomide in patients with non-1p/19q deleted anaplastic glioma.
+
+      Secondary
+
+        -  To assess whether concurrent and adjuvant temozolomide prolongs progression-free
+           survival and neurological deterioration-free survival in patients with non-1p/19q
+           deleted anaplastic glioma.
+
+        -  To assess the safety of concurrent and adjuvant temozolomide in patients with
+           non-1p/19q deleted anaplastic glioma, including late effects on cognition.
+
+        -  To assess the impact of concurrent and adjuvant temozolomide on the quality of life of
+           patients with non-1p/19q deleted anaplastic glioma.
+
+      OUTLINE: This is a multicenter study. Patients are stratified according to institution, WHO
+      performance status (0 vs &gt; 0), age (≤ 50 vs &gt; 50), presence of 1p LOH only (yes vs no),
+      presence of oligodendroglial elements (yes vs no), and O6-methylguanine-DNA
+      methyltransferase promoter methylation status (methylated vs unmethylated vs indeterminate).
+      Patients are randomized to 1 of 4 treatment arms.
+
+        -  Arm I: Patients undergo radiotherapy* once daily, 5 days a week, for 6.5 weeks (total
+           of 33 fractions).
+
+        -  Arm II: Patients undergo radiotherapy* once daily, 5 days a week and receive oral
+           temozolomide once daily for 6.5 weeks (total of 33 fractions of radiotherapy).
+
+        -  Arm III: Patients undergo radiotherapy* once daily, 5 days a week for 6.5 weeks (total
+           of 33 fractions). Beginning 4 weeks after completion of radiotherapy, patients receive
+           adjuvant oral temozolomide once daily on days 1-5. Treatment with adjuvant temozolomide
+           repeats every 28 days for up to 12 courses.
+
+        -  Arm IV: Patients undergo radiotherapy* once daily, 5 days a week and receive oral
+           temozolomide once daily for 6.5 weeks (total of 33 fractions of radiotherapy).
+           Beginning 4 weeks after completion of radiotherapy, patients receive adjuvant oral
+           temozolomide once daily on days 1-5. Treatment with adjuvant temozolomide repeats every
+           28 days for up to 12 courses.
+
+      NOTE: *Patients must begin radiotherapy within 8 days after randomization and within 7 weeks
+      after surgery.
+
+      In all arms, treatment continues in the absence of disease progression or unacceptable
+      toxicity.
+
+      Patients complete quality-of-life questionnaires, including QLQ-C30 version 3, BCM20, and
+      the Mini Mental Status Exam at baseline, 4 weeks after the completion of radiotherapy, and
+      then every 3 months for 5 years.
+
+      Tissue samples are collected at baseline for histology review, 1p/19q analysis, methylation
+      status of the O6-methylguanine-DNA methyltransferase promoter, and isocitrate dehydrogenase
+      mutation analysis.
+
+      After completion of study treatment, patients are followed every 3 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2007</start_date>
+  <primary_completion_date type="Anticipated">June 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overall survival  as measured from the day of randomization</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurological deterioration-free survival</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life as assessed by the EORTC Quality of Life Questionnaire (QLQ-C30) version 3 and the Brain Cancer Module-20</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity as measured by CTEP Active Version of CTCAE</measure>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Development of cognitive deterioration as measured by the Mini Mental Status Exam</measure>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <enrollment type="Anticipated">1360</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>DNA methylation analysis</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>adjuvant therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>quality-of-life assessment</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed diagnosis of 1 of the following:
+
+               -  Anaplastic oligodendroglioma
+
+               -  Anaplastic oligoastrocytoma
+
+               -  Anaplastic astrocytoma
+
+          -  Newly diagnosed disease
+
+          -  Prior surgery for a low grade tumor is allowed, provided histological confirmation of
+             an anaplastic tumor is present at the time of progression
+
+          -  Absence of combined 1p/19q loss
+
+          -  Tumor material available for central 1p/19q assessment, central O6-methylguanine-DNA
+             methyltransferase promoter methylation status assessment, isocitrate dehydrogenase
+             mutation analysis, and central pathology review
+
+          -  Patients must be on a stable or decreasing dose of steroids for at least two weeks
+             prior to randomization
+
+        PATIENT CHARACTERISTICS:
+
+          -  WHO performance status 0-2
+
+          -  ANC ≥ 1.5 x 10^9 cells/L
+
+          -  Platelet count ≥ 100 x 10^9 cells/L
+
+          -  Bilirubin &lt; 1.5 x upper limit of normal (ULN)
+
+          -  Alkaline phosphatase &lt; 2.5 x ULN
+
+          -  AST and ALT &lt; 2.5 x ULN
+
+          -  Serum creatinine &lt; 1.5 x ULN
+
+          -  Not pregnant or nursing
+
+          -  Fertile patients must use effective contraception
+
+          -  No known HIV infection or chronic hepatitis B or hepatitis C infection
+
+          -  No other serious medical condition that would interfere with follow-up
+
+          -  No medical condition that could interfere with oral medication intake (e.g., frequent
+             vomiting or partial bowel obstruction)
+
+          -  No other prior malignancies except for any malignancy which was treated with curative
+             intent more than 5 years prior to registration and adequately controlled limited
+             basal cell carcinoma of the skin, squamous cell carcinoma of the skin, or carcinoma
+             in situ of the cervix
+
+          -  No prior or concurrent malignancies at other sites except for surgically cured
+             carcinoma in situ of the cervix or nonmelanoma skin cancer
+
+          -  No psychological, familial, sociological, or geographical condition that would
+             potentially hamper compliance with the study protocol and follow-up schedule
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  See Disease Characteristics
+
+          -  No prior chemotherapy, including carmustine-containing wafers (Gliadel®)
+
+          -  No prior radiotherapy to the brain
+
+          -  No concurrent growth factors unless vital for the patient
+
+          -  No other concurrent investigational treatment
+
+          -  No other concurrent anticancer agents
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wolfgang Wick</last_name>
+    <role>Study Chair</role>
+    <affiliation>Universitatsklinikum Heidelberg</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Warren P. Mason, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Princess Margaret Hospital, Canada</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Michael A. Vogelbaum, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>S. Erridge</last_name>
+    <role>Study Chair</role>
+    <affiliation>Medical Research Council</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Anna Nowak, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sir Charles Gairdner Hospital  - Nedlands</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Sir Charles Gairdner Hospital - Nedlands</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Nowak, MD</last_name>
+      <phone>61-8-9346-3841</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CancerCare Manitoba</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E 0V9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Eisenstat</last_name>
+      <phone>204-787-1169</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Universitatsklinikum Heidelberg</name>
+      <address>
+        <city>Heidelberg</city>
+        <zip>69120</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>49-6221-566-703</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Daniel Den Hoed Cancer Center at Erasmus Medical Center</name>
+      <address>
+        <city>Rotterdam</city>
+        <zip>3008 AE</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>31-10-704-1415</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bristol Haematology and Oncology Centre</name>
+      <address>
+        <city>Bristol</city>
+        <state>England</state>
+        <zip>BS2 8ED</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-117-928-3074</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Addenbrooke's Hospital</name>
+      <address>
+        <city>Cambridge</city>
+        <state>England</state>
+        <zip>CB2 0QQ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-1223-245-151</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gloucestershire Oncology Centre at Cheltenham General Hospital</name>
+      <address>
+        <city>Cheltenham</city>
+        <state>England</state>
+        <zip>GL53 7AN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-8454-222-222</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Devon and Exeter Hospital</name>
+      <address>
+        <city>Exeter</city>
+        <state>England</state>
+        <zip>EX2 5DW</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-1392-411-611</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Leeds Cancer Centre at St. James's University Hospital</name>
+      <address>
+        <city>Leeds</city>
+        <state>England</state>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-113-206-6400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Christie Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <state>England</state>
+        <zip>M20 4BX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-845-226-3000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nottingham City Hospital</name>
+      <address>
+        <city>Nottingham</city>
+        <state>England</state>
+        <zip>NG5 1PB</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-115-969-1169</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Derriford Hospital</name>
+      <address>
+        <city>Plymouth</city>
+        <state>England</state>
+        <zip>PL6 8DH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-175-277-7111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Research Centre at Weston Park Hospital</name>
+      <address>
+        <city>Sheffield</city>
+        <state>England</state>
+        <zip>S10 2SJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-114-226-5000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Edinburgh Cancer Centre at Western General Hospital</name>
+      <address>
+        <city>Edinburgh</city>
+        <state>Scotland</state>
+        <zip>EH4 2XU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>44-131-537-1000</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>Germany</country>
+    <country>Netherlands</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/EORTC-26053</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>May 2011</verification_date>
+  <lastchanged_date>September 16, 2011</lastchanged_date>
+  <firstreceived_date>February 28, 2008</firstreceived_date>
+  <responsible_party>
+    <name_title>Regulatory Affairs Associate</name_title>
+    <organization>European Organization for Research and Treatment of Cancer</organization>
+  </responsible_party>
+  <keyword>adult anaplastic oligodendroglioma</keyword>
+  <keyword>adult anaplastic astrocytoma</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adjuvants, Immunologic</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

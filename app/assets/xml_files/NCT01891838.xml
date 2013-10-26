@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="245">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01891838</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2012/15</org_study_id>
+    <nct_id>NCT01891838</nct_id>
+  </id_info>
+  <brief_title>Mode of Ventilation and Bleeding During Transsphenoidal Surgery</brief_title>
+  <acronym>Vent-Hyp</acronym>
+  <official_title>Transsphenoidal Surgery for Pituitary Adenomas: Influence of the Ventilation Mode on Intraoperative Bleeding</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Hopital Foch</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Hopital Foch</source>
+  <oversight_info>
+    <authority>France: Agence Nationale de Sécurité du Médicament et des produits de santé</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The risk of bleeding is important during transsphenoidal surgery. This study aims to find if
+      the ventilation mode, controlled pressure and controlled volume, modifies the risk of
+      bleeding.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The risk of bleeding is important during transsphenoidal surgery. This study aims to find if
+      the ventilation mode, controlled pressure and controlled volume, modifies the risk of
+      bleeding.
+
+        -  group Volume controlled ventilation: tidal volume of 7 mL/kg ideal body weight,
+           frequency of 12 cycles/minute, I/E ratio of 1:2, no positive end expiratory pressure.
+           Ventilatory frequency is changed if necessary to maintain end-expiratory pressure of
+           CO2 between 35 and 40 mmHg.
+
+        -  group Pressure-controlled ventilation: initial pressure of 15 cm H2O, frequency of 12
+           cycles/minute, I/E ratio of 1:2, no positive end expiratory pressure. Pressure is
+           modified to maintain a tidal volume of 7 mL/kg of ideal body weight and frequency
+           ventilation is modified to maintain end-expiratory pressure of CO2 between 35 and 40
+           mmHg.
+
+        -  In both groups, the fraction of inspired oxygen is 50%. A recruitment maneuver is
+           performed if the blood oxygen saturation became less than 92%.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2013</start_date>
+  <completion_date type="Anticipated">October 2014</completion_date>
+  <primary_completion_date type="Anticipated">June 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Single Blind (Caregiver), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>intraoperative bleeding</measure>
+    <time_frame>1 hour postoperatively</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>intraoperative bleeding is estimated by the operator (always the same) as  minimal (1), low (3), with no significant change in the conduct of the surgical procedure (5) with significant change in the conduct of surgical procedure (7). Intermediate  levels are used to rate the levels of intermediate severity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>generated plateau pressures</measure>
+    <time_frame>one hour after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>mean ventilatory plateau pressure during surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>realisation of predefined objectives of minute ventilation</measure>
+    <time_frame>one hour after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>time spent with the predefined objectives of minute ventilation</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>changes of ventilation mode</measure>
+    <time_frame>one hour after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>number of changes of ventilation mode</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>arterial desaturation</measure>
+    <time_frame>one hour after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>number of episodes of arterial desaturation (SpO2 &lt;92%) and lower arterial saturation during surgery</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>recruitment maneuver</measure>
+    <time_frame>one hour after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>number of recruitment maneuver</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>duration of the surgical procedure</measure>
+    <time_frame>one hour after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>duration from surgical incision to end of the surgical procedure</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>endocrine healing</measure>
+    <time_frame>three months after surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>return to a low level of the abnormal endocrin abnormalities</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Surgery</condition>
+  <arm_group>
+    <arm_group_label>Volume controlled ventilation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Volume controlled ventilation: tidal volume of 7 mL/kg ideal body weight, frequency of 12 cycles/minute, I/E ratio of 1:2, no positive end expiratory pressure. Ventilatory frequency is changed if necessary to maintain end-expiratory pressure of CO2 between 35 and 40 mmHg.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Pressure-controlled ventilation</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>initial pressure of 15 cm H2O, frequency of 12 cycles/minute, I/E ratio of 1:2, no positive end expiratory pressure. Pressure is modified to maintain a tidal volume of 7 mL/kg of ideal body weight and frequency ventilation is modified to maintain end-expiratory pressure of CO2 between 35 and 40 mmHg</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Volume controlled ventilation</intervention_name>
+    <arm_group_label>Volume controlled ventilation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Pressure-controlled ventilation</intervention_name>
+    <arm_group_label>Pressure-controlled ventilation</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Aged &gt; 18 years
+
+          -  Patients scheduled for transsphenoidal surgery for pituitary adenomas
+
+        Exclusion Criteria:
+
+          -  Pregnancy
+
+          -  Obesity (BMI&gt; 35)
+
+          -  Known respiratory disease
+
+          -  Redo surgery
+
+          -  Preoperative problem with hemostasis (antiplatelet or anticoagulant treatment;
+             constitutional disorder).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Morgan Le Guen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Hôpital Foch</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Marc Fischler, MD</last_name>
+    <phone>46252442</phone>
+    <phone_ext>00331</phone_ext>
+    <email>m.fischler@hopital-foch.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Hopital Foch</name>
+      <address>
+        <city>Suresnes</city>
+        <zip>92150</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc Fischler, MD</last_name>
+      <phone>46252442</phone>
+      <phone_ext>00331</phone_ext>
+      <email>m.fischler@hopital-foch.org</email>
+    </contact>
+    <investigator>
+      <last_name>Morgan Le Guen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>France</country>
+  </location_countries>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 29, 2013</lastchanged_date>
+  <firstreceived_date>June 29, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>surgery</keyword>
+  <keyword>transsphenoidal surgery</keyword>
+  <keyword>pituitary adenoma</keyword>
+  <keyword>mechanical ventilation</keyword>
+  <keyword>bleeding</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Hemorrhage</mesh_term>
+    <mesh_term>Pituitary Neoplasms</mesh_term>
+    <mesh_term>Blood Loss, Surgical</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="261">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00390299</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MC0671</org_study_id>
+    <secondary_id>P30CA015083</secondary_id>
+    <secondary_id>MC0671</secondary_id>
+    <secondary_id>06-004440</secondary_id>
+    <nct_id>NCT00390299</nct_id>
+  </id_info>
+  <brief_title>Viral Therapy in Treating Patients With Recurrent Glioblastoma Multiforme</brief_title>
+  <official_title>Phase I Trial of a Measles Virus Derivative Producing CEA (MV-CEA) in Patients With Recurrent Glioblastoma Multiforme (GBM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: The measles virus, that has been changed in a certain way, may kill tumor cells
+      without damaging normal cells.
+
+      PURPOSE: This phase I trial is studying the side effects and best dose of viral therapy in
+      treating patients with recurrent glioblastoma multiforme.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  Determine the safety and toxicity of intratumoral and/or resection cavity
+           administration of a recombinant, attenuated Edmonston B vaccine strain derivative of
+           measles virus genetically engineered to produce human carcinoembryonic antigen (CEA) in
+           patients with recurrent glioblastoma multiforme.
+
+        -  Determine the maximum tolerated dose of this oncolytic virus in these patients.
+
+        -  Determine viral gene expression at each dose level as manifested by CEA titers in
+           patients treated with this oncolytic virus.
+
+        -  Assess viremia, viral replication, and measles virus shedding/persistence after
+           intratumoral administration of this oncolytic virus.
+
+        -  Assess humoral and cellular immune response to the injected virus in these patients.
+
+      Secondary
+
+        -  Determine, preliminarily, the antitumor efficacy of this vaccine in these patients.
+
+      OUTLINE: This is a dose-escalation study. Patients are assigned to 1 of 2 sequential
+      treatment groups.
+
+        -  Group 1 (resection cavity administration): Patients undergo en block resection of their
+           tumor (after confirming diagnosis) on day 1, followed by recombinant measles virus
+           encoding human carcinoembryonic antigen (MV-CEA) administered into the resection cavity
+           over 10 minutes.
+
+        -  Group 2 (intratumoral and resection cavity administration): Patients undergo placement
+           of a catheter within the tumor, followed by MV-CEA administration into the tumor
+           through the catheter over 10 minutes on day 1. Patients undergo en block resection of
+           their tumor with computer-assisted stereotactic techniques on day 5, followed by MV-CEA
+           administered around the tumor bed.
+
+      In both groups, cohorts of 1-6 patients receive escalating doses of MV-CEA until the maximum
+      tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2
+      of 3 or 2 of 6 patients experience dose-limiting toxicity. Once the MTD in group 1 has been
+      determined, patients are assigned to group 2. The MTD in group 1 is used to determine the
+      starting dose in group 2. At least 10 patients are treated at the MTD determined in group 2.
+
+      Biopsy specimen, resected tumor, normal tissue, and peripheral blood are collected during
+      study for immunologic and biomarker correlative studies, including analysis of CD46 receptor
+      levels (by immunohistochemistry [IHC]), measles virus N protein (by IHC), measles and viral
+      gene expression and replication (by in situ hybridization), CEA monitoring (by immunoassay),
+      measles virus N mRNA (by reverse transcriptase-polymerase chain reaction), and measles virus
+      immunity. Assessments of immune competence and peripheral response to viral administration
+      are also performed.
+
+      After completion of study treatment, patients are followed periodically for up to 15 years.
+
+      PROJECTED ACCRUAL: A total of 40 patients will be accrued for this study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2006</start_date>
+  <primary_completion_date type="Anticipated">June 2013</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Adverse events profile, in terms of number and severity of all adverse events, as assessed by NCI CTCAE v3.0</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall toxicity incidence and toxicity profile (by dose level, patient, and tumor site) as assessed by NCI CTCAE v3.0</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time until any treatment related toxicity</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time until treatment-related toxicity ≥ grade 3</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Time until hematologic nadirs (WBC, absolute neutrophil count, platelet count)</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Maximum tolerated dose of vaccine   as assessed by  NCI CTCAE v3.0</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Correlate viremia, human CEA titers, viral propagation in tumor, viral shedding, CD46 status, delayed-type hypersensitivity  results, CD4 and CD8 counts, lymphoproliferative assay,  and ELISPOT assay with response and toxicity</measure>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Viral gene expression at each dose level as assessed by CEA titer</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Viremia following intratumoral administration of vaccine as assessed by quantitative reverse transcriptase-polymerase chain reaction (RT-PCR) of peripheral blood mononuclear cells</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Measles virus shedding/persistence following intratumoral administration of vaccine as assessed by RT-PCR</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Viral replication following intratumoral administration of vaccine as assessed by in situ hybridization and Vero cell overlay</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CR,   PR, regress, stable dis, &amp; prog dis by neur exam, MRI, and/or CT scan for bidimens. meas. dis &amp;  eval dis. at baseline, 28 days after resection, and then every 2 mo. until progr.</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral and cell. imm. resp. by antimeasles virus-specific antibody level (IgG) at baseline,  28 days after resection, and every 2 mo until prog</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Humoral and cell. imm. resp. by lymphoproliferative assay and interferon-gamma ELISPOT assay performed at baseline and at 28 days after tumor resection</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival  at 3 and 6 months</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to disease progression</measure>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to treatment failure (due to progression, unacceptable toxicity, or refusal to continue participation by the patient)</measure>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>carcinoembryonic antigen-expressing measles virus</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>fluorescence in situ hybridization</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>reverse transcriptase-polymerase chain reaction</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>immunohistochemistry staining method</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>immunologic technique</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>adjuvant therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>needle biopsy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>neoadjuvant therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed grade 4 astrocytoma (glioblastoma multiforme) at primary
+             diagnosis and/or recurrence
+
+          -  Recurrent disease
+
+          -  Candidate for gross total or subtotal resection
+
+               -  No expected communication between ventricles and resection cavity as a result of
+                  surgery
+
+          -  Antimeasles virus immunity as demonstrated by IgG antimeasles antibody levels of ≥ 20
+             EU/mL as determined by enzyme immunoassay
+
+          -  Human carcinoembryonic antigen (CEA) &lt; 3 ng/mL
+
+        PATIENT CHARACTERISTICS:
+
+          -  ECOG performance status 0-2
+
+          -  Absolute neutrophil count ≥ 1,500/mm^3
+
+          -  Platelet count ≥ 100,000/mm^3
+
+          -  Bilirubin ≤ 1.5 times upper limit of normal (ULN)
+
+          -  AST ≤ 2 times ULN
+
+          -  Creatinine ≤ 2.0 times ULN
+
+          -  Hemoglobin ≥ 9.0 g/dL
+
+          -  PT and aPTT ≤ 1.3 times ULN
+
+          -  Willing to provide biological specimens as required by the study
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+          -  No active infection within the past 5 days
+
+          -  No history of tuberculosis or purified protein derivative positivity
+
+          -  No New York Heart Association class III or IV cardiac disease
+
+          -  Adequate seizure control
+
+          -  HIV negative
+
+          -  No history of other immunodeficiency
+
+          -  No history of chronic hepatitis B or C
+
+          -  No exposure (household contacts) to children ≤ 15 months of age or to people with
+             known immunodeficiency
+
+          -  No allergy to measles vaccine or history of severe reaction to prior measles
+             vaccination
+
+          -  No requirement for blood product support
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  More than 4 weeks since prior chemotherapy (6 weeks for nitrosourea-based
+             chemotherapy) and recovered
+
+          -  More than 4 weeks since prior immunotherapy
+
+          -  More than 4 weeks since prior biologic therapy
+
+          -  More than 2 weeks since prior noncytotoxic antitumor drugs (i.e., small molecule cell
+             cycle inhibitors)
+
+          -  More than 6 weeks since prior radiotherapy
+
+          -  No prior viral or gene therapy
+
+          -  No history of organ transplantation
+
+          -  No concurrent chemotherapy, other immunotherapy, radiotherapy, or any other ancillary
+             therapy considered investigational (utilized for a non-FDA-approved indication and in
+             the context of a research investigation)
+
+          -  No concurrent enrollment on any other study involving a pharmacologic agent (e.g.,
+             drugs, biologics), immunotherapy approaches, or gene therapy whether for symptom
+             control or therapeutic intent
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Evanthia Galanis, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic Cancer Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - All Mayo Clinic Locations</last_name>
+      <phone>507-538-7623</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/MAYO-MC0671</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>November 2012</verification_date>
+  <lastchanged_date>November 28, 2012</lastchanged_date>
+  <firstreceived_date>October 18, 2006</firstreceived_date>
+  <responsible_party>
+    <name_title>Evanthia Galanis, M.D.</name_title>
+    <organization>Mayo Clinic Cancer Center</organization>
+  </responsible_party>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

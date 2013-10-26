@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="42">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01779219</url>
+  </required_header>
+  <id_info>
+    <org_study_id>STAT2009</org_study_id>
+    <nct_id>NCT01779219</nct_id>
+  </id_info>
+  <brief_title>iMRI-guided Brain Biopsies</brief_title>
+  <official_title>The Safety and Effectiveness of Low Field Intraoperative MRI-guidance in Frameless Stereotactic Biopsies of Brain Tumours - a Prospective Randomized Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Wroclaw Medical University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Wroclaw Medical University</source>
+  <oversight_info>
+    <authority>Poland: Ethics Committee</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background: The aim of the study was to assess the safety and effectiveness of stereotactic
+      brain tumour biopsy (STx biopsy) guided by low-field intraoperative MRI (iMRI) in comparison
+      with its frameless classic analogue based on a prospective randomized trial.
+
+      Patients are prospectively randomized into a low-field iMRI group and a control group that
+      undergo a frameless STx biopsy. The primary endpoints of the analysis are:  postoperative
+      complication rate and diagnostic yield, and the secondary endpoints: length of hospital stay
+      and duration of operation.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      INTRODUCTION Stereotactic brain biopsy (STx biopsy) offers a relatively straightforward,
+      accurate and safe method of obtaining diagnostic tissue. Frameless computer-based
+      neuronavigation is now widely used in brain tumor surgery. It has many advantages over
+      frame-based techniques and provides similar accuracy to the rigid frame. One of the methods
+      applied to improve diagnostic yield and safety is the usage of intraoperative magnetic
+      resonance imaging (iMRI), proposed by Bernays et al. in 2002.
+
+      Besides the obvious indications given in previous papers, including STx biopsy of very
+      small, deeply localized or cystic lesions, iMRI guidance is particularly useful in two
+      cases.  The first one is when a satisfactory 3D volume modality cannot be obtained during
+      preoperative high-field diagnostic MR imaging. When using iMRI there is no need to perform
+      preoperative 3D imaging of any kind and manually register the patient's head in a
+      neuronavigation system before the operation, which helps to significantly improve the
+      workflow. In our study the total amount of patients with insufficient neuroimaging -
+      admitted from outside medical centers - is over 30%. The second case is for teaching
+      purposes - frameless iMRI guided STx biopsy, is relatively uncomplicated and technically
+      straightforward and can be introduced as the first procedure during training in
+      neurosurgical intraoperative imaging.
+
+      Although the usefulness of ultra-low-field iMRI in STx biopsy was subsequently confirmed by
+      other authors, according to our knowledge no previous published studies have compared iMRI
+      to preoperative MRI for brain tumor biopsy according to evidence-based medicine guidelines
+      (EBM). Though this method has been subject to slight criticism, it has been consequently
+      applied in neurosurgical daily practice in recent years.
+
+      The aim of our study was to verify the safety and effectiveness of the STx biopsy guided by
+      low-field iMRI in comparison with its frameless classic analogue basing on a prospective
+      randomized parallel-group, controlled trial. In the current paper we present the study
+      design and results of the interim analysis.
+
+      MATERIAL AND METHODS
+
+      Patients Patients who are - following contemporary recommendations - scheduled to undergo
+      STx biopsy, are prospectively recruited for the study. Each patient sign a written consent
+      to participate in the study.
+
+      Inclusion criteria The inclusion criteria were as follows: male and female patients ≥ 18
+      years with supratentorial brain tumor scheduled to undergo STx biopsy. The estimated number
+      of patients needed to reveal the difference of over 5% between primary endpoints' -
+      diagnostic yield and complications ratio - at the level of significance 0.05 and power 80%
+      was 465 per each arm.
+
+      Exclusion criteria Patients unable to provide informed consent and those with metal implants
+      which could prevent or influence the head MR study were excluded from the study.
+
+      Allocation Patients were prospectively allocated by minimization according to demographic
+      (gender, age) and epidemiologic data (preoperative Eastern Cooperative Oncology Group
+      Performance Status-ECOG- a scale providing information about neurological and social status
+      of a patient with oncological disease, maximum tumor diameter, presence of contrast
+      enhancement, independent risk factors of hemorrhage - basal and thalamic localization and
+      preoperative diabetes) into the iMRI and the control group.
+
+      Intervention After being transferred to the operating room each patient was sedated with an
+      intravenous infusion of Remifentanil with passive oxygen therapy and monitoring of vital
+      functions. Additionally, the sites of head holder pins and skin incision were anaesthetized
+      with 1% Lignocaine. All biopsies in both groups were performed via a 6 mm burr-hole with the
+      use of the Vertec system (Medtronic Navigation, Louisville, CO, USA). A passively navigated
+      side cut 2.2 mm biopsy needle was used. All operations were performed by one of the three
+      first authors.
+
+      In the iMRI-guided group the head of each patient was immobilized with a 3-pin
+      iMRI-compatible head holder. The PoleStar N20 iMRI system (Medtronic Navigation, Louisville,
+      CO, USA) with a 0.15-T constant magnet was used in all procedures. Subsequently, after the
+      patient's positioning, the preoperative reference examination was routinely carried out
+      (T1+gadolinum, T2 or FLAIR weighted - depending on the pathology, axial 4 mm scans). Images
+      were automatically transferred into the neuronavigation system (StealthStation, Medtronic
+      Navigation, Louisville, CO, USA). The entry point, target and optimal biopsy trajectory were
+      then defined by the operator on the basis of the obtained iMRI images. Serial tissue samples
+      (4 from the central and another 4 from the marginal part of the tumor) were collected
+      according to the modified protocol described by Shooman et al., which made use of
+      intraoperative histopathological examination obsolete. Following each operation, a control
+      iMRI (T1-weighted, axial, 4 mm scan examination) was routinely performed to confirm and
+      document the proper targeting and - as proposed by Bernays et al. - to exclude postoperative
+      hyperacute intraparenchymal bleeding.
+
+      A frameless STx biopsy was performed for each patient from the control group with the use of
+      a neuronavigation system. The entry point, target and optimal biopsy trajectory were defined
+      by the operator before the operation on the basis of the preoperatively obtained high-field
+      MR images with the use of a neuronavigation workstation (Cranial 5, StealthStation
+      Application Software, Medtronic Navigation, Louisville, CO, USA). Following surgery the
+      specimens were sent for independent histopathological analysis.
+
+      Postoperative care Postoperative care was conducted according to standard protocols and
+      clinical guidelines. A postoperative follow-up head CT was subsequently performed 4 to 6
+      hours after each procedure. All patients were followed up with a clinical examination 2
+      weeks postoperatively performed by an independent and blinded for the allocation
+      investigator.
+
+      Data collection Demographic and epidemiological data were collected prospectively. The
+      primary endpoints were: the ratio of acute postoperative complications and the diagnostic
+      yield. The presence of acute postoperative complication was noted if any of following
+      findings was noted: (wound site infection up to two weeks after the operation, a new
+      neurological deficit developed up to 24 hours following the operation and present in a
+      follow up clinical examination 2 weeks postoperatively), intraparenchymal hematoma with
+      radiological or clinical signs of the intracranial expansion.) and the diagnostic yield. The
+      diagnostic yield was expressed according to the literature as a percentage of patients in
+      whom the histopathological diagnosis was possible on the basis of the biological material
+      obtained during the operation. Secondary endpoints included: the preoperative (LOSpre),
+      postoperative (LOSpost) and total length of hospital stay (LOS) as well as the preparation
+      (Tprep), operation (Top) and total operating room (TOR) time. The LOS and T were routinely
+      measured and recorded in the central hospital files by the independent staff.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2009</start_date>
+  <completion_date type="Anticipated">July 2015</completion_date>
+  <primary_completion_date type="Anticipated">June 2015</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Complications ratio</measure>
+    <time_frame>Patients will be followed for the duration of hospital stay and again 2 weeks after the operation</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The presence of acute postoperative complication is noted if any of following findings is present: wound site infection up to two weeks after the operation, a new neurological deficit developed up to 24 hours following the operation and present in a follow up clinical examination 2 weeks postoperatively, intraparenchymal hematoma with radiological or clinical signs of the intracranial expansion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Diagnostic yield</measure>
+    <time_frame>For each patient 2 weeks after the operation</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The diagnostic yield is expressed according to the literature as a percentage of patients in whom the histopathological diagnosis was possible on the basis of the biological material obtained during the operation.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Length of hospital stay</measure>
+    <time_frame>LOSpre will be assessed on the day of the operation; LOSpost and LOS will be calculated at discharge from the hospital - in average 1 day after the surgery</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The preoperative (LOSpre), postoperative (LOSpost) and total length of hospital stay (LOS)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time</measure>
+    <time_frame>For each patient on the day of the operation (day 1)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The preparation (Tprep), operation (Top) and total operating room (TOR) time</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Supratentorial Brain Tumour</condition>
+  <arm_group>
+    <arm_group_label>iMRI</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>The PoleStar N20 iMRI system (Medtronic Navigation, Louisville, CO, USA) with a 0.15-T constant magnet is used in all procedures. Subsequently, after the patient's positioning, the preoperative reference examination is routinely carried out (T1+gadolinum, T2 or FLAIR weighted - depending on the pathology, axial 4 mm scans). The entry point, target and optimal biopsy trajectory are then defined by the operator on the basis of the obtained iMRI images. Serial tissue samples (4 from the central and another 4 from the marginal part of the tumour) are collected. Following each operation, a control iMRI (T1-weighted, axial, 4 mm scan examination) is routinely performed to confirm and document the proper targeting and to exclude postoperative hyperacute intraparenchymal bleeding.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>non-iMRI</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>A frameless STx biopsy is performed for each patient from the control group with the use of a neuronavigation system. The entry point, target and optimal biopsy trajectory are defined by the operator before the operation on the basis of the preoperatively obtained high-field MR images with the use of a neuronavigation workstation (Cranial 5, StealthStation Application Software, Medtronic Navigation, Louisville, CO, USA).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Stereotactic intraoperative magnetic resonance (iMRI)-guided frameless brain tumour biopsy</intervention_name>
+    <description>The PoleStar N20 iMRI system (Medtronic Navigation, Louisville, CO, USA) with a 0.15-T constant magnet was used in all procedures.</description>
+    <arm_group_label>iMRI</arm_group_label>
+    <other_name>iMRI</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>Stereotactic frameless brain tumour biopsy</intervention_name>
+    <description>The entry point, target and optimal biopsy trajectory were defined by the operator before the operation on the basis of the preoperatively obtained high-field MR images with the use of a neuronavigation workstation (Cranial 5, StealthStation Application Software, Medtronic Navigation, Louisville, CO, USA).</description>
+    <arm_group_label>non-iMRI</arm_group_label>
+    <other_name>Neuronavigation</other_name>
+    <other_name>Non-iMRI</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  male and female patients ≥ 18 years
+
+          -  supratentorial brain tumour
+
+          -  scheduled to undergo STx biopsy
+
+        Exclusion Criteria:
+
+          -  patients unable to provide informed consent
+
+          -  metal implants which could prevent or influence the head MR study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Marcin Czyż, MD, PhD</last_name>
+    <phone>504150014</phone>
+    <email>mt.czyz@gmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Department of Neurosurgery, Wroclaw Medical University</name>
+      <address>
+        <city>Wroclaw</city>
+        <zip>50-556</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marcin Czyż, MD, PhD</last_name>
+      <phone>+48504150014</phone>
+      <email>mt.czyz@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Marcin Czyż, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Paweł Tabakow, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Artur Weiser, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Wojciech L Zub, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Włodzimierz Jarmundowicz, Professor</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Poland</country>
+  </location_countries>
+  <reference>
+    <citation>Shooman D, Belli A, Grundy PL. Image-guided frameless stereotactic biopsy without intraoperative neuropathological examination. J Neurosurg. 2010 Aug;113(2):170-8. doi: 10.3171/2009.12.JNS09573.</citation>
+    <PMID>20136389</PMID>
+  </reference>
+  <reference>
+    <citation>Czyż M, Tabakow P, Jarmundowicz W, Lechowicz-Głogowska B. Intraoperative magnetic resonance-guided frameless stereotactic biopsies - initial clinical experience. Neurol Neurochir Pol. 2012 Mar-Apr;46(2):157-60.</citation>
+    <PMID>22581597</PMID>
+  </reference>
+  <reference>
+    <citation>Bernays RL, Kollias SS, Khan N, Brandner S, Meier S, Yonekawa Y. Histological yield, complications, and technological considerations in 114 consecutive frameless stereotactic biopsy procedures aided by open intraoperative magnetic resonance imaging. J Neurosurg. 2002 Aug;97(2):354-62.</citation>
+    <PMID>12186464</PMID>
+  </reference>
+  <reference>
+    <citation>Weaver CS, Leonardi-Bee J, Bath-Hextall FJ, Bath PM. Sample size calculations in acute stroke trials: a systematic review of their reporting, characteristics, and relationship with outcome. Stroke. 2004 May;35(5):1216-24. Epub 2004 Mar 18. Review.</citation>
+    <PMID>15031455</PMID>
+  </reference>
+  <reference>
+    <citation>Frati A, Pichierri A, Bastianello S, Raco A, Santoro A, Esposito V, Giangaspero F, Salvati M. Frameless stereotactic cerebral biopsy: our experience in 296 cases. Stereotact Funct Neurosurg. 2011;89(4):234-45. doi: 10.1159/000325704. Epub 2011 Jul 21.</citation>
+    <PMID>21778794</PMID>
+  </reference>
+  <reference>
+    <citation>Han B, Enas NH, McEntegart D. Randomization by minimization for unbalanced treatment allocation. Stat Med. 2009 Nov 30;28(27):3329-46. doi: 10.1002/sim.3710.</citation>
+    <PMID>19739238</PMID>
+  </reference>
+  <reference>
+    <citation>Isaacs D, Fitzgerald D. Seven alternatives to evidence based medicine. BMJ. 1999 Dec 18-25;319(7225):1618.</citation>
+    <PMID>10600968</PMID>
+  </reference>
+  <reference>
+    <citation>Kundt G. Comparative evaluation of balancing properties of stratified randomization procedures. Methods Inf Med. 2009;48(2):129-34. doi: 10.3414/ME0538. Epub 2009 Feb 18.</citation>
+    <PMID>19283309</PMID>
+  </reference>
+  <reference>
+    <citation>Langen HJ, Kugel H, Ortmann M, Noack M, de Rochemont RM, Landwehr P. [Functional capacity of MRI-compatible biopsy needles in comparison with ferromagnetic biopsy needles. In vitro studies]. Rofo. 2001 Jul;173(7):658-62. German.</citation>
+    <PMID>11512240</PMID>
+  </reference>
+  <reference>
+    <citation>McGirt MJ, Woodworth GF, Coon AL, Frazier JM, Amundson E, Garonzik I, Olivi A, Weingart JD. Independent predictors of morbidity after image-guided stereotactic brain biopsy: a risk assessment of 270 cases. J Neurosurg. 2005 May;102(5):897-901.</citation>
+    <PMID>15926716</PMID>
+  </reference>
+  <reference>
+    <citation>Oken MM, Creech RH, Tormey DC, Horton J, Davis TE, McFadden ET, Carbone PP. Toxicity and response criteria of the Eastern Cooperative Oncology Group. Am J Clin Oncol. 1982 Dec;5(6):649-55. No abstract available.</citation>
+    <PMID>7165009</PMID>
+  </reference>
+  <reference>
+    <citation>Schulder M, Spiro D. Intraoperative MRI for stereotactic biopsy. Acta Neurochir Suppl. 2011;109:81-7. doi: 10.1007/978-3-211-99651-5_13.</citation>
+    <PMID>20960325</PMID>
+  </reference>
+  <reference>
+    <citation>Senft C, Bink A, Franz K, Vatter H, Gasser T, Seifert V. Intraoperative MRI guidance and extent of resection in glioma surgery: a randomised, controlled trial. Lancet Oncol. 2011 Oct;12(11):997-1003. Epub 2011 Aug 23.</citation>
+    <PMID>21868284</PMID>
+  </reference>
+  <verification_date>January 2013</verification_date>
+  <lastchanged_date>January 29, 2013</lastchanged_date>
+  <firstreceived_date>January 15, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Wroclaw Medical University</investigator_affiliation>
+    <investigator_full_name>Marcin Czyz</investigator_full_name>
+    <investigator_title>M.D., Ph.D.</investigator_title>
+  </responsible_party>
+  <keyword>intraoperative magnetic resonance</keyword>
+  <keyword>stereotactic biopsy</keyword>
+  <keyword>brain tumor</keyword>
+  <keyword>frameless stereotaxy</keyword>
+  <keyword>image-guided neurosurgery</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

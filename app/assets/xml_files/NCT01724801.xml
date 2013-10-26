@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="175">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01724801</url>
+  </required_header>
+  <id_info>
+    <org_study_id>c-tong1201</org_study_id>
+    <nct_id>NCT01724801</nct_id>
+  </id_info>
+  <brief_title>Icotinib Treat the Patient With Brain Metastasis Epidermal Growth Factor Receptor(EGFR) Mutant Non Small Cell Lung Cancer Comparing With Whole Brain Radiotherapy</brief_title>
+  <acronym>BRAIN</acronym>
+  <official_title>Phase III Study of Icotinib Treat the Patient With Brain Metastasis EGFR-mutant Non Small Cell Lung Cancer Comparing With Whole Brain Radiotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Guangdong Association of Clinical Trials</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Guangdong General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Guangdong Association of Clinical Trials</source>
+  <oversight_info>
+    <authority>China: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      EGFR-TKI is good for the patients with EGFR-mutant non-small cell lung cancer.We design this
+      clinical trail to confirm if the efficacy of Epidermal Growth Factor Receptor Tyrosine
+      Kinase Inhibitor(EGFR-TKI )(ICOTINIB) is better than whole brain irradiation for the patient
+      with EGFR-mutant non-small cell lung cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      no available
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2012</start_date>
+  <primary_completion_date type="Anticipated">October 2014</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>iPFS</measure>
+    <time_frame>18 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>intracranial progression-free survival</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>progress-free survival (PFS)</measure>
+    <time_frame>up to 16 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>progress-free survival</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>time of controlling brain metastasis symptom</measure>
+    <time_frame>18months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>time of controlling brain metastasis symptom</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response rate of brain metastasis</measure>
+    <time_frame>12months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Response rate of brain metastasis</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cognitive function</measure>
+    <time_frame>18months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Cognitive function</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>overall survival(OS)</measure>
+    <time_frame>24months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>overall survival(OS)</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Toxicity</measure>
+    <time_frame>24months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>adverse events(according to CTC4.0)</description>
+  </other_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">170</enrollment>
+  <condition>Brain Metastasis</condition>
+  <condition>Non Small Cell Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>icotinib</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Whole brain irradiation</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>NO</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>whole brain radiation(WBI)</intervention_name>
+    <description>WBI : 30GY /10fractions/2weeks</description>
+    <arm_group_label>Whole brain irradiation</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Icotinib</intervention_name>
+    <description>Icotinib 125mg tid</description>
+    <arm_group_label>icotinib</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+        Patient who was confirmed  stage IV NSCLC with EGFR  activating mutation and brain
+        metastases  by pathologic histology or cytology.
+
+        Patient who brain metastases was shown in MRI or CT scan. Brain metastases lesions should
+        be more than 3.The diameter among these lesions should be more than 1 centimeter.
+
+        Males or females aged ≥18 years, &lt; 75 years. Eastern Cooperative Oncology Group(ECOG)
+        performance status 0-1. Life expectancy ≥12 weeks. The therapy of
+        surgery,chemotherapy,radiotherapy that the patients were ever received  should be more
+        than 2 weeks ago.The patient had recovered from the treatment.
+
+        Males and females  should be contraceptive during the period of the trial until  8 weeks
+        after the last administration of icotinib.
+
+        Able to comply with the required protocol and follow-up procedures, and able to receive
+        oral medications.
+
+        Written informed consent provided.
+
+        Exclusion Criteria:
+
+        Patient was received irradiation of brain. Patient with meningeal metastases were
+        confirmed by MRI or cytology test of cerebrospinal fluid.
+
+        Patient is received the treatment of Phenytoin, carbamazepine, rifampicin, phenobarbital,
+        or St. John's Wort.
+
+        Patient was received EGFR Tyrosine Kinase Inhibitor or EGFR monoclonal antibody.
+
+        Interstitial pneumonia.Pericardial effusion, pleural effusion  is uncontrolled .
+
+        Any unstable systemic disease (including active infection, uncontrolled hypertension,
+        unstable angina, congestive heart failure, myocardial infarction within the previous year,
+        serious cardiac arrhythmia requiring medication, hepatic, renal, or metabolic disease).
+
+        Any significant ophthalmologic abnormality ,especially severe  dry eye syndrome
+        ,keratoconjunctivitis  sicca,Sjogren syndrome,severe exposure keratitis or any other
+        disorder likely to increase the risk of corneal epithelial lesions.
+
+        Lack of physical integrity of the upper gastrointestinal tract, or malabsorption syndrome,
+        or inability to take oral medication, or have active peptic ulcer disease.
+
+        Female subjects should not be pregnant or breast-feeding. Adequate hematological function:
+        Absolute neutrophil count (ANC) ≥1.5 x 109/L, and Platelet count ≥100 x 109/L.
+
+        Adequate renal function:  Serum creatinine ≤ 1.5 x ULN, or ≥ 50 ml/min. Adequate liver
+        function :Total bilirubin £ 1.5 x upper limit of normal (ULN) and Alanine Aminotransferase
+        (ALT )and Aspartate Aminotransferase (AST )&lt; 2.5 x ULN in the absence of liver metastases,
+        or &lt; 5 x ULN in case of liver metastases.
+
+        The symptoms of increased intracranial pressure are uncontrolled after dehydration and
+        cortisone treatment.
+
+        Patient need increase irradiation dose after routine irradiation(30GY/10f/2w) Patient
+        should treat extra cranial lesions first. Patient assessed by the investigator to be
+        unable or unwilling to comply with the requirements of the protocol.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Yisheng Huang, doctor</last_name>
+    <phone>13719211288</phone>
+    <email>hysd999@hotmail.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Guangdong General Hospital</name>
+      <address>
+        <city>Guangzhou</city>
+        <state>Guangdong</state>
+        <zip>510080</zip>
+        <country>China</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yisheng Huang, Doctor</last_name>
+      <phone>13719211288</phone>
+      <email>hysd999@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Yilong Wu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>China</country>
+  </location_countries>
+  <verification_date>October 2012</verification_date>
+  <lastchanged_date>November 7, 2012</lastchanged_date>
+  <firstreceived_date>October 14, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>EGFR mutant</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

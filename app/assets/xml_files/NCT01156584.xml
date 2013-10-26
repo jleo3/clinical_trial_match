@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="299">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01156584</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Tg 511-08-01</org_study_id>
+    <nct_id>NCT01156584</nct_id>
+  </id_info>
+  <brief_title>A Study of a Retroviral Replicating Vector Administered to Subjects With Recurrent Malignant Glioma</brief_title>
+  <official_title>A Phase 1 Ascending Dose Trial of the Safety and Tolerability of Toca 511 in Patients With Recurrent High Grade Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Tocagen Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Tocagen Inc.</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a multicenter, open-label, ascending-dose trial of the safety and tolerability of
+      increasing, single doses of Toca 511, a Retroviral Replicating Vector (RRV), administered
+      transcranially to subjects with recurrent high grade glioma (rHGG) who have undergone
+      surgery, radiation therapy and chemotherapy with temozolomide.  Approximately 3-4 weeks
+      following injection of the RRV, 6-day courses of treatment with oral 5-FC will commence and
+      will be repeated monthly for up to 6 cycles.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There is an ongoing, intensive search for novel therapies to improve the prognosis of
+      patients with the most common and aggressive form of primary brain cancer, glioblastoma
+      multiforme (GBM).  Gene transfer is one such approach.  Early gene-transfer studies with
+      replication incompetent vectors showed this approach to be generally safe, but ineffective
+      due to limited transduction of the tumor.  More recently gene transfer has been attempted
+      with oncolytic, replicating viruses.  However these viruses are rapidly cleared by the
+      immune system. To overcome these shortcomings of previous gene transfer protocols, Toca 511
+      has been developed utilizing a Retroviral Replicating Vector (RRV). This platform has the
+      following potential advantages: 1) The vector only infects dividing cells, 2) The virus
+      stably integrates into the genome of the tumor cells allowing for the potential for
+      long-term control of the tumor, 3) The virus is not intrinsically oncolytic and is not
+      cleared from the tumor by the immune system, and 4) The virus has been engineered to express
+      the prodrug-activator, cytosine deaminase (CD), a gene that catalyzes the intracellular
+      conversion of the antifungal drug, 5-FC (flucytosine) to the cytotoxic drug 5-FU.  In both
+      xenograft and syngeneic intracranial mouse tumor models the Toca 511/5-FC combination was
+      able to significantly increase the survival of treated animals.  The goal of the current
+      trial is to demonstrate the safety and efficacy of Toca 511 administered intratumorally to
+      patients with recurrent GBM followed by cyclic treatment with the prodrug 5-FC.
+
+      This is a multicenter, open-label, ascending-dose trial of the safety and tolerability of
+      increasing, single doses of Toca 511 administered transcranially to subjects with rHGG who
+      have undergone surgery, radiation therapy and chemotherapy with temozolomide.  The study
+      will be conducted in 2 parts.  Part one will study ascending, single doses of Toca 511
+      delivered via stereotactic, transcranial injection into the tumor.  Approximately 3-4 weeks
+      later subjects will undergo a baseline Gd-MRI exam and then begin treatment with oral 5-FC
+      administered for 6 consecutive days.  If tolerated, these 6-day courses of 5-FC will be
+      repeated every 4 weeks for 6 cycles. Subjects will undergo Gd-MRI scanning every 8 weeks. In
+      part 2 of the study, 9 additional subjects will be studied at the highest dose of Toca 511
+      found in part one to be safe and well tolerated.  Each subject will receive a single,
+      transcranial injection of Toca 511.  Approximately 3-4 weeks later subjects will undergo a
+      baseline Gd-MRI exam and then begin treatment with oral 5-FC administered for 6 consecutive
+      days.  If tolerated, these 6-day courses of 5-FC will be repeated every 4 weeks for 6
+      cycles.  Subjects will undergo Gd-MRI scanning every 8 weeks.  Tumor response will be
+      assessed using the Macdonald criteria.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2010</start_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Determine the Maximum Tolerated Dose of Toca 511</measure>
+    <time_frame>8 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determine Response Rate at MTD</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the PFS-6 at MTD</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Glioblastoma</condition>
+  <condition>Anaplastic Astrocytoma</condition>
+  <condition>Anaplastic Oligodendroglioma</condition>
+  <condition>Anaplastic Oligoastrocytoma</condition>
+  <arm_group>
+    <arm_group_label>Single arm</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Toca 511</intervention_name>
+    <description>Single, stereotactic, transcranial, intratumoral injection</description>
+    <arm_group_label>Single arm</arm_group_label>
+    <other_name>Retroviral Replicating Vector (RRV)</other_name>
+    <other_name>Gene Therapy</other_name>
+    <other_name>Gene Transfer</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>5-FC</intervention_name>
+    <description>130 mg/kg/day for 6 days, repeated every month for 6 months</description>
+    <arm_group_label>Single arm</arm_group_label>
+    <other_name>flucytosine, 5-FC, 5-FC XR, Toca FC (extended release flucytosine)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  at least 18 years of age
+
+          -  single, supratentorial HGG (WHO grade III or IV) less than or equal to 9 cm^2 in its
+             greatest cross sectional area
+
+          -  at least one surgical gross-total or subtotal resection
+
+          -  postoperative radiation with concurrent temozolomide
+
+          -  at least 2 cycles of maintenance temozolomide
+
+          -  must have progressive disease and be at least 12 weeks post radiation therapy
+
+          -  stable or decreasing dose of corticosteroids for past 7 days
+
+          -  KPS:18-75 years of age, at least 60; &gt; 75 years of age, at least 70
+
+          -  absolute neutrophil count &gt; 1500/mm^3
+
+          -  absolute lymphocyte count &gt; 500/mm^3
+
+          -  hemoglobin &gt; 10 g/dL
+
+          -  estimated glomerular filtration rate &gt; 50 mL/min
+
+          -  ALT/AST &lt; 3 times ULN and bilirubin &lt; 1.5 mg/dL
+
+          -  negative serum pregnancy test
+
+          -  if being screened for part two of study, must have evaluable disease on Gd-MRI
+
+        Exclusion Criteria:
+
+          -  cytotoxic therapy within the past 4 weeks (6 weeks for BCNU/CCNU)
+
+          -  implanted Gliadel wafer/wafers within past 8 weeks
+
+          -  injection of enhancing rim of tumor would require violation of ventricular   system
+
+          -  clinical evidence of increased intracranial pressure
+
+          -  bleeding diathesis
+
+          -  use of anticoagulants/antiplatelet agents that cannot be stopped
+
+          -  poorly controlled seizures
+
+          -  HIV positive
+
+          -  Avastin use within 5 weeks of projected vector injection
+
+          -  allergy or intolerance to 5-FC
+
+          -  g.i. condition that would prevent ingestion or absorption of 5-FC
+
+          -  any investigational treatment within the past 30 days
+
+          -  pregnant or breast feeding
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Dan Pertschuk, MD</last_name>
+    <phone>858-412-8409</phone>
+    <email>dpertschuk@tocagen.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tim Cloughesy, MD</last_name>
+      <phone>310-825-5321</phone>
+      <email>tcloughesy@mednet.ucla.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Emy Filka</last_name>
+      <phone>310-794-3521</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Tim Cloughesy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCSD</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brad Brown</last_name>
+      <phone>858-822-5377</phone>
+      <email>bdbrown@ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Santosh Kesari, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thelma Munoz</last_name>
+      <phone>415-353-2746</phone>
+      <email>Munozt@neurosurg.ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Manish Aghi, MD</last_name>
+      <email>AghiM@neurosurg.ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Manish Aghi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hospital</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Gaggin, RN, BSN</last_name>
+      <phone>313-916-3731</phone>
+      <email>jgaggin1@hfhs.org</email>
+    </contact>
+    <contact_backup>
+      <email>smarl1@hfhs.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Tom Mikkelsen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cathy Brewer, RN</last_name>
+      <phone>216-444-7937</phone>
+      <email>BrewerC1@ccf.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michael Vogelbaum, MD</last_name>
+      <email>Vogelbm@ccf.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael Vogelbaum, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.abc2.org</url>
+    <description>Website for Accelerate Brain Cancer Cure</description>
+  </link>
+  <link>
+    <url>http://www.braintumor.org</url>
+    <description>Website for the National Brain Tumor Society</description>
+  </link>
+  <reference>
+    <citation>Tai CK, Wang WJ, Chen TC, Kasahara N. Single-shot, multicycle suicide gene therapy by replication-competent retrovirus vectors achieves long-term survival benefit in experimental glioma. Mol Ther. 2005 Nov;12(5):842-51.</citation>
+    <PMID>16257382</PMID>
+  </reference>
+  <verification_date>November 2012</verification_date>
+  <lastchanged_date>June 27, 2013</lastchanged_date>
+  <firstreceived_date>July 1, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>glioma</keyword>
+  <keyword>glioblastoma</keyword>
+  <keyword>glioblastoma multiforme</keyword>
+  <keyword>Grade IV astrocytoma</keyword>
+  <keyword>brain cancer</keyword>
+  <keyword>recurrent glioblastoma</keyword>
+  <keyword>GBM</keyword>
+  <keyword>AA</keyword>
+  <keyword>AOD</keyword>
+  <keyword>anaplastic astrocytoma</keyword>
+  <keyword>anaplastic oligodendroglioma</keyword>
+  <keyword>anaplastic oligoastrocytoma</keyword>
+  <keyword>malignant glioma</keyword>
+  <keyword>high grade glioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Oligodendroglioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Flucytosine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

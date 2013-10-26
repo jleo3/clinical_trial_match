@@ -1,0 +1,4470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="220">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01480479</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDX110-04</org_study_id>
+    <nct_id>NCT01480479</nct_id>
+  </id_info>
+  <brief_title>Phase III Study of Rindopepimut/GM-CSF in Patients With Newly Diagnosed Glioblastoma</brief_title>
+  <acronym>ACT IV</acronym>
+  <official_title>An International, Randomized, Double-Blind, Controlled Study of Rindopepimut/GM-CSF With Adjuvant Temozolomide in Patients With Newly Diagnosed, Surgically Resected, EGFRvIII-positive Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Celldex Therapeutics</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Celldex Therapeutics</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This 2-arm, randomized, phase III study will investigate the efficacy and safety of the
+      addition of rindopepimut (an experimental cancer vaccine that may act to promote anti-cancer
+      effects in patients who have tumors that express the EGFRvIII protein) to the current
+      standard of care (temozolomide) in patients with recently diagnosed glioblastoma, a type of
+      brain cancer.
+
+      All patients will be administered temozolomide, the standard treatment for glioblastoma.
+      Half the patients will be randomly assigned to receive rindopepimut and half the patients
+      will be randomly assigned to receive a control called keyhole limpet hemocyanin.
+
+      Patients will be treated in a blinded fashion (neither the patient or the doctor will know
+      which arm of the study the patient is on). Patients will be treated until disease
+      progression or intolerance to therapy and all patients will be followed for survival.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this research study is to find out whether adding an experimental vaccine
+      called rindopepimut (also known as CDX-110) to the commonly used chemotherapy drug
+      temozolomide can help improve the life expectancy of patients with newly diagnosed, resected
+      EGFRvIII positive glioblastoma.
+
+      The duration of participation in this study may be up to 5 years. After you are screened and
+      enrolled in the study, you will be administered temozolomide and either rindopepimut/GM-CSF
+      or KLH until either disease progression or intolerance to the medications.  If your tumor
+      progresses while on this study, your doctor may treat you with other therapies that are not
+      part of the study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2011</start_date>
+  <primary_completion_date type="Anticipated">November 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Double Blind (Subject, Caregiver, Investigator), Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>During treatment and every three months from end of treatment through end of study or approximately up to 5 years.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The primary efficacy endpoint of Overall Survival is defined as the number of months from randomization to the date of death (whatever the cause), and will be censored for patients who remain alive at completion of the study for patients with a gross total resection (~n=374). The overall survival of patients will be monitored and compared between the two study arms until the end of the study.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>Every 12 weeks from Day 1 through progression or initiation of other anti-cancer therapy</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Compare progression-free survival between the two treatment arms</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and Tolerability</measure>
+    <time_frame>Until day 28 of follow up</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Safety and tolerability will be measured by comparing the two arms in regards to vital sign measurement, physical and neurological examination, adverse events reporting, ECOG performance status, and EORTC core Quality of Life Questionnaire</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">440</enrollment>
+  <condition>Glioblastoma</condition>
+  <condition>Small Cell Glioblastoma</condition>
+  <condition>Giant Cell Glioblastoma</condition>
+  <condition>Gliosarcoma</condition>
+  <condition>Glioblastoma With Oligodendroglial Component</condition>
+  <arm_group>
+    <arm_group_label>Rindopepimut/GM-CSF plus Temozolomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>KLH plus Temozolomide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Rindopepimut (CDX-110) with GM-CSF</intervention_name>
+    <description>Two intradermal injections two weeks apart, followed by monthly injections until tumor progression or intolerance.
+Each dose will be 0.8 mL containing approximately 500 mcg CDX-110 and 150 mcg GM CSF.</description>
+    <arm_group_label>Rindopepimut/GM-CSF plus Temozolomide</arm_group_label>
+    <other_name>CDX-110 with sargramostim (GM-CSF) (Leukine®)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Temozolomide</intervention_name>
+    <description>150 to 200 mg/m2 for 5 days during each 28-day cycle for a minimum of six cycles or a maximum of 12 cycles, or until intolerance or progression.</description>
+    <arm_group_label>Rindopepimut/GM-CSF plus Temozolomide</arm_group_label>
+    <arm_group_label>KLH plus Temozolomide</arm_group_label>
+    <other_name>Temodar</other_name>
+    <other_name>Temodal</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>KLH</intervention_name>
+    <description>Two intradermal injections two weeks apart, followed by monthly injections until tumor progression or intolerance.  Each dose will be 0.8mL containing approximately 100mcg of KLH.</description>
+    <arm_group_label>KLH plus Temozolomide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria-
+
+        Among other criteria, patients must meet the following conditions to be eligible for the
+        study:
+
+          1. Adult patients, ≥ 18 years old
+
+          2. Newly diagnosed glioblastoma
+
+          3. Attempted surgical resection followed by conventional chemoradiation
+
+          4. Documented EGFRvIII positive tumor status by a Sponsor designated laboratory
+
+          5. No evidence of progressive disease from the post-operative period to the
+             post-chemoradiation period
+
+          6. Candidate for, and agrees to receive, adjuvant (maintenance) temozolomide therapy
+
+          7. Systemic corticosteroid therapy at ≤2 mg of dexamethasone or equivalent per day for
+             at least 3 days prior to randomization
+
+          8. WHO-ECOG Performance Status ≤ 2
+
+          9. Patients of childbearing/reproductive potential will be instructed to use birth
+             control as defined by your doctor.
+
+        Exclusion Criteria-
+
+        Among other criteria, patients who meet the following conditions are NOT eligible for the
+        study:
+
+          1. Stereotactic biopsy only (without further surgical resection)
+
+          2. Presence of diffuse leptomeningeal disease, gliomatosis cerebri, or infratentorial
+             disease.
+
+          3. History, presence, or suspicion of metastatic disease
+
+          4. Patients who have received any additional treatment for glioblastoma, aside from
+             surgical resection and chemoradiation with temozolomide
+
+          5. Active systemic infection requiring treatment
+
+          6. History of any malignancy (other than glioblastoma) during the last three years
+             except non-melanoma skin cancer, in situ cervical cancer, treated superficial bladder
+             cancer or cured, early-stage prostate cancer in a patient with PSA level less than
+             the upper limit of normal
+
+          7. Planned major surgery
+
+          8. Evidence of current drug or alcohol abuse
+
+          9. Known allergy or hypersensitivity to keyhole limpet hemocyanin (KLH), GM-CSF
+             (sargramostim; LEUKINE®), polysorbate 80 or yeast derived products, or a history of
+             anaphylactic reactions to shellfish proteins
+
+         10. Severe acute or chronic medical or psychiatric condition or laboratory abnormality
+             that could increase the risk associated with participating in a clinical trial
+
+         11. Women who are pregnant of lactating
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_contact>
+    <last_name>Celldex Therapeutics</last_name>
+    <email>Info@celldextherapeutics.com</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Louis B Nabors, MD</last_name>
+      <phone>205-934-1813</phone>
+      <email>bnabors@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Louis B Nabors, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of South Alabama Mitchell Cancer Institute</name>
+      <address>
+        <city>Mobile</city>
+        <state>Alabama</state>
+        <zip>36604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melanie Alford, RN</last_name>
+      <phone>251-445-9649</phone>
+      <email>malford@usouthal.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pamela Francisco, CCRP</last_name>
+      <phone>251-445-9870</phone>
+      <email>pfrancisco@usouthal.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Suzanne Russo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Barrow Neurological Institute at St. Joseph's Hospital and Medical Center</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lynn Ashby</last_name>
+      <phone>602-406-6262</phone>
+      <email>LASHBY@CHW.EDU</email>
+    </contact>
+    <investigator>
+      <last_name>Lynn Ashby</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arizona Health Network</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85724</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jamie Holt</last_name>
+      <phone>520-626-6800</phone>
+      <email>jholt1@email.arizona.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Baldassarre Stea, MD, PhD</last_name>
+      <phone>(520) 626-6723</phone>
+      <email>bstea@email.arizona.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Baldassarre Stea, MD, PhD, FASTRO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arkansas for Medical Sciences</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wilma Brooks, RN</last_name>
+      <phone>501-686-8530</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Amanda Eubanks, APN</last_name>
+      <phone>501-686-7435</phone>
+      <email>ALEubanks@uams.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Shirley Ong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alta Bates Summit Comprehensive Cancer Center</name>
+      <address>
+        <city>Berkeley</city>
+        <state>California</state>
+        <zip>94704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Laurie Logan</last_name>
+      <phone>510-204-3428</phone>
+      <email>LoganL@sutterhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gary Cecchi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alexandra Ching</last_name>
+      <phone>866-235-3031</phone>
+      <email>aching@coh.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Annette Carson</last_name>
+      <phone>626-256-4673</phone>
+      <phone_ext>62961</phone_ext>
+      <email>acarson@coh.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jana Portnow, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>San Diego Pacific Oncology &amp; Hematology Associates, Inc</name>
+      <address>
+        <city>Encinitas</city>
+        <state>California</state>
+        <zip>92024</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>UC San Diego Moores Cancer Center</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadia Faiq</last_name>
+      <phone>858-822-1847</phone>
+      <email>nfaiq@ucsd.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Santosh Kesari, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>USC Norris Comprehensive Cancer Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aida Lozada, MA</last_name>
+      <phone>323-865-3980</phone>
+      <email>lozada@usc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rose K Lai, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chao Family Comprehensive Cancer Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christina Siwak</last_name>
+      <phone>714-456-8549</phone>
+      <email>csiwak@uci.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daniela Bota, M.D., Ph.D</last_name>
+      <phone>1-714-456-7214</phone>
+      <email>dbota@uci.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Daniela Bota</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente, Redwood City Medical Center</name>
+      <address>
+        <city>Redwood City</city>
+        <state>California</state>
+        <zip>94063</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nancy Mendelssohn</last_name>
+      <phone>650-299-4165</phone>
+      <email>nancy.d.mendelssohn@kp.org</email>
+    </contact>
+    <investigator>
+      <last_name>Scott J Peak, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, Davis</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frances Lara</last_name>
+      <phone>916-734-8134</phone>
+      <email>Frances.lara@ucdmc.ucdavis.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Eunice Laws</last_name>
+      <phone>916-734-0561</phone>
+      <email>Eunice.laws@ucdmc.ucdavis.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert O'Donnell</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thelma Munoz</last_name>
+      <phone>415-353-2523</phone>
+      <email>munozt@neurosurg.ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Margaretta Page, MSN</last_name>
+      <phone>415-353-2652</phone>
+      <email>PageM@neurosurg.ucsf.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nicholas Butowski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford Cancer Institute, Stanford University</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sophie Bertrand</last_name>
+      <phone>650-723-4467</phone>
+      <email>sophieb@stanford.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cathy Recht, RN</last_name>
+      <phone>650-723-6095</phone>
+      <email>ckrecht@stanford.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lawrence Recht, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hartford Hospital</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Danytza Ward, RN</last_name>
+      <phone>860-545-5371</phone>
+      <email>dward02@harthosp.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Susanne Morrill</last_name>
+      <phone>860-545-1588</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Alexandra Flowers</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale University</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Hall</last_name>
+      <phone>203-737-5228</phone>
+      <email>Kimberly.hall@yale.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kevin M Becker, MD</last_name>
+      <phone>203-785-7284</phone>
+      <email>kevin.becker@yale.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kevin Becker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Christiana Care Health Services</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathleen Combs, RN, OCN, CCRP</last_name>
+      <phone>302-623-4450</phone>
+      <email>kcombs@christianacare.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Carla Bruegel, RN, MSN, CCRP</last_name>
+      <phone>302-623-4450</phone>
+      <email>cbruegel@christianacare.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael Guarino</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Medical Center, Comprehensive Cancer Center</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jose Lutzky,, MD</last_name>
+      <phone>305-535-3300</phone>
+      <email>JLutzky@aptiumoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Yvonne Enriquez-Nunez, BSHA</last_name>
+      <phone>305-535-3350</phone>
+      <email>Yenrique@msmc.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jose Lutzky, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mollie Geismer, RN, PhD</last_name>
+      <phone>312-841-5206</phone>
+      <email>mollie.geismer@orlandohealth.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Clinical Research Coordinators</last_name>
+      <phone>321-841-1620</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Nicholas G Avgeropoulous, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tampa General Hospital</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33606</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Denise Fife,, RN, CCRP</last_name>
+      <phone>813-844-7829</phone>
+      <email>dafife@tgh.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sandra Sanchez,, RN</last_name>
+      <phone>813-844-8442</phone>
+      <email>slsanchez@tgh.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lawrence B Berk, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Winship Cancer Institute, Emory University School of Medicine</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Costas Hadjipanayis, MD</last_name>
+      <phone>404-778-1900</phone>
+      <email>chadjip@emory.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Katarzyna Kopcewicz</last_name>
+      <phone>404-778-2981</phone>
+      <email>kkopcew@emory.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Costas Hadjipanayis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Atlanta Cancer Care</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30005</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie F Carney, RN, BSN</last_name>
+      <phone>770-777-1315</phone>
+      <email>jcarney@atlantacancercare.com</email>
+    </contact>
+    <investigator>
+      <last_name>Ronald G Steis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Georgia Health Sciences University</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>GHSU Referral Office</last_name>
+      <phone>888-658-0422</phone>
+      <email>pbourbo@georgiahealth.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>GHSU Referral Backup</last_name>
+      <phone>1-888-658-0422</phone>
+      <email>rdobbins@georgiahealth.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Oliver Rixe, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Hawaii Moanalua Medical Center</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96819</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shelley A Clark,, RN</last_name>
+      <phone>808-432-4689</phone>
+      <email>Shelley.A.Clark@kp.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Heila Gamiao, RN</last_name>
+      <phone>808-432-8214</phone>
+      <email>heila.LR.gamiao@kp.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jennifer F Carney, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern University Robert H. Lurie Comprehensive Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Raizer, MD</last_name>
+      <phone>312-695-1301</phone>
+      <email>cancertrials@northwestern.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Katie McCarthy</last_name>
+      <phone>312-695-1301</phone>
+      <email>katie-mccarthy@northwestern.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jeffrey Raizer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Crista Brawley, PhD</last_name>
+      <phone>773-702-0316</phone>
+      <email>cbrawley@surgery.bsd.uchicago.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Maciej Lesniak, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amanda Begley, RN, BS</last_name>
+      <phone>312-563-2713</phone>
+      <email>Amanda_Begley@rush.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nicole Reinholdt,, BS, CCRP</last_name>
+      <phone>312-942-3310</phone>
+      <email>nicole_reinholdt@rush.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nina Paleologos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Health System</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patricia Lada, RN</last_name>
+      <phone>847-570-2025</phone>
+      <email>plada@northshore.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nancy Miedzianowski, RN</last_name>
+      <phone>847-570-2025</phone>
+      <email>nmiedzianowski@northshore.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ryan Merrell, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandra Zakrweski, BSN</last_name>
+      <phone>708-327-2831</phone>
+      <email>SZakrze@lumc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rosalinda Tuazon</last_name>
+      <phone>708-327-3224</phone>
+      <email>RTuazon@lumc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kevin Barton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Covenant Clinic / Iowa Spine and Brain Institute</name>
+      <address>
+        <city>Waterloo</city>
+        <state>Iowa</state>
+        <zip>50702</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Maxfield, RN</last_name>
+      <phone>319-272-2388</phone>
+      <email>kimberly.maxfield@wfhc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Timothy Ryken, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536-0093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John L Villano, MD, PhD</last_name>
+      <phone>859-323-8043</phone>
+      <email>jlvillano@uky.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tonya Gardner, CCRP</last_name>
+      <phone>(859) 323-0532</phone>
+      <email>tonya.gardner@uky.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John L Villano, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norton Cancer Institute</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leanne Coleman, RN</last_name>
+      <phone>502-629-4594</phone>
+      <email>leanne.coleman@nortonhealthcare.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kelly Rogers, BA</last_name>
+      <phone>502-629-2229</phone>
+      <email>kelly.rogers@nortonhealthcare.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Renato LaRocca, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mary Bird Perkins Cancer Center</name>
+      <address>
+        <city>Baton Rouge</city>
+        <state>Louisiana</state>
+        <zip>70809</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karla Tullier, RN, BSN</last_name>
+      <phone>225-215-1129</phone>
+      <email>ktullier@marybird.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daveta Jenkins, BS</last_name>
+      <phone>225-215-1315</phone>
+      <email>djenkins@marybird.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jon Olson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>LSU Health Sciences Center, Feist-Weiller Cancer Center</name>
+      <address>
+        <city>Shreveport</city>
+        <state>Louisiana</state>
+        <zip>71103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stacy Moss</last_name>
+      <phone>318-813-1422</phone>
+      <email>smoss@lsuhsc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Janice Yager</last_name>
+      <phone>(318) 813-1403</phone>
+      <email>jyager@lsuhsc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gary V Burton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Anne Arundel Medical Center</name>
+      <address>
+        <city>Annapolis</city>
+        <state>Maryland</state>
+        <zip>21401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emily Ross, CCRC</last_name>
+      <phone>443-481-4392</phone>
+      <email>eross@aahs.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Carol Bell, RN</last_name>
+      <phone>443-481-4393</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Peter Graze, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins University School of Medicine</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Zhen, RN</last_name>
+      <phone>410-502-4081</phone>
+      <email>szhen1@jhmi.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michael Lim, MD</last_name>
+      <phone>410-614-1627</phone>
+      <email>mlim3@jhmi.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael Lim</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Center for Cancer and Blood Disorders, PC</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Natalie Bongiorno, RN,BSN,MSHS</last_name>
+      <phone>301-571-2016</phone>
+      <email>nbongiorno@ccbdmd.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ralph Boccia, MD</last_name>
+      <phone>301-571-2016</phone>
+      <email>rboccia@ccbdmd.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ralph Boccia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts Memorial Medical Center</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathryn Clarke</last_name>
+      <phone>508-856-5461</phone>
+      <email>kathryn.clarke@umassmemorial.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Meera Sreedhara</last_name>
+      <phone>508-856-2023</phone>
+      <email>meera.sreedhara@umassmemorial.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Shakeeb Yunus, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Health System</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Larry Junck</last_name>
+      <phone>734-936-7910</phone>
+      <email>ljunck@umich.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>University of Michigan Cancer Answer Line</last_name>
+      <phone>1-800-865-1125</phone>
+      <email>canceranswerline@umich.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Larry Junck</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Edward W. Sparrow Hospital Association - Sparrow Regional Cancer Center</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Harsha Trivedi, PhD</last_name>
+      <phone>517-364-3712</phone>
+      <email>harsha.trivedi@sparrow.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Vicki Gilreath, RN, OCN</last_name>
+      <phone>517-364-2811</phone>
+      <email>vicki.gilreath@sparrow.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gordan Srkalovic</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Mary's of Michigan Medical Center/Field Neurosciences Institute</name>
+      <address>
+        <city>Saginaw</city>
+        <state>Michigan</state>
+        <zip>48604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Herm, MSN, RN</last_name>
+      <phone>989-497-3046</phone>
+      <email>rherm@stmarysofmichigan.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Heather Clark, MSCS, RN, BS</last_name>
+      <phone>989-497-3023</phone>
+      <email>hclark@stmarysofmichigan.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Malcolm Field, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Allina Health, Abbott Northwestern Hospital, John Nasseff Neuroscience Institute</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Grace Wilson, RN, BSN</last_name>
+      <phone>612-863-9166</phone>
+      <email>grace.wilson@allina.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Amy Schrecengost, CCRC</last_name>
+      <phone>612-863-6562</phone>
+      <email>amy.schrecengost@allina.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John E Trusheim, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ellis Fischel Cancer Center</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chris Ehlenbeck, RN</last_name>
+      <phone>573-882-7440</phone>
+      <email>ehlenbeckc@health.missouri.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Angie Vick</last_name>
+      <phone>573-882-7440</phone>
+      <email>vicka@health.missouri.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Carl Freter, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Madelyn Kissel</last_name>
+      <phone>314-747-5384</phone>
+      <email>mkissel@dom.wustl.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Abigail Gwinn, MD</last_name>
+      <phone>314-747-4678</phone>
+      <email>agwinn@dom.wustl.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>David Tran</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Southeast Nebraska Cancer Center</name>
+      <address>
+        <city>Lincoln</city>
+        <state>Nebraska</state>
+        <zip>68510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lindsay Clements, RN,BSN,OCN</last_name>
+      <phone>402-327-7363</phone>
+      <email>lindsayc@leadingcancercare.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Candice Toombs, RN,BSN,OCN</last_name>
+      <phone>402-327-7363</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Stacey Knox, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dartmouth Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Camilo ER Fadul, MD</last_name>
+      <phone>800-639-6918</phone>
+      <email>Cancer.Research.Nurse@Dartmouth.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Camilo Fadul</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New Jersey Neuroscience Institute, JFK Medical Center</name>
+      <address>
+        <city>Edison</city>
+        <state>New Jersey</state>
+        <zip>08818</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles Porbeni, MD, BS, MSC</last_name>
+      <phone>732-321-7000</phone>
+      <phone_ext>68897</phone_ext>
+      <email>CPorbeni@JFKHealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nnamdi Uhegwu, MBBS</last_name>
+      <phone>732-321-7000</phone>
+      <phone_ext>62683</phone_ext>
+      <email>NUhegwu@JFKHealth.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Joseph Landolfi, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John Theurer Cancer Center at Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lori Cappello, RN</last_name>
+      <phone>201-996-5098</phone>
+      <email>LCappello@humed.com</email>
+    </contact>
+    <investigator>
+      <last_name>Samuel A Goldlust, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Monmouth Medical Center</name>
+      <address>
+        <city>Long Branch</city>
+        <state>New Jersey</state>
+        <zip>07740</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Heather Paxton, R.N.</last_name>
+      <phone>732-923-6557</phone>
+      <email>hpaxton@barnabashealth.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kimberly Chow, B.A.</last_name>
+      <phone>732-923-6564</phone>
+      <email>kchow@barnabashealth.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sumul N Raval, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dent Neurosciences Research Institute</name>
+      <address>
+        <city>Amherst</city>
+        <state>New York</state>
+        <zip>14226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olga I Ananina, BS, CRC</last_name>
+      <phone>716-558-5670</phone>
+      <email>oananina@dentinstitute.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Laszlo L Mechtler, MD</last_name>
+      <phone>716-558-5661</phone>
+      <email>lmechtler@dentinstitute.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Laszlo L Mechtler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montefiore Medical Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10467</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hilda Haynes-Lewis, NP</last_name>
+      <phone>718-920-8819</phone>
+      <email>hhayes@montefiore.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Emily Mapplebeck</last_name>
+      <phone>718-920-5636</phone>
+      <email>emapple@montefiore.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jerome Graber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York Methodist Hospital</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adel Guirquis, MD, MS</last_name>
+      <phone>718-780-3677</phone>
+      <email>adg9003@nyp.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Bahaa Mokhtar, MD</last_name>
+      <phone>718-780-3677</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Hani Ashamalla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Long Island Brain Tumor Center at Neurology Surgery, P.C.</name>
+      <address>
+        <city>Great Neck</city>
+        <state>New York</state>
+        <zip>11021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Prabhu, MA, CCRP</last_name>
+      <phone>516-478-0010</phone>
+      <email>kprabhu@nspc.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kerry McConie, RN, OCN</last_name>
+      <phone>516-478-0010</phone>
+      <email>kmcconie@nspc.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>J. Paul Duic, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Hospital</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030-3186</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Schulder, MD</last_name>
+      <phone>516-562-3065</phone>
+      <email>mschulder@nshs.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Louise A Purcell, MS ANP-C</last_name>
+      <phone>516-562-3058</phone>
+      <email>lpurcell@nshs.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael Schulder, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center - The Neurologic Institute of New York</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fabio Iwamoto, M.D.</last_name>
+      <phone>212-342-0571</phone>
+      <email>fi2146@columbia.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Francine Armentano, N.P</last_name>
+      <phone>212-342-3967</phone>
+      <email>fa2301@columbia.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Fabio Iwamato, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Serventi, RPA-C</last_name>
+      <phone>585-276-3971</phone>
+      <email>jennifer_servent@urmc.rochester.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nimish A Mohile, MD</last_name>
+      <phone>585-276-3971</phone>
+      <email>Nimish_mohile@urmc.rochester.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nimish A Mohile, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wendy Barry</last_name>
+      <phone>315-464-8271</phone>
+      <email>barryw@upstate.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Diane Gould, AAS</last_name>
+      <phone>315-464-8235</phone>
+      <email>gouldd@upstate.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Thomas E Coyle, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Brain and Spine Surgeons of New York</name>
+      <address>
+        <city>White Plains</city>
+        <state>New York</state>
+        <zip>10604</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan Strack, RN</last_name>
+      <phone>914-517-7982</phone>
+      <email>jstrack@bssny.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>John Abrahams, MD</last_name>
+      <phone>914-948-6688</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>John Abrahams, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Preston Robert Tisch Brain Tumor Center at Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alise Brickhouse, CRC</last_name>
+      <phone>919-684-3107</phone>
+      <email>alise.brickhouse@duke.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Susan Boulton, CRC</last_name>
+      <phone>919-668-0896</phone>
+      <email>susan.boulton@duke.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Annick Desjardins, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest Baptist Health</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Maclean, BS, RN</last_name>
+      <phone>336-713-3539</phone>
+      <email>jemaclea@wakehealth.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Glenn Lesser, MD</last_name>
+      <phone>336-713-5440</phone>
+      <email>glesser@wakehealth.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Glenn Lesser, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Cincinnati Cancer Institute</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Suzanne Sifri, BSN</last_name>
+      <phone>513-584-0618</phone>
+      <email>Suzanne.sifri@uc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ruth Steele, BS, CCRC</last_name>
+      <phone>513-584-2951</phone>
+      <email>Ruth.steele@uc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rekha Chaudhary, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Foundation</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gene Barnett, MD</last_name>
+      <phone>216-444-5381</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Kathy Smolenski, RN</last_name>
+      <phone>216-445-1067</phone>
+      <email>smolenk2@ccf.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gene Barnett</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals, Case Medical Center (Cleveland)</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henry Krzemien</last_name>
+      <phone>216-983-3021</phone>
+      <email>Henry.krzemien@uhhospitals.org</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Sloan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jill Brown, MS</last_name>
+      <phone>614-293-5554</phone>
+      <email>jill.brown@osumc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Herbert Newton, MD</last_name>
+      <phone>614-293-4448</phone>
+      <email>newton.12@osu.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Herbert Newton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Portland Medical Center, Oncology &amp; Hematology Care</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chris Fountain, RN</last_name>
+      <phone>503-215-2691</phone>
+      <email>Christopher.fountain@providence.org</email>
+    </contact>
+    <investigator>
+      <last_name>Marka Crittenden, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pacific Neurosurgical</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Staat, RN</last_name>
+      <phone>503-413-8330</phone>
+      <email>sstaat@lhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jeff Chen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Lehigh Valley Physician Group-Hematology-Oncology Associates</name>
+      <address>
+        <city>Allentown</city>
+        <state>Pennsylvania</state>
+        <zip>18103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yasmin O Candelo, RN</last_name>
+      <phone>610-402-9543</phone>
+      <email>Yasmin_O.Candelo@lvhn.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Samiyyah Q Whitney, RN</last_name>
+      <phone>610-402-0546</phone>
+      <email>Samiyyah_Q.Whitney@lvhn.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Suresh Nair</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Temple University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Douglas W Laske, MD</last_name>
+      <phone>215-707-2618</phone>
+      <email>dlaske@temple.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Michael W Weaver, MD</last_name>
+      <phone>215-707-2621</phone>
+      <email>Michael.Weaver@temple.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Douglas Laske</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francis Quattrone, BS, CRC</last_name>
+      <phone>215-615-4590</phone>
+      <email>Francis.Quattrone@uphs.upenn.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Eileen Maloney, MSN, ACNP-BC</last_name>
+      <phone>215-662-6462</phone>
+      <email>Eileen.Maloney@uphs.upenn.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>James Schuster, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>West Penn. Allegheny Health System</name>
+      <address>
+        <city>Pittsburg</city>
+        <state>Pennsylvania</state>
+        <zip>15212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gloria Flannery, RN</last_name>
+      <phone>412-359-8379</phone>
+      <email>gflanner@wpahs.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Helen Andreko</last_name>
+      <phone>412-359-4896</phone>
+      <email>handreko@wpahs.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jane Raymond, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Cancer Institute</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rita Johnson</last_name>
+      <phone>412-647-8571</phone>
+      <email>johnsonr1@upmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mara Yerk</last_name>
+      <phone>412-623-8362</phone>
+      <email>yerkma@upmc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jan Drappatz, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina - Department of Neuroscience</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michele DeCandio, RN, OCN, CCRP</last_name>
+      <phone>843-792-9016</phone>
+      <email>decandio@musc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Bruce Frankel, MD</last_name>
+      <phone>843-792-1470</phone>
+      <email>frankel@musc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bruce Frankel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Tennessee Medical Center - Knoxville</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37920</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shanna Overbey, RN</last_name>
+      <phone>865-305-9773</phone>
+      <phone_ext>4</phone_ext>
+      <email>soverbey@utmck.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Barbara Munsey, BS</last_name>
+      <phone>865-305-9773</phone>
+      <phone_ext>3</phone_ext>
+      <email>bmunsey@utmck.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Wahid Hanna, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon Research Institute</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kent Shih, MD</last_name>
+      <phone>615-329-7274</phone>
+      <email>kshih@tnonc.com</email>
+    </contact>
+    <investigator>
+      <last_name>Kent Shih, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt-Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>VICC-Clinical Trials Information Program</last_name>
+      <phone>800-811-8480</phone>
+      <email>viccweb@vanderbilt.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tanya Davis</last_name>
+      <phone>615-875-1188</phone>
+      <email>tanya.e.davis@vanderbilt.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Reid Thompson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Oncology Midtwon</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marlena Griffin,, BSc</last_name>
+      <phone>512-421-4100</phone>
+      <email>marlena.griffin@usoncology.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Deborah Borner, BS</last_name>
+      <phone>972-490-2961</phone>
+      <email>deborah.borner@usoncology.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Morris D Groves, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor Research Institute</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Oncology Research Coordination</last_name>
+      <phone>214-818-8472</phone>
+      <email>cancer.trials@baylorhealth.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Karen Fink, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Methodist Neurological Institute</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimbra S Harris, CCRP</last_name>
+      <phone>713-441-3800</phone>
+      <email>ksharris@tmhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Pamela Z New, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah Department of Neurosurgery</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katy Philips</last_name>
+      <phone>801-587-4420</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Aimee Maxwell</last_name>
+      <phone>801-587-5562</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Randy Jensen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fletcher Allen Health Care</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05405</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kate Murray, BS</last_name>
+      <phone>802-656-9401</phone>
+      <email>Kathryn.Murray@uvm.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sam Cory, BS</last_name>
+      <phone>802-656-9446</phone>
+      <email>Samuel.Cory@uvm.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Steven Emmons, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia Healthcare System</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kim Chapman</last_name>
+      <phone>434-243-9360</phone>
+      <email>kc9zy@virginia.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Monika Thielen</last_name>
+      <phone>434-243-9900</phone>
+      <email>mjt3c@virginia.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Benjamin Purow</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Neuroscience Institute</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nathan Hansen, BA</last_name>
+      <phone>206-320-3542</phone>
+      <email>nathan.hansen@swedish.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jeannie Steed, BS</last_name>
+      <phone>206-386-3878</phone>
+      <email>Jeannie.steed@swedish.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John W Henson, MD FAAN</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington Medical Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fereshteh Assadian, RN</last_name>
+      <phone>206-288-6693</phone>
+      <email>fassadia@uw.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sandra K Johnston, PhD</last_name>
+      <phone>206-616-7117</phone>
+      <email>stonesk@uw.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Maciej Mrugala, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Paul P Carbone Comprehensive Cancer Center</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ian Robins, MD PhD</last_name>
+      <phone>608-263-1416</phone>
+      <email>hirobins@wisc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Diana Trask, BS</last_name>
+      <phone>608-263-9528</phone>
+      <email>trask@humonc.wisc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ian H Robins</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Connelly, MD</last_name>
+      <phone>414-805-5204</phone>
+      <email>jconnelly@mcw.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Barbara Blaney, CCRC</last_name>
+      <phone>414-805-8328</phone>
+      <email>bblaney@mcw.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jennifer Connelly, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Wales Hospital</name>
+      <address>
+        <city>Randwick</city>
+        <state>New South Wales</state>
+        <zip>2031</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Hovey, MSc, MBBS, FRACP</last_name>
+      <phone>61 2 9382 2956</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Daisy Buchanan</last_name>
+      <phone>61 2 9382 2956</phone>
+      <email>Daisy.Buchanan@sesiahs.health.nsw.gov.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Elizabeth Hovey, MSc, MBBS, FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal North Shore Hospital</name>
+      <address>
+        <city>St Leonards</city>
+        <state>New South Wales</state>
+        <zip>2605</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helen R Wheeler, MBBS FRACP</last_name>
+      <phone>61 2 94371900</phone>
+      <email>hrwheeler@optusnet.com.au</email>
+    </contact>
+    <investigator>
+      <last_name>Helen R Wheeler, MBBS FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Crown Princess Mary Cancer Centre, Westmead Hospital</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <zip>2145</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ka Yeung Mark Wong, MBBS FRACP PhD</last_name>
+      <phone>61 2 9845 5200</phone>
+      <email>mark.wong@sydney.edu.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Vicky Wegener, M. Hlth Sc</last_name>
+      <phone>02 9845 8935</phone>
+      <email>vicky.wegener@sydney.edu.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ka Yeung Mark Wong, MBBS FRACP PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane and Women's Hospital</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Po-Ling Inglis, BSc, MBBS, FRACP</last_name>
+      <phone>61 7 3636 7712</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Annette Cubitt</last_name>
+      <phone>61 7 3636 7712</phone>
+      <email>Annette_Cubitt@health.qld.gov.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Po-Ling Inglis, BSc, MBBS, FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mater Adult Hospital, Mater Misericordiae Health Services Brisbane Limited</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zarnie Lwin, MBBS, FRACP</last_name>
+      <phone>61 7 3163 8134</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Georgina Crosbie</last_name>
+      <phone>61 7 3163 8134</phone>
+      <email>georgina.crosbie@mater.org.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Zarnie Lwin, MBBS, FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nimit Singhal, MBBS FRACP</last_name>
+      <phone>61-8-822-4398</phone>
+      <email>nimit.singhal@health.sa.gov.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>RAH Clinical Trials</last_name>
+      <email>rahcancerclinicaltrials@health.sa.gov.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Nimit Singhal, MBBS FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Calvary North Adelaide Hospital</name>
+      <address>
+        <city>North Adelaide</city>
+        <state>South Australia</state>
+        <zip>5006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William K Patterson, MBBS FRACP</last_name>
+      <phone>61 8 8463 2500</phone>
+      <email>William.Patterson@health.sa.gov.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Evy Hillenbrand, BHSc (Hons)</last_name>
+      <phone>61 8 8239 9199</phone>
+      <email>ehillenbrand@calvarysa.com.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>William K Patterson, MBBS FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Hobart Hospital</name>
+      <address>
+        <city>Hobart</city>
+        <state>Tasmania</state>
+        <zip>7000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosemary A Harrup, MBBS</last_name>
+      <phone>61-3-6222-8157</phone>
+      <email>rosemary.harrup@dhhs.tas.gov.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>David J Boadle, MBBS</last_name>
+      <phone>61-3-6222-6750</phone>
+      <email>David.Boadle@dhhs.tas.gov.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Rosemary A Harrup, MBBS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Launceston General Hospital</name>
+      <address>
+        <city>Launceston</city>
+        <state>Tasmania</state>
+        <zip>7250</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stainslaw Gauden, MBBS, FRACP</last_name>
+      <phone>61 3 6348 7140</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Angela Neville, BSc, MSci</last_name>
+      <phone>61 3 6348 7160</phone>
+      <email>angela.neville@dhhs.tas.gov.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Stainslaw Gauden, MBBS, FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Monash Medical Centre</name>
+      <address>
+        <city>Clayton</city>
+        <state>Victoria</state>
+        <zip>3199</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jason Derrick Lickliter, MBBS FRACP</last_name>
+      <phone>61 3 9594 7100</phone>
+      <email>jason.lickliter@monash.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ronnie John Freilich, MBBS FRACP</last_name>
+      <phone>61 3 9594 2240</phone>
+      <email>rfreilich@me.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jason Derrick Lickliter, MBBS FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Austin Health</name>
+      <address>
+        <city>Heidelberg</city>
+        <state>Victoria</state>
+        <zip>3084</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lawrence M Cher, MBBS</last_name>
+      <phone>61 3 9625-2323</phone>
+      <email>lmcher@mac.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Madeleine A Chow</last_name>
+      <phone>03 9496 3352</phone>
+      <email>Madeleine.Chow@austin.org.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lawrence M Cher, MBBS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Epworth Healthcare</name>
+      <address>
+        <city>Richmond</city>
+        <state>Victoria</state>
+        <zip>3121</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ross R Jennens, MBBS</last_name>
+      <phone>61-3-9421-6085</phone>
+      <email>jennens@bigpond.net.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Felicity C Osmond, RN</last_name>
+      <phone>61-3-9936-8055</phone>
+      <email>felicity.osmond@epworth.org.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ross R Jennens, MBBS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sir Charles Gairdner Hospital</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>06008</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Nowak, MBBS FRACP PhD</last_name>
+      <phone>61 8 9346 3841</phone>
+      <email>anowak@meddent.uwa.edu.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Arman Hasani, FRACP   MBBS</last_name>
+      <phone>61 8 9346 3841</phone>
+      <email>Arman.Hasani@health.wa.gov.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Anna Nowak, MBBS FRACP PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Liverpool Hospital</name>
+      <address>
+        <city>Liverpool</city>
+        <zip>2107</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul Linus de Souza, MBBS FRACP</last_name>
+      <phone>61 2 9616 4407</phone>
+      <email>p.desousa@uws.edu.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jennifer Aung</last_name>
+      <phone>61 2 9828 5234</phone>
+      <email>Jennifer.Aung@sswahs.nsw.gov.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Paul Linus de Souza, MBBS FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University Innsbruck</name>
+      <address>
+        <city>Innsbruck</city>
+        <zip>6020</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Günther Stockhammer, Ao.Univ.-Prof.Dr.</last_name>
+      <phone>43 512 504 26310</phone>
+      <email>guenther.stockhammer@i-med.ac.at</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sarah Iglseder, MD</last_name>
+      <phone>43 512 504 82958</phone>
+      <email>sarah.iglseder@i-med.ac.at</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Günther Stockhammer, Ao.Univ.-Prof.Dr.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medizinische Universität Wien, Innere Medizin I, Onkologie</name>
+      <address>
+        <city>Vienne</city>
+        <zip>1090</zip>
+        <country>Austria</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christine Marosi, a.o. Univ. Prof. Dr.</last_name>
+      <phone>431404004421</phone>
+      <email>christine.marosi@meduniwien.ac.at</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cornelia Sax, MSc</last_name>
+      <phone>431404004016057551</phone>
+      <email>cornelia.sax@meduniwien.ac.at</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Christine Marosi, a.o.Univ.Prof.Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Antwerpen</name>
+      <address>
+        <city>Edegem</city>
+        <state>Antwerp</state>
+        <zip>2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Iris Verhaegen</last_name>
+      <phone>32 (0) 3 821 5681</phone>
+      <email>iris.verhaegen@uza.be</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ann Decoene</last_name>
+      <phone>32 (0) 3 821 4719</phone>
+      <email>ann.decoene@uza.de</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Pol Specenier, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NEO-Núcleo de Estudos Oncológico</name>
+      <address>
+        <city>Curitiba</city>
+        <state>Paraná</state>
+        <zip>80440-210</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marcelo de Souza Rodrigues de Oliveira, MD</last_name>
+      <phone>55 41 3306-1531</phone>
+      <email>msro@neo.med.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Angélica Kffuri</last_name>
+      <phone>55 41 3306-1531</phone>
+      <email>cpeo@neo.med.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Marcelo de Souza Rodrigues de Oliveira, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Sao Lucas da PUCRS</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>Rio Grande do Sul</state>
+        <zip>90840-440</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Fabiana S Spillari Viola, MD</last_name>
+      <phone>55 51 32523931</phone>
+      <email>fsviola@terra.com.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rafaela Moraes de Moura</last_name>
+      <phone>55 51 32523931</phone>
+      <email>rafaelammoura@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Fabiana Spillari Viola, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centro de Pesquisas Clinicas da Fundação Dr Amaral Carvalho</name>
+      <address>
+        <city>Jaú</city>
+        <state>São Paulo</state>
+        <zip>17210-120</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gustavo Fernando Veraldi Ismael, MD</last_name>
+      <phone>55 14 3602-1399</phone>
+      <email>gismael@uol.com.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Daniela Zanotti</last_name>
+      <phone>55 14 36021399</phone>
+      <email>danielazanotti@amaralcarvalho.org.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gustavo Fernando Veraldi Ismael, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fundação Faculdade Regional de Medicina de de São José do Rio Preto - Hospital de Base</name>
+      <address>
+        <city>São José do Rio Preto</city>
+        <state>São Paulo</state>
+        <zip>15090-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Gustavo Colagiovanni Girotto, MD</last_name>
+      <phone>55-17-81194244</phone>
+      <email>oncofamerp@yahoo.com.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kamylla Caldeira, MD</last_name>
+      <phone>55-17-32015154</phone>
+      <email>oncofamerp@yahoo.com.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gustavo Colagiovanni Girotto, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Nacional do Cancer (INCA)</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <zip>20231-050</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Clarissa Serôdio da Rocha Baldotto, MD</last_name>
+      <phone>55 21 3207 6585</phone>
+      <email>cbaldotto@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Débora Cristina Victorino de Azevedo</last_name>
+      <phone>55 21 3207 6569</phone>
+      <email>dcazevendo@inca.gov.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Clarissa Serôdio da Rocha Baldotto, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital A C Camargo</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01509-900</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ana Carolina Sigolo Levy, MD</last_name>
+      <phone>55 11 21895178</phone>
+      <email>ana.levy@accamargo.org.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Tatiana Lafuso</last_name>
+      <phone>55 11 21895178</phone>
+      <email>caep@accamargo.org.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ana Carolina Sigolo Levy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto do Câncer do Estado de São Paulo - ICESP</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01246-000</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Olavo Feher, MD</last_name>
+      <phone>55-11-38932619</phone>
+      <email>ofeher@terra.com.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Suleima Hussein Abou Jokh</last_name>
+      <phone>55 11 38932617</phone>
+      <email>suleima.jokh@icesp.org.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Olavo Feher, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Real e Benemerita Associação Portuguesa de Beneficiência/ Hospital São José</name>
+      <address>
+        <city>São Paulo</city>
+        <zip>01321-001</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Marcos André de Sá Barreto Costa, MD</last_name>
+      <phone>55 11 3505 6693</phone>
+      <email>mandre_med@yahoo.com.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Leticia Lucchesi</last_name>
+      <phone>55 11 3505 6693</phone>
+      <email>leticia.lucchesi@hospitalsjose.org.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Marcos André de Sá Barreto Costa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Foothills Hospital Medical Centre</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T3J 5N6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ish Bains</last_name>
+      <phone>403-944-4334</phone>
+      <email>ish.bains@albertahealthservices.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mark Hamilton, MD</last_name>
+      <phone>403-944-1626</phone>
+      <email>mark.hamilton@albertahealthservices.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mark Hamilton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>British Columbia Cancer Agency, Vancouver Clinic</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 4E6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shane Brown</last_name>
+      <phone>604-877-6000</phone>
+      <phone_ext>2370</phone_ext>
+      <email>sbrown9@bccancer.bc.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Brian Thiessen, MD</last_name>
+      <phone>604-877-6000</phone>
+      <phone_ext>2032</phone_ext>
+      <email>bthiesse@bccancer.bc.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Brian Thiessen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>BC Cancer Agency - Vancouver Island Centre</name>
+      <address>
+        <city>Victoria</city>
+        <state>British Columbia</state>
+        <zip>V8X 4V6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John P McGhie, MD</last_name>
+      <phone>250-519-5580</phone>
+      <email>jmcghie@bccancer.bc.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Katalin Todor</last_name>
+      <phone>250-519-5500</phone>
+      <email>Katalin.todor@bccancer.bc.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John P McGhie, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Manitoba-Cancer Care Manitoba</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E0V9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marshall Pitz, MD, FRCPC</last_name>
+      <phone>204-787-2108</phone>
+      <email>pitz@cc.umanitoba.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Marshall Pitz, MD, FRCPC</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>QEII Health Sciences Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 1V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sharon Hebb</last_name>
+      <phone>902-473-2161</phone>
+      <email>sharon.hebb@cdha.nshealth.ca</email>
+    </contact>
+    <investigator>
+      <last_name>Mary MacNeil, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Juravinski Cancer Centre</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8V 5C2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hal Hirte</last_name>
+      <phone>905-387-9495</phone>
+      <phone_ext>64603</phone_ext>
+      <email>Hal.Hirte@jcc.hhsc.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Theresa Stokes</last_name>
+      <phone>905-387-9495</phone>
+      <email>theresa.stokes@jcc.hhsc.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Hal Hirte</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>London Regional Cancer Program, London Health Sciences Centre</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David R Macdonald, MD</last_name>
+      <email>David.Macdonald@lhsc.on.ca</email>
+    </contact>
+    <investigator>
+      <last_name>David Macdonald, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Hospital, Regional Cancer Centre</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roxanne Ward</last_name>
+      <phone>613-737-7700</phone>
+      <phone_ext>73328</phone_ext>
+      <email>rward@ohri.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sharon Kelly</last_name>
+      <phone>613-737-7700</phone>
+      <phone_ext>75212</phone_ext>
+      <email>Shakelly@toh.on.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Garth Nicholas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sunnybrook Health Sciences Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hyla Okorofsky, RN</last_name>
+      <phone>416-480-5000</phone>
+      <phone_ext>7474</phone_ext>
+      <email>hyla.okorofsky@sunnybrook.ca</email>
+    </contact>
+    <investigator>
+      <last_name>James Perry, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier de l'Universite de Montreal (CHUM) - Hopital Notre-Dame</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karl Belanger, MD</last_name>
+      <phone>514-890-8000</phone>
+      <phone_ext>25381</phone_ext>
+      <email>karl.belanger.chum@ssss.gouv.qc.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Francine Richard</last_name>
+      <phone>514-890-8000</phone>
+      <phone_ext>24853</phone_ext>
+      <email>francine.richard.chum@ssss.gouv.qc.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Karl Belanger, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Montreal Neurological Institute and Hospital</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3A 2B4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc Lemieux</last_name>
+      <phone>514-398-2667</phone>
+      <email>marc.lemieux@mcgill.ca</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jad Al-Shami</last_name>
+      <phone>514-398-5750</phone>
+      <email>jad.al-shami@mcgill.ca</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Petr Kavan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHUQ - L'Hôtel-Dieu De Québec</name>
+      <address>
+        <city>Québec</city>
+        <state>Quebec</state>
+        <zip>G1R2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Josée Allard, RN</last_name>
+      <phone>418-691-5264</phone>
+    </contact>
+    <investigator>
+      <last_name>Isabelle Valliéres, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>CHUS Hôpital Fleurimont</name>
+      <address>
+        <city>Shenbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Mathieu, MD</last_name>
+      <phone>819-346-1110</phone>
+      <phone_ext>14887</phone_ext>
+    </contact>
+    <contact_backup>
+      <last_name>Anick Champoux, RN</last_name>
+      <phone>819-346-1110</phone>
+      <phone_ext>12811</phone_ext>
+    </contact_backup>
+    <investigator>
+      <last_name>David Mathieu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica del Country</name>
+      <address>
+        <city>Bogota D.C.</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Carlos Ortiz Santacruz</last_name>
+      <phone>(+57-315) 367-9697</phone>
+      <email>cortiz@clinicadelcountry.com</email>
+    </contact>
+    <investigator>
+      <last_name>Carlos Ortiz Santacruz</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Ceske Budejovice</name>
+      <address>
+        <city>Ceske Budejovice</city>
+        <zip>370 01</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Petr Vitek, MD</last_name>
+      <phone>00420 387 875 001</phone>
+      <email>vitek@nemcb.cz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jiri Fiedler, MD</last_name>
+      <phone>00420 387 876 001</phone>
+      <email>fiedler@nemcb.cz</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Petr Vitek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Na Homolce</name>
+      <address>
+        <city>Prague</city>
+        <zip>150 30</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jan Sroubek, MD</last_name>
+      <phone>00420 257 273 091</phone>
+      <email>jan.sroubek@homolka.cz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Josef Kasik, MD</last_name>
+      <phone>00420 257 273 091</phone>
+      <email>josef.kasik@homolka.cz</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jan Sroubek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fakultni nemocnice Motol</name>
+      <address>
+        <city>Praha</city>
+        <zip>150 06</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bela Malinova, MD</last_name>
+      <phone>00420 224 434 764</phone>
+      <email>Bela.Malinova@fnmotol.cz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gabriela Kasacova, MD</last_name>
+      <phone>00420 224 434 764</phone>
+      <email>Gabriela.Kasacova@fnmotol.cz</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bela Malinova, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Multiscan s.r.o.</name>
+      <address>
+        <city>Praha 5</city>
+        <zip>155-00</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karel Odrazka, MD, PhD</last_name>
+      <phone>00420 466 016 413</phone>
+      <email>odrazka@seznam.cz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Barbora Simkova</last_name>
+      <phone>00420 466 616 261</phone>
+      <email>simb@seznam.cz</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Karel Odrazka, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Masaryk´s Hospital Usti nad Labem</name>
+      <address>
+        <city>Usti nad Labem</city>
+        <zip>401-13</zip>
+        <country>Czech Republic</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Sames, MD, PhD</last_name>
+      <phone>00420 477 112 871</phone>
+      <email>Martin.Sames@KZCR.EU</email>
+    </contact>
+    <contact_backup>
+      <last_name>Robert Bartos</last_name>
+      <phone>00420 775 611 215</phone>
+      <email>robert.bartos@mnul.cz</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Martin Sames, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>&quot;HYGEIA&quot; Hospital</name>
+      <address>
+        <city>Marousi</city>
+        <state>District of Attica</state>
+        <zip>151 23</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Evangelia Razi, MD, PhD</last_name>
+      <phone>30 210 6867165</phone>
+      <email>e.razis@hygeia.gr</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ioanna Theodorakopoulou</last_name>
+      <phone>30 210 6867071</phone>
+      <email>itheodorakopoulou@oncologists.gr</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Evangelia Razi, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Országos Onkológiai Intézet Sugárterápiás Osztály</name>
+      <address>
+        <city>Budapest</city>
+        <zip>1122</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>József Lövey, MD, Prof</last_name>
+      <phone>+36 20 455 3579</phone>
+      <email>lovey@oncol.hu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ágnes SC Sarai</last_name>
+      <phone>+36 70 255 9869</phone>
+      <email>saraiagi@oncol.hu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>József Lövey, MD. Prof</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Debreceni Egyetem Orvos- és Egészségtudományi Centrum Onkológiai Intézet</name>
+      <address>
+        <city>Debrecen</city>
+        <zip>4032</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zsolt Horvath, Prof. Dr</last_name>
+      <phone>3606304913443</phone>
+      <email>horvathzsolt@med.unideb.hu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Angéla Tóth</last_name>
+      <phone>36 30 240 8966</phone>
+      <email>toth.angela@dote.hu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Zsolt Horvath, Dr</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház, Sugárterápiás Osztály</name>
+      <address>
+        <city>Miskolc</city>
+        <zip>3526</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katalin Molnár, Dr</last_name>
+      <phone>36 30 203 2489</phone>
+      <email>moka.onkorad@bazmkorhaz.hu</email>
+    </contact>
+    <contact_backup>
+      <last_name>András CSókay</last_name>
+      <phone>36 30 222 7075</phone>
+      <email>csokay@bazmkorhaz.hu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Katalin Molnár, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Pécsi Tudományegyetem Általános Orvostudományi Kar</name>
+      <address>
+        <city>Pécs</city>
+        <zip>7624</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>László Mangel, MD</last_name>
+      <phone>+36 30 245 7110</phone>
+      <email>laszlo.mangel@aok.pte.hu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Szilvia Csák</last_name>
+      <phone>+36 30 987 2059</phone>
+      <email>szilvia.csak@aok.pte.hu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>László Mangel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Szegedi Tudományegyetem Onkoterápiás Klinika</name>
+      <address>
+        <city>Szeged</city>
+        <zip>6720</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Katalin Hideghéty</last_name>
+      <phone>36 30 292 1638</phone>
+      <email>katalin.hideghety@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Petra Mózes</last_name>
+      <phone>36 70 363 9191</phone>
+      <email>mozespetra@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Katalin Hideghéty</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vas Megyei Markusovszky Lajos Általános Rehabilitációs és Gyógyfürdő Kórház, Egyetemi Oktatókórház Zártkörűen Működő Nonprofit Részvénytársaság</name>
+      <address>
+        <city>Szombathely</city>
+        <zip>9700</zip>
+        <country>Hungary</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miklós Wenczl, MD</last_name>
+      <phone>+36 30 600 3359</phone>
+      <email>wenczl.miklos@markusovszky.hu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gergő Padányi, MD</last_name>
+      <phone>+36 20 392 8442</phone>
+      <email>pagergo@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Miklós Wenczl, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>City Cancer Centre, Vijayawada</name>
+      <address>
+        <city>Vijayawada</city>
+        <state>Andhra Pradesh</state>
+        <zip>520002</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HCG - Bangalore Institute of Oncology, Bangalore</name>
+      <address>
+        <city>Bengaluru</city>
+        <state>Karnataka</state>
+        <zip>560027</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Amrita Institute of Medical Sciences and Research Centre, Kochi</name>
+      <address>
+        <city>Kochi</city>
+        <state>Kerala</state>
+        <zip>682 026</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sree Chitra Tirunal Institute for Medical Sciences &amp; Technology, Thiruvananthapuram</name>
+      <address>
+        <city>Thiruvananthapuram</city>
+        <state>Kerala</state>
+        <zip>695 011</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Marathwada Regional Cancer Centre and Research Institute - Government</name>
+      <address>
+        <city>Aurangabad</city>
+        <state>Maharashtra</state>
+        <zip>431001</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shewalkar Balaji, M.D., DNB</last_name>
+      <phone>91 9850632639</phone>
+      <email>bkrish_e@rediffmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Imran Khan, M.Sc</last_name>
+      <phone>91 9673222022</phone>
+      <email>imranonsas@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Shewalkar Balaji, M.D., DNB</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kokilaben Dhirubhai Ambani Hospital and Medical Research Institute</name>
+      <address>
+        <city>Andheri-West</city>
+        <state>Mumbai</state>
+        <zip>400 053</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Anandh Balasubramaniam, MCh.</last_name>
+      <phone>91-9324599906</phone>
+    </contact>
+    <contact_backup>
+      <last_name>Sarang Bedhe</last_name>
+      <phone>91-9960875913</phone>
+      <email>medicalresearch.kh@relianceada.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Anandh Balasubramaniam, MCh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tata Memorial Hospital , Mumbai</name>
+      <address>
+        <city>Parel</city>
+        <state>Mumbai</state>
+        <zip>400012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Indraprastha Apollo Hospital, New Delhi</name>
+      <address>
+        <city>Jasola Viha</city>
+        <state>New Delhi</state>
+        <zip>110076</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Sahyadri Hospitals Limited</name>
+      <address>
+        <city>Erandauame</city>
+        <state>Pune</state>
+        <zip>411004</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. Rai Memorial Medical Centre, Chennai</name>
+      <address>
+        <city>Chennai</city>
+        <state>Tamil Nadu</state>
+        <zip>600018</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>HCG Shanti Mukand Hospital - Curie Cancer Centre, Delhi</name>
+      <address>
+        <city>Delhi</city>
+        <zip>110092</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Munish Gairola, MD</last_name>
+      <phone>91 9958 431 596</phone>
+      <email>gairolam@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Manish Chaurasia, MSc</last_name>
+      <phone>91 9717720353</phone>
+      <email>manish16chaurasia@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Munish Gairola, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Grupo Médico Camino S.C.</name>
+      <address>
+        <city>Mexico</city>
+        <state>D.F</state>
+        <zip>03310</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Freddy Guillermo Castro Farfán, MD</last_name>
+      <phone>52 (55) 4168 9873</phone>
+      <email>guillermocastrof@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Freddy Guillermo Castro Farfán, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Civil de Guadalajara &quot;Fray Antonio Alcalde&quot;</name>
+      <address>
+        <city>Guadalajara</city>
+        <state>Jalisco</state>
+        <zip>34000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Francisco Javier Ramírez Godínez,, MD</last_name>
+      <phone>52 33 36 140482</phone>
+      <email>drpacoramirez@yahoo.com.mx</email>
+    </contact>
+    <investigator>
+      <last_name>Francisco Javier Ramírez Godínez,, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ensayos Clínicos y Medicina de Alta Especialidad, S.C.</name>
+      <address>
+        <city>Culiacán</city>
+        <state>Sinaloa</state>
+        <zip>80020</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>José Ángel Félix Torrontegui, MD</last_name>
+      <phone>52 667 758 7952</phone>
+      <email>angel_f_t@hotmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Elmer Lopez Meza</last_name>
+      <phone>52 1 667 189 0432</phone>
+      <email>elmerlopez@hotmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>José Ángel Félix Torrontegui, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Servicios Medicos de Investigacion Clinica Sc</name>
+      <address>
+        <city>Durango</city>
+        <zip>34000</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Jesús López Hernández,, MD</last_name>
+      <phone>52 618 1858977</phone>
+      <email>jlh_durango@yahoo.com.mx</email>
+    </contact>
+    <contact_backup>
+      <last_name>Monica Montaño Alva.</last_name>
+      <phone>52 618 1858970</phone>
+      <email>mony_ma@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jesús López Hernández, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Central &quot;Ignacio Morones Prieto&quot;</name>
+      <address>
+        <city>San Luis Potosí</city>
+        <zip>78240</zip>
+        <country>Mexico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ildefonso Rodríguez Leyva, MD</last_name>
+      <phone>52 444 817 6692</phone>
+      <email>ilrole@yahoo.com.mx</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rocio Rodríguez Leyva, MD</last_name>
+      <phone>52 1 4442043616</phone>
+      <email>roroleymx@yahoo.com.mx</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ildefonso Rodríguez Leyva, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Christchurch Hospital</name>
+      <address>
+        <city>Christchurch Central</city>
+        <state>Christchurch</state>
+        <zip>8011</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bridget A Robinson, BMed Sci MBChB FRACP</last_name>
+      <phone>64-3-394-0020</phone>
+      <email>bridget.robinson@cdhb.govt.nz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Anne Smith, BA, RN</last_name>
+      <phone>64-3-364-0368</phone>
+      <email>anne.smith@cdhb.govt.nz</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Bridget A Robinson, BMed Sci MBChB FRACP</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Palmerston North Hospital</name>
+      <address>
+        <city>Roslyn</city>
+        <state>Palmerston North</state>
+        <zip>4414</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claire Hardie, BSc (Hons) MBChB MRCP FRCR</last_name>
+      <phone>64 6350 8430</phone>
+      <email>claire.hardie@midcentraldhb.govt.nz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Susan Newlands or   Audrey Shepherd</last_name>
+      <phone>64 6 3508098 or 64 6 3508099</phone>
+      <email>susan.newlands@midcentraldhb.govt.nz</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Claire Hardie, BSc (Hons) MBChB MRCP FRCR</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Waikato Hospital, Regional Cancer Centre</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Waikato District</state>
+        <zip>3240</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael R Tills, MBChB DRACR</last_name>
+      <phone>64-7-839-8976</phone>
+      <email>Michael.Tills@waikatodhb.health.nz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jenny Boyd, RN</last_name>
+      <phone>64-7-839-8976</phone>
+    </contact_backup>
+    <investigator>
+      <last_name>Michael Tills, MBChB DRACR</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital Almanzor Aguinaga Asenjo</name>
+      <address>
+        <city>Chiclayo</city>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rodrigo Auqui</last_name>
+      <phone>(+51) 979-928-159</phone>
+      <email>roaflo@yahoo.es</email>
+    </contact>
+    <investigator>
+      <last_name>Rodrigo Auqui</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Instituto Oncologico Miraflores</name>
+      <address>
+        <city>Lima</city>
+        <zip>Lima 18</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>PEDRO RIOS</last_name>
+      <phone>(51) 990899299</phone>
+      <email>omarivers@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Fernando Salas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oncosalud</name>
+      <address>
+        <city>Lima</city>
+        <zip>Lima 41</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos O Munive, MD</last_name>
+      <phone>(+51) 964-646451</phone>
+      <email>carlosmunive@hotmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Carlos O Munive, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Ricardo Palma</name>
+      <address>
+        <city>Lima</city>
+        <zip>Lima 27</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wuilbert Rodriguez</last_name>
+      <phone>(+51) 993-513-544</phone>
+      <email>oncologiawrp@yahoo.es</email>
+    </contact>
+    <investigator>
+      <last_name>Wuilbert Rodriguez</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clinica Anglo Americana</name>
+      <address>
+        <city>Lima</city>
+        <zip>Lima 27</zip>
+        <country>Peru</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Claudia Lozada</last_name>
+      <phone>(+51) 997-921-444</phone>
+      <email>clalozada@yahoo.com</email>
+    </contact>
+    <investigator>
+      <last_name>Claudia Lozada</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Zakład Opieki Zdrowotnej MSWiA z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie</name>
+      <address>
+        <city>Olsztyn</city>
+        <zip>10-228</zip>
+        <country>Poland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sergiusz Nawrocki, Prof. MD, PhD</last_name>
+      <phone>00420 466 016 413</phone>
+      <email>odrazka@seznam.cz</email>
+    </contact>
+    <contact_backup>
+      <last_name>Barbora Simkova</last_name>
+      <phone>48 895398523</phone>
+      <email>sergiusz@cyberia.pl</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sergiusz Nawrocki, Prof. MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cheng Kung University Hospital</name>
+      <address>
+        <city>Tainan City</city>
+        <state>Bei District</state>
+        <zip>704</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>E-Jian Lee, M.D. PhD</last_name>
+      <phone>886- 6-2353535</phone>
+      <phone_ext>5204</phone_ext>
+      <email>ejian@mail.ncku.edu.tw</email>
+    </contact>
+    <investigator>
+      <last_name>E-Jian Lee, M.D. PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kaohsiung Chang Gung Memorial Hospital</name>
+      <address>
+        <city>Kaohsiung</city>
+        <zip>83301</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jih-Tsun Ho</last_name>
+      <phone>886- 7-731-7123</phone>
+      <phone_ext>8011</phone_ext>
+      <email>jihtsunho@yahoo.com.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Jih-Tsun Ho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Taichung Veterans General Hospital</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40705</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wen-Yu Cheng, MD</last_name>
+      <phone>886- 4-2359-2525</phone>
+      <phone_ext>5081</phone_ext>
+      <email>wycheng@vghtc.gov.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Wen-Yu Cheng</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chang Gung Memorial Hospital Linkou Branch</name>
+      <address>
+        <city>Taichung</city>
+        <zip>40705</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cheng-Neng Chang, MD</last_name>
+      <phone>886- 3-328-1200</phone>
+      <email>justin@mail.cgu.edu.tw</email>
+    </contact>
+    <contact_backup>
+      <last_name>Pei-Ru Chung</last_name>
+      <phone>886-910-385-772</phone>
+      <email>Rinachung.tw@yahoo.com.tw</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Cheng-Neng Chang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Chi Mei Medical Center</name>
+      <address>
+        <city>Tainan City - Yongkang District</city>
+        <zip>710</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chin-Hong Chang, MD</last_name>
+      <phone>886 6-2812811</phone>
+      <phone_ext>57112</phone_ext>
+      <email>cmh7520@gmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>Chang Chin-Hong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tri-Service General Hospital</name>
+      <address>
+        <city>Taipei city - Neihu District</city>
+        <zip>00114</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hsin-I Ma, MD, PhD</last_name>
+      <phone>886- 2-87927177</phone>
+      <email>uf004693@mail2000.com.tw</email>
+    </contact>
+    <investigator>
+      <last_name>Hsin-I Ma</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Taiwan University Hospital</name>
+      <address>
+        <city>Taipei City - Zhongzheng Dist</city>
+        <zip>00100</zip>
+        <country>Taiwan</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ms Chieh-Ying Lan</last_name>
+      <phone>886 915 283 373</phone>
+      <email>lan8882@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ms Han Ting Chang</last_name>
+      <phone>886 988385438</phone>
+      <email>antigone_3535@yahoo.com.tw</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Ham-Min Tseng</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Siriraj Hospital</name>
+      <address>
+        <city>Bangkok</city>
+        <state>Bangkok Noi</state>
+        <zip>10700</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sith Sathornsumetee, MD</last_name>
+      <phone>66 81 812 7830</phone>
+      <email>drsith@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Monica Engchuan</last_name>
+      <phone>66 81 7210116</phone>
+      <email>engchuan_99@hotmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Sith Sathornsumetee, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Maharaj Nakorn Chiang Mai Hospital</name>
+      <address>
+        <city>Mueang Chiangmai</city>
+        <state>Chiang Mai</state>
+        <zip>50200</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kanokwan Kanokwan, MD</last_name>
+      <phone>66 816 811 910</phone>
+      <email>watcharasaksilp@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Karaket Sukchanchai</last_name>
+      <phone>66 86 198 9939</phone>
+      <email>ks_kade@yahoo.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Kanokwan Watcharasaksilp, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>King Chulalongkorn Memorial Hospital</name>
+      <address>
+        <city>Bangkok</city>
+        <state>Pathumwan</state>
+        <zip>10330</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Iyavut Thaipisuttikul, MD</last_name>
+      <phone>66 81 938 7087</phone>
+      <email>iyavut@gmail.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jeeratheep Laporn</last_name>
+      <phone>66 86 887 5599</phone>
+      <email>laporna9@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Iyavut Thaipisuttikul, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Prince of Songkhla University Hospital</name>
+      <address>
+        <city>Hat Yai</city>
+        <state>Songkhla</state>
+        <zip>90110</zip>
+        <country>Thailand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arundee Dechaphunkul, MD</last_name>
+      <phone>MD 66 74 451469</phone>
+      <email>dearunee@medicine.psu.ac.th</email>
+    </contact>
+    <contact_backup>
+      <last_name>Katekanok Kamonmarttayakul, RN</last_name>
+      <phone>66-85-444-8441</phone>
+      <email>kkatekanok@gmail.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Arundee Dechaphunkul, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Marsden NHS Foundation Trust</name>
+      <address>
+        <city>Sutton</city>
+        <state>Surrey</state>
+        <zip>SM2 5PT</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathy Greenwood</last_name>
+      <phone>0208-661-3300</phone>
+      <email>Kathy.greenwood@rmh.nhs.uk</email>
+    </contact>
+    <contact_backup>
+      <last_name>Angela Morgan</last_name>
+      <phone>0208-661-3877</phone>
+      <email>angela.morgan@rmh.nhs.uk</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Frank Saran</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Bristol Haematology and Oncology Centre</name>
+      <address>
+        <city>Bristol</city>
+        <zip>BS2 8ED</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kirsten Hopkins, MD</last_name>
+      <phone>44 0117 342 3008</phone>
+      <email>Kirsten.Hopkins@UHBristol.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Kirsten Hopkins, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Australia</country>
+    <country>Austria</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Canada</country>
+    <country>Colombia</country>
+    <country>Czech Republic</country>
+    <country>Greece</country>
+    <country>Hungary</country>
+    <country>India</country>
+    <country>Mexico</country>
+    <country>New Zealand</country>
+    <country>Peru</country>
+    <country>Poland</country>
+    <country>Taiwan</country>
+    <country>Thailand</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <removed_countries>
+    <country>Argentina</country>
+    <country>Korea, Republic of</country>
+  </removed_countries>
+  <link>
+    <url>http://www.celldextherapeutics.com</url>
+  </link>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 24, 2013</lastchanged_date>
+  <firstreceived_date>November 21, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>EGFRvIII</keyword>
+  <keyword>Glioblastoma</keyword>
+  <keyword>Small cell</keyword>
+  <keyword>Giant cell</keyword>
+  <keyword>Gliosarcoma</keyword>
+  <keyword>oligodendroglial</keyword>
+  <keyword>Brain Cancer</keyword>
+  <keyword>Brain Tumor</keyword>
+  <keyword>radiotherapy</keyword>
+  <keyword>chemoradiation</keyword>
+  <keyword>Tumor</keyword>
+  <keyword>temozolomide</keyword>
+  <keyword>EGFR variant III</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

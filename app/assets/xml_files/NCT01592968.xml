@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="111">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01592968</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2011-0884</org_study_id>
+    <nct_id>NCT01592968</nct_id>
+  </id_info>
+  <brief_title>A Prospective Phase III Trial to Compare Stereotactic Radiosurgery Versus Whole Brain Radiation Therapy</brief_title>
+  <official_title>A Prospective Phase III Randomized Trial to Compare Stereotactic Radiosurgery Versus Whole Brain Radiation Therapy for &gt;/= 4 Newly Diagnosed Non-Melanoma Brain Metastases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical research study is to compare stereotactic radiosurgery to whole
+      brain radiation therapy in patients with 4-10 non-melanoma brain tumors.
+
+      Stereotactic radiosurgery is the delivery of focused, high-dose radiation given in a single
+      session to the tumors with a minimal dose given to uninvolved areas of the brain.
+
+      Whole brain radiation is the delivery of lower dose radiation to the entire brain given
+      daily over 2 weeks.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Groups:
+
+      If you are found to be eligible to take part in this study, you will be randomly assigned
+      (as in the flip of a coin) to 1 of 2 study groups.  You will have an equal chance of being
+      assigned to either group:
+
+        -  If you are in Group 1, you will receive whole brain radiation treatment.
+
+        -  If you are in Group 2, you will receive stereotactic radiosurgery.
+
+      Study Procedures:
+
+      If you are in Group 1, you will receive whole brain radiation treatment each day,
+      Monday-Friday starting on Day 1.  If you are an inpatient, you may receive radiation
+      treatment on weekends as well.  You will continue to receive radiation treatment up to Day
+      14.
+
+      If you are in Group 2, you will receive stereotactic radiosurgery on Day 1.  As part of the
+      stereotactic radiosurgery procedure, you will receive a very accurate kind of MRI scan on
+      the morning of the procedure.  If this MRI scan identifies more tumors, you may still
+      continue to participate in the study with up to 15 tumors.  If there are more than 15 tumors
+      found on the treatment planning MRI scan on the day of the SRS treatment, then you are not
+      eligible to participate in the study.  In this case, your study doctor will discuss with you
+      other treatment options off of the study, which may include stereotactic radiosurgery and/or
+      whole brain radiation therapy.
+
+      No matter which group you are in, you will sign a separate consent form for whole brain
+      radiation or stereotactic radiosurgery that will explain the procedures and risks in detail.
+
+      Study Visits:
+
+      At 1, 4, 6, 9, and 12 months (+/- 14 days) after your assigned treatment, you will return to
+      the clinic:
+
+        -  You will have a physical exam, including measurement of your vital signs.
+
+        -  You will be asked about any drugs you may be taking.
+
+        -  You will have an MRI scan to check the status of the disease.
+
+        -  You will complete the 7 cognitive function tests.
+
+        -  You will complete 3 questionnaires that ask about your quality of life and any symptoms
+           you may be having.
+
+      Length of Study Participation:
+
+      Your active participation on the study will be over when you have completed the follow-up
+      visits.
+
+      Follow-Up Visits:
+
+      If the study doctor thinks it is needed, you will return to the clinic for follow-up visits.
+       The following tests and procedures will be performed:
+
+        -  You will have a physical exam, including measurement of your vital signs.
+
+        -  You will be asked about any drugs you may be taking.
+
+        -  You will have an MRI  to check the status of the disease.
+
+      This is an investigational study.   It is considered investigational to compare stereotactic
+      radiosurgery to whole brain radiation therapy in patients with 4-10 non-melanoma brain
+      tumors.
+
+      Up to 100 patients will take part in this study.  All will be enrolled at MD Anderson.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2012</start_date>
+  <primary_completion_date type="Anticipated">August 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Local Tumor Control</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Local control rates estimated at 4 months for each treatment arm with 95% confidence intervals based on the Kaplan-Meier estimates of time to local failure.  Logrank test stratified by stratification factors used at randomization to compare the 2 treatment arms with respect to time to local failure. Lesions assessed using contrast-enhanced MRI scans. Progressive disease (PD) is considered local failure, or stable disease with deterioration of the neurological examination with a grade III or worse toxicity on the CTC AE v.4.0 scale.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cognitive Decline</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Baseline HVLT-R score compared to HVLT-R score in patients surviving 4 months.  Preservation of function defined as improvement of HVLT-R score or decline by 4 points or less.  Failure defined as decline by 5 or more points.  Time to neurocognitive decline estimated for each treatment arm using product limit estimator of Kaplan and Meier.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>Brain Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose based on largest diameter lesion as measured on volumetric MRI, modified from RTOG 90-05 as follows: 20-24 Gy for lesions 2 cm or less in size, 16-18 Gy for lesions &gt;2-2.5 cm in size, and 12-16 Gy for lesions &gt;2.5-3.5 cm in size.  All sizes based on diameter in greatest dimension.  SRS performed on day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Fractionated radiation delivered to whole brain daily to deliver a dose of 30 Gy in 10 fractions Monday-Friday (M-F) with weekends off for all patients except inpatients (who may receive treatment through the weekend), and thus will be performed on day 1 through days 10-14.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Stereotactic Radiosurgery (SRS)</intervention_name>
+    <description>Dose based on largest diameter lesion as measured on volumetric MRI, modified from RTOG 90-05 as follows: 20-24 Gy for lesions 2 cm or less in size, 16-18 Gy for lesions &gt;2-2.5 cm in size, and 12-16 Gy for lesions &gt;2.5-3.5 cm in size. All sizes based on diameter in greatest dimension. SRS performed on day 1.</description>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <other_name>XRT</other_name>
+    <other_name>Radiation therapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Whole Brain Radiation Therapy (WBRT)</intervention_name>
+    <description>Fractionated radiation delivered to whole brain daily to deliver a dose of 30 Gy in 10 fractions Monday-Friday (M-F) with weekends off for all patients except inpatients (who may receive treatment through the weekend), and thus will be performed on day 1 through days 10-14.</description>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+    <other_name>XRT</other_name>
+    <other_name>Radiation therapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>3 quality of life (QOL)questionnaires completed 1, 4, 6, 9, and 12 months  after assigned treatment.</description>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+    <other_name>Surveys</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive Function Tests</intervention_name>
+    <description>7 cognitive function tests completed 1, 4, 6, 9, and 12 months after assigned treatment.</description>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. All patients must have histological proof of malignant cancer, which is metastatic.
+             Histological proof may be obtained from the primary tumor or another metastatic site.
+             However, cytology alone is not an acceptable method of diagnosis.
+
+          2. All patients must have greater than 3 but less than or equal to 10 metastatic lesions
+             seen on a contrast enhancing MRI scan obtained not less than one month prior to study
+             enrollment. Patients who are found to have 11-15 metastatic lesions at the time of
+             treatment planning (on volumetric MRI once the head frame is in place) may still
+             participate in the trial.
+
+          3. All patients must be &gt;/= 18 years of age.
+
+          4. All patients must sign informed consent verifying that they are aware of the
+             investigational nature of this study in keeping with the rules and policies of M.D.
+             Anderson Cancer Center. The only acceptable consent form is the one attached at the
+             end of this protocol, and it must have been approved and amended by the M.D. Anderson
+             IRB.
+
+          5. All patients must be eligible to have all lesions treated with SRS (i.e. maximum
+             diameter of largest lesion &lt; 3.5cm) as determined by the study radiation oncologist .
+
+          6. All patients must have adequate liver, renal, and hematologic function as defined by
+             Aspartate Amino Transferase (AST)/Alanine Amino Transferase (ALT)/Alkaline
+             Phosphatase &lt; 2.5 times normal, calculated creatinine clearance &gt; 30ml/min, and
+             platelet count &gt; 50,000.
+
+          7. All patients should have normal coagulation, with international normalized ratio
+             (INR) &lt; 1.3 and able to withhold anti-coagulation medications a minimum of 24 hours
+             prior to radiosurgery (or until INR normalizes), on the day of treatment and 24 hours
+             after radiosurgery has concluded. Those patients getting WBRT may continue these
+             medications.
+
+          8. Patients can be undergoing concurrent systemic therapy, such as temozolomide, at the
+             discretion of their treating oncologist.
+
+        Exclusion Criteria:
+
+          1. Patients are excluded from this trial if they have melanoma, small cell carcinoma,
+             lymphoma/leukemia, or germ cell histology (note, melanoma patients will be eligible
+             for the sister trial to this trial which will be open simultaneously).
+
+          2. Patients will be excluded if they have had prior surgical resection of metastatic
+             cancer from the brain.
+
+          3. Patients will be excluded if there are one or more lesions in the brainstem.
+
+          4. Patients will be excluded if there is radiographic or CSF cytological evidence of
+             leptomeningeal disease.
+
+          5. Patients will be excluded if they have had prior radiation to the brain (either WBRT,
+             prophylactic cranial irradiation (PCI), or SRS).
+
+          6. Female patients of childbearing age will be excluded if they are pregnant as assessed
+             by serum b-HCG or urine pregnancy test. A serum b-HCG test or urine pregnancy test
+             will be performed no greater than 14 days prior to study registration.
+
+          7. Patients will be excluded if they are unable to obtain an MRI scan.
+
+          8. Patients will be excluded if they have &lt; 4 lesions, or &gt; 10 lesions at enrollment or
+             &gt; 15 lesions at the time of treatment (note: patients who qualify for enrollment
+             based on having 4-10 lesions, but who are discovered to have 11-15 lesions on the
+             volumetric MRI used for treatment planning will be allowed to continue on study).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jing Li, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UT MD Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Jing Li, MD</last_name>
+    <phone>713-563-2300</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UT MD Andreson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>UT MD Anderson Cancer Center Website</description>
+  </link>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 9, 2013</lastchanged_date>
+  <firstreceived_date>May 3, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Brain Neoplasms</keyword>
+  <keyword>Non-melanoma brain metastases</keyword>
+  <keyword>Stereotactic radiosurgery</keyword>
+  <keyword>SRS</keyword>
+  <keyword>Whole brain radiation therapy</keyword>
+  <keyword>WBRT</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

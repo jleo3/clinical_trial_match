@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="274">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01339052</url>
+  </required_header>
+  <id_info>
+    <org_study_id>11-033</org_study_id>
+    <secondary_id>CBKM120XUS07T</secondary_id>
+    <nct_id>NCT01339052</nct_id>
+  </id_info>
+  <brief_title>Phase II Study of BKM120 for Subjects With Recurrent Glioblastoma</brief_title>
+  <official_title>A Phase II Study of BKM 120 for Patients With Recurrent Glioblastoma and Activated PI3K Pathway</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Patrick Y. Wen, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Brigham and Women's Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Memorial Sloan-Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of California, Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Utah</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Dana-Farber Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      BKM120 is a newly discovered drug that has been used in other research studies. Information
+      from those other research studies suggests that BKM120 may help to slow or stop the growth
+      of malignant gliomas. The purpose of this study is to see how well BKM120 works in patients
+      with malignant gliomas.  Patients on this study will be treated in two groups: patients who
+      are going to receive surgery and those who will not receive surgery. This study is trying to
+      determine how effective BKM120 is in stopping cancer cells from growing.  For patients
+      receiving surgery the research will also try to determine if an effective level of BKM120
+      can penetrate the brain before surgery.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      For patients who will be having surgery, BKM will be taken orally for 8-12 days prior to
+      surgery.  Prior to surgery they will have a FDG-PET scan and during surgery a sample of
+      tumor will be taken for research.  Patients will resume oral BKM120 between 14 and 35 days
+      after surgery.
+
+      For patients who are not having surgery and post-surgery patients, BKM120 will be taken
+      orally for 28 days (1 cycle).  Patients will continue on BKM120 as long as their brain tumor
+      does not get worse and they do not have severe or intolerable side effects.
+
+      During each cycle patients will have a physical examination, an assessment of tumor by MRI
+      or CT, routine blood tests, questionnaires to assess mood, and research blood samples for
+      genetic studies and other tests that will measure any additional effect of the study drug
+      and disease status. Participants may also be required to undergo a electrocardiogram and/or
+      MUGA scan to monitor heart function during the study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2011</start_date>
+  <completion_date type="Anticipated">January 2015</completion_date>
+  <primary_completion_date type="Anticipated">January 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Cohort I: To evaluate PI3K pathway modulation of BKM120 in tumor tissue.</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>PI3-Kinase pathway modulation will be measured using immunohistochemistry analyses of unstained tumor tissue to identify PI3-Kinase mutations including PIK3CA mutations, PTEN mutations, and PTEN deletion by immunohistochemistry. Expression of pAKT will also be analyzed using immunohistochemistry.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort II: To investigate the treatment efficacy of BKM120 in participants with recurrent GBM as measured by 6-month progression-free survival</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Treatment efficacy will be based upon 6-month progression-free survival status. Progressive disease is defined using RANO (Response Assessment in Neuro-Oncology criteria.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cohort I: To evaluate BKM120 concentration in tumor tissue, plasma, and cerebrospinal fluid.</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Blood will be collected over various time points prior to surgery to determine individual pharmacokinetics.  During surgery, tumor tissue, plasma, and cerebrospinal fluid will be collected simultaneously. Tumor and plasma concentrations of the drug will be measured by liquid chromatography with tandem mass spectrometry to derive a tumor/plasma ratio.  Descriptive statistics (mean, SD, CV% or median (range)) will be performed on all plasma concentration-time data and derived PK parameters.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Cohort I: To evaluate effects of BKM120 on tumor cell proliferation and tumor cell death</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Modulation in pAKT scoring as measured by reduction of staining intensity of one degree or more will be reported as consistent with a positive response to drug. In addition, participants will be independently scored as a positive response if a reduction in the percentage of pAKT positive cells within a tumor is greater than 50%, and therefore less likely due to normal geographic variation in positivity patterns. All pathway modulation scores will be correlated with effects on tumor growth by measuring Ki-67 (proliferation) and cleaved caspase 3 (CC3) (apoptosis/cell death).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort I: To investigate the safety profile of BKM120 in participants with recurrent GBM</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To assess the probability of toxicity associated with the treatment, the proportion of subjects with different grades of toxicities will be analyzed in order to further expand the safety profile for BKM120.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort I: To investigate pharmacokinetics of BKM120 in this population</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Pharmacokinetic parameters of BKM120 will be determined, either using a two-stage compartmental analysis or using a non-linear mixed-effect approach.  Pharmacokinetic parameters that will be derived include, but are not limited to oral drug clearance (CL/F), central and peripheral volume of distribution (V1 and V2) and absorption rate constant (Ka). Descriptive statistics (mean, SD, CV% or median (range)) will be performed on all plasma concentration-time data and derived PK parameters.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort II: To investigate the radiographic response to BKM120</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Participants will be evaluated for radiographic response.  Response rate will be the proportion of participants with measurable disease who experience complete or partial radiographic response determined by the RANO Criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cohort II: To investigate median progression free survival and overall survival of participants with recurrent GBM receiving treatment with BKM120</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Median time to progression (defined using RANO criteria) and duration of survival will be measured in months for all enrolled cohort II participants.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">65</enrollment>
+  <condition>Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>Cohort I: Surgical subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects scheduled for surgery</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort II: Non-surgical subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Subjects not candidates for surgery</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BKM120</intervention_name>
+    <description>100 mg once daily, orally, for 28 days</description>
+    <arm_group_label>Cohort I: Surgical subjects</arm_group_label>
+    <arm_group_label>Cohort II: Non-surgical subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Surgery</intervention_name>
+    <description>Surgery</description>
+    <arm_group_label>Cohort I: Surgical subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Participants must be able to understand and be willing to sign a written informed
+             consent document.
+
+          -  Subjects must be able to adhere to the dosing and visit schedules, and agree to
+             record medication times accurately and consistently in a daily diary.
+
+          -  Participants must be at least 18 years old.
+
+          -  Participants must have a estimated life expectancy &gt; 8 weeks in the opinion of the
+             clinician.
+
+          -  Participants must have a Karnofsky performance status (KPS) ≥ 60. Nature of illness
+             and treatment history
+
+          -  Participants must have histologically confirmed glioblastoma or variants.
+             Participants will be eligible if the original histology was low-grade glioma and a
+             subsequent histological diagnosis of glioblastoma or variants is made.
+
+          -  Participants may have had treatment for no more than 1 prior relapse(NOTE: Relapse is
+             defined as progression following initial therapy (i.e., radiation ± chemotherapy)).
+             The intent therefore is that patients  If the participant had a surgical resection
+             for relapsed disease and no antitumor therapy was instituted for up to 12 weeks, and
+             the participant undergoes another surgical resection, this is considered as a second
+             relapse. For participants who had prior therapy for a low-grade glioma, the surgical
+             diagnosis of a high-grade glioma will be considered the first relapse).
+
+          -  Participants must have shown unequivocal evidence for tumor progression by MRI or CT
+             scan.
+
+          -  For Cohort 2, CT or MRI within 14 days prior to start of study drug. MRIs should
+             include vascular imaging when possible.  For Cohort 2, corticosteroid dose must be
+             stable or decreasing for at least 5 days prior to the scan. If steroids are added or
+             the steroid dose is increased between the date of the screening MRI or CT scan and
+             the start of treatment, a new baseline MRI or CT is required.  For Cohort 1 subjects,
+             CT or MRI should be performed ideally within 14 days prior to study registration, but
+             because the screening MRI for this subset of subjects will not be used for evaluation
+             of response, it is acceptable for this MRI/CT to have been performed greater than 14
+             days prior to registration if unavoidable. Furthermore, for this same reason,
+             fluctuation in corticosteroid dose around this MRI does not warrant repeat scan so
+             long as there is documented unequivocal evidence of tumor progression available.
+
+          -  Immunohistochemical or genetic analysis on tumor tissue from a prior surgery must
+             demonstrate activation of the PI3K pathway through one of the following: PIK3CA
+             mutation of PIK3R1 mutation, PTEN negativity (&lt;10% of tumor cells staining) oh
+             immunohistochemistry, PTEN mutation (any), homozygous deletion of PTEN
+
+          -  Participants must have failed prior radiation therapy and must have an interval of at
+             least 12 weeks from the completion of radiation therapy to study entry.
+
+          -  Participants must have recovered to a grade 0 or 1 from the toxic effects of prior
+             therapy (with the exception of lymphopenia which is common after therapy with
+             temozolomide).
+
+          -  From the projected start of scheduled study treatment, the following time periods
+             must have elapsed: 4 weeks  or 5 half-lives (whichever is shorter)from any
+             investigational agent, 4 weeks from cytotoxic therapy (except 23 days for
+             temozolomide and 6 weeks from nitrosoureas), 6 weeks from antibodies, or 4  or 5
+             half-lives (whichever is shorter) weeks from other anti-tumor therapies.
+
+          -  Participants with prior therapy that included interstitial brachytherapy or
+             stereotactic radiosurgery must have confirmation of progressive disease based upon
+             nuclear imaging, MR spectroscopy, perfusion imaging or histopathology.
+
+          -  Participants having undergone recent resection of recurrent or progressive tumor will
+             be eligible for Cohort 2 as long as the following conditions apply: a) They have
+             recovered from the effects of surgery; b)Residual disease following resection of
+             recurrent tumor is not mandated for eligibility. To best assess the extent of
+             residual disease postoperatively, an MRI or CT scan should ideally been performed  no
+             later than 96 hours following surgery or at least 28-days postoperatively, but scans
+             performed outside of this window are considered acceptable if no alternative is
+             available. In either case, the baseline/screening MRI must be performed within 14
+             days prior to registration. If the participant is taking corticosteroids, the dose
+             must be stable or decreasing for at least 5 days prior to the scan. If steroids are
+             added or the steroid dose is increased between the date of the screening MRI or CT
+             scan and the start of treatment, a new baseline MRI or CT is required.
+
+          -  Participants must have sufficient tissue from prior surgery for confirmation of
+             diagnosis and correlative studies.  Submission of tissue is to occur within 30 days
+             after registration.  The following amount of tissue is required: a) 25 unstained
+             formalin fixed paraffin embedded (FFPE) sections (standard 4-5 micrometer thickness
+             AND b)one of the following: i) At least 200 micrograms of frozen tissue OR ii)At
+             least 10 (preferably 20) unstained FFPE sections of 10 micrometer thickness OR iii)
+             At least 8 tissue cores from an FFPE block (200 micrometer total thickness of tissue
+             from a block with a total surface area of 0.5 cm2)
+
+          -  Clinical laboratory tests within 14 days prior to enrollment meeting the criteria
+             listed in the protocol
+
+          -  Cardiovascular assessment: baseline MUGA or Echocardiogram must demonstrate LVEF ≥ 50
+             %
+
+          -  Electrocardiogram must demonstrate QTc interval of less than 480 msec
+
+          -  Women are considered post-menopausal and not of child bearing potential if they have
+             had 12 months of natural (spontaneous) amenorrhea with appropriate clinical profile
+             (e.g., age appropriate, history of vasomotor symptoms) or six months of spontaneous
+             amenorrhea with serum FSH levels &gt; 40 mIU/mL and estradiol &lt; 20 pg/mL or have had
+             surgical bilateral oophorectomy (with or without hysterectomy) at least six weeks
+             ago. In the case of oophorectomy alone, only when the reproductive status of the
+             woman has been confirmed by follow up hormone level assessment is she considered not
+             of child bearing potential.
+
+          -  Women of child-bearing potential (WOCBP), defined as all women physiologically
+             capable of becoming pregnant, must use highly effective contraception (defined in
+             protocol) during study treatment and for 16 weeks after study discontinuation.
+
+          -  Women of child-bearing potential must have a negative serum pregnancy test at
+             screening and within 48 hours prior to dosing with the study drug.
+
+          -  Fertile males, defined as all males physiologically capable of conceiving offspring,
+             must use condom during study treatment and for 16 weeks after study discontinuation
+             and should not father a child in this period.
+
+          -  Female partner of male study subject should use highly effective contraception while
+             receiving study agent and for 16 weeks after final dose of study therapy.
+
+        Cohort 1 Inclusion Criteria (In addition to the general eligibility criteria, participants
+        in the Cohort 1 preoperative portion of the study must meet the following criteria on
+        screening examination to be eligible):
+
+          -  A participant who is deemed by the site Investigator to be an appropriate candidate
+             for surgical resection may be enrolled in the Cohort 1 preoperative study.
+
+          -  There must be sufficient recurrent tumor to allow at least 400mg of tissue to be
+             collected ( 2 X 0.5 cm3) for pharmacokinetic and pharmacodynamic analysis.
+
+          -  Immunohistochemical analysis on tumor tissue from an earlier surgery indicating pAKT
+             positive (1-2+ on a 0-2+ scale). Patients may also have one of the other criteria
+             listed for Cohort 2 but they are not mandatory.
+
+        Exclusion Criteria:
+
+          -  Participants who have received prior treatment with a P13K inhibitor, AKT inhibitor,
+             mTOR inhibitor (e.g. rapamycin, MK2206, perifosine etc.).
+
+          -  Participants who have received anti-angiogenic or anti-VEGF targeted agents (e.g.
+             bevacizumab, cediranib, aflibercept, vandetanib, XL184, sunitinib etc).
+
+          -  Participants taking an enzyme-inducing anti-epileptic drug (EIAED): phenobarbital,
+             phenytoin, fosphenytoin, primidone, carbamazepine, oxcarbazepine, eslicarbazepine,
+             rufinamide, felbamate, and topiramate (only when daily dose exceeds 200 mg).
+             Participant must be off any EIAEDs for at least two weeks prior to starting study
+             drug.  A list of EIAED and other inducers of CYP3A4 is provided in Table C-3 of
+             Appendix C of the protocol.
+
+          -  Participants taking a drug known to be moderate and strong inhibitors or inducers of
+             isoenzyme CYP3A (Appendix C). Participant must be off CYP3A inhibitors and inducers
+             for at least two weeks prior to starting study drug. NOTE: participants must avoid
+             consumption of Seville orange (and juice), grapefruit or grapefruit juice, grapefruit
+             hybrids, pummelos and exotic citrus fruits from 7 days prior to the first dose of
+             study drug and during the entire study treatment period due to potential CYP3A4
+             interaction.
+
+          -  Requirement of more than 8mg of dexamethasone daily.
+
+          -  Participants taking drugs with known risk to promote QT prolongation and Torsades de
+             Pointes (refer to protocol).
+
+          -  Participants receiving any other investigational agents.
+
+          -  Current use of herbal preparations/medications, including but not limited to: St.
+             John's wort, Kava, ephedra (ma huang), gingko biloba, dehydroepiandrosterone (DHEA),
+             yohimbe, saw palmetto, ginseng. Participants should stop using these herbal
+             medications 7 days prior to first dose of study drug.
+
+          -  Current use of warfarin sodium or any other coumadin-derivative anticoagulant.
+             Participant must be off Coumadin-derivative anticoagulants for at least seven days
+             prior to starting study drug. Low molecular weight heparin is allowed.
+
+          -  History of allergic reactions attributed to compounds of similar chemical or biologic
+             composition to BKM120.
+
+          -  History of intratumoral or peritumoral hemorrhage if deemed significant by the
+             treating physician.
+
+          -  Uncontrolled intercurrent illness including, but not limited to ongoing or active
+             infection, chronic liver disease (e.g., cirrhosis, hepatitis), chronic renal disease,
+             pancreatitis, chronic pulmonary disease, or psychiatric illness/social situations
+             that would limit compliance with study requirements. Subjects must be free of any
+             clinically relevant disease (other than glioma) that would, in the Investigator's
+             opinion, interfere with the conduct of the study or study evaluations.
+
+          -  Individuals with a history of a different malignancy except for the following
+             circumstances: if they have been disease-free for at least 3 years and are deemed by
+             the investigator to be at low risk for recurrence of that malignancy, individuals
+             with the following cancers are eligible if diagnosed and treated within the past 3
+             years: cervical cancer in situ, and basal cell or squamous cell carcinoma of the
+             skin.
+
+          -  Known diagnosis of human immunodeficiency virus (HIV) infection
+
+          -  Participants with history of protocol specified mood disorders as judged by the
+             Investigator or a psychiatrist, or as result of participant's screening mood
+             assessment questionnaire
+
+          -  Participants with diarrhea ≥ CTCAE grade 2
+
+          -  Participant has active cardiac disease including any of the following: Angina
+             pectoris that requires the use of anti-anginal medications; Ventricular arrhythmias
+             except for benign premature ventricular contractions; Supraventricular and nodal
+             arrythmias requiring a pacemaker or not controlled with medication; Conduction
+             abnormality requiring a pacemaker; Valvular disease with document compromise in
+             cardiac function; Symptomatic pericarditis
+
+          -  Participant has a history of cardiac dysfunction including any of the following:
+             Myocardial infraction within the last 6 months, documented by persistent elevated
+             cardiac enzymes or persistent regional wall abnormalities on assessment of LVEF
+             function; History of documented congestive heart failure (New York Heart Association
+             functional classification III-IV; c)Documented cardiomyopathy; d) Congenital long QT
+             syndrome
+
+          -  Participants with poorly controlled diabetes mellitus (glycosylated hemoglobin &gt; 8%)
+             or poorly controlled steroid-induced diabetes mellitus (glycosylated hemoglobin &gt; 8%)
+
+          -  Impairment of gastrointestinal (GI) function or GI disease that may significantly
+             alter the absorption of BKM120 (e.g., ulcerative diseases, uncontrolled nausea,
+             vomiting, diarrhea, malabsorption syndrome, or extensive small bowel resection).
+             Participants with unresolved diarrhea will be excluded as previously indicated.
+
+          -  Participants who have undergone major systemic surgery ≤ 2 weeks prior to starting
+             study drug or who have not recovered from side effects of such therapy.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrick Y Wen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Patrick Y Wen, M.D.</last_name>
+    <phone>617-632-2166</phone>
+    <email>Patrick_Wen@dfci.harvard.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of California, Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emese Filka</last_name>
+      <phone>310-794-3521</phone>
+    </contact>
+    <investigator>
+      <last_name>Timothy Cloughesy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California, San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emelia Clow, RN</last_name>
+      <phone>415-353-2652</phone>
+      <email>ClowE@neurosurg.ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael D Prados</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa Doherty, NP</last_name>
+      <phone>617-632-5925</phone>
+    </contact>
+    <investigator>
+      <last_name>Patrick Y Wen, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Susan Hahn, RN</last_name>
+      <phone>617-726-9579</phone>
+      <email>shahn16@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Chi, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ingo Mellinghoff, MD</last_name>
+      <phone>646-888-2766</phone>
+      <email>mellingi@mskcc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ingo Mellinghoff, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UT, MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Be-Lian Pei, RN, BSN, CRRN</last_name>
+      <phone>713-792-1496</phone>
+      <email>BPei@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>WK Alfred Yung, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute, University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amiee Maxwell</last_name>
+      <phone>801-587-5562</phone>
+      <email>Amiee.Maxwell@hci.utah.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Howard Colman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 24, 2013</lastchanged_date>
+  <firstreceived_date>April 18, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Dana-Farber/Brigham and Women's Cancer Center</investigator_affiliation>
+    <investigator_full_name>Patrick Y. Wen, MD</investigator_full_name>
+    <investigator_title>Director, Center For Neuro-Oncology</investigator_title>
+  </responsible_party>
+  <keyword>BKM120</keyword>
+  <keyword>Brain tumor</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

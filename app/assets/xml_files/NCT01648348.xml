@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="84">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01648348</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-01989</org_study_id>
+    <secondary_id>NCI-2012-01989</secondary_id>
+    <secondary_id>CDR0000737109</secondary_id>
+    <secondary_id>NCCTG-N1174</secondary_id>
+    <secondary_id>N1174</secondary_id>
+    <secondary_id>N1174</secondary_id>
+    <secondary_id>U10CA025224</secondary_id>
+    <nct_id>NCT01648348</nct_id>
+  </id_info>
+  <brief_title>Bevacizumab With or Without Anti-Endoglin Monoclonal Antibody TRC105 in Treating Patients With Recurrent Glioblastoma Multiforme</brief_title>
+  <official_title>Phase I/Comparative Randomized Phase II Trial of TRC105 Plus Bevacizumab Versus Bevacizumab in Bevacizumab-Naïve Patients With Recurrent Glioblastoma Multiforme</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I/II trial studies the side effects and the best dose of anti-endoglin monoclonal
+      antibody TRC105 when giving together with bevacizumab and to see how well it works in
+      treating patients with recurrent glioblastoma multiforme. Monoclonal antibodies, such as
+      anti-endoglin monoclonal antibody TRC105 and bevacizumab, may stop the growth of tumor cells
+      by blocking blood flow to the tumor. Giving anti-endoglin monoclonal antibody TRC105
+      together with bevacizumab may be an effective treatment for glioblastoma multiforme.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To establish a maximum tolerated dose (MTD) of TRC105 (anti-endoglin monoclonal antibody
+      TRC105) combined with bevacizumab in this patient population. (Phase I) II. To assess the
+      safety and adverse events of TRC105 in combination with bevacizumab in this patient
+      population. (Phase II) III. To determine the efficacy of TRC105 in combination with
+      bevacizumab in recurrent glioblastoma as measured by progression-free survival and compare
+      it with the efficacy of bevacizumab alone in this patient population. (Phase II)
+
+      SECONDARY OBJECTIVES:
+
+      I. To assess the proportion of patients who are progression free at 6 months, treated with
+      TRC105 in combination with bevacizumab as compared to bevacizumab alone. (Phase II) II. To
+      assess the overall survival of patients treated with TRC105 in combination with bevacizumab
+      compared to bevacizumab alone. (Phase II) III. To compare the impact of the treatment on the
+      patients quality of life (QOL) using the EORTC Quality of Life QLQ-C15-PAL and QLQ-BN20
+      Patient Questionnaires. (Phase II) IV. To estimate patient recommendations for study
+      participation to others using the Was It Worth It (WIWI) Questionnaire. (Phase II)
+
+      TERTIARY OBJECTIVES:
+
+      I. To evaluate the pharmacokinetics of TRC105. (Phase I) II. To evaluate the immunogenicity
+      of TRC105. (Phase I) III. To determine the relationship between tumor biomarkers,
+      circulating biomarkers of vascular response and vascular endothelial growth factor
+      (VEGF)/VEGFR single-nucleotide polymorphism (SNPs) in predicting efficacy and/or toxicity of
+      treatment. (Phase II) IV. To assess the utility of magnetic resonance imaging (MRI) imaging
+      including apparent diffusion coefficient (ADC) as a predictor of response and survival.
+      (Phase II) V. To assess the utility of dynamic contrast enhanced (DCE) MRI as a predictor of
+      response to bevacizumab with or without TRC105. (Phase II)
+
+      OUTLINE: This is a multicenter, phase I dose-escalation study of anti-endoglin monoclonal
+      antibody TRC105 followed by a randomized phase II study.
+
+      Phase I: Patients receive bevacizumab intravenously (IV) over 30-90 minutes on day 1 and
+      anti-endoglin monoclonal antibody TRC105 IV over 1-4 hours on days 8 and 11 of course 1 and
+      days 1 and 8 of course 2 and all subsequent courses. Courses repeat every 14 days in the
+      absence of disease progression or unacceptable toxicity.
+
+      Phase II: Patients are stratified according to age (&gt; 70 vs =&lt; 70) and resection at
+      recurrence (yes vs no). Patients are randomized to 1 of 2 treatment arms.
+
+      ARM I: Patients receive bevacizumab IV over 30-90 minutes on day 1 and anti-endoglin
+      monoclonal antibody TRC105 IV over 1-4 hours on days 8 and 11 of course 1 and days 1 and 8
+      of course 2 and all subsequent courses. Courses repeat every 14 days in the absence of
+      disease progression or unacceptable toxicity.
+
+      ARM II: Patients receive bevacizumab as in arm I. Courses repeat every 14 days in the
+      absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up every 3 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>November 2012</start_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>MTD of TRC105 combined with bevacizumab based on the incidence of dose-limiting toxicity (DLT) (Phase I)</measure>
+    <time_frame>28 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival (PFS) (Phase II)</measure>
+    <time_frame>The time from study randomization to documentation of disease progression, assessed up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The time-to-progression distribution will be estimated using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (Phase II)</measure>
+    <time_frame>The time from start of study therapy to death due to any cause, assessed up to 3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The distribution of overall survival for both groups of the study will be estimated using the Kaplan-Meier method, and be compared using logrank tests.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS (Phase II)</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The 6-month progression-free survival percentage will be estimated as the number of evaluable patients progression free and still alive at 6 months divided by the total number of evaluable patients. The confidence interval will be calculated according to the approach of Duffy and Santner (1987). Two PFS6 rates will be estimated and compared after all patients have been followed for 6 months.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Adverse events (AEs) as assessed by NCI CTCAE v. 4.0 (Phase II)</measure>
+    <time_frame>Up to 3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The maximum grade for each type of toxicity will be recorded for each patient, and frequency tables will be reviewed to determine toxicity patterns within patient groups. In addition, we will review all adverse event data that is graded as 3, 4, or 5 and classified as either &quot;unrelated&quot; or &quot;unlikely to be related&quot; to study treatment in the event of an actual relationship developing. The overall adverse event rates for grade 3 or higher adverse events will be compared using Chi-Square or Fisher's Exact tests between the 2 treatment groups.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>QOL as assessed by the EORTC QLQ-C15-PAL and QLQ-BN20 Patient Questionnaires and the WIWI questionnaire (Phase II)</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>Adult Anaplastic Astrocytoma</condition>
+  <condition>Adult Anaplastic Oligodendroglioma</condition>
+  <condition>Adult Diffuse Astrocytoma</condition>
+  <condition>Adult Giant Cell Glioblastoma</condition>
+  <condition>Adult Glioblastoma</condition>
+  <condition>Adult Gliosarcoma</condition>
+  <condition>Adult Oligodendroglioma</condition>
+  <condition>Recurrent Adult Brain Tumor</condition>
+  <arm_group>
+    <arm_group_label>Arm I (bevacizumab and TRC105)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive bevacizumab IV over 30-90 minutes on day 1 and anti-endoglin monoclonal antibody TRC105 IV over 1-4 hours on days 8 and 11 of course 1 and days 1 and 8 of course 2 and all subsequent courses. Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (bevacizumab)</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive bevacizumab as in arm I. Courses repeat every 14 days in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>anti-endoglin monoclonal antibody TRC105</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I (bevacizumab and TRC105)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>bevacizumab</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I (bevacizumab and TRC105)</arm_group_label>
+    <arm_group_label>Arm II (bevacizumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (bevacizumab and TRC105)</arm_group_label>
+    <arm_group_label>Arm II (bevacizumab)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (bevacizumab and TRC105)</arm_group_label>
+    <arm_group_label>Arm II (bevacizumab)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histological confirmation of grade 3 or 4 glioma, including astrocytoma,
+             oligodendroglioma, and mixed gliomas, as determined by preregistration central
+             pathology review (Phase I)
+
+          -  Histological confirmation of glioblastoma multiforme (grade 4 astrocytoma) as
+             determined by pre-registration central pathology review (Phase II)
+
+               -  Gliosarcomas and other grade 4 astrocytoma variants (e.g., giant cell) are
+                  eligible
+
+          -  Evidence of tumor progression by magnetic resonance imaging (MRI) or computed
+             tomography (CT) scan following radiation therapy or following the most recent
+             anti-tumor therapy
+
+               -  Patients who have had surgical treatment at recurrence are eligible if they had
+                  a resection with measurable or non-measurable residual disease on postoperative
+                  imaging or if there is imaging evidence of disease progression as compared to
+                  the first postoperative scan
+
+          -  Measurable or evaluable disease by gadolinium MRI or contrast CT scan
+
+               -  Patients who have had a gross total resection (GTR) are eligible on the basis of
+                  evaluable disease
+
+          -  Blood and tissue samples for correlative research purposes required (Phase II)
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status (PS) 0, 1, or 2
+
+          -  Absolute neutrophil count (ANC) &gt;= 1,500/mm^3
+
+          -  Platelet count &gt;= 100,000/mm^3
+
+          -  White blood cells (WBC) &gt;= 3,000/mL
+
+          -  Hemoglobin &gt;= 10.0 g/dL; Note: This level may be reached by transfusion
+
+          -  Total bilirubin =&lt; institutional upper limit of normal (ULN)
+
+          -  Serum glutamic oxaloacetic transaminase (SGOT) (aspartate aminotransferase [AST]) =&lt;
+             2 times ULN
+
+          -  Creatinine =&lt; ULN
+
+          -  Life expectancy &gt;= 12 weeks
+
+          -  Negative serum pregnancy test done =&lt; 7 days prior to registration, for women of
+             childbearing potential only
+
+          -  Urine protein creatinine (UPC) ratio &lt; 1; Note: Urine protein must be screened by
+             urine analysis for urine protein creatinine (UPC) ratio; for UPC ratio &gt;= 1.0,
+             24-hour urine protein must be obtained and the level should be &lt; 1,000 mg for
+             registration
+
+          -  Fixed or decreasing dose of corticosteroids (or no corticosteroids) &gt;= 7 days prior
+             to registration
+
+          -  Calculated glomerular filtration rate (GFR) must be &gt;= 60 ml/min; GFR will be
+             calculated as needed per institutional guidelines
+
+          -  Any number of prior chemotherapy regimens for recurrent disease (Phase I)
+
+               -  =&lt; 1 chemotherapy or other non-antiangiogenic regimen for recurrent disease
+                  (Phase II)
+
+          -  Last dose of bevacizumab &gt;= 2 weeks prior to registration (Phase I); Note: prior
+             exposure to bevacizumab is not allowed for Phase II
+
+          -  Surgery &gt;= 4 weeks prior to registration
+
+          -  Completion of radiation therapy &gt;= 12 weeks prior to registration and prior
+             chemotherapy &gt;= 4 weeks prior to registration (&gt;= 6 weeks from nitrosourea-containing
+             regimens)
+
+          -  Small molecular cell cycle inhibitors &gt;= 2 weeks from registration
+
+          -  Ability to provide informed written consent
+
+          -  Ability to complete questionnaire(s) by themselves or with assistance
+
+          -  Willing to return to enrolling institution for follow-up
+
+          -  Willing to discontinue use of medications that inhibit platelet function &gt;= 10 days
+             prior to registration; aspirin at doses greater than 325 mg/day must be discontinued
+             &gt;= 10 days prior to registration and avoided through the study
+
+               -  Note: Nonsteroidal antiinflammatory drug (NSAID) medications are recommended in
+                  place of aspirin. If NSAIDs or aspirin are used, H-2 blockers and proton pump
+                  inhibitor (PPI) medications are recommended
+
+          -  Willing to provide mandatory blood and tissue samples for correlative research
+             purposes (Phase I and II)
+
+        Exclusion Criteria:
+
+          -  Any of the following because this study involves investigational agents whose
+             genotoxic, mutagenic and teratogenic effects on the developing fetus and newborn are
+             unknown
+
+               -  Pregnant women
+
+               -  Nursing women
+
+               -  Men or women of childbearing potential who are unwilling to employ adequate
+                  contraception throughout the duration of the study and for at least 6 months
+                  after treatment has ended
+
+          -  Prior hypersensitivity to bevacizumab or toxicity requiring discontinuation of
+             bevacizumab (Phase I)
+
+          -  Any prior exposure to any vascular endothelial growth factor (VEGF) or VEGF inhibitor
+             including, but not limited to, bevacizumab, cediranib, vandetanib, sunitinib,
+             pazopanib, aflibercept, or sorafenib (Phase II)
+
+          -  No prior hypersensitivity to Chinese hamster ovary cell products or other recombinant
+             human antibodies
+
+          -  Prior hypersensitivity to triptan derivatives
+
+          -  Other active malignancy =&lt; 3 years prior to registration; exceptions: nonmelanotic
+             skin cancer or carcinoma-in-situ of the cervix; Note: If there is a history of prior
+             malignancy, they must not be receiving other specific treatment (other than hormonal
+             therapy) for their cancer
+
+          -  Uncontrolled infection
+
+          -  Immunocompromised patients or patients known to be human immunodeficiency virus (HIV)
+             positive and currently receiving combination antiretroviral therapy; Note:
+             HIV-positive patients receiving combination antiretroviral therapy are ineligible
+             because of the potential for pharmacokinetic interactions with bevacizumab; in
+             addition, these patients are at increased risk of lethal infections when treated with
+             marrow-suppressive therapy; appropriate studies will be undertaken in patients
+             receiving combination antiretroviral therapy when indicated positive, but without
+             clinical evidence of an immunocompromised state, are eligible for this trial
+
+          -  Co-morbid systemic illnesses or other severe concurrent disease which, in the
+             judgment of the investigator, would make the patient inappropriate for entry into
+             this study or interfere significantly with the proper assessment of safety and
+             adverse events of the prescribed regimens
+
+          -  Uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, or psychiatric illness/social situations that would limit compliance with
+             study requirements
+
+          -  History of hypertensive crisis or hypertensive encephalopathy
+
+          -  Clinically significant cardiovascular disease defined as follows:
+
+               -  Inadequately controlled hypertension (i.e., systolic blood pressure (SBP)&gt; 160
+                  mm Hg and/or diastolic blood pressure (DBP) &gt; 90 mm Hg despite antihypertensive
+                  therapy)
+
+               -  History of cerebrovascular accident (CVA) within 6 months
+
+               -  Myocardial infarction or unstable angina within 6 months
+
+               -  New York Heart Association classification II, III, or IV cardiovascular disease
+
+               -  Serious and inadequately controlled cardiac arrhythmia
+
+               -  Significant vascular disease (i.e., aortic aneurysm, history of aortic
+                  dissection)
+
+               -  Clinically significant peripheral vascular disease
+
+          -  Evidence or history of bleeding diathesis (greater than normal risk of bleeding,
+             i.e., Hereditary Hemorrhagic Telangiectasia type I [HHT-1]) or coagulopathy in the
+             absence of therapeutic anti-coagulation or any hemorrhage/bleeding event &gt; grade 3
+             within 4 weeks prior to registration
+
+          -  Receiving any other investigational agent that would be considered as a treatment for
+             the primary neoplasm
+
+          -  Prior treatment with TRC105
+
+          -  Serious or non-healing wound, active ulcer, or untreated bone fracture
+
+          -  History of abdominal fistula, gastrointestinal perforation, or intra-abdominal
+             abscess =&lt; 6 months prior to registration
+
+          -  History of invasive procedures defined as follows:
+
+               -  Major surgical procedure, open biopsy, or significant traumatic injury =&lt; 28
+                  days prior to registration
+
+               -  Anticipation of need for major surgical procedures during the study
+
+               -  Core biopsy =&lt; 7 days prior to registration
+
+          -  History of significant vascular disease (i.e., aortic aneurysm requiring surgical
+             repair, or recent peripheral arterial thrombosis) within 6 months prior to
+             registration
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Evanthia Galanis</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>North Central Cancer Treatment Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCSF-Mount Zion</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicholas A. Butowski</last_name>
+      <phone>877-827-3222</phone>
+    </contact>
+    <investigator>
+      <last_name>Nicholas A. Butowski</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Florida</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224-9980</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kurt A. Jaeckle</last_name>
+      <phone>904-353-7102</phone>
+      <email>jaeckle.kurt@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kurt A. Jaeckle</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lakshmi Nayak</last_name>
+      <phone>866-790-4500</phone>
+    </contact>
+    <investigator>
+      <last_name>Lakshmi Nayak</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Charlestown</city>
+        <state>Massachusetts</state>
+        <zip>02129</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frederick G. Barker</last_name>
+      <phone>617-724-8772</phone>
+      <email>barker@helix.mgh.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Frederick G. Barker</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ann Arbor Hematology -Oncology Associates</name>
+      <address>
+        <city>Ypsilanti</city>
+        <state>Michigan</state>
+        <zip>48197</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samir Narayan</last_name>
+      <phone>734-712-3596</phone>
+      <email>narayans@trinity-health.org</email>
+    </contact>
+    <investigator>
+      <last_name>Samir Narayan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Evanthia Galanis</last_name>
+      <phone>507-538-7623</phone>
+    </contact>
+    <investigator>
+      <last_name>Evanthia Galanis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Central Cancer Treatment Group</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Evanthia Galanis</last_name>
+      <phone>507-284-1370</phone>
+      <email>galanis.evanthia@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Evanthia Galanis</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Antonio M. Omuro</last_name>
+      <phone>212-639-7202</phone>
+    </contact>
+    <investigator>
+      <last_name>Antonio M. Omuro</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Schiff</last_name>
+      <phone>434-243-6143</phone>
+    </contact>
+    <investigator>
+      <last_name>David Schiff</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 7, 2013</lastchanged_date>
+  <firstreceived_date>July 20, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Oligodendroglioma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

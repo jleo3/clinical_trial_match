@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="39">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00978562</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHSU-5405</org_study_id>
+    <secondary_id>3 RO1 CA137488 15S1</secondary_id>
+    <secondary_id>SOL-09064-LX</secondary_id>
+    <secondary_id>5405</secondary_id>
+    <nct_id>NCT00978562</nct_id>
+  </id_info>
+  <brief_title>Imaging Vascular Properties of Pediatric Brain Tumors Using Ferumoxytol and Gadolinium in a Single Imaging Session</brief_title>
+  <official_title>Imaging Vascular Properties of Pediatric Brain Tumors Using DSC-MRI With Ferumoxytol (Code 7228) and DCE-MRI With Gadolinium in a Single Imaging Session: An NCI Sponsored Exploratory Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institutes of Health (NIH)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Current imaging techniques often do not demonstrate the true amount and location of brain
+      tumors, which are both critical factors for treatment decision-making.  This purpose of this
+      study is to assess the safety and effectiveness of a new iron containing agent called
+      &quot;ferumoxytol&quot; in improving our ability to image pediatric brain tumors.  Ferumoxytol, as
+      well as the usual contrast agent, gadolinium, together will be used to image the blood
+      vessels in pediatric brain tumors. After contrast agent injection into the veins, special
+      magnetic resonance imaging (MRI) scans will be performed to see changes in blood vessels in
+      the brain and tumor.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients will be scanned at five different time-points (5 MRI series).  Each patient will
+      have a baseline MRI study (gadolinium only, with no ferumoxytol).  MRI scans with both
+      ferumoxytol and gadolinium contrast will be performed beginning at least 3 weeks after the
+      baseline scan.  The timing of all MRIs will not occur more frequently than every 3 weeks,
+      and all five ferumoxytol/gadolinium scans will take place within 2 years from study entry.
+      There will be a final outpatient clinic visit approximately 1 month after the final
+      ferumoxytol/gadolinium MRI.
+
+      Measurements such as size of tumor, blood flow to tumor (perfusion), and leakiness of blood
+      vessels within the tumor (permeability) will be described at each time-point and the
+      information will be evaluated throughout the study. The tumor size will be evaluated by 2
+      radiologists.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2009</start_date>
+  <completion_date type="Anticipated">December 2014</completion_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>Phase 0</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Describe vascular properties of pediatric brain tumors using ferumoxytol for DSC-MRI and GBCA for DCE-MRI in a single MRI session. Describe evolving imaging characteristics of tumor vasculature using DSC-MRI with ferumoxytol and DCE-MRI with GBCA.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Compare and evaluate MRA with ferumoxytol between different time points.</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Describe number and size of tumors imaged</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assess histology and EM on tissue samples</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Demonstrate differences in patients with prior therapy vs. no prior therapy (radiation and/or chemotherapy).</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">12</enrollment>
+  <condition>Brain Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>ferumoxytol</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>MR imaging</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ferumoxytol</intervention_name>
+    <description>Level 1 = 2mg Fe/kg Level 2 = 4mg Fe/kg</description>
+    <arm_group_label>ferumoxytol</arm_group_label>
+    <other_name>Feraheme</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  5-18 years of age
+
+          -  radiological (presumptive) or established (proven) histological diagnosis of a brain
+             tumor or lesion
+
+          -  previously untreated patients must have a measureable lesion on an imaging study
+
+          -  Baseline MRI studies for patients receiving ferumoxytol must be performed within 6
+             weeks of study entry
+
+          -  Patients undergoing active treatment, or who have completed treatment, will have
+             radiographic abnormalities that may or may not be recurrent tumor
+
+          -  patients requiring surgical intervention for diagnostic and/or therapeutic purposes
+             as necessary for their disease are eligible
+
+          -  Patients may have had prior therapy for the primary brain tumor, including surgery,
+             radiotherapy or chemotherapy
+
+          -  agree to be followed for up to 6 weeks after the final infusion of ferumoxytol
+
+          -  patients, or their legal guardians, must sign a written informed consent and HIPAA
+             authorization in accordance with institutional guidelines
+
+          -  Sexually active women of child-bearing potential and men must agree to use adequate
+             contraception (hormonal or barrier method of birth control;abstinence) prior to study
+             treatment and for the duration of study treatment
+
+        Exclusion Criteria:
+
+          -  Patients with clinically significant signs of uncal herniation, such as acute
+             pupillary enlargement, rapidly developing motor changes (over hours), or rapidly
+             decreasing level of consciousness
+
+          -  Patients with known allergic or hypersensitivity reactions to parenteral
+             iron,parenteral dextran, parenteral iron-dextran, or parenteral iron-polysaccharide
+             preparations (Ferumoxytol Investigator's Drug Brochure, 2009)
+
+          -  Patients who are pregnant, lactating, or who suspect they might be pregnant
+
+          -  Patients with known liver function insufficiency (AST and/or ALT greater than 2.5x
+             upper limits of normal) or stage IV (GFR 15-29 mL/min/1.73 m2) or stage V (GFR &lt;15
+             mL/min/1.73 m2) renal insufficiency
+
+          -  Subjects who have a contraindication for MRI: metal in their bodies (a cardiac
+             pacemaker or other incompatible device), are severely agitated, or have an allergy to
+             GBCA
+
+          -  Subjects with known hepatic insufficiency or cirrhosis
+
+          -  HIV-positive patients on combination antiretroviral therapy are ineligible because of
+             the potential for pharmacokinetic interactions with ferumoxytol
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>5 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward A Neuwelt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Oregon Health and Science University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edward A Neuwelt, MD</last_name>
+    <phone>503-494-5626</phone>
+    <email>neuwelte@ohsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cynthia A Lacy, BSN</last_name>
+    <phone>503-494-5626</phone>
+    <email>lacyc@ohsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <phone>503-494-5626</phone>
+      <email>neuweltn@ohsu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Cynthia A Lacy, BSN</last_name>
+      <phone>503-494-5626</phone>
+      <email>lacyc@ohsu.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 30, 2013</lastchanged_date>
+  <firstreceived_date>September 16, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ferumoxytol</keyword>
+  <keyword>Diagnostic Imaging</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Ferumoxytol</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

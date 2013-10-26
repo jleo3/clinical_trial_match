@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="298">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01957735</url>
+  </required_header>
+  <id_info>
+    <org_study_id>BP-31510IV-04</org_study_id>
+    <nct_id>NCT01957735</nct_id>
+  </id_info>
+  <brief_title>BP31510 (Ubidecarenone,USP) Nanosuspension for Intravenous Injection to Patients With Solid Tumors</brief_title>
+  <official_title>A Phase 1a/b Non-randomized, Dose Escalation Study of the Safety, Pharmacokinetics, and Pharmacodynamics of Sterile BPM31510 (Ubidecarenone, USP) Nanosuspension Injection Administered Intravenously to Patients With Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Berg, LLC</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Berg, LLC</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This clinical study will assess the safety and tolerability of investigational drug product
+      BPM31510 and BPM31510 in combination with chemotherapy when administered as a 96-hour
+      intravenous (IV) infusion in patients with solid tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The primary objectives are:
+
+      Primary:
+
+      - To determine the maximum tolerated dose (MTD) and assess the safety and tolerability of
+      monotherapy BPM31510 and BPM31510 in combination with chemotherapy when administered as a
+      96-hour intravenous (IV) infusion in patients with solid tumors.
+
+      The secondary objective is:
+
+      Secondary:
+
+      - To evaluate plasma pharmacokinetics (PK) and estimate renal clearance of BPM31510
+      monotherapy and BPM31510 in combination with chemotherapy when administered as a 96-hour IV
+      infusion in patients with solid tumors.
+
+      The exploratory objectives are:
+
+      Exploratory:
+
+        -  To evaluate the pharmacodynamic (PD) correlates of BPM31510 activity in plasma as
+           monotherapy and in combination with chemotherapy.
+
+        -  To evaluate the effects of BPM31510 on shifting tumors to aerobic respiration by PET
+           imaging.
+
+        -  To assess tumor vascularity (using DCE-MRI) in at least 6 subjects who received
+           BPM31510 at the MTD, will be done within 24 hours pre-dose and post-dose.
+
+        -  To evaluate tumor response (preliminary antitumor activity) after repeat administration
+           of BPM31510.
+
+        -  Progression-free survival (PFS) and time to progression (TTP) will be assessed for each
+           treatment group.
+
+        -  Myelosuppression recorded for the combination treatment arm will be compared to
+           historical data for each treatment.
+
+        -  Long-term safety and tolerability of BPM31510 after repeat administration as
+           monotherapy and in combination with chemotherapy.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2013</start_date>
+  <completion_date type="Anticipated">December 2015</completion_date>
+  <primary_completion_date type="Anticipated">September 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Crossover Assignment, Masking: Open Label</study_design>
+  <primary_outcome>
+    <measure>Determine Maximum Tolerated Dose (MTD) of BP31510</measure>
+    <time_frame>each week of treatment for the duration of Cycle 1 up to 4 weeks on Arm 1 and 6 weeks for Arm 2</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>dose limiting toxicities will be assessed during Cycle 1 (first four weeks of Arm 1 and 6 weeks for Arm 2) of the study. Blood samples for pharmacokinetic and pharmacodynamic analyses will be collected during each cycle of monotherapy and combination therapy. Urine samples for determination of BPM31510 renal clearance will be collected only during Cycle 1 of monotherapy and combination therapy. A PET scan will be performed within 2 weeks prior to starting treatment and after 2 weeks of BPM31510 treatment, and 8 weeks of treatment on Arm 1 or 10 weeks of treatment on Arm 2. Core biopsies (2-3) will be performed at the time of baseline and Week 2 PET scan for patients who opt-in to participate in these exploratory studies.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To evaluate plasma pharmacokinetics (PK) of BPM31510</measure>
+    <time_frame>each cycle (every 4 weeks) for for up to 1 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To evaluate plasma pharmacokinetics (PK) of BPM31510 monotherapy and BPM31510 in combination with chemotherapy when administered as a 96-hour IV infusion in patients with solid tumors.
+Blood samples for pharmacokinetic and pharmacodynamic analyses will be collected during each cycle of monotherapy and combination therapy. Urine samples for determination of BPM31510 renal clearance will be collected only during Cycle 1 of monotherapy and combination therapy. A PET scan will be performed within 2 weeks prior to starting treatment and after 2 weeks of BPM31510 treatment, and 8 weeks of treatment on Arm 1 or 10 weeks of treatment on Arm 2. Core biopsies (2-3) will be performed at the time of baseline and Week 2 PET scan for patients who opt-in to participate in these exploratory studies.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>To estimate renal clearance of BPM31510</measure>
+    <time_frame>each cycle (every 4 weeks) for for up to 1 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To estimate renal clearance of BPM31510 monotherapy and BPM31510 in combination with chemotherapy when administered as a 96-hour IV infusion in patients with solid tumors
+Blood samples for pharmacokinetic and pharmacodynamic analyses will be collected during each cycle of monotherapy and combination therapy. Urine samples for determination of BPM31510 renal clearance will be collected only during Cycle 1 of monotherapy and combination therapy.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">45</enrollment>
+  <condition>Metastatic Cancer</condition>
+  <condition>Cancer</condition>
+  <condition>Refractory Solid Tumor</condition>
+  <arm_group>
+    <arm_group_label>BP31510 monotherapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>patients who meet eligibility parameters will receive 2 consecutive 48-hour infusions of BPM31510 twice weekly on Monday and Wednesday (i.e., Days 1, 3, 8, 10, 15, 17, 22, and 24), essentially receiving BPM31510 treatment for 96 hours per week of each 28-day cycle.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>BP31510 in combination with chemotherapy</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>treatment Arm 2 will enroll and treat patients with BPM31510 at the evaluated and confirmed safe dose in combination with one of 3 chemotherapies::
+Gemcitabine IV once weekly at a starting dose of 600 mg/m2;
+5-Fluorouracil (5-FU) IV once weekly at a starting dose of 350 mg/m2 with leucovorin (LV) 100 mg/m2 ;
+Docetaxel IV once weekly at a starting dose of 20 mg/m2</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BP31510 monotherapy</intervention_name>
+    <arm_group_label>BP31510 monotherapy</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>BP31510 in combination with chemotherapy</intervention_name>
+    <arm_group_label>BP31510 in combination with chemotherapy</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  The patient has a histologically confirmed solid tumor that is metastatic or
+             unresectable for which standard measures do not exist or are no longer effective.
+             (Patients with primary brain cancer or lymphoma are permitted. Patients with brain
+             metastases are allowed if whole brain radiation was performed and is documented
+             stable for ≥ 6 weeks)
+
+          -  The patient is at least 18 years old.
+
+          -  The patient has an ECOG performance status ≤ 2
+
+          -  The patient has a life expectancy of &gt; 3 months.
+
+          -  Sexually active patients and their partners agree to use an accepted method of
+             contraception during the course of the study
+
+          -  Female patients of childbearing potential must have a negative pregnancy test within
+             1 week prior to beginning study treatment.
+
+          -  The patient has adequate organ and marrow function as follows:
+
+          -  ANC ≥ 1500 mm3, platelets ≥ 100,000/mm3, hemoglobin ≥ 9 g/dL,
+
+          -  serum creatinine ≤1.8 mg/dL or creatinine clearance &gt; 50 mL/min
+             (Appendix I);
+
+          -  bilirubin ≤ 1.5 mg/dL; alanine aminotransferase (ALT), aspartate transaminase (AST) ≤
+             2.5 times the upper limit of normal if no liver involvement or ≤ 5 times the upper
+             limit of normal with liver involvement.
+
+          -  The patient has serum electrolytes (including calcium, magnesium, phosphorous, sodium
+             and potassium) within normal limits (supplementation to maintain normal electrolytes
+             is allowed).
+
+          -  The patient has adequate coagulation: prothrombin time (PT), partial thromboplastin
+             time (PTT), and an International Normalized Ratio within normal limits.
+
+          -  The patient is capable of understanding and complying with the protocol and has
+             signed the informed consent document.
+
+        Exclusion Criteria:
+
+          -  The patient has uncontrolled intercurrent illness including, but not limited to
+             uncontrolled infection, symptomatic congestive heart failure (NYHA class III and IV),
+             uncontrolled cardiac arrhythmia, or psychiatric illness/social situations that would
+             limit compliance with study requirements
+
+          -  The patient has active heart disease including myocardial infarction within previous
+             3 months, symptomatic coronary artery disease, arrhythmias not controlled by
+             medication, unstable angina pectoris, or uncontrolled congestive heart failure (NYHA
+             class III and IV)
+
+          -  The patient has received chemotherapy or radiotherapy within 4 weeks or has received
+             nitrosoureas or mitomycin C within 6 weeks prior to the first dose of study drug.
+
+          -  The patient has received radiation to ≥ 25% of his or her bone marrow within 4 weeks
+             of the first dose of study drug.
+
+          -  The patient has received an investigational drug within 30 days of the first dose of
+             study drug.
+
+          -  The patient has not recovered to grade ≤ 1 from adverse events (AEs) due to
+             investigational drugs or other medications, which were administered more than 4 weeks
+             prior to the first dose of study drug.
+
+          -  The patient is pregnant or lactating.
+
+          -  The patient is known to be positive for the human immunodeficiency virus (HIV). The
+             effect of BPM31510 on HIV medications is unknown. Note: HIV testing is not required
+             for eligibility, but if performed previously and was positive, the patient is
+             ineligible for the study.
+
+          -  The patient has an inability or unwillingness to abide by the study protocol or
+             cooperate fully with the investigator or designee.
+
+          -  The patient is taking HMG-CoA reductase inhibitors (Statin drugs).
+
+          -  The patient is receiving digoxin, digitoxin, lanatoside C or any type of digitalis
+             alkaloids.
+
+          -  The patient is receiving colony stimulating factors (CSFs) that cannot be held during
+             the monitoring period for dose-limiting toxicities (DLT).
+
+          -  The patient has uncontrolled or severe coagulopathies or a history of clinically
+             significant bleeding within the past 6 months, such as hemoptysis, epistaxis,
+             hematochezia, hematuria, or gastrointestinal bleeding.
+
+          -  The patient has a known predisposition for bleeding such as von Willebrand's disease
+             or other such condition.
+
+          -  The patient requires therapeutic doses of any anticoagulant, including LMWH.
+             Concomitant use of warfarin, even at prophylactic doses, is prohibited.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manish A Shah, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Weill Cornell Solid Tumor Oncology Practice</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Manish A Shah, MD</last_name>
+    <phone>646-962-6200</phone>
+    <email>mas9313@med.cornell.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Weill Cornell Solid Tumor Oncology Practice</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Manish A Shah, MD</last_name>
+      <phone>646-962-6200</phone>
+      <email>mas9313@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Manish A Shah, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Allyson Ocean, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Elizabeta Popa, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Scott Tagawa, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Bryan Schneider, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The University of Texas MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ralph Zinner, MD</last_name>
+      <phone>713-745-6601</phone>
+      <email>rzinner@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ralph Zinner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Gerald Falchook, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Filip Janku, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Sarina Piha-Paul, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Jennifer Wheler, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Siqing Fu, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Daniel Karp, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Vivek Subbiah, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>David Hong, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Aung Naing, MD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Apostolia Tsimberidou, MD, PhD</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 7, 2013</lastchanged_date>
+  <firstreceived_date>August 9, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>metastatic cancer</keyword>
+  <keyword>solid tumor</keyword>
+  <keyword>unresectable tumor</keyword>
+  <keyword>brain cancer</keyword>
+  <keyword>lymphoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Coenzyme Q10</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

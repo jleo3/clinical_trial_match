@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="144">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01770626</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UAB 1106</org_study_id>
+    <nct_id>NCT01770626</nct_id>
+  </id_info>
+  <brief_title>A Pilot Study to Determine Nutrition Status in Glioblastoma Multiforme Patients</brief_title>
+  <acronym>BEAM</acronym>
+  <official_title>A Pilot Study to Determine the Effectiveness of Bioelectrical Impedance Analysis as a Clinical Assessment Tool of Nutrition Status in Glioblastoma Multiforme Patients (The BEAM Study [BIA Effectiveness as Assessment Tool for Glioblastoma Multiforme (GBM) Patients])</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The study is designed to evaluate how the composition of a participant's body, diagnosed
+      with a brain tumor (glioblastoma multiforme) as determined by bioelectrical impedance
+      analysis can predict the progression and outcomes of  disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The purpose of this study is to monitor the nutritional status of (Glioblastoma
+      Multiforme)GBM patients for one year. We will look at the relationships between phase angle
+      determined by Bioelectrical Impedance Analysis (BIA), nutrition assessment by Subjective
+      Global Assessment and serum albumin, the type of microbes present in the gut, the
+      participant's DNA information, and tumor progression. We will also compare estimated caloric
+      needs determined by BIA and Harris Benedict Equation to Resting Energy Expenditure from
+      Indirect Calorimetry of the people with GBM and the people without.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2011</start_date>
+  <completion_date type="Anticipated">May 2013</completion_date>
+  <primary_completion_date type="Anticipated">May 2013</primary_completion_date>
+  <phase>Phase 0</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Health Services Research</study_design>
+  <primary_outcome>
+    <measure>To evaluate the use of Bioelectrical Impedance Analysis as a clinical assessment tool in Glioblastoma Multiforme patients</measure>
+    <time_frame>Participants will be followed every 3 months up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The electrical current used by the BIA (Bioelectrical Impedance Analysis) is low and below the level. The electrodes will be placed on hand and foot.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To compare estimated caloric needs determined by BIA and Harris Benedict Equation to Resting Energy Expenditure from Indirect Calorimetry</measure>
+    <time_frame>At initial visit until end of study.Participants will be followed for duration average of every 3 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Age, sex, and body composition are the prime influences on resting energy expenditure (REE), the energy used by an individual when fasted and at rest. The largest component of total energy expenditure (TEE) is REE.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Brain Cancer</condition>
+  <arm_group>
+    <arm_group_label>Single arm</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>evaluate the composition of a participant's body, diagnosed with a brain tumor (glioblastoma multiforme) as determined by bioelectrical impedance analysis</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Nutrition</intervention_name>
+    <description>Anthropometrics, Nutrition assessment, Bioelectrical Impedance Analysis, Blood sample, Resting Energy Expenditure. All will be done 2-3 weeks after initial study visit and will continue every 3 months study visit except the Resting Energy Expenditure which will be performed at only one visit (2-3 weeks after initial visit).</description>
+    <arm_group_label>Single arm</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Subjects must be at least 19 years of age.
+
+          -  Subjects must have a histologically confirmed supratentorial grade IV astrocytoma
+             (glioblastoma multiforme).
+
+          -  Women of childbearing potential must have a negative pregnancy test.
+
+        Exclusion Criteria:
+
+          -  Subjects with implanted pacemakers or defibrillators.
+
+          -  Subjects who are pregnant.
+
+          -  Subjects with edema.
+
+          -  Subjects with an amputated extremity.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Louis B Nabors, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rebecca V Barnhill, BS</last_name>
+      <phone>205-975-8341</phone>
+      <email>rvb@uab.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Louis B Nabors, MD</last_name>
+      <phone>205-934-1813</phone>
+      <email>bnabors@uab.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Louis B Nabors, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2013</verification_date>
+  <lastchanged_date>March 8, 2013</lastchanged_date>
+  <firstreceived_date>December 20, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Alabama at Birmingham</investigator_affiliation>
+    <investigator_full_name>Louis Burt Nabors, MD</investigator_full_name>
+    <investigator_title>Professor of Neurology</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

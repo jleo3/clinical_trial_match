@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="56">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01967810</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANG1005-CLN-03</org_study_id>
+    <nct_id>NCT01967810</nct_id>
+  </id_info>
+  <brief_title>ANG1005 in Patients With Recurrent High-Grade Glioma</brief_title>
+  <official_title>A Phase II, Open-Label, Multi-Center Study of ANG1005 in Patients With Recurrent High-Grade Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Angiochem Inc</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Angiochem Inc</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a Phase 2 study to see if an investigational drug, ANG1005, can shrink tumor cells
+      in patients with high-grade glioma. Another purpose of this study is to assess the efficacy,
+      safety, tolerability, and pharmacokinetics (PK) of ANG1005 in patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      See above.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2013</start_date>
+  <completion_date type="Anticipated">November 2015</completion_date>
+  <primary_completion_date type="Anticipated">October 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Objective Response Rate (ORR) (Arms 1 and 3)</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To determine the radiologic ORR in bevacizumab-naïve recurrent Glioblastoma multiforme (GBM) patients (Arm 1)and in recurrent anaplastic glioma WHO Grade III patients (Arm 3)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>PFS3 (Arm 2)</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To determine the progression-free survival at 3 months (PFS3) in bevacizumab-refractory recurrent GBM patients (Arm 2)</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>ORR in Arm 2</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To determine the ORR in Arm 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PFS at 3, 6 and 12 months</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To determine the number of patients without progression at 3, 6 and 12 months in Arms 1 and 3
+To determine the number of patients without progression at 6 and 12 months in Arm 2</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Median PFS</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To determine the median progression-free survival in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To determine the median duration of response in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To determine the median overall survival in each arm</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Safety and tolerability</measure>
+    <time_frame>Upon enrollment through end of study period (1 year after last patient is enrolled)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To determine the number of participants with adverse events</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetics</measure>
+    <time_frame>At 0 h (pre-dose), at the end of infusion, at 2 and 4 hours post-dose on Day 1 of treatment cycles 1 and 3 (Week 1 and Week 9)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To determine the drug concentration and distribution in the blood (plasma)</description>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Anticipated">83</enrollment>
+  <condition>Glioma</condition>
+  <condition>Glioblastoma</condition>
+  <condition>Brain Tumor, Recurrent</condition>
+  <arm_group>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ANG1005 administered to bevacizumab-naive recurrent GBM patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ANG1005 and possibly bevacizumab administered to bevacizumab-refractory recurrent GBM patients</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ANG1005 administered to recurrent WHO Grade III anaplastic glioma</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ANG1005</intervention_name>
+    <description>ANG1005 at a starting dose of 650 mg/m2 by intravenous  infusion once every 3 weeks</description>
+    <arm_group_label>Arm 1</arm_group_label>
+    <arm_group_label>Arm 2</arm_group_label>
+    <arm_group_label>Arm 3</arm_group_label>
+    <other_name>GRN1005</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>For patients enrolled in the bevacizumab-refractory in recurrent GBM (Arm 2), treatments with bevacizumab may be continued and administered every 2 or 3 weeks at the Investigator's discretion.</description>
+    <arm_group_label>Arm 2</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. ≥ 18 years old
+
+          2. GBM and GBM variants, WHO Grade III anaplastic glioma diagnosis confirmed
+
+          3. Radiologically confirmed recurrent and bi-dimensionally measurable disease per
+             Response Assessment in Neuro-Oncology (RANO) criteria
+
+          4. Neurologically stable
+
+          5. For bevacizumab-refractory patients, radiologic demonstration of tumor progression
+             during bevacizumab therapy
+
+          6. Karnofsky performance status (KPS) ≥ 70
+
+        Exclusion Criteria:
+
+          1. More than three relapses
+
+          2. Previous ANG1005/GRN1005 treatment
+
+          3. Radiotherapy within 3 months.
+
+          4. Therapy with bevacizumab within 4 weeks prior to screening for recurrent WHO grade
+             III anaplastic glioma patients (Arm 3)
+
+          5. Evidence of significant intracranial hemorrhage
+
+          6. Previous taxane treatment
+
+          7. Prior therapy with bevacizumab for bevacizumab-naïve patients (Arm 1)
+
+          8. NCI Common Toxicity Criteria for Adverse Effects (CTCAE) v4.0 Grade ≥ 2 neuropathy
+
+          9. Inadequate bone marrow reserve
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Paul Castaigne, MD</last_name>
+    <role>Study Director</role>
+    <affiliation>Angiochem Inc</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Veronica Burdusel, M.Sc.</last_name>
+    <phone>514-788-7800</phone>
+    <phone_ext>206</phone_ext>
+    <email>vburdusel@angiochem.com</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Betty Lawrence</last_name>
+    <phone>514-788-7800</phone>
+    <phone_ext>205</phone_ext>
+    <email>blawrence@angiochem.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Univeristy of Texas Health Science Center in San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cherie Noles</last_name>
+      <phone>210-450-5964</phone>
+      <email>nolesc@uthscsa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Brenner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.ncbi.nlm.nih.gov/pubmed/23349317</url>
+    <description>A Phase I sudy of ANG1005 (GRN1005) in recurrent malignant glioma</description>
+  </link>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 24, 2013</lastchanged_date>
+  <firstreceived_date>October 9, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>glioma</keyword>
+  <keyword>glioblastoma</keyword>
+  <keyword>brain cancer</keyword>
+  <keyword>brain tumor</keyword>
+  <keyword>recurrent</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Bevacizumab</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="215">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01878617</url>
+  </required_header>
+  <id_info>
+    <org_study_id>SJMB12</org_study_id>
+    <nct_id>NCT01878617</nct_id>
+  </id_info>
+  <brief_title>A Clinical and Molecular Risk-Directed Therapy for Newly Diagnosed Medulloblastoma</brief_title>
+  <official_title>A Clinical and Molecular Risk-Directed Therapy for Newly Diagnosed Medulloblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Jude Children's Research Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Genentech</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>St. Jude Children's Research Hospital</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Historically, medulloblastoma treatment has been determined by the amount of leftover
+      disease present after surgery, also known as clinical risk (standard vs. high risk). Recent
+      studies have shown that medulloblastoma is made up of distinct molecular subgroups which
+      respond differently to treatment. This suggests that clinical risk alone is not adequate to
+      identify actual risk of recurrence.  In order to address this, we will stratify
+      medulloblastoma treatment in this phase II clinical trial based on both clinical risk (low,
+      standard, intermediate, or high risk) and molecular subtype (WNT, SHH, or Non-WNT Non-SHH).
+      This stratified clinical and molecular treatment approach will be used to evaluate the
+      following:
+
+        -  To find out if participants with low-risk WNT tumors can be treated with a lower dose
+           of radiation to the brain and spine, and a lower dose of the chemotherapy drug
+           cyclophosphamide while still achieving the same survival rate as past St. Jude studies
+           with fewer side effects.
+
+        -  To find out if adding targeted chemotherapy after standard chemotherapy will benefit
+           participants with SHH positive tumors.
+
+        -  To find out if adding new chemotherapy agents to the standard chemotherapy will improve
+           the outcome for intermediate and high risk Non-WNT Non-SHH tumors.
+
+        -  To define the cure rate for standard risk Non-WNT Non-SHH tumors treated with reduced
+           dose cyclophosphamide and compare this to participants from the past St. Jude study.
+
+      All participants on this study will have surgery to remove as much of the primary tumor as
+      safely possible, radiation therapy, and chemotherapy. The amount of radiation therapy and
+      type of chemotherapy received will be determined by the participant's treatment stratum.
+      Treatment stratum assignment will be based on the tumor's molecular subgroup assignment and
+      clinical risk.
+
+      The participant will be assigned to one of three medulloblastoma subgroups determined by
+      analysis of the tumor tissue for tumor biomarkers:
+
+        -  WNT (Strata W): positive for WNT biomarkers
+
+        -  SHH (Strata S): positive for SHH biomarkers
+
+        -  Non-WNT Non-SHH, Failed, or Indeterminate (Strata N): negative for WNT and SHH
+           biomarkers  or results are indeterminable
+
+      Participants will then be assigned to a clinical risk group (low, standard, intermediate, or
+      high) based on assessment of:
+
+        -  How much tumor is left after surgery
+
+        -  If the cancer has spread to other sites outside the brain [i.e., to the spinal cord or
+           within the fluid surrounding the spinal cord, called cerebrospinal fluid (CSF)]
+
+        -  The appearance of the tumor cells under the microscope
+
+        -  Whether or not there are chromosomal abnormalities in the tumor, and if present, what
+           type (also called cytogenetics analysis).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Primary Objectives:
+
+        -  To estimate the progression free survival distribution of WNT-medulloblastoma patients
+           treated on Stratum W1 with reduced-dose craniospinal irradiation and reduced-dose
+           cyclophosphamide.
+
+        -  To estimate progression-free survival distribution of Non-WNT Non-SHH medulloblastoma
+           patients treated on Stratum N1 with reduced dose cyclophosphamide.
+
+        -  To evaluate the effect of an aerobic training intervention, delivered during the
+           radiation therapy period and at home, prior to the start of chemotherapy, on
+           cardiopulmonary fitness.
+
+        -  To assess the impact of a computer-based working memory intervention (administered
+           prophylactically at the end of chemotherapy), relative to standard of care, on a
+           performance-based measure of working memory.
+
+      Secondary Objectives:
+
+        -  To estimate overall survival distribution of WNT-medulloblastoma patients treated on
+           Stratum W1 with reduced-dose craniospinal irradiation and reduced-dose cyclophosphamide
+           and compare  progression free and overall survival distributions to molecularly and
+           clinically matched historical controls from St. Jude SJMB03 study.
+
+        -  To estimate the progression free and overall survival distributions of SHH
+           medulloblastoma patients treated on Stratum S1 with oral maintenance therapy using a
+           targeted SHH pathway inhibitor (vismodegib) after adjuvant chemotherapy regimen is
+           complete and compare the progression-free and overall survival distributions to
+           molecularly and clinically matched historical controls from St. Jude SJMB03 study.
+
+        -  To estimate the progression free and overall survival distributions of Non-WNT Non-SHH
+           medulloblastoma patients treated on Strata N2 and N3 with 3 cycles of pemetrexed and
+           gemcitabine in addition to 4 cycles of conventional adjuvant chemotherapy and compare
+           the progression-free and overall survival distributions to molecularly and clinically
+           matched historical controls from St. Jude SJMB03 study separately for each stratum.
+
+        -  To estimate the overall survival distribution of Non-WNT Non-SHH medulloblastoma
+           patients treated on Stratum N1 with reduced dose cyclophosphamide and compare
+           progression free and overall survival distributions to molecularly and clinically
+           matched historical controls from St. Jude SJMB03 study.
+
+        -  To evaluate the feasibility and toxicity of adding pemetrexed and gemcitabine to
+           adjuvant chemotherapy regimen of intermediate and high risk Non-WNT Non-SHH
+           medulloblastoma patients (Strata N2 and N3).
+
+        -  To evaluate the feasibility and toxicity of oral maintenance therapy with the targeted
+           SHH inhibitor (vismodegib) after conventional adjuvant chemotherapy regimen is
+           complete.
+
+        -  To estimate the cumulative incidence of local disease failure at 2 and 5 years based on
+           treatment regimen, strata, and clinical and treatment factors.
+
+        -  To evaluate the effects of an aerobic training intervention, delivered during the
+           radiation therapy period and at home, prior to the start of chemotherapy, on physical
+           performance, fatigue, health related quality of life, memory, attention and executive
+           function at the end of the intervention, at the end of adjuvant chemotherapy, and one,
+           two and five years off adjuvant chemotherapy, among children treated for
+           medulloblastoma.
+
+        -  To evaluate the impact of an aerobic training intervention on sleep quality and
+           quantity in children with medulloblastoma.
+
+        -  To evaluate the relation between baseline cognitive performance and the variables of
+           sleep quality and quantity, and fatigue in children with medulloblastoma.
+
+        -  To estimate change in neurocognitive performance using a comprehensive assessment
+           battery (e.g., measures of intellectual function, academic abilities, attention,
+           memory, processing speed and executive functions) and investigate the relationship of
+           change to relevant demographic factors (e.g., gender, age at treatment, time since
+           treatment and socioeconomic status) and clinical factors (e.g., treatment
+           intensity/risk group, posterior fossa syndrome).
+
+        -  To assess the impact of a computer-based working memory intervention, relative to
+           standard of care, on additional performance- and rater-based measures of attention,
+           processing speed and executive functions.
+
+        -  To compare the impact of a computer-based working memory intervention in conjunction
+           with an aerobic training intervention, relative to either intervention in isolation, on
+           measures of attention, processing speed and executive functions.
+
+        -  To evaluate the maintenance of improvements on measures of attention, working memory,
+           processing speed and executive functions three months following participation in the
+           computer-based working memory intervention program.
+
+      Outline:  This is a multicenter study. Patients are stratified according to molecular
+      subgroup assignment (WNT, SHH, or Non-WNT Non- SHH) and then by clinical risk stratification
+      (extent of resection, M stage, histologic subtype, and cytogenetic features). All patients
+      will be treated with risk-adapted radiation therapy and adjuvant chemotherapy. Patients
+      assigned to Stratum W1 will receive reduced dose radiation therapy.  Patients assigned to
+      Stratum W2, S1, N1, or N2 will receive standard dose radiation therapy.  Patients assigned
+      to Stratum W3, S2, or N3 will receive high dose radiation therapy. Radiation therapy will be
+      followed by 4 cycles of adjuvant conventional chemotherapy with cyclophosphamide, cisplatin
+      and vincristine for all patients.  Patients assigned to Stratum N2 or N3 (Non-WNT Non-SHH
+      with high risk factors) will receive 3 additional cycles of pemetrexed and gemcitabine
+      chemotherapy intermixed into the conventional adjuvant chemotherapy cycles. Patients with
+      SHH subtype (Stratum S1 or S2) will receive 12 months additional maintenance therapy with
+      vismodegib.
+
+      Patients may consent to provide tumor tissue, blood, and CSF samples for biological studies.
+      Tumor tissues are analyzed for the activation of the WNT signaling pathway, activation of
+      the SHH signaling pathway, validation of novel patterns of gene expression via
+      immunohistochemical (IHC) analysis; validation of genetic abnormalities via interphase
+      fluorescence in situ hybridization (iFISH); construction of gene expression profiles via
+      microarray analysis; construction of DNA methylation profiling via microarrays; single
+      nucleotide polymorphism (SNP) analysis for DNA copy number aberrations; potential oncogenes
+      and tumor suppressor genes via DNA sequence analysis; expression of a number of cell signal
+      proteins implicated in the biology of medulloblastoma via western blot; expression of
+      additional proteins encoded by genes associated through SNP and gene expression array
+      analysis with clinical disease behavior. Blood samples are analyzed from patients whose
+      tumors contain gene mutations via sequence analysis of constitutional DNA. CSF and blood
+      samples are analyzed for identification of potential tumor markers. Parents may consent to
+      have blood samples analyzed for inheritable gene mutations associated with medulloblastoma.
+
+      Patients may also consent to exploratory research that include additional functional MRI
+      imaging to investigate damage to neural connections from therapy; additional psychological
+      testing to identify neurocognitive effects of therapy; additional heart and lung testing to
+      identify treatment effects; additional endocrine studies to identify treatment effect on
+      growth and development.
+
+      After completion of study treatment, patients are followed every 6 months for 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2013</start_date>
+  <completion_date type="Anticipated">December 2026</completion_date>
+  <primary_completion_date type="Anticipated">June 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression-free survival distribution (Stratum W1)</measure>
+    <time_frame>2 years after last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Progression-free survival will be measured from diagnosis to the earliest of disease progression or death from any cause.  (Patients who have not experienced one of these events will be censored at their last date of contact.)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Progression free survival distribution (Stratum N1)</measure>
+    <time_frame>2 years after last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Progression-free survival will be measured from diagnosis to the earliest of disease progression or death from any cause.  (Patients who have not experienced one of these events will be censored at their last date of contact.)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in VO2 peak values</measure>
+    <time_frame>baseline and 12 weeks post-randomization</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effect of an aerobic training intervention on cardiopulmonary fitness.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change in spatial span backward standard score</measure>
+    <time_frame>baseline and 10-12 weeks post baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To assess the impact of a computer-based working memory intervention, relative to standard of care, on a performance-based measure of working memory.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Compare progression-free survival by strata with prior St. Jude SJMB03 study participants</measure>
+    <time_frame>2 years after last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To estimate progression-free survival distribution and compare by strata to molecularly and clinically matched historical controls from St. Jude SJMB03 study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Compare overall survival by strata with prior St. Jude SJMB03 study participants</measure>
+    <time_frame>2 years after last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To estimate overall survival distribution by strata and compare to molecularly and clinically matched historical controls from St. Jude SJMB03 study.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients able to complete protocol therapy</measure>
+    <time_frame>10 months after the last patient enrollment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To evaluate the feasibility and toxicity of adding pemetrexed and gemcitabine to adjuvant chemotherapy regimen of intermediate and high risk Non-WNT Non-SHH medulloblastoma patients (Strata N2 and N3).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of patients who go off treatment for reasons other than progressive disease</measure>
+    <time_frame>20 months after the last patient enrollment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>To evaluate the feasibility and toxicity of oral maintenance therapy with the targeted SHH inhibitor (vismodegib) after conventional adjuvant chemotherapy regimen is complete.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of local failures</measure>
+    <time_frame>2 and 5 years after the last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To estimate the cumulative incidence of local disease failure at 2 and 5 years based on treatment regimen, strata, and clinical and treatment factors.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in hand grip strength</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3), and 1, 2, and 5 years after the last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on hand grip strength among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in range of motion</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3), and 1, 2, and 5 years after the last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on range of motion among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in overall flexibility</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3), and 1, 2, and 5 years after the last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on overall flexibility among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in motor proficiency</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3), and 1, 2, and 5 years after the last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Measured by the Bruininks-Oseretsky Test of Motor Proficiency, Version 2.  To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on motor proficiency among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in quality of life (QOL) score</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3), and 1, 2, and 5 years after the last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy on health related quality of life among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in fatigue score</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3), and 1, 2, and 5 years after the last patient enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on fatigue among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of memory function</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, and at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3).</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on memory function at the end of the intervention and at the end of adjuvant chemotherapy, among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of attention</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, and at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3).</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on attention at the end of the intervention and at the end of adjuvant chemotherapy, among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in executive function score</measure>
+    <time_frame>Baseline (at enrollment), 12 weeks, and at end of adjuvant chemotherapy (28 weeks for strata W1/W2/W3/N1/S1/S2 and 40 weeks for strata N2/N3).</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the effects of an aerobic training intervention, delivered during the radiation therapy period and at home, prior to the start of chemotherapy, on executive function at the end of the intervention and at the end of adjuvant chemotherapy, among children treated for medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in sleep</measure>
+    <time_frame>Baseline and 10-12 weeks post randomization</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the impact of an aerobic training intervention on sleep quality and quantity in children with medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between baseline cognitive performance and sleep quality</measure>
+    <time_frame>Baseline and approximately 7-10 months after treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the relation between baseline cognitive performance and sleep quality in children with medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between baseline cognitive performance and sleep quantity</measure>
+    <time_frame>Baseline and approximately 7-10 months after treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the relation between baseline cognitive performance and sleep quantity in children with medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association between baseline cognitive performance and fatigue</measure>
+    <time_frame>Baseline and approximately 7-10 months after treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the relation between baseline cognitive performance and fatigue in children with medulloblastoma.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal change in measure of intellectual function</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of demographic and clinical factors with change in intellectual function</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal change in measure of academic ability</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of demographic and clinical factors with change in academic ability</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal change in measure of attention</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of demographic and clinical factors with change in attention</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal change in measure of memory</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of demographic and clinical factors with change in memory</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal change in measure of cognitive processing speed function</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of demographic and clinical factors with change in cognitive processing speed</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Longitudinal change in measure of neurocognitive executive function</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Association of demographic and clinical factors with change in neurocognitive executive function</measure>
+    <time_frame>Baseline through 5 years after enrollment</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of attention</measure>
+    <time_frame>Baseline (at 7-10 months after start of therapy) and at 3 months after baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To assess the impact of a computer-based working memory intervention, relative to standard of care, on additional performance- and rater-based measure of attention.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of processing speed</measure>
+    <time_frame>Baseline (at 7-10 months after start of therapy) and at 3 months after baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To assess the impact of a computer-based working memory intervention, relative to standard of care, on additional performance- and rater-based measure of processing speed.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of executive function ability</measure>
+    <time_frame>Baseline (at 7-10 months after start of therapy) and at 3 months after baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To assess the impact of a computer-based working memory intervention, relative to standard of care, on additional performance- and rater-based measure of executive function.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of attention among 3 groups (working memory intervention + physical exercise intervention VS. working memory intervention alone VS. physical training intervention alone)</measure>
+    <time_frame>Baseline and at 3 months after baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Baseline for working memory intervention is defined as 7-10 months after on treatment.  Baseline for physical exercise intervention is defined as at patient enrollment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of processing speed among 3 groups (working memory intervention + physical exercise intervention VS. working memory intervention alone VS. physical training intervention alone)</measure>
+    <time_frame>Baseline and at 3 months after baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Baseline for working memory intervention is defined as 7-10 months after on treatment.  Baseline for physical exercise intervention is defined as at patient enrollment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of executive function among 3 groups (working memory intervention + physical exercise intervention VS. working memory intervention alone VS. physical training intervention alone)</measure>
+    <time_frame>Baseline and at 3 months after baseline</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Baseline for working memory intervention is defined as 7-10 months after on treatment.  Baseline for physical exercise intervention is defined as at patient enrollment.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of attention between participants who received computer-based intervention VS. those who did not</measure>
+    <time_frame>Baseline (at 7-10 months after on treatment) through 6 months after baseline.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the maintenance of improvements on attention three months following participation in the computer-based working memory intervention program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of working memory between participants who received computer-based intervention VS. those who did not</measure>
+    <time_frame>Baseline (at 7-10 months after on treatment) through 6 months after baseline.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the maintenance of improvements in working memory three months following participation in the computer-based working memory intervention program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of processing speed between participants who received computer-based intervention VS. those who did not</measure>
+    <time_frame>Baseline (at 7-10 months after on treatment) through 6 months after baseline.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the maintenance of improvements on processing speed three months following participation in the computer-based working memory intervention program.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in measure of executive function between participants who received computer-based intervention VS. those who did not</measure>
+    <time_frame>Baseline (at 7-10 months after on treatment) through 6 months after baseline.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To evaluate the maintenance of improvements in executive function three months following participation in the computer-based working memory intervention program.</description>
+  </secondary_outcome>
+  <number_of_arms>8</number_of_arms>
+  <enrollment type="Anticipated">350</enrollment>
+  <condition>Medulloblastoma</condition>
+  <arm_group>
+    <arm_group_label>Stratum W1:  Low Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum W1 will undergo reduced dose Craniospinal Irradiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive one cycle of chemotherapy (cisplatin, vincristine, cyclophosphamide) once every 4 weeks for 4 cycles in absence of unacceptable toxicity.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stratum W2: Atypical</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum W2 will undergo standard dose craniospinal radiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive one cycle of chemotherapy (cisplatin, vincristine, cyclophosphamide) once every 4 weeks for 4 cycles in absence of unacceptable toxicity.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stratum W3: High Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum W3 will undergo high dose craniospinal radiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive one cycle of chemotherapy (cisplatin, vincristine, cyclophosphamide) once every 4 weeks for 4 cycles in absence of unacceptable toxicity.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum S1 will undergo standard dose craniospinal radiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive one cycle of chemotherapy (cisplatin, vincristine, cyclophosphamide) once every 4 weeks for 4 cycles in absence of unacceptable toxicity.  After completion of 4 cycles chemotherapy, participants will receive maintenance chemotherapy with vismodegib.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum S2 will undergo high dose craniospinal radiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive one cycle of chemotherapy (cisplatin, vincristine, cyclophosphamide) once every 4 weeks for 4 cycles in absence of unacceptable toxicity.  After completion of 4 cycles chemotherapy, participants will receive maintenance chemotherapy with vismodegib.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stratum N1: Standard Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum N1 will undergo standard dose craniospinal radiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive one cycle of chemotherapy (cisplatin, vincristine, cyclophosphamide) once every 4 weeks for 4 cycles in absence of unacceptable toxicity.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum N2 will undergo standard dose craniospinal radiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive standard chemotherapy (cisplatin, vincristine, cyclophosphamide) for 4 cycles intermixed with an additional 3 cycles of chemotherapy with pemetrexed and gemcitabine in absence of unacceptable toxicity.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants in stratum N3 will undergo high dose craniospinal radiation with boost to the primary tumor site once daily 5 days a week for 6 weeks.  Six weeks after completion of radiotherapy, patients receive standard chemotherapy (cisplatin, vincristine, cyclophosphamide) for 4 cycles intermixed with an additional 3 cycles of chemotherapy with pemetrexed and gemcitabine in absence of unacceptable toxicity.  Some participants will complete aerobic training and/or neurocognitive remediation.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Craniospinal Irradiation with boost to the primary tumor site</intervention_name>
+    <description>All participants will undergo craniospinal irradiation (CSI) with boost to the primary tumor site.  The dose given is based on the molecular and risk group as noted in the arm descriptions. The type of radiation used includes conformal radiation therapy (photons) or intensity modulated radiation therapy (IMRT) or proton beam therapy.</description>
+    <arm_group_label>Stratum W1:  Low Risk</arm_group_label>
+    <arm_group_label>Stratum W2: Atypical</arm_group_label>
+    <arm_group_label>Stratum W3: High Risk</arm_group_label>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <arm_group_label>Stratum N1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>CSI</other_name>
+    <other_name>Radiation treatments</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Route of Administration (ROA):  Intravenously (IV)</description>
+    <arm_group_label>Stratum W1:  Low Risk</arm_group_label>
+    <arm_group_label>Stratum W2: Atypical</arm_group_label>
+    <arm_group_label>Stratum W3: High Risk</arm_group_label>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <arm_group_label>Stratum N1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>Cytoxan(R)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <description>ROA: IV</description>
+    <arm_group_label>Stratum W1:  Low Risk</arm_group_label>
+    <arm_group_label>Stratum W2: Atypical</arm_group_label>
+    <arm_group_label>Stratum W3: High Risk</arm_group_label>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <arm_group_label>Stratum N1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>Platinol-AQ(R)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vincristine</intervention_name>
+    <description>ROA: IV</description>
+    <arm_group_label>Stratum W1:  Low Risk</arm_group_label>
+    <arm_group_label>Stratum W2: Atypical</arm_group_label>
+    <arm_group_label>Stratum W3: High Risk</arm_group_label>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <arm_group_label>Stratum N1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>Oncovin(R)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vismodegib</intervention_name>
+    <description>ROA:  Orally (PO)</description>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <other_name>Erivedge(TM)</other_name>
+    <other_name>GDC-0449</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pemetrexed</intervention_name>
+    <description>ROA: IV</description>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>Almita(R)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Gemcitabine</intervention_name>
+    <description>ROA: IV</description>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>Gemzar</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Aerobic Training</intervention_name>
+    <arm_group_label>Stratum W1:  Low Risk</arm_group_label>
+    <arm_group_label>Stratum W2: Atypical</arm_group_label>
+    <arm_group_label>Stratum W3: High Risk</arm_group_label>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <arm_group_label>Stratum N1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>Exercise</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Neurocognitive Remediation</intervention_name>
+    <arm_group_label>Stratum W1:  Low Risk</arm_group_label>
+    <arm_group_label>Stratum W2: Atypical</arm_group_label>
+    <arm_group_label>Stratum W3: High Risk</arm_group_label>
+    <arm_group_label>Stratum S1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum S2: High Risk</arm_group_label>
+    <arm_group_label>Stratum N1: Standard Risk</arm_group_label>
+    <arm_group_label>Stratum N2: Intermediate Risk</arm_group_label>
+    <arm_group_label>Stratum N3: High Risk</arm_group_label>
+    <other_name>Computer-based working memory intervention</other_name>
+    <other_name>Cogmed</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA
+
+          -  Medulloblastoma or medulloblastoma variants including posterior fossa PNET as
+             documented by an institutional pathologist.
+
+          -  Age greater than or equal to 3 years and less than 22 years of age at the time of
+             diagnosis.
+
+          -  No previous radiotherapy, chemotherapy or other brain tumor directed therapy other
+             than corticosteroid therapy and surgery.
+
+          -  Patients must begin treatment as outlined in the protocol within 36 days of
+             definitive surgery (day of surgery is day 0; definitive surgery includes second
+             surgeries to resect residual tumor).
+
+          -  Adequate performance status: children &lt; 10-Lansky Score ≥ 30; children ≥ 10-Karnofsky
+             ≥ 30 (except for posterior fossa syndrome).
+
+          -  Females of child-bearing potential cannot be pregnant or breast-feeding.  Female
+             participants &gt; 10 years of age or post-menarche must have a negative serum or urine
+             pregnancy test prior to enrollment.
+
+        EXCLUSION CRITERIA
+
+          -  CNS embryonal tumor other than medulloblastoma or PNET in the posterior fossa, for
+             example, patients with diagnosis of Atypical Teratoid / Rhabdoid Tumor (ATRT),
+             supratentorial PNET, pineoblastoma, ependymoblastoma, ETANTR are excluded.
+
+          -  Research participants with other clinically significant medical disorders that could
+             compromise their ability to tolerate protocol therapy or would interfere with the
+             study procedures or results history.
+
+        Participants in the exercise intervention portion of the study must meet all criteria
+        below:
+
+          -  Must be &gt; 5 years at the time of enrollment
+
+          -  Must have no congenital heart disease or posterior fossa syndrome
+
+        Participants in the cognitive remediation intervention portion of the study must meet all
+        criteria below:
+
+          -  Completed protocol-directed radiation therapy
+
+          -  ≥5 years at the time of remediation intervention consent
+
+          -  English as primary language and training aide who speaks English available to
+             participate in required sessions
+
+          -  No significant cognitive impairment operationalized as either an IQ &lt; 70 for children
+             with St. Jude SJMB12 study baseline testing or based on clinician judgment baseline
+             IQ missing
+
+          -  No major sensory or motor impairment that would preclude valid cognitive testing
+             (e.g., unresolved posterior fossa syndrome, blindness, poorly controlled
+             seizures/photosensitive epilepsy, psychosis) or a major psychological condition that
+             would preclude completion of the intervention (e.g., significant oppositionality,
+             autism spectrum disorder, severe anxiety or depressive symptoms)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Amar Gajjar, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>St. Jude Children's Research Hospital</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tabatha E. Doyle, RN</last_name>
+    <phone>901-595-2544</phone>
+    <email>tabatha.doyle@stjude.org</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>St. Jude Children's Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tabatha E. Doyle, RN</last_name>
+      <phone>901-595-2544</phone>
+      <email>tabatha.doyle@stjude.org</email>
+    </contact>
+    <investigator>
+      <last_name>Amar Gajjar, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.stjude.org</url>
+    <description>St. Jude Children's Research Hospital</description>
+  </link>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 18, 2013</lastchanged_date>
+  <firstreceived_date>June 10, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>SJMB12</keyword>
+  <keyword>Brain Cancer</keyword>
+  <keyword>Brain Tumors in Children</keyword>
+  <keyword>Cisplatin</keyword>
+  <keyword>Cyclophosphamide</keyword>
+  <keyword>Embryonal Tumors of CNS</keyword>
+  <keyword>GDC-0449</keyword>
+  <keyword>Gemcitabine</keyword>
+  <keyword>Hedgehog Pathway Inhibitor</keyword>
+  <keyword>Infratentorial</keyword>
+  <keyword>Mass in Brain</keyword>
+  <keyword>Medulloblastoma</keyword>
+  <keyword>Medulloblastoma Brain Tumor</keyword>
+  <keyword>Medulloblastoma Tumor</keyword>
+  <keyword>Molecular</keyword>
+  <keyword>Neuroectodermal Tumor, Primitive</keyword>
+  <keyword>Newly Diagnosed Childhood Medulloblastoma</keyword>
+  <keyword>Non-SHH Non-WNT</keyword>
+  <keyword>Pediatric Brain Tumor</keyword>
+  <keyword>Pemetrexed</keyword>
+  <keyword>Posterior Fossa Tumor</keyword>
+  <keyword>Proton Beam Therapy</keyword>
+  <keyword>Radiation Therapy</keyword>
+  <keyword>Rare Brain Tumor</keyword>
+  <keyword>Risk</keyword>
+  <keyword>SHH</keyword>
+  <keyword>Sonic Hedgehog Pathway</keyword>
+  <keyword>St Jude Medullo</keyword>
+  <keyword>St. Jude Brain Tumor Studies</keyword>
+  <keyword>St. Jude Medullo</keyword>
+  <keyword>St. Jude Studies</keyword>
+  <keyword>St. Jude Treatment</keyword>
+  <keyword>Treatment for Brain Tumors in Children</keyword>
+  <keyword>Untreated Childhood Medulloblastoma</keyword>
+  <keyword>Vincristine</keyword>
+  <keyword>Vismodegib</keyword>
+  <keyword>WNT</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Medulloblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Pemetrexed</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

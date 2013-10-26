@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="172">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01705548</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RAD2156-11</org_study_id>
+    <secondary_id>NCI-2012-01933</secondary_id>
+    <nct_id>NCT01705548</nct_id>
+  </id_info>
+  <brief_title>Hypofractionated Stereotactic Radiosurgery in Treating Patients With Large Brain Metastasis</brief_title>
+  <official_title>Dose Escalation Trial of Fractionated Stereotactic Radiosurgery for Brain Metastasis Greater Than 3cm</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Emory University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Emory University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies the side effects and best dose of hypofractionated radiosurgery
+      in treating patients with large brain metastasis. Stereotactic radiosurgery can send x-rays
+      directly to the tumor and cause less damage to normal tissue. Giving fractionated
+      stereotactic radiosurgery may kill more tumor cells
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To demonstrate the safety and feasibility of treating brain metastases or resection
+      cavities greater than 3 cm with hypofractionated radiosurgery and to determine the
+      maximum-tolerated radiation dose for hypofractionated radiosurgery (HR) delivered in 5
+      fractions, 2-3 fractions per week.
+
+      OUTLINE: This is a dose-escalation study.
+
+      Patients undergo hypofractionated stereotactic radiosurgery 2-3 times weekly (5 fractions
+      total) for 2-3 weeks.
+
+      After completion of study treatment, patients are followed up at 1 month and then every 3
+      months thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2012</start_date>
+  <primary_completion_date type="Anticipated">September 2014</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum tolerated dose (MTD) of hypofractionated radiosurgery defined as the highest dose level where a grade 3 or greater with an attribution score of &gt;= 3 develops in =&lt; 2 of 6 patients in a dose group</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Graded according to the Common Terminology Criteria for Adverse Events (CTCAE) version 4.03. The rate of toxicities will be calculated with 95% confidence interval (CI).</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurologic toxicity due to treatment, graded according to the CTCAE version 4.03</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Calculated with 95% CI.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Local control; lack of progression of disease in resection cavity as defined by Response Evaluation Criteria In Solid Tumors (RECIST) criteria</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The median time to local brain progression will be calculated by Kaplan-Meier method with 95% CI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Distant control: lack of progression of disease in surrounding brain as defined by RECIST criteria</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The median time to distant brain progression will be calculated by Kaplan-Meier method with 95% CI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Freedom from failure/progression free survival</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival (OS): death from any cause</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The median of OS time with 95% CI will be calculated by Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Long-term neurocognitive outcomes: using the Hopkins Verbal Learning Test-Revised (HVLT-R), Mini Mental Status Exam (MMSE) and Cognitive Functioning Subscale of the Medical Outcomes Scale (MOS)</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Neurocognitive effect will be regressed over time using generalized estimating equation (GEE) model. The population change over time (slope) will be estimated with 95% CI.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life (QOL) outcomes: using the quality of life questionnaire for the Functional Assessment of Cancer Therapy-Brain (FACT-Br).</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>QOL outcomes will be regressed over time using GEE model. The population change over time (slope) will be estimated with 95% CI.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">24</enrollment>
+  <condition>Metastatic Malignant Neoplasm to Brain</condition>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <arm_group>
+    <arm_group_label>Treatment (hypofractionated radiosurgery)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>HR (Hypofractionated Radiosurgery) delivered in 5 fractions, with a minimum of 2 and a maximum of 3 fractions being delivered per week, to patients with brain metastases or resection cavity greater than 3cm and less than 6cm.
+Dose escalation will proceed according to the Escalation with Overdose Control (EWOC) method with a planned total enrollment of 24 patients, in 8 patient cohorts with 3 patients per cohort. A 4 month observation period will occur for each completed cohort prior to dose escalation, with a goal timeline for trial completion of 4 years from first patient enrollment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Hypofractionated Radiosurgery</intervention_name>
+    <description>Radiation Therapy will consist of partial brain irradiation delivered to the metastatic brain tumor or resection cavity, delivered in 5 treatments with 2-3 treatments delivered per week.</description>
+    <arm_group_label>Treatment (hypofractionated radiosurgery)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>Hypofractionated radiosurgery</intervention_name>
+    <arm_group_label>Treatment (hypofractionated radiosurgery)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Pathologic proven diagnosis of solid tumor malignancy
+
+          -  Solitary brain metastasis or brain metastasis resection cavity with maximal diameter
+             &gt;= 3 cm (or &gt;= 14 cc.) and =&lt; 6 cm
+
+          -  Mini Mental Status Exam (MMSE) &gt;= 18 prior to study entry
+
+          -  Recursive partitioning analysis (RPA) class I-II/ Karnofsky Performance status &gt;= 70%
+
+        Exclusion Criteria:
+
+          -  Prior stereotactic radiosurgery (SRS) to adjacent lesion such that planning target
+             volume would have received more than 12 Gy
+
+          -  RPA class III (Karnofsky Performance status [KPS] &lt; 70%)
+
+          -  Brain metastasis or resection cavity volume &lt; 3 cm or &gt; 6 cm
+
+          -  Radiosensitive or non-solid (eg. small cell lung carcinomas, germ cell tumors,
+             leukemias, or lymphomas) or unknown tumor histologies
+
+          -  Concurrent chemotherapy (no chemotherapy starting 14 days before start of radiation
+             to 14 days after completion of radiation)
+
+          -  Evidence of leptomeningeal disease by magnetic resonance imaging (MRI) and/or
+             cerebrospinal fluid (CSF) cytology
+
+          -  Current pregnancy
+
+          -  More than 8 weeks between resection and radiosurgical procedure
+
+          -  No metastases to brain stem, midbrain, pons, or medulla or within 5 mm of the optic
+             apparatus (optic nerves and chiasm)
+
+          -  Inability to undergo MRI evaluation for treatment planning and follow-up
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ian Crocker</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Emory University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ian Crocker, MD</last_name>
+    <phone>404-778-3473</phone>
+    <email>icrocke@emory.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Emory University</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ian R. Crocker</last_name>
+      <phone>404-778-4731</phone>
+      <email>icrocke@emory.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ian R. Crocker</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 23, 2013</lastchanged_date>
+  <firstreceived_date>October 10, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Emory University</investigator_affiliation>
+    <investigator_full_name>Ian Crocker, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Brain metastasis</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

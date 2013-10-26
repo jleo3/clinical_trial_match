@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="436">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01915303</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CSOM230B2411</org_study_id>
+    <nct_id>NCT01915303</nct_id>
+  </id_info>
+  <brief_title>Study of the Efficacy and Safety of Pasireotide s.c. +/- Cabergoline in Patients With Cushing's Disease</brief_title>
+  <acronym>MACS2125</acronym>
+  <official_title>A Phase II Trial to Assess the Efficacy and Safety of Pasireotide s.c. Alone or in Combination With Cabergoline in Patients With Cushing's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>Australia: National Health and Medical Research Council</authority>
+    <authority>Brazil: Ministry of Health</authority>
+    <authority>Colombia: National Institutes of Health</authority>
+    <authority>Venezuela: Ministry of Health and Social Development</authority>
+    <authority>India: Ministry of Health</authority>
+    <authority>Turkey: Ministry of Health</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <authority>Bulgaria: Bulgarian Drug Agency</authority>
+    <authority>Belgium: Federal Agency for Medicinal Products and Health Products</authority>
+    <authority>Hungary: National Institute of Pharmacy</authority>
+    <authority>United Kingdom: Medicines and Healthcare Products Regulatory Agency</authority>
+    <authority>Germany: Ethics Commission</authority>
+    <authority>Germany: Ministry of Health</authority>
+    <authority>Greece: Ethics Committee</authority>
+    <authority>Greece: Ministry of Health and Welfare</authority>
+    <authority>Spain: Ethics Committee</authority>
+    <authority>Spain: Ministry of Health</authority>
+    <authority>France: Comité consultatif sur le traitement de l'information en matière de recherche dans le domaine de la santé</authority>
+    <authority>Italy: The Italian Medicines Agency</authority>
+    <authority>Argentina: Administracion Nacional de Medicamentos, Alimentos y Tecnologia Medica</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is to assess whether pasireotide alone and combined with cabergoline will give
+      reliefs on patients with recurrent, persistent and newly diagnosed Cushing's disease. The
+      study will also assess study drug safety, the changes in Quality of Life and on clinical
+      signs and symptoms of Cushing's disease.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study is to assess whether pasireotide alone and combined with cabergoline will give
+      reliefs on patients with recurrent, persistent and newly diagnosed Cushing's disease. The
+      study will also assess study drug safety, the changes in Quality of Life and on clinical
+      signs and symptoms of Cushing's disease. The study will enroll two groups of patients.
+      Pasireotide naive patients at the time of screening (Group 1), and patients receiving
+      maximal tolerated dose of pasireotide at the time of screening (Group 2).  Group 1 patients
+      will begin study treatment of pasireotide at 0.6mg twice a day for 8 weeks. After 8 weeks,
+      if cortisol level is not controlled and the dose is tolerated well, pasireotide will be
+      increased to 0.9mg for another 8 weeks. If during or at the end of the 8 week period,
+      cortisol level is still not controlled cabergoline will be added at 0.5mg once a day.
+      Cabergoline can be increased up to 1.0mg once a day in combination with pasireotide. Group 2
+      patients will immediately begin combination treatment by adding cabergoline at 0.5mg once a
+      day to the current pasireotide treatment. Cabergoline dose can be increased up to 1.0mg once
+      a day if cortisol is not controlled at a lower dose.
+    </textblock>
+  </detailed_description>
+  <overall_status>Not yet recruiting</overall_status>
+  <start_date>November 2013</start_date>
+  <completion_date type="Anticipated">October 2016</completion_date>
+  <primary_completion_date type="Anticipated">October 2016</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>mUFC</measure>
+    <time_frame>at week 35</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of patients who attain mUFC ≤ 1.0 x ULN at week 35 with pasireotide alone or in combination with cabergoline in Group 1</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>mUFC</measure>
+    <time_frame>at week 17</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of patients who attain a mUFC ≤ 1.0 x ULN at week 17 with pasireotide with combination of cabergoline in Group 2</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change in mUFC from baseline to study end at each scheduled visit when UFC is measured</measure>
+    <time_frame>at weeks 0, 4, 8, 13, 17, 22, 26, 31, 35 for group 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage change in mUFC from baseline to study end at each scheduled visit when UFC is measured for Group 1 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients attain mUFC ≤ 1.0 x ULN as assessed at each scheduled visit when UFC is measured</measure>
+    <time_frame>at weeks 0, 4, 8, 13, 17, 22, 26, 31, 35 for group 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of patients that attain mUFC ≤ 1.0 x ULN as assessed at each scheduled visit when UFC is measured for Group 1 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who attain mUFC ≤ 1.0 x ULN or have at least 50% reduction from baseline in mUFC as assessed at each scheduled visit when UFC is measured</measure>
+    <time_frame>at weeks 0, 4, 8, 13, 17, 22, 26, 31, 35 for group 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of patients who attain mUFC ≤ 1.0 x ULN or have at least 50% reduction from baseline in mUFC as assessed at each scheduled visit when UFC is measured for Group 1 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of controlled or partially controlled response</measure>
+    <time_frame>from the date patient's first normalization (mUFC ≤ 1.0xULN) or at least 50% reduction from baseline up to the date when the patient's mUFC &gt; 1.0 x ULN</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Duration of controlled or partially controlled response is defined as the period starting from the date of patient's first normalization (mUFC ≤ 1.0 x ULN) or at least 50% reduction from baseline up to the date when the patient's mUFC &gt; 1.0 x ULN and the reduction from baseline falls to less than 50% from the first time for Group 1 and Group 2 patients, separately</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in plasma ACTH and serum cortisol over time</measure>
+    <time_frame>at baseline visit and weeks 0, 4, 8, 13, 17, 22, 26, 31 and 35 for group 1</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline in plasma ACTH and serum cortisol over time for Group 1 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ctrough at baseline</measure>
+    <time_frame>at baseline</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Ctrough at baseline for Group 2 patients only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ctrough at week 8</measure>
+    <time_frame>at week 8</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Ctrough at week 8 for Group 2 patients only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Ctrough</measure>
+    <time_frame>at week 17</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Ctrough at week 17 for Group 2 patients only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax at baseline</measure>
+    <time_frame>at baseline</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Cmax at baseline for Group 2 patients only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax at week 8</measure>
+    <time_frame>at week 8</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Cmax at week 8 for Group 2 patients only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cmax</measure>
+    <time_frame>at week 17</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Cmax at week 17 for Group 2 patients only</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity will be assessed using NCI-CTCAE v.4 and for laboratory assessments</measure>
+    <time_frame>at screening, baseline visits, and at weeks 4, 8, 13, 17, 22, 26, 31, 35 and study completion visit</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Toxicity will be assessed using NCI-CTCAE v.4 and for laboratory assessments that include biochemistry, hematology, urinalysis; special safety assessments that include the regular monitoring and recording of blood glucose insulin, HbA1c, GH and IGF-1, thyroid and liver function tests, gallbladder examinations and ECGs. Concomitant medications/significant non-drug therapies will be assessed too for group 1 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage change in mUFC from baseline to study end at each scheduled visit when UFC is measured</measure>
+    <time_frame>at weeks 0, 4, 8, 13, 17 for group 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Percentage change in mUFC from baseline to study end at each scheduled visit when UFC is measured for Group 1 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients attain mUFC ≤ 1.0 x ULN as assessed at each scheduled visit when UFC is measured</measure>
+    <time_frame>at weeks 0, 4, 8, 13, 17 for group 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of patients attain mUFC ≤ 1.0 x ULN as assessed at each scheduled visit when UFC is measured for group 2 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Proportion of patients who attain mUFC ≤ 1.0 x ULN or have at least 50% reduction from baseline in mUFC as assessed at each scheduled visit when UFC is measured</measure>
+    <time_frame>at weeks 0, 4, 8, 13, 17 for group 2</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Proportion of patients who attain mUFC ≤ 1.0 x ULN or have at least 50% reduction from baseline in mUFC as assessed at each scheduled visit when UFC is measured for group 2 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from baseline in plasma ACTH and serum cortisol over time</measure>
+    <time_frame>at baseline visit and weeks 0, 4, 8, 13, 17</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change from baseline in plasma ACTH and serum cortisol over time for group 2 patients</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity will be assessed using NCI-CTCAE v.4 and for laboratory assessments</measure>
+    <time_frame>at screening, baseline visits, and at weeks 4, 8, 13, 17 and study completion visit</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Toxicity will be assessed using NCI-CTCAE v.4 and for laboratory assessments that include biochemistry, hematology, urinalysis; special safety assessments that include the regular monitoring and recording of blood glucose insulin, HbA1c, GH and IGF-1, thyroid and liver function tests, gallbladder examinations and ECGs. Concomitant medications/significant non-drug therapies will be assessed too for group 2 patients</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">128</enrollment>
+  <condition>Cushing's Disease</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 1 consists of patients who are not treated with pasireotide at screening.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Group 2 consists of patients who are currently treated with maximal tolerated doses of pasireotide monotherapy at 0.3mg, 0.6mg or 0.9mg twice a day for at least 8 weeks, but still with elevated UFC.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pasireotide</intervention_name>
+    <description>Group 1 consists of Pasireotide-untreated patients will start pasireotide 0.6mg twice a day for 8 weeks. If biochemical control is not achieved by the end of the 8 weeks, and the 0.6mg dose is well-tolerated, the dose will be increased to 0.9mg twice a day for another 8 weeks. If biochemical control is not achieved, cabergoline will be added and patients will begin combination treatment with cabergoline at the starting dose of 0.5mg once a day for 8 weeks. If biochemical control is still not achieved at the end of the third 8 week period, the dose of cabergoline wlil be increased to 1.0mg once a day.</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cabergoline</intervention_name>
+    <description>Group 2 patients will immediately start the combination treatment by adding cabergoline 0.5mg once a day at study entry to their current dose of pasireotide. Patients will continue with the combination treatment for 8 weeks. If biochemical control is not achieved by the end of the 8 week period, the dose of cabergoline will be increased to 1mg once a day.</description>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria for Group 1:
+
+          1. Adult patients with confirmed diagnosis of ACTH-dependent Cushing's disease as
+             evidenced by all of the following:
+
+               1. The mean of three 24-hour urine samples collected within 2 weeks &gt; 1xULN with 2
+                  out of 3 samples &gt;ULN
+
+               2. Morning plasma ACTH within the normal or above normal range
+
+               3. Either MRI confirmation of pituitary adenoma &gt; 6 mm, or inferior petrosal sinus
+                  gradient &gt;3 after CRH stimulation for those patients with a tumor less than or
+                  equal to 6 mm*. For patients who have had prior pituitary surgery,
+                  histopathology confirming an ACTH staining adenoma *If IPSS had previously been
+                  performed without CRH (e.g. with DDAVP), then a central to peripheral
+                  pre-stimulation gradient &gt; 2 is required. If IPSS had not previously been
+                  performed, IPSS with CRH stimulation is required.
+
+          2. Patients with de novo Cushing's disease can be included only if they are not
+             considered candidates for pituitary surgery (e.g. poor surgical candidates,
+             surgically unapproachable tumors, patients who refuse to have surgical treatment)
+
+          3. Male or female patients aged 18 years or greater
+
+          4. Karnofsky performance status ≥ 60 (i.e. requires occasional assistance, but is able
+             to care for most of their personal needs)
+
+          5. Patients on medical treatment for Cushing's disease the following washout periods
+             must be completed before screening assessments are performed
+
+               -  Inhibitors of steroidogenesis (ketoconazole, metyrapone): 1 week
+
+               -  Pituitary directed agents: Dopamine agonists (bromocriptine, cabergoline) and
+                  PPARγ agonists (rosiglitazone or pioglitazone): 4 weeks
+
+               -  Octreotide LAR, Lanreotide SR and Lanreotide autogel: 14 weeks
+
+               -  Octreotide (immediate release formulation): 1 week
+
+               -  Progesterone receptor antagonist (mifepristone): 4 weeks
+
+          6. Patients have been on pasireotide in the past but discontinued because of lack of
+             efficacy are also allowed to enter Group 1. Patients treated with pasireotide
+             subcutaneously must have been discontinued from the treatment for at least 4 weeks
+             before screening. Patients treated with pasireotide LAR must have been discontinued
+             from the treatment for at least 12 weeks before screening.
+
+          7. Women of child-bearing potential, defined as all women physiologically capable of
+             becoming pregnant, if they are using highly effective methods of contraception during
+             dosing and for 30 days after stopping study medication.
+
+        Inclusion criteria for Group 2:
+
+          1. Adult patients with confirmed diagnosis of ACTH-dependent Cushing's disease as
+             evidenced by all of the following:
+
+               1. The mean of three 24-hour urine samples collected within 2 weeks &gt; 1xULN with 2
+                  out of 3 samples &gt;ULN
+
+               2. Morning plasma ACTH within the normal or above normal range
+
+               3. Either MRI confirmation of pituitary adenoma &gt; 6 mm, or inferior petrosal sinus
+                  gradient &gt;3 after CRH stimulation for those patients with a tumor less than or
+                  equal to 6 mm*. For patients who have had prior pituitary surgery,
+                  histopathology confirming an ACTH staining adenoma *If **IPSS had previously
+                  been performed without CRH (e.g. with DDAVP), then a central to peripheral
+                  pre-stimulation gradient &gt; 2 is required. If IPSS had not previously been
+                  performed, IPSS with CRH stimulation is required.
+
+          2. Patients with de novo Cushing's disease can be included only if they are not
+             considered candidates for pituitary surgery (e.g. poor surgical candidates,
+             surgically unapproachable tumors, patients who refuse to have surgical treatment)
+
+          3. Patients currently treated with maximal tolerated doses of pasireotide for at least 8
+             weeks at the time of screening but have not achieved biochemical control. These
+             patients will enter the study starting combination therapy.
+
+          4. Women of child-bearing potential, defined as all women physiologically capable of
+             becoming pregnant, if they are using highly effective methods of contraception during
+             dosing and for 30 days after stopping study medication.
+
+        Exclusion criteria for Group 1 and Group 2:
+
+          1. Patients with compression of the optic chiasm causing any visual field defect that
+             requires surgical intervention
+
+          2. Diabetic patients with poor glycemic control as evidenced by HbA1c &gt;8%
+
+          3. Patients with risk factors for torsade de pointes, i.e. patients with a baseline QTcF
+             &gt;450 ms in males, and &gt; 460 ms in females. hypokalemia, hypomagnesaemia, uncontrolled
+             hypothyroidism, family history of long QT syndrome, or concomitant medications known
+             to prolong QT interval.
+
+          4. Patients with clinically significant valvular disease.
+
+          5. Patients with Cushing's syndrome due to ectopic ACTH secretion
+
+          6. Patients with hypercortisolism secondary to adrenal tumors or nodular (primary)
+             bilateral adrenal hyperplasia
+
+          7. Patients who have congestive heart failure (NYHA Class III or IV), unstable angina,
+             sustained ventricular tachycardia, clinically significant bradycardia, advanced heart
+             block, history of acute MI less than one year prior to study entry or clinically
+             significant impairment in cardiovascular function
+
+          8. Patients with liver disease such as cirrhosis, chronic active hepatitis, or chronic
+             persistent hepatitis, or patients with ALT/AST &gt; 2 X ULN, serum bilirubin &gt;2.0 X ULN
+
+          9. Patients with serum creatinine &gt;2.0 X ULN
+
+         10. Patients with WBC &lt;3 X 10e9/L; Hb 90% &lt; LLN; PLT &lt;100 X 10e9/L
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone>1-888-669-6682</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <phone_ext>+41613241111</phone_ext>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham The Kirklin Clinic</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Susan Ferguson</last_name>
+      <phone>+1 205 934 4112</phone>
+      <email>susanf@uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Tom Brooks Vaughan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars Sinai Medical Center SOM230B2411</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Billy Gellepis</last_name>
+      <phone>310-423-3395</phone>
+      <email>gellepisw@cshs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Anat Ben-Shlomo</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Memorial Hospital SOM230B2411</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Daphne Adelman</last_name>
+      <phone>312-908-9002</phone>
+      <email>d-adelman@northwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Molitch</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Hospitals SOM230B2411</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <phone>773-702-3853</phone>
+    </contact>
+    <investigator>
+      <last_name>Roy E. Weiss</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sinai Hospital of Baltimore SOM230B2411</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Alanvin Orpia</last_name>
+      <phone>410-601-0960</phone>
+      <email>aorpia@lifebridgehealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Henry G. Fein</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University SOM230B2411</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Shirley McCartney</last_name>
+      <phone>503-494-4314</phone>
+      <email>mccartns@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Fleseriu</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mid South Endocrine Associates Midstate Endocrinology Assoc.</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Terri Jerkins</last_name>
+      <email>twjerkins@aol.com</email>
+    </contact>
+    <investigator>
+      <last_name>Terri Jerkins</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Buenos aires</city>
+        <zip>C1120AAF</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Buenos Aires</city>
+        <zip>C1280AEB</zip>
+        <country>Argentina</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Gent</city>
+        <zip>9000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Leuven</city>
+        <zip>3000</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Porto Alegre</city>
+        <state>RS</state>
+        <zip>90560-030</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sofia</city>
+        <zip>1431</zip>
+        <country>Bulgaria</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bogotá</city>
+        <zip>00000</zip>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bogotá</city>
+        <country>Colombia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Brest</city>
+        <zip>29200</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Bron Cedex</city>
+        <zip>69677</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Marseille cedex 05</city>
+        <zip>13385</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Pessac Cedex</city>
+        <zip>33604</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Vandoeuvre Cedex</city>
+        <zip>54511</zip>
+        <country>France</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Berlin</city>
+        <zip>10117</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Erlangen</city>
+        <zip>91054</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Essen</city>
+        <zip>45147</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Frankfurt</city>
+        <zip>60590</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Würzburg</city>
+        <zip>97080</zip>
+        <country>Germany</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Thessaloniki</city>
+        <zip>GR 54635</zip>
+        <country>Greece</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Mumbai</city>
+        <state>Maharashtra</state>
+        <zip>400012</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>New Delhi</city>
+        <zip>110 029</zip>
+        <country>India</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Ancona</city>
+        <state>AN</state>
+        <zip>60126</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Milano</city>
+        <state>MI</state>
+        <zip>20149</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Padova</city>
+        <state>PD</state>
+        <zip>35128</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Napoli</city>
+        <zip>80131</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Wilayah Persekutuan</city>
+        <zip>62502</zip>
+        <country>Malaysia</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Málaga</city>
+        <state>Andalucia</state>
+        <zip>29010</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Alzira</city>
+        <state>Comunidad Valenciana</state>
+        <zip>46600</zip>
+        <country>Spain</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Istanbul</city>
+        <zip>34303</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Izmir</city>
+        <zip>35340</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Pendik / Istanbul</city>
+        <zip>1330</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Sihhiye/Ankara</city>
+        <zip>06100</zip>
+        <country>Turkey</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Novartis Investigative Site</name>
+      <address>
+        <city>Caracas</city>
+        <state>Distrito Capital</state>
+        <zip>1010</zip>
+        <country>Venezuela</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Argentina</country>
+    <country>Belgium</country>
+    <country>Brazil</country>
+    <country>Bulgaria</country>
+    <country>Colombia</country>
+    <country>France</country>
+    <country>Germany</country>
+    <country>Greece</country>
+    <country>India</country>
+    <country>Italy</country>
+    <country>Malaysia</country>
+    <country>Spain</country>
+    <country>Turkey</country>
+    <country>Venezuela</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 8, 2013</lastchanged_date>
+  <firstreceived_date>June 10, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cushing's disease, pituitary tumors, pasireotide, cabergoline, combination treatment, UFC, hormone disorder, cortisol, adrenocorticotropic hormone</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cushing Syndrome</mesh_term>
+    <mesh_term>Pituitary ACTH Hypersecretion</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adrenocorticotropic Hormone</mesh_term>
+    <mesh_term>Cabergoline</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

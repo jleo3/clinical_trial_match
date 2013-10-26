@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="81">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01753713</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CASE4312</org_study_id>
+    <secondary_id>NCI-2012-02284</secondary_id>
+    <nct_id>NCT01753713</nct_id>
+  </id_info>
+  <brief_title>Dovitinib in Treating Patients With Recurrent or Progressive Glioblastoma</brief_title>
+  <official_title>Phase II Study of TKI258 (Dovitinib) in Patients With Recurrent or Progressive Glioblastoma Who Have Progressed With or Without Anti-Angiogenic Therapy (Including Anti-VEGF Therapy)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Manmeet Ahluwalia, MD</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Case Comprehensive Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well dovitinib works in treating patients with recurrent or
+      progressive glioblastoma. Dovitinib may stop the growth of tumor cells by blocking some of
+      the enzymes needed for cell growth
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      Arm 1: To determine 6 month progression-free survival (PFS6) in anti-angiogenic therapy
+      (including anti-VEGF therapy or bevacizumab) naive patients with recurrent glioblastoma
+      (GBM) in patients treated with dovitinib
+
+      Arm 2: To estimate time to progression in patients with recurrent or progressive
+      Glioblastoma who have progressed on anti-angiogenic therapy (including anti-VEGF therapy).
+
+      SECONDARY OBJECTIVES:
+
+        1. To evaluate the side effect profile of dovitinib in both patient populations.
+
+        2. To evaluate the efficacy of dovitinib as measured by objective response rate (ORR) in
+           both patient populations.
+
+        3. To estimate time to percentage of patients free from progression at 6 months (PFS-6)in
+           patients with recurrent or progressive Glioblastoma who have progressed on
+           antiangiogenic therapy (including anti-VEGF therapy).
+
+        4. To estimate time to progression in anti-angiogenic therapy (including anti-VEGF therapy
+           or bevacizumab) naiVe patients with recurrent glioblastoma (GBM) in patients treated
+           with dovitinib,
+
+        5. To evaluate the overall survival (OS) in both patient populations.
+
+      EXPLORATORY OBJECTIVES:
+
+      To explore association between clinical outcome and potential biomarkers that may include
+      microparticles, PlGF, PDGF-AA, PDGF-AB, PDGF-BB, SDF-1a, thrombospondin-1, Ang1, and Il-6,
+      IL-8 and FGF.
+
+      OUTLINE:
+
+      Patients receive dovitinib orally (PO) 5 days a week. Courses repeat every 4 weeks in the
+      absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 30 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>December 2012</start_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Arm 1: Progression Free Survival (PFS)</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of anti-angiogenic therapy (including anti-VEGF therapy or bevacizumab) naive patients with recurrent glioblastoma (GBM). The Kaplan-Meier method will be used. The progression- free survival (PFS) at 6 months is defined as the time from randomization to objective tumor progression or death. So patients who have CR, PR or SD at 6 months will constitute PFS-6.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Arm 2: Determine median time to progression</measure>
+    <time_frame>at 8 weeks (2 cycles of treatment)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Anti-angiogenic therapy (including anti-VEGF therapy or bevacizumab) patients with recurrent glioblastoma (GBM). The Kaplan-Meier method will be used. Time to tumor progression (TTP), is defined as the time from randomization to time of progressive disease. So it is ongoing and will be assessed every 8 weeks …8, 16, 24, 32 …week.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity assessed using Common Terminology Criteria for Adverse Events (CTCAE) version 4.0</measure>
+    <time_frame>Up to 30 days after treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Number of patients in both populations that experience toxicity (grade 1-5).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate using modified Revised Assessment in Neuro-Oncology (RANO) criteria</measure>
+    <time_frame>Up to 30 days after treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Number of patients (both populations) with a complete response (CR-no measurable disease), partial response (PR &gt;50% reduction in measurable disease), minor response (MR &gt;25% reduction of measurable disease), stable disease (SD &lt;25% reduction) and progressive disease (PD &gt;25% measurable disease and new lesions).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of anti-angiogenic therapy patients with progression free survival</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The progression- free survival (PFS) at 6 months is defined as the time from randomization to objective tumor progression or death. So patients who have CR, PR or SD at 6 months will constitute PFS-6</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>to death, approximately 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Kaplan-Meier method will be used. Overall survival is defined as the time from randomization to death.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Changes from baseline in circulating growth factors and soluble receptors.</measure>
+    <time_frame>Up to 30 days after treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>To assess the pharmacodynamic effect of dovitinib on potential plasma biomarkers that may include measuring concentrations of circulating, microparticles, PlGF, PDGF-AA, PDGF-AB, PDGF-BB, SDF-la, thrombospondin-l, Angl, and 11-6, IL-8 and FGF.</description>
+  </other_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">55</enrollment>
+  <condition>Adult Giant Cell Glioblastoma</condition>
+  <condition>Adult Glioblastoma</condition>
+  <condition>Adult Gliosarcoma</condition>
+  <condition>Recurrent Adult Brain Tumor</condition>
+  <arm_group>
+    <arm_group_label>Anti-angiogenic Therapy Naive Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who have progressed without anti-angiogenic therapy. Patients receive dovitinib orally (PO) 5 days a week. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Anti-angiogenic Therapy Patients</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients who have progressed on anti-angiogenic therapy. Patients receive dovitinib orally (PO) 5 days a week. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dovitinib</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Anti-angiogenic Therapy Naive Patients</arm_group_label>
+    <arm_group_label>Anti-angiogenic Therapy Patients</arm_group_label>
+    <other_name>CHIR-258</other_name>
+    <other_name>receptor tyrosine kinase inhibitor TKI258</other_name>
+    <other_name>RTK inhibitor TKI258</other_name>
+    <other_name>TKI258</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Anti-angiogenic Therapy Naive Patients</arm_group_label>
+    <arm_group_label>Anti-angiogenic Therapy Patients</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Histologically confirmed glioblastoma, recurrent after standard external-beam
+             fractionated radiotherapy and temozolomide chemotherapy
+
+          -  Patients who have NOT received any anti-angiogenic therapy (Anti-VEGF, including
+             avastin, cediranib, or other anti-angiogenic therapies like cilengitide) on arm 1. No
+             more than two recurrences are allowed on arm 1.
+
+          -  Patients who have received any anti-angiogenic therapy (Anti-VEGF, including avastin,
+             cediranib, or other anti-angiogenic therapies like cilengitide) on arm 2. Any number
+             of recurrences are allowed on arm 2.
+
+          -  Karnofsky performance status &gt;= 60%
+
+          -  Absolute neutrophil count (ANC) &gt;= 1.5 x 10^9/L
+
+          -  Platelets &gt;= 100 x 10^9/L
+
+          -  Hemoglobin (Hgb) &gt; 9 g/dL
+
+          -  Serum total bilirubin =&lt; 1.5 x upper limit of normal (ULN)
+
+          -  Alanine aminotransferase (ALT) and aspartate aminotransferase (AST) =&lt; 3.0 x ULN
+
+          -  Serum creatinine =&lt; 1.5 x ULN
+
+          -  Minimum interval since completion of radiation treatment is 12 weeks
+
+          -  Minimum interval since last drug therapy 2 weeks since last non-cytotoxic therapy 3
+             weeks must have elapsed since the completion of a non-nitrosourea containing
+             chemotherapy regimen 6 weeks since the completion of a nitrosourea containing
+             chemotherapy regimen
+
+          -  Patients must be able to provide written informed consent
+
+          -  Patients with the potential for pregnancy or impregnating their partner must agree to
+             follow acceptable birth control methods to avoid conception; the anti-proliferative
+             activity of this experimental drug may be harmful to the developing fetus or nursing
+             infant; female patients of child-bearing potential must have a negative pregnancy
+             test
+
+          -  Patients must have no concurrent malignancy except curatively treated basal or
+             squamous cell carcinoma of the skin or carcinoma in situ of the cervix and breast,
+             adequately treated stage I or II cancer from which the patient is in complete
+             remission; patients with other prior malignancies must be disease-free for &gt;= three
+             years
+
+          -  Patients must be maintained on a stable corticosteroid regimen from the time of their
+             baseline scan until the start of treatment and/or for at least 5 days before starting
+             treatment
+
+        Exclusion Criteria:
+
+          -  Patients who have undergone major surgery (e.g. intra-thoracic, intra-abdominal or
+             intra-pelvic), open biopsy or significant traumatic injury =&lt; 4 weeks prior to
+             starting study drug, or patients who have had minor procedures, percutaneous biopsies
+             or placement of vascular access device =&lt; 1 week prior to starting study drug, or who
+             have not recovered from side effects of such procedure or injury
+
+          -  Patients with a history of pulmonary embolism (PE), or untreated deep venous
+             thrombosis (DVT) within the past 6 months
+
+          -  Patients with any of the following concurrent severe and/or uncontrolled medical
+             conditions which could compromise participation in the study:
+
+               -  Impaired cardiac function or clinically significant cardiac diseases, including
+                  any of the following:
+
+                    -  History or presence of serious uncontrolled ventricular arrhythmias
+
+                    -  Clinically significant resting bradycardia
+
+                    -  Left ventricular ejection fraction (LVEF) assessed by 2-dimensional (2-D)
+                       echocardiogram (ECHO) &lt; 50% or lower limit of normal (whichever is higher)
+                       or multi gated acquisition scan (MUGA) &lt; 45% or lower limit of normal
+                       (whichever is higher)
+
+                    -  Any of the following within 6 months prior to starting study drug:
+                       myocardial infarction (MI), severe/unstable angina, coronary artery bypass
+                       graft (CABG), congestive heart failure (CHF), cerebrovascular accident
+                       (CVA), and transient ischemic attack (TIA)
+
+                    -  Uncontrolled hypertension defined by a systolic blood pressure (SBP) &gt;= 160
+                       mm Hg and/or diastolic blood pressure (DBP) &gt;= 100 mm Hg, with or without
+                       anti-hypertensive medication(s)
+
+          -  Impairment of gastrointestinal (GI) function or GI disease that may significantly
+             alter the absorption of dovitinib (e.g. ulcerative diseases, uncontrolled nausea,
+             vomiting, diarrhea, malabsorption syndrome, or small bowel resection)
+
+          -  Cirrhosis, chronic active hepatitis or chronic persistent hepatitis
+
+          -  Known diagnosis of human immunodeficiency virus (HIV) infection (HIV testing is not
+             mandatory)
+
+          -  Other concurrent severe and/or uncontrolled concomitant medical conditions (e.g.
+             active or uncontrolled infection, uncontrolled diabetes) that could cause
+             unacceptable safety risks or compromise compliance with the protocol
+
+          -  Women of child-bearing potential, who are biologically able to conceive, not
+             employing two forms of highly effective contraception; highly effective contraception
+             (e.g. male condom with spermicide, diaphragm with spermicide, intra-uterine device)
+             must be used by both sexes during the study and must be continued for 8 weeks after
+             the end of study treatment; oral, implantable, or injectable contraceptives may be
+             affected by cytochrome P450 interactions, and are therefore not considered effective
+             for this study; women of child-bearing potential, defined as sexually mature women
+             who have not undergone a hysterectomy or who have not been naturally postmenopausal
+             for at least 12 consecutive months (e.g., who has had menses any time in the
+             preceding 12 consecutive months), must have a negative serum pregnancy test =&lt; 14
+             days prior to starting study treatment
+
+          -  Fertile males not willing to use contraception, as stated above
+
+          -  Patients who are currently receiving full dose anticoagulation treatment with
+             therapeutic doses of warfarin or anti-platelet therapy (e.g., Plavix [clopidogrel
+             bisulfate]); treatment with locally accepted low molecular weight heparin and low
+             dose of acetylsalicylic acid (i.e., 81mg or 100 mg daily) to prevent cardiovascular
+             events or strokes is allowed
+
+          -  Patients unwilling or unable to comply with the protocol
+
+          -  Any significant hemorrhage defined as &gt; 1 cm diameter of blood seen on the MRI or CT
+             scan. If&gt; 1 cm of acute blood is detected, the patient will be ineligible for this
+             trial.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Manmeet Ahluwalia</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Cleveland Clinic Taussig Cancer Institute, Case Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Taussig Cancer Institute, Case Comprehensive Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Manmeet S. Ahluwalia</last_name>
+      <phone>216-444-6145</phone>
+      <email>ahluwam@ccf.org</email>
+    </contact>
+    <investigator>
+      <last_name>Manmeet S. Ahluwalia</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 19, 2013</lastchanged_date>
+  <firstreceived_date>December 18, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Case Comprehensive Cancer Center</investigator_affiliation>
+    <investigator_full_name>Manmeet Ahluwalia, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Angiogenesis Inhibitors</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

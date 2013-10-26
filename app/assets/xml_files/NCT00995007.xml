@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="271">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00995007</url>
+  </required_header>
+  <id_info>
+    <org_study_id>090222</org_study_id>
+    <secondary_id>09-C-0222</secondary_id>
+    <nct_id>NCT00995007</nct_id>
+  </id_info>
+  <brief_title>A Randomized Phase II Trial of Vandetanib (ZD6474) in Combination With Carboplatin Versus Carboplatin Alone Followed by Vandetanib Alone in Adults With Recurrent High-Grade Gliomas</brief_title>
+  <official_title>A Randomized Phase II Trial of Vandetanib (ZD6474) in Combination With Carboplatin Versus Carboplatin Alone Followed by Vandetanib Alone in Adults With Recurrent High-Grade Gliomas</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:
+
+        -  Growth of new blood vessels (angiogenesis) provides many tumors, including brain
+           tumors, with needed nutrients and oxygen for cancer cells to survive. One possible
+           treatment for different kinds of cancer involves treatment with drugs that slow or stop
+           angiogenesis and prevent further tumor growth.
+
+        -  Vandetanib is an oral medication known to block angiogenesis and has shown significant
+           antitumor activity in laboratory and animal studies. Vandetanib appears to be well
+           tolerated by patients at specific daily doses.
+
+        -  Carboplatin is a drug that interrupts division of cancer cells and has been shown to be
+           a useful drug in treatment of tumors known as gliomas. It is a useful drug for treating
+           brain tumors, but researchers are interested in gathering more information about how it
+           works as a treatment for patients who have not responded to initial surgery, radiation,
+           or chemotherapy.
+
+      Objective:
+
+      - To determine the safety and effectiveness of vandetanib and carboplatin, given together or
+      sequentially, against recurrent high-grade gliomas.
+
+      Eligibility:
+
+      - Adults diagnosed with a malignant glioma who have received standard treatments that no
+      longer appear to be effective.
+
+      Design:
+
+        -  Patients will be assigned to one of two groups. Group 1 patients (combination group)
+           will receive oral vandetanib for 28 days and intravenous (IV) carboplatin (once at the
+           beginning of the 28-day cycle). Group 2 patients (sequential group) will receive IV
+           carboplatin alone (once at the beginning of the 28-day cycle) and then oral vandetanib
+           (300 mg daily) for 28 days if the tumor grows or the patient develops unacceptable
+           carboplatin toxicity.
+
+        -  Treatment will continue in 28-day cycles for 1 year for both groups.
+
+        -  Patients will undergo a number of tests and procedures during the treatment cycle,
+           including physical examinations, routine laboratory tests, electrocardiograms, and
+           magnetic resonance imaging (MRI) scans
+
+        -  At the end of 1 year of treatment, patients will be reevaluated for possible
+           continuation of drug therapy.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:
+
+      In vivo experiments have documented the ability of vandetanib (ZD6474) to inhibit tumor
+      growth in various preclinical tumor models. Given the pronounced neovasculature associated
+      with malignant gliomas, and abundant published data demonstrating the dependence of glioma
+      growth on the maintenance and proliferation of this neovasculature, vandetanib represents a
+      potentially promising new therapeutic approach to these otherwise refractory tumors. Phase
+      II data of vandetanib for recurrent glioblastomas conducted at the National Institutes of
+      Health showed promising activity but responses were usually short-lasting.
+
+      Carboplatin has shown activity as monotherapy in the treatment of recurrent malignant
+      gliomas in adults and preclinical data generated at Dr. Fine's laboratory demonstrate
+      additive anti-glioma activity with vandetanib. The safety profile of carboplatin and the
+      preclinical and clinical data supports its use in combination with vandetanib in patients
+      with malignant gliomas.
+
+      Vandetanib is also an EGFR inhibitor and it has been demonstrated that the presence of the
+      EGFRvIII mutant and/or the presence of an intact PTEN and non-phosphorylated AKT predict for
+      a higher likelihood of response to the EGFR inhibitors Tarceva and Iressa.
+
+      Objectives:
+
+      To establish data regarding the anti-tumor activity of vandetanib in combination with
+      carboplatin and single agent carboplatin and to collect information regarding the spectrum
+      of toxicities.
+
+      To determine if the presence of the EGFRvIII mutant and/or the presence of an intact PTEN
+      and non-phosphorylated AKT predict for a higher likelihood of response to vandetanib.
+
+      Eligibility:
+
+      Patients with histologically proven malignant glioma are eligible for this study.
+
+      Design:
+
+      Patients will be randomized (1:1) to one of two groups. Patients in group one will be
+      treated with vandetanib (300 mg daily for patients not on enzyme inducing anti-epileptic
+      drugs (EIAEDs) and 400 mg daily for patients on EIAEDs) and with carboplatin (area under the
+      concentration-time curve at steady-state [AUC], 6mg/mL x min) once every 4-week cycle (
+      combination group ). Patients in group two will receive carboplatin alone (AUC 6mg/mL x min)
+      once every 4-week cycle. Patients who develop tumor progression or unacceptable toxicity on
+      carboplatin alone (group 2) can then receive single agent vandetanib (300 mg daily for
+      patients not on enzyme inducing anti-epileptic drugs (EIAEDs) and 400 mg daily for patients
+      on EIAEDs) in 4-week cycles ( sequential group ). A total of 128 evaluable patients will be
+      analyzed. The total accrual ceiling will allow for 74 patients to be enrolled in the GBM
+      stratum and 74 patients in the AG stratum (total 148) to factor in replacing those patients
+      who come off treatment prior to cycle 1.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2009</start_date>
+  <completion_date type="Anticipated">July 2014</completion_date>
+  <primary_completion_date type="Anticipated">July 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>To establish data regarding the anti-tumor activity of the combination of vandetanib with carboplatin or carboplatin alone in patients with recurrent high-grade gliomas not taking enzyme-inducing anti-epileptic drugs (EIAEDs).</measure>
+    <time_frame>+/- 1.5 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To obtain information regarding the spectrum of toxicities of vandetanib with carboplatin or carboplatin alone administered to patients with recurrent high-grade gliomas not taking EIAEDs.</measure>
+    <time_frame>+/- 1.5 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">148</enrollment>
+  <condition>Glioblastoma Multiforme</condition>
+  <condition>Gliosarcoma</condition>
+  <condition>Anaplastic Astrocytoma</condition>
+  <condition>Anaplastic Oligodendroglioma</condition>
+  <condition>Anaplastic Mixed Oligoastrocytoma</condition>
+  <arm_group>
+    <arm_group_label>Group 1</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Combo Group</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group 2</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Sequential Group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ZD6474</intervention_name>
+    <description>N/A</description>
+    <arm_group_label>Group 1</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>N/A</description>
+    <arm_group_label>Group 2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:
+
+        Patients with histologically proven malignant primary gliomas who have progressive disease
+        after radiotherapy will be eligible for this protocol.  These include glioblastoma
+        multiforme (GBM), gliosarcoma, anaplastic astrocytoma (AA), anaplastic oligodendroglioma
+        (AO), anaplastic mixed oligoastrocytoma (AMO), and malignant glioma/astrocytoma NOS.
+
+        Patients must have an MRI/CT scan performed within 14 days prior to registration and on a
+        fixed dose of steroids for at least 5 days. If the steroid dose is increased between the
+        date of imaging and registration a new baseline MR/CT is required.  The same type of scan,
+        that is, MRI or CT must be used throughout the period of protocol treatment for tumor
+        measurement.
+
+        Patients having undergone recent resection of recurrent or progressive tumor will be
+        eligible as long as all of the following conditions apply:
+
+        Patients will be eligible four weeks after surgery if they have recovered from the effects
+        of surgery.
+
+        Residual disease following resection of recurrent tumor is not mandated for eligibility
+        into the study.  To best assess the extent of residual disease post-operatively, a CT/MRI
+        should be done:
+
+          -  no later than 96 hours in the immediate post-operative period or
+
+          -  at least 4 weeks post-operatively, and
+
+          -  within 14 days of registration, and
+
+          -  on a steroid dosage that has been stable for at least 5 days.
+
+        If the 96 hour scan is more than 14 days before registration, the scan needs to be
+        repeated.  If the steroid dose is increased between the date of imaging and registration,
+        a new baseline MRI/CT is required on a stable steroid dosage for at least 5 days.
+
+        Patients must have failed prior radiation therapy.
+
+        All patients or their previously designated DPA (if the patient is deemed by the treating
+        physician to be cognitively impaired or questionably impaired in such a way that the
+        ability of the patient to give informed consent is questionable) must sign an informed
+        consent indicating that they are aware of the investigational nature of this study.
+
+        Patients must be greater than or equal to 18 years old, and must have a life expectancy
+        greater than 8 weeks.
+
+        Patients must have a Karnofsky performance status of greater than or equal to 60.
+
+        Patients must be at least six weeks from radiation therapy. Additionally, patients must be
+        at least 6 weeks from nitrosoureas, 4 weeks from temozolomide, 3 weeks from procarbazine,
+        and 2 weeks from last vincristine administration.  Patients must be at least 4 weeks from
+        other cytotoxic therapies not listed above and 2 weeks for non-cytotoxic agents (e.g.,
+        interferon, tamoxifen) including investigative agents.
+
+        Patients must have adequate bone marrow function (WBC greater than or equal to
+        3,000/microL, ANC greater than or equal to 1,500/mm(3), platelet count of greater than or
+        equal to 100,000/mm(3), and hemoglobin greater than or equal to 10 gm/dl), adequate liver
+        function (AST, ALT and alkaline phosphatase 2.5 less than or equal to ULN and bilirubin
+        less than or equal to 1.5 times ULN), and adequate renal function (creatinine less than or
+        equal to 1.5 mg/dL and/or creatinine clearance greater than or equal to 60 cc/min) before
+        starting therapy. Patients must also have serum potassium greater than or equal to 3.5
+        mg/dL, magnesium greater than or equal to 0.75 mmol/L and calcium levels within normal
+        levels; supplementation is allowed. In cases where the serum calcium is below the normal
+        range, 2 options would be available:  1) the calcium adjusted for albumin is to be
+        obtained and substituted for the measured serum value.  Exclusion is to then be based on
+        the adjusted for albumin values falling below the normal limit.  2) Determine the ionized
+        calcium levels.  Exclusion is then to be based if these ionized calcium levels are out of
+        normal range despite supplementation. These tests must be performed within 14 days prior
+        to registration.  Eligibility level for hemoglobin may be reached by transfusion.
+
+        Patients must either not be receiving steroids, or be on a stable dose of steroids for at
+        least five days prior to registration.
+
+        This study was designed to include women and minorities, but was not designed to measure
+        differences of intervention effects.  Males and females will be recruited with no
+        preference to gender.  No exclusion to this study will be based on race.  Minorities will
+        actively be recruited to participate.
+
+        Patients must not be pregnant or nursing, and all patients (both men and women) must be
+        willing to practice birth control during and for 2 months after treatment with vandetanib
+        and/or carboplatin. Women of childbearing potential (WCBP) must have a negative serum or
+        urine pregnancy test.  In addition, WCBP patients must agree to use adequate contraceptive
+        methods (oral, injectable, or implantable hormonal contraceptive; tubal ligation;
+        intra-uterine device; barrier contraceptive with spermicide; or vasectomized partner).
+
+        A 12 lead electrocardiogram (ECG) to be performed within 2 weeks of trial entry with QTc
+        less than 480 msec.  If a patient has a QTcB interval &gt; 480 ms on screening ECG, the
+        screening ECG may be repeated twice [at least 24 hours apart] for a total of 3 ECGs. The
+        average QTcB from the 3 screening ECGs must be less than or equal to 480 ms in order for
+        the patient to be eligible for the study).
+
+        EXCLUSION CRITERIA:
+
+        Patients who, in the view of the treating physician, have significant active hepatic,
+        renal, or psychiatric diseases are ineligible.
+
+        Prior treatment with vandetanib.
+
+        Prior treatment with platinum-based therapy.
+
+        Patients known to have an allergic response to mannitol.
+
+        Clinically significant cardiovascular event (e.g. myocardial infarction, superior vena
+        cava syndrome (SVC), New York Heart Association (NYHA) classification of heart disease
+        greater than or equal to 2 within 3 months before entry; or presence of cardiac disease
+        that, in the opinion of the investigator, increases the risk of ventricular arrhythmia.
+
+        History of arrhythmia (multifocal premature ventricular contractions PVCs), bigeminy,
+        trigeminy, ventricular tachycardia, or uncontrolled atrial fibrillation) which is
+        symptomatic or requires treatment (CTCAE grade 3) or asymptomatic sustained ventricular
+        tachycardia.  Atrial fibrillation, controlled on medication is not excluded.
+
+        QTc prolongation with other medications that required discontinuation of that medication.
+
+        Congenital long QT syndrome, or 1st degree relative with unexplained sudden death under 40
+        years of age.
+
+        Presence of left bundle branch block (LBBB.)
+
+        QTc with Bazett's correction that is unmeasurable, or greater than or equal to 480 msec on
+        screening ECG. (Note: If a subject has a QTc interval greater than or equal to 480 msec on
+        screening ECG, the screen ECG may be repeated twice (at least 24 hours apart).  The
+        average QTc from the three screening ECGs must be less than 480 msec in order for the
+        subject to be eligible for the study. Patients who are receiving a drug that has a risk of
+        QTc prolongation excluded if QTc is greater than or equal to 460 msec.
+
+        Any concurrent medication that may cause QTc prolongation or induce Torsades de Pointes.
+        Drugs listed in Appendix E, Table 2, that in the investigator's opinion cannot be
+        discontinued are allowed; however, must be monitored closely.
+
+        Concomitant medications that are potent inducers (rifampicin, rifabutin, St. John's Wort
+        and EIAEDs of CYP3A4 function. EIAEDs are allowed.
+
+        Hypertension not controlled by medical therapy (systolic blood pressure greater than 160
+        mm Hg or diastolic blood pressure greater than 100 mm Hg)
+
+        Currently active diarrhea that may affect the ability of the patient to absorb the
+        vandetanib or tolerate diarrhea.
+
+        Women who are currently pregnant or breast feeding.
+
+        Patients known to have a malignancy (other than their malignant glioma) that has required
+        treatment in the last 12 months and/or is expected to require treatment in the next 12
+        months (except for non-melanoma skin cancer, carcinoma in situ in the cervix or ductal
+        carcinoma in situ).
+
+        Invasive procedures defined as follows:
+
+          -  Major surgical procedure, open biopsy or significant traumatic injury within 28 days
+             prior to Day 1 therapy
+
+          -  Anticipation of need for major surgical procedures during the course of the study
+
+          -  Core biopsy within 7 days prior to D1 therapy
+
+        Patients should not be on anti-platelet medications (aspirin, clopidogrel, ticlopidine,
+        prasugel). Non-steroidal anti-inflammatory drugs should be used with caution if medically
+        necessary.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Teri N Kreisl, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Tracy Cropper, R.N.</last_name>
+    <phone>(301) 402-6298</phone>
+    <email>tcropper@cc.nih.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Teri N Kreisl, M.D.</last_name>
+    <phone>(301) 402-3423</phone>
+    <email>kreislt@mail.nih.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tracy Cropper, R.N.</last_name>
+      <phone>301-402-6298</phone>
+      <email>tcropper@cc.nih.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2009-C-0222.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Prados MD, Schold SC JR SC, Fine HA, Jaeckle K, Hochberg F, Mechtler L, Fetell MR, Phuphanich S, Feun L, Janus TJ, Ford K, Graney W. A randomized, double-blind, placebo-controlled, phase 2 study of RMP-7 in combination with carboplatin administered intravenously for the treatment of recurrent malignant glioma. Neuro-oncol. 2003 Apr;5(2):96-103.</citation>
+    <PMID>12672281</PMID>
+  </reference>
+  <reference>
+    <citation>Prados MD, Warnick RE, Mack EE, Chandler KL, Rabbitt J, Page M, Malec M. Intravenous carboplatin for recurrent gliomas. A dose-escalating phase II trial. Am J Clin Oncol. 1996 Dec;19(6):609-12.</citation>
+    <PMID>8931682</PMID>
+  </reference>
+  <verification_date>February 2013</verification_date>
+  <lastchanged_date>September 7, 2013</lastchanged_date>
+  <firstreceived_date>October 10, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Brain Tumor</keyword>
+  <keyword>Chemotherapy</keyword>
+  <keyword>Antiangiogenesis</keyword>
+  <keyword>Radiation</keyword>
+  <keyword>Progression</keyword>
+  <keyword>Glioma</keyword>
+  <keyword>Glioblastoma Multiforme</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Oligodendroglioma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="187">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01305941</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LCCC 1025</org_study_id>
+    <secondary_id>11-0242</secondary_id>
+    <nct_id>NCT01305941</nct_id>
+  </id_info>
+  <brief_title>A Study Of Everolimus, Trastuzumab And Vinorelbine In HER2-Positive Breast Cancer Brain Metastases</brief_title>
+  <official_title>A Phase II Study Evaluating The Efficacy And Tolerability Of Everolimus (RAD001) In Combination With Trastuzumab And Vinorelbine In The Treatment Of Progressive HER2-Positive Breast Cancer Brain Metastases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>UNC Lineberger Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>UNC Lineberger Comprehensive Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Purpose:  This study is a single-arm, open-label phase II clinical trial testing the
+      hypothesis that daily everolimus plus weekly vinorelbine and trastuzumab will be effective,
+      safe, and tolerable among patients with HER2-positive breast cancer brain metastases.   Once
+      enrolled, patients will receive everolimus PO daily in combination with weekly intravenous
+      (IV) vinorelbine and trastuzumab.  Cycles will be repeated every 3 weeks (21 days).  At the
+      time of progression, patients will come off study.
+
+      Participants:  Up to 35 adults over 21 with HER-2 positive breast cancer that has
+      metastasized to the brain.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      STUDY OBJECTIVES Primary Objective -To determine the intracranial objective response rate of
+      mTOR inhibition (everolimus) in combination with vinorelbine and trastuzumab in the
+      treatment of HER2-positive, progressive breast cancer brain metastases as defined via
+      modified RECIST criteria.
+
+      Secondary Objectives
+
+        -  To determine the intracranial objective response rate of mTOR inhibition (everolimus)
+           in combination with vinorelbine and trastuzumab in the treatment of HER2-positive,
+           progressive breast cancer brain metastases as defined by MacDonald criteria.
+
+        -  To evaluate the safety and tolerability of everolimus in combination with trastuzumab
+           and vinorelbine as assessed via the NCI CTCAE version 4.0
+
+        -  To evaluate time to intracranial progression after administration of everolimus in
+           combination with trastuzumab and vinorelbine as defined via modified RECIST criteria
+
+        -  To evaluate the extracranial objective response rate as determined by RECIST 1.1
+           criteria after administration of everolimus in combination with trastuzumab and
+           vinorelbine.
+
+        -  To evaluate the extracranial time to progression as determined by RECIST 1.1 criteria
+           after administration of everolimus in combination with trastuzumab and vinorelbine.
+
+        -  To evaluate progression free survival (PFS) and overall survival (OS) after
+           administration of everolimus in combination with trastuzumab and vinorelbine.
+
+        -  To evaluate the impact of everolimus in combination with trastuzumab and vinorelbine on
+           quality of life as measured by the FACT-B and FACT-Br questionnaires.
+
+      Exploratory Objective
+
+      -To evaluate biomarkers in archival tumor tissue samples and correlate with therapeutic
+      response to everolimus in combination with vinorelbine and trastuzumab.
+
+      Following Hepatitis B antiviral prophylaxis if required, or following screening and informed
+      consent if antiviral therapy is not needed, treatment will be initiated with everolimus PO
+      daily in combination with weekly intravenous (IV) vinorelbine and trastuzumab (Days 1, 8,
+      and 15)
+
+      A cycle is defined as 3 weeks (21 days).  Cycles of therapy will be repeated until
+      documented disease progression, unacceptable toxicity, or patient withdrawal from study for
+      other reasons, including death.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2011</start_date>
+  <completion_date type="Anticipated">March 2015</completion_date>
+  <primary_completion_date type="Anticipated">March 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>intracranial response rate- modified RECIST Criteria</measure>
+    <time_frame>3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>response will be evaluated via gadolinium-enhanced brain MRI using modified RECIST criteria for all evaluable patients.  A responder will be a patient whose best overall response is a CR or PR</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Intracranial Response Rate- MacDonald Criteria</measure>
+    <time_frame>3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>intracranial response rate will be evaluated via gadolinium-enhanced MRI using MacDonald criteria</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Extracranial response</measure>
+    <time_frame>3 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Extracranial response will be measured using RECIST 1.1 criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity</measure>
+    <time_frame>3 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Toxicity will be assessed according to the NCI CTCAE v4.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">35</enrollment>
+  <condition>HER-2 Positive Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Everolimus with Vinorelbine and trastuzumab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>daily everolimus plus weekly (Days 1, 8, and 15) vinorelbine and trastuzumab</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Everolimus</intervention_name>
+    <description>everolimus 5 mg PO daily as two 2.5-mg tablets</description>
+    <arm_group_label>Everolimus with Vinorelbine and trastuzumab</arm_group_label>
+    <other_name>RAD001</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vinorelbine</intervention_name>
+    <description>vinorelbine 25 mg/m2 will be administered via IV infusion over 6-10 minutes weekly.</description>
+    <arm_group_label>Everolimus with Vinorelbine and trastuzumab</arm_group_label>
+    <other_name>Navelbine</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Trastuzumab</intervention_name>
+    <description>2 mg/kg IV administered over 30 minutes weekly</description>
+    <arm_group_label>Everolimus with Vinorelbine and trastuzumab</arm_group_label>
+    <other_name>Herceptin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria
+
+          -  Histologically-confirmed HER2-positive (IHC 3+ or fluorescence in situ hybridization
+             [FISH] amplified; by clinical assay on either primary or metastatic tumor)
+             adenocarcinoma of the breast with at least one progressive and/or new metastatic
+             brain lesion (&gt;/=5 mm on radiographic imaging) after receipt of intracranial
+             radiation therapy (whole brain radiation therapy, stereotactic radiosurgery, gamma
+             knife, or equivalent).
+
+          -  ECOG performance status of 0-2.
+
+          -  Life expectancy &gt;12 weeks.
+
+          -  At least 21 years of age.
+
+          -  No limit to prior therapies with exception of mTOR inhibitors or Navelbine with last
+             anti-cancer treatment (including any investigational drug) ≥2 weeks from initiation
+             of protocol-based therapy, provided all AEs (other than alopecia) have resolved to
+             ≤grade 1 at baseline.
+
+          -  Prior navelbine allowed provided navelbine therapy discontinued &gt;/= 12 months from
+             Day 1 of treatment under this protocol.
+
+          -  No active serious infection or other comorbid illness which would impair ability to
+             participate in the trial.
+
+          -  Left ventricular ejection fraction assessment (echocardiogram or MUGA scan) performed
+             within 4 weeks prior to study initiation, showing a LVEF value ≥ lower limit of
+             normal (LLN).
+
+          -  If patient is on dexamethasone, must be on stable or decreasing dose of dexamethasone
+             for ≥7 days.  If patient is on different glucocorticoid e.g., prednisone, must be
+             converted to dexamethasone prior to enrollment.  Refer to dose modification of
+             everolimus for patients taking dexamethasone.
+
+          -  Interval ≥4 weeks between open brain biopsy and initiation of protocol-based therapy.
+
+          -  INR ≤2.0.  Anticoagulation is allowed if target INR ≤2.0 on a stable dose of warfarin
+             or if patient on a stable dose of LMW heparin for &gt;1 weeks at time of enrollment.
+
+          -  Fasting serum cholesterol ≤300 mg/dL OR ≤7.75 mmol/L AND fasting triglycerides ≤2.5 x
+             ULN.  NOTE: In case one or both of these thresholds are exceeded, the patient can
+             only be included after initiation of appropriate lipid lowering medication.
+
+          -  Patients must have adequate organ function as evidenced by:
+
+          -  Absolute neutrophil count ≥1.5/µL
+
+          -  Platelet count ≥100,000/µL
+
+          -  Hg ≥9 g/dL
+
+          -  Bilirubin ≤1.5 x upper limit of normal (ULN)
+
+          -  AST or ALT ≤2.5 x ULN (≤5 x ULN if liver metastases are present)
+
+          -  Serum creatinine ≤1.5 x ULN
+
+          -  Archived, paraffin-embedded tissue block (primary or metastatic) available for
+             genomic studies is required.
+
+          -  Signed, IRB-approved written informed consent.
+
+        Exclusion Criteria
+
+          -  Patients who have received prior treatment with an mTOR inhibitor (e.g., sirolimus,
+             temsirolimus, everolimus) or vinca alkaloids.
+
+          -  Patients with a known hypersensitivity to everolimus or other rapamycins (e.g.,
+             sirolimus, temsirolimus); patients who have received prior treatment with navelbine
+             within prior 12 months.
+
+          -  patients with a known hypersensitivity to everolimus or other rapamycins (e.g.
+             sirolimus, temsirolimus) or to its excipients.
+
+          -  Patients requiring treatment with any other systemic glucocorticoid.  NOTE: This
+             restriction regarding choice of glucocorticoid does not apply should patient need &lt;2
+             week course of glucocorticoid for treatment of non-infectious pneumonitis during
+             study (see section 4.5.2).
+
+          -  Patients with a known hypersensitivity to vinorelbine or to its excipients.
+
+          -  Prior allergic reaction to trastuzumab for the treatment of metastatic breast cancer.
+
+          -  Concurrent or planned radiation, hormonal, chemotherapeutic, experimental or targeted
+             biologic therapy.
+
+          -  Peripheral neuropathy ≥grade 3.
+
+          -  Evidence of frank hemorrhage or impending herniation on baseline brain imaging.NOTE:
+             asymptomatic micro-hemorrhage is allowed.
+
+          -  Evidence of diffuse leptomeningeal disease on brain MRI or by previously documented
+             CSF cytology.  NOTE: discrete dural metastases are permitted.
+
+          -  Active cardiac disease including any of the following:
+
+               -  Angina pectoris that requires the use of anti-anginal medication;
+
+               -  Ventricular arrhythmias except for benign premature ventricular contractions;
+
+               -  Supraventricular and nodal arrhythmias requiring a pacemaker or not controlled
+                  with medication;
+
+               -  Conduction abnormality requiring a pacemaker;
+
+               -  Valvular disease with documented compromise in cardiac function;
+
+               -  Symptomatic pericarditis
+
+          -  History of cardiac dysfunction including any one of the following:
+
+               -  Myocardial infarction documented by elevated cardiac enzymes or persistent
+                  regional wall abnormalities on assessment of LV function;
+
+               -  History of documented congestive heart failure (New York Heart Association
+                  functional classification III-IV);
+
+               -  Documented cardiomyopathy
+
+          -  Patients who have had a major surgery or significant traumatic injury within 4 weeks
+             of start of study drug, patients who have not recovered from the side effects of any
+             major surgery (defined as requiring general anesthesia), or patients that may require
+             major surgery during the course of the study.
+
+          -  Patients should not receive immunization with attenuated live vaccines within 1 week
+             of study entry or during study period.  Close contact with those who have received
+             attenuated live vaccines should be avoided during treatment with everolimus.
+             Examples of live vaccines include intranasal influenza, measles, mumps, rubella, oral
+             polio, BCG, yellow fever, varicella, and TY21a typhoid vaccines.
+
+          -  Other malignancies within the past 3 years except for adequately treated carcinoma of
+             the cervix or basal or squamous cell carcinomas of the skin.
+
+          -  Patients who have any severe and/or uncontrolled medical conditions or other
+             conditions that could affect their participation in the study such as:
+
+               -  severely impaired lung function, defined as spirometry and diffusion lung
+                  capacity for carbon monoxide (DLCO) that is 50% of the normal predicted value
+                  and/or 02 saturation that is ≤88% at rest on room air
+
+               -  uncontrolled diabetes, defined as fasting serum glucose &gt;1.5 x ULN (Note:
+                  Optimal glycemic control should be achieved before starting trial therapy)
+
+               -  active (acute or chronic) or uncontrolled severe infections
+
+               -  liver disease such as cirrhosis or severe hepatic impairment (Child-Pugh class
+                  C).
+
+        Note: A detailed assessment of Hepatitis B/C medical history and risk factors must be done
+        at screening for all patients.  HBV DNA and HCV RNA PCR testing are required at screening
+        for all patients with a positive medical history based on risk factors and/or confirmation
+        of prior HBV/HCV infection.
+
+          -  A known history of HIV seropositivity.
+
+          -  Impairment of gastrointestinal function or gastrointestinal disease that may
+             significantly alter the absorption of everolimus (e.g., ulcerative disease,
+             uncontrolled nausea, vomiting, diarrhea, malabsorption syndrome, or small bowel
+             resection).
+
+          -  Patients with an active, bleeding diathesis or on oral anti-vitamin K medication
+             (except low-dose warfarin and aspirin or equivalent, as long as the INR ≤2.0).
+
+          -  Unable or unwilling to discontinue use of prohibited fruit (or its juices) and
+             prohibited medications listed in Appendices II and III for at least 14 days or 5
+             half-lives of a drug (whichever is longer) prior to the first dose of study drug and
+             for the duration of the study.
+
+          -  Female patients who are pregnant or breastfeeding, or adults of reproductive
+             potential who are not using effective birth control methods. Adequate contraception
+             must be used throughout the trial and for 8 weeks after the last dose of study drug,
+             by both sexes.  Women of childbearing potential (WOCBP) must have a negative urine or
+             serum pregnancy test within 7 days prior to everolimus initiation.
+
+          -  Male patients whose sexual partner(s) are WOCBP who are not willing to use adequate
+             contraception, during the study and for 8 weeks after the end of treatment
+
+          -  Contraindication to gadolinium-enhanced MRI imaging.
+
+          -  Inability to comply with study and/or follow-up procedures.
+
+          -  History of noncompliance to medical regimens.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Carey K Anders, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UNC Lineberger Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Donna Rowe, RN</last_name>
+    <phone>(919) 966-7359</phone>
+    <email>donna_rowe@med.unc.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University Of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Lisle Nabell, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center- Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Nikita Shah, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Of Chicago Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Rita Nanda, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UNC Lineberger Comprehensive Cancer Center</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rachel Phipps, RN</last_name>
+    </contact>
+    <investigator>
+      <last_name>Carey K Anders, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Carolinas Healthcare System</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Active, not recruiting</status>
+  </location>
+  <location>
+    <facility>
+      <name>Kinston Medical Specialists, PA</name>
+      <address>
+        <city>Kinston</city>
+        <state>North Carolina</state>
+        <zip>28501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Peter Watson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Marion L. Shepard Cancer Center</name>
+      <address>
+        <city>Washington</city>
+        <state>North Carolina</state>
+        <zip>27889</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt-Ingram Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Vandana Abramson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <investigator>
+      <last_name>Patrick Dillon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.med.unc.edu</url>
+    <description>Lineberger Comprehensive Cancer Center</description>
+  </link>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 11, 2013</lastchanged_date>
+  <firstreceived_date>February 25, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>everolimus</keyword>
+  <keyword>trastuzumab</keyword>
+  <keyword>vinorelbine</keyword>
+  <keyword>RAD001</keyword>
+  <keyword>Breast Cancer</keyword>
+  <keyword>Herceptin</keyword>
+  <keyword>Navelbine</keyword>
+  <keyword>Lineberger Comprehensive Cancer Center</keyword>
+  <keyword>Brain Metastases</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Everolimus</mesh_term>
+    <mesh_term>Sirolimus</mesh_term>
+    <mesh_term>Vinorelbine</mesh_term>
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Vinblastine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

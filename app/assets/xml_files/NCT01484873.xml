@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="159">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01484873</url>
+  </required_header>
+  <id_info>
+    <org_study_id>111185</org_study_id>
+    <nct_id>NCT01484873</nct_id>
+  </id_info>
+  <brief_title>Weight Loss Study for Patients With Obesity Due to Craniopharyngioma or Other Brain Tumor</brief_title>
+  <official_title>Effects of Exenatide on Body Weight in Patients With Hypothalamic Obesity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Vanderbilt University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Jefferson Lomenick</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Vanderbilt University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether exenatide can cause weight loss in
+      patients with a history of craniopharyngioma or other brain lesion.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Hypothalamic obesity occurs in up to 60% of patients with tumors in the hypothalamic region,
+      most commonly craniopharyngiomas. Hypothalamic dysfunction can be due to tumor infiltration
+      and as a consequence of surgery or radiation therapy. Survivors who develop obesity have
+      greater morbidity and mortality than normal weight survivors. Prevention and treatment of
+      obesity in this population is vital in order to decrease the morbidity and mortality from
+      diabetes, stroke and myocardial infarction.
+
+      Exenatide (Byetta®) is a GLP-1 homologue that was FDA approved for treatment of type 2
+      diabetes in 2005. It also decreases the rate of gastric emptying and increases satiety and
+      has been shown to cause weight loss in some people. Exenatide may improve insulin
+      sensitivity and satiety in patients with hypothalamic obesity but without the risks of
+      bariatric surgery. The investigators hypothesize that treatment with exenatide will lead to
+      weight loss in patients with hypothalamic obesity.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2012</start_date>
+  <completion_date type="Anticipated">December 2014</completion_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Body Weight (kg)</measure>
+    <time_frame>baseline and 52 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in body weight from baseline to end of study</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Resting energy expenditure (kcals per day)</measure>
+    <time_frame>baseline and 50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in resting energy expenditure from baseline to 50 weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Visual analogue scales for satiety</measure>
+    <time_frame>baseline and 50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in visual analogue scales scores from baseline to 50 weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Insulin secretion (area under the curve)</measure>
+    <time_frame>baseline and 50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Insulin secretion will be measured at 0, 30, 60, 90 and 120 minutes during an oral glucose tolerance test and AUC will be determined at baseline and 50 weeks.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Gastric emptying rate (13C-octanoic acid isotope excretion half life)</measure>
+    <time_frame>baseline and 50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Change in the isotope excretion half life during a gastric emptying test at baseline and at 50 weeks</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Glucagon secretion (area under the curve)</measure>
+    <time_frame>baseline and 50 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Glucagon secretion will be measured at 0, 30, 60, 90 and 120 minutes during an oral glucose tolerance test and AUC will be determined at baseline and 50 weeks.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">10</enrollment>
+  <condition>Obesity</condition>
+  <condition>Overweight</condition>
+  <condition>Craniopharyngioma</condition>
+  <arm_group>
+    <arm_group_label>Exenatide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Exenatide</intervention_name>
+    <description>Treatment with exenatide 5 mcg twice daily for 4 weeks, then 10 mcg twice daily for 46 weeks.</description>
+    <arm_group_label>Exenatide</arm_group_label>
+    <other_name>Byetta</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Age 18 to 40 years old
+
+          -  History of craniopharyngioma or other lesion in the hypothalamic region
+
+          -  Greater than 6 months post-treatment, including chemotherapy, surgery or radiation
+
+          -  BMI &gt;30 mg/m2
+
+          -  Females must be post-menopausal, surgically sterile or using effective birth control
+             for at least 12 weeks
+
+        Exclusion Criteria:
+
+          -  HgbA1C &gt;7%
+
+          -  Use of diabetes medications other than metformin in the past 12 weeks, including
+             exenatide
+
+          -  Use of weight loss drugs or initiation of a weight loss program in past 3 months
+
+          -  Impaired renal function or history of kidney transplant
+
+          -  History of gall stones (unless s/p cholecystectomy), pancreatitis or alcoholism
+
+          -  Personal or family history of medullary carcinoma of the thyroid or MEN type 2
+
+          -  History of gastroparesis or other gastric motility problems as exenatide decreases
+             gastric motility
+
+          -  History of allergic reaction to exenatide or other medication components
+
+          -  Other significant comorbidities other than pituitary deficiencies
+
+          -  Currently prescribed warfarin (exenatide may alter warfarin metabolism)
+
+          -  Pregnant or lactating females
+
+          -  History of severe hypoglycemia (BG &lt;60 and requiring assistance from another person)
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>40 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ashley Shoemaker, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Vanderbilt University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ashley Shoemaker, M.D.</last_name>
+    <phone>615-343-8116</phone>
+    <email>ashley.h.shoemaker@vanderbilt.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ashley Shoemaker, M.D.</last_name>
+      <phone>615-343-8116</phone>
+      <email>ashley.h.shoemaker@vanderbilt.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ashley Shoemaker, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.childrenshospital.vanderbilt.org/interior.php?mid=2786</url>
+    <description>Vanderbilt Pediatric Endocrinology website</description>
+  </link>
+  <link>
+    <url>http://www.mc.vanderbilt.edu/root/vumc.php?site=conelab</url>
+    <description>Research lab website</description>
+  </link>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 23, 2013</lastchanged_date>
+  <firstreceived_date>October 20, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Vanderbilt University</investigator_affiliation>
+    <investigator_full_name>Ashley Shoemaker</investigator_full_name>
+    <investigator_title>Clinical Fellow</investigator_title>
+  </responsible_party>
+  <keyword>Exenatide</keyword>
+  <keyword>Byetta</keyword>
+  <keyword>Hypothalamic Obesity</keyword>
+  <keyword>Obesity</keyword>
+  <keyword>Craniopharyngioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Craniopharyngioma</mesh_term>
+    <mesh_term>Adamantinoma</mesh_term>
+    <mesh_term>Obesity</mesh_term>
+    <mesh_term>Overweight</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Exenatide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

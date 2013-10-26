@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="104">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01875601</url>
+  </required_header>
+  <id_info>
+    <org_study_id>130152</org_study_id>
+    <secondary_id>13-C-0152</secondary_id>
+    <nct_id>NCT01875601</nct_id>
+  </id_info>
+  <brief_title>NK White Blood Cells and Interleukin in Children and Young Adults With Advanced Solid Tumors</brief_title>
+  <official_title>A Phase I Study of Autologous Activated Natural Killer (NK) Cells +/- rhIL15 in Children and Young Adults With Refractory Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <authority>United States: Federal Government</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Background:
+
+      - Natural Killer (NK) cells are white blood cells that are important in helping the body
+      fight viruses and tumors. Studies show that NK cells are important to attack leukemia cells
+      after bone marrow transplants. They have also been shown to kill solid tumor cells.
+      Researchers plan to combine NK cells with an immune-boosting drug called interleukin 15
+      (IL-15). They want to see if NK cells and IL-15 can be used to treat children and young
+      adults who have solid tumors that have not responded to other treatments.
+
+      Objectives:
+
+      - To study the safety and effectiveness of NK cells and IL-15 in children and young adults
+      with advanced solid tumors.
+
+      Eligibility:
+
+      - Children and young adults between 2 and 25 years of age who have advanced solid tumors
+      that have not responded to standard treatments.
+
+      Design:
+
+        -  Participants will be screened with a physical exam and medical history. Blood and urine
+           samples will be collected. Imaging studies will be used to monitor the cancer before
+           treatment.
+
+        -  Participants will have apheresis to provide NK white blood cells for the study. The NK
+           cells will be collected from the blood.
+
+        -  Participants will have inpatient chemotherapy to prepare for the NK cell and IL-15
+           treatment.
+
+        -  After the chemotherapy, participants will receive the NK cells over several days. They
+           will also receive IL-15 to help the immune system respond to the cells.
+
+        -  After recovering in the hospital, participants will be monitored closely at home. They
+           will have frequent blood tests and imaging studies. They may also have another
+           apheresis to collect NK white blood cells again for study.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:
+
+        -  Despite progress, some children and young adults with solid tumors still experience
+           poor survival.
+
+        -  Activated NK cells potently kill autologous pediatric solid tumors, and clinical grade
+           procedures are available to generate large numbers of activated NK cells for adoptive
+           cell therapy.
+
+      OBJECTIVES:
+
+        -  Primary objectives are: 1) to assess the feasibility of harvesting and expanding
+           activated NK cells to meet escalating dose goals in Cohort A, 2) to assess the toxicity
+           of infusing escalating doses of activated NK cells following lymphodepleting
+           chemotherapy without rhIL15 (cohort A), and 3) to assess the toxicity of infusing NK
+           activated cells with escalating doses of rhIL15 (cohort B) in pediatric patients with
+           refractory malignant solid tumors.
+
+        -  Secondary objectives are: 1) to identify biologically active doses of activated
+           autologous NK cells plus or minus rhIL15 by monitoring changes in NK cell number,
+           phenotype and function, 2) to assess pharmacokinetics and immunogenicity of rhIL15 in a
+           pediatric population, and 3) assess antitumor effects and changes in FDG-PET following
+           administration of activated NK cells to lymphopenic hosts plus or minus rhIL15.
+
+      ELIGIBILITY:
+
+        -  Patients in Cohort A: 2-29 years with with refractory pediatric malignant solid tumors,
+           Patients in Cohort B: 2-25 years with refractory pediatric malignant solid tumors.
+
+        -  Adequate performance status and organ function, recovered from toxic effects of prior
+           therapy, no requirement for systemic corticosteroids and no history of allogeneic stem
+           cell transplantation.
+
+      DESIGN:
+
+        -  All patients receive pre-NK lymphodepleting chemotherapy with cyclophosphamide.
+
+        -  Cohort A receives escalating doses of activated autologous NK cells to identify
+           feasibility of generating cells and tolerability, and potentially identify an MTD.
+
+        -  A1: 1x10(6) NK cells/kg
+
+        -  A2: 1 x 10(7) NK cells/kg
+
+        -  A3: 1 x 10(8) NK cells/kg
+
+        -  If feasibility and acceptable toxicity is demonstrated for all doses in Cohort A,
+           patients enrolled on cohort B will receive activated autologous NK cells plus
+           escalating doses of rhIL15 using the following schema:
+
+        -  B1: 1 x 10(7) NK cells/kg + rhIL15 0.25 mcg/kg/d IV x 12
+
+        -  B2: 1 x 10(8) NK cells/kg + rhIL15 0.25 mcg/kg/d IV x 12
+
+        -  B3: 1 x 10(8) NK cells/kg + rhIL15 0.5 mcg/kg/d IV x 12
+
+        -  B4: 1 x 10(8) NK cells/kg + rhIL15 0.75 mcg/kg/d IV x 12
+
+        -  Three patients will be enrolled at each dose level, with the dose level expanded to 6
+           if doselimiting toxicity occurs. An expanded group of 12 patients will be treated at
+           the highest tolerable dose level. DLT toxicity monitoring will continue for 21 days
+           after the NK infusion, or 14 days after the last rhIL15 dose in Cohort B (whichever is
+           later).
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 2013</start_date>
+  <completion_date type="Anticipated">November 2022</completion_date>
+  <primary_completion_date type="Anticipated">November 2022</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Assess feasibility of harvesting + expanding activated NK cells in escalating doses in Cohort A;and assess toxicity of autologous activated and expanded NK cells following lymphodepleting chemotherapy + or - rhIL15 in pediatric patients w/ solid...</measure>
+    <time_frame>3 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To assess the toxicity of infusing escalating doses of activated NK cells following lymphodepleting chemotherapy without rhIL15 (cohort A)</measure>
+    <time_frame>8 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>To assess the toxicity of infusing NK activated cells with escalating doses of rhIL15 (cohort B) in pediatric patients with refractory malignant solid tumors</measure>
+    <time_frame>8 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">51</enrollment>
+  <condition>Solid Tumors</condition>
+  <condition>Brain Tumors</condition>
+  <condition>Sarcoma</condition>
+  <condition>Wilm's Tumor</condition>
+  <condition>Rhabdomyosarcoma</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>NK cellular therapy</intervention_name>
+    <description>N/A</description>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>rhIL-15</intervention_name>
+    <description>N/A</description>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:
+
+          -  Diagnosis:
+
+          -  Histologically confirmed solid tumors, including primary brain tumors. In subjects
+             with brain stem or optic gliomas the requirement for histological confirmation may be
+             waived.
+
+          -  Age: Cohort A: 2 to less than or equal to 29 years old at the time of enrollment.
+             Cohort B: 2 to less than or equal to 25 years old at the time of enrollment.
+
+          -  Patients must have evaluable or measurable malignant disease at enrollment.
+
+          -  Prior Therapy:
+
+          -  The patient's malignancy must have relapsed after or failed to respond to frontline
+             curative therapy and/or there must not be any potentially curative treatment options
+             available at the time of study entry.
+
+          -  There is no limit to the number of prior treatment regimens. However, patients must
+             have fully recovered from the acute toxic effects of all prior chemotherapy,
+             immunotherapy, or radiotherapy prior to study enrollment. Acute toxicity of any
+             previous therapy must have resolved to grade 1 or less, unless specified elsewhere.
+
+          -  Myelosuppressive chemotherapy: Patients must not have received myelosuppressive
+             chemotherapy within 3 weeks of enrollment (6 weeks if prior nitrosourea).
+
+          -  Hematopoietic growth factors: At least 7 days must have elapsed since the completion
+             of therapy with a growth factor. At least 14 days must have elapsed after receiving
+             pegfilgrastim.
+
+          -  Biologic (anti-neoplastic agent) or metronomic non-myelosuppressive chemotherapy: At
+             least 7 days must have elapsed since the completion of therapy with a biologic agent.
+             For agents that have known adverse events occurring beyond 7 days after
+             administration, this period prior to enrollment must be extended beyond the time
+             during which adverse events are known to occur.
+
+          -  Monoclonal antibodies: At least 4 weeks must have elapsed since prior therapy that
+             included a monoclonal antibody.
+
+          -  Radiotherapy: 3 weeks must have elapsed since XRT
+
+          -  Performance status: ECOG 0, 1 or 2, or for children less than or equal to10 years of
+             age, Lansky greater than or equal to 60. Note: Patients who are unable to walk
+             because of paralysis, but who are up in a wheelchair, will be considered ambulatory
+             for the purpose of assessing the performance score.
+
+          -  Cardiac function: Left ventricular ejection fraction greater than or equal to 45% or
+             fractional shortening greater than or equal to28%.
+
+          -  Liver function: Serum total bilirubin &lt;  2 mg/dl, serum AST and ALT less than or
+             equal to 3 x upper limit of normal. Patients with Gilbert syndrome are excluded from
+             the requirement of a normal
+
+        bilirubin. (Gilbert syndrome is found in 3-10% of the general population, and is
+        characterized by mild, chronic unconjugated hyperbilirubinemia in the absence of liver
+        disease or overt hemolysis). On cohort B, patients with liver involvement by tumor will
+        not be eligible due to potential confounding risk for hepatotoxicity when rhIL15 is
+        administered. NOTE: adult values will be used for calculating hepatic toxicity on this
+        trial, as is standard on POB phase I trials.
+
+        - Renal function: Age-adjusted normal serum creatinine according to the following table or
+        a creatinine clearance greater than or equal to 60 ml/min/1.73 m(2).
+
+        Age (years)    Maximum serum creatinine (mg/dl)
+
+        less than or equal to5   0.8
+
+        &gt; 5 less than or equal to 10       1.0
+
+        &gt; 10 less than or equal to 15    1.2
+
+        &gt;  15     1.5
+
+          -  Marrow function: ANC must be &gt;  750/mm(3) (unless due to underlying disease in which
+             case there is no grade restriction), platelet count must be greater than or equal to
+             75,000/mm(3) (not achieved by transfusion). Lymphopenia, CD4 lymphopenia, leukopenia,
+             and anemia will not render patients ineligible.
+
+          -  Female patients (and when relevant their male partners) must be willing to practice
+             birth control (including abstinence) during and for two months after treatment, if of
+             childbearing potential.
+
+          -  Ability to give informed consent. For patients &lt; 18 years of age their legal guardian
+             must give informed consent. Pediatric patients will be included in age-appropriate
+             discussion in order to obtain verbal assent.
+
+          -  Durable power of attorney form completed (patients greater than or equal to18 years
+             of age only).
+
+        EXCLUSION CRITERIA:
+
+          -  Untreated CNS metastatic disease as defined by:
+
+          -  Solid Tumors: History of untreated metastatic CNS tumor involvement. Extradural
+             masses which have not invaded the brain parenchyma or parameningeal tumors without
+             evidence for leptomeningeal spread will not render the patient ineligible. Patients
+             with previous CNS tumor involvement are eligible IF the CNS tumor(s) has been treated
+             and has been stable or resolving for at least 4 weeks; and if the patient does not
+             currently require steroids.
+
+          -  Prior history allogeneic stem cell transplantation.
+
+          -  Breast feeding or pregnant females (due to risk to fetus or newborn).
+
+          -  HIV or HTLV-I/II (due to unacceptable risk associated with severe immune suppression
+             and risk associated with cell products).
+
+          -  Hepatitis B surface antigen (HBsAg) positive or hepatitis C antibody positive with
+             elevated liver transaminases. All patients with chronic active hepatitis (including
+             those on antiviral therapy) are ineligible.
+
+          -  Patients who require systemic corticosteroid or other systemic immunosuppressive
+             therapy. Immunosuppressive therapy must be stopped at least 28 days prior to
+             enrollment. Topical agents and/or inhaled corticosteroids are permitted.
+
+          -  High risk of inability to comply with therapy in the estimation of the PI.
+
+          -  Clinically significant systemic illness (e.g. serious active infections or
+             significant vital other organ dysfunction), that in the judgment of the PI would
+             likely compromise the patient's ability to tolerate protocol therapy or significantly
+             increase the risk of complications.
+
+        INCLUSION OF WOMEN AND MINORITIES:
+
+        Both men and women of all races and ethnic groups are eligible for this trial.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>29 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Melinda S Merchant, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Melinda S Merchant, M.D.</last_name>
+    <phone>(301) 443-7955</phone>
+    <email>merchanm@mail.nih.gov</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>For more information at the NIH Clinical Center contact National Cancer Institute Referral Office</last_name>
+      <phone>888-624-1937</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2013-C-0152.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Kontny HU, Hämmerle K, Klein R, Shayan P, Mackall CL, Niemeyer CM. Sensitivity of Ewing's sarcoma to TRAIL-induced apoptosis. Cell Death Differ. 2001 May;8(5):506-14.</citation>
+    <PMID>11423911</PMID>
+  </reference>
+  <reference>
+    <citation>Yu AL, Gilman AL, Ozkaynak MF, London WB, Kreissman SG, Chen HX, Smith M, Anderson B, Villablanca JG, Matthay KK, Shimada H, Grupp SA, Seeger R, Reynolds CP, Buxton A, Reisfeld RA, Gillies SD, Cohn SL, Maris JM, Sondel PM; Children's Oncology Group. Anti-GD2 antibody with GM-CSF, interleukin-2, and isotretinoin for neuroblastoma. N Engl J Med. 2010 Sep 30;363(14):1324-34.</citation>
+    <PMID>20879881</PMID>
+  </reference>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>September 10, 2013</lastchanged_date>
+  <firstreceived_date>June 11, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>NK Cells</keyword>
+  <keyword>Cytokine</keyword>
+  <keyword>Lymphodepleting Chemotherapy</keyword>
+  <keyword>Toxicity</keyword>
+  <keyword>Pharmacokinetics</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Wilms Tumor</mesh_term>
+    <mesh_term>Rhabdomyosarcoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

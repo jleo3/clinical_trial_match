@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="83">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01849146</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2013-00858</org_study_id>
+    <secondary_id>NCI-2013-00858</secondary_id>
+    <secondary_id>ABTC 1202</secondary_id>
+    <secondary_id>ABTC-1202</secondary_id>
+    <secondary_id>U01CA137443</secondary_id>
+    <nct_id>NCT01849146</nct_id>
+  </id_info>
+  <brief_title>WEE1 Inhibitor MK-1775, Radiation Therapy, and Temozolomide in Treating Patients With Newly Diagnosed or Recurrent Glioblastoma Multiforme</brief_title>
+  <official_title>Phase I Study of MK-1775 With Radiation and Temozolomide in Patients With Newly Diagnosed Glioblastoma and Evaluation of Intratumoral Drug Distribution in Patients With Recurrent Glioblastoma.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies the side effects and best dose of WEE1 inhibitor MK-1775 when
+      given together with radiation therapy and temozolomide in treating patients with newly
+      diagnosed or recurrent glioblastoma multiforme. WEE1 inhibitor MK-1775 may stop the growth
+      of tumor cells by blocking some of the enzymes needed for cell growth. Radiation therapy
+      uses high energy x rays to kill tumor cells. Drugs used in chemotherapy, such as
+      temozolomide, work in different ways to stop the growth of tumor cells, either by killing
+      the cells or by stopping them from dividing. Giving WEE1 inhibitor MK-1775 together with
+      radiation therapy and temozolomide may be an effective treatment for glioblastoma
+      multiforme.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine the maximum tolerated doses (MTD) of MK-1775 (WEE1 inhibitor MK-1775) in
+      combination with the current standard of care (radiotherapy/temozolomide for concomitant
+      therapy and temozolomide for adjuvant therapy) for treating patients with newly diagnosed
+      glioblastoma.
+
+      II. To define the MTD of MK-1775 in combination with 6 weeks of daily (Monday-Friday [M-F])
+      radiotherapy (RT) and concomitant temozolomide (TMZ) administered at 75 mg/m^2/day in
+      patients with newly diagnosed glioblastoma. (Arm 1) III. To define the MTD of MK-1775 in
+      combination with adjuvant TMZ administered at 150 mg/m^2/day-200 mg/m^2/day for 5 days every
+      28 days in patients with glioblastoma after concurrent RT/TMZ. (Arm 2)
+
+      SECONDARY OBJECTIVES:
+
+      I. To characterize the safety profile of MK-1775 in combination with RT and concomitant TMZ
+      (Arm 1) and MK-1775 with adjuvant TMZ (Arm 2) in patients with newly diagnosed glioblastoma.
+
+      II. To assess the pharmacokinetic (PK) profile of MK-1775 in combination with upfront
+      radiation/TMZ and adjuvant TMZ in patients with newly diagnosed glioblastoma.
+
+      TERTIARY OBJECTIVES:
+
+      I. To determine the intratumoral concentration of MK-1775 achieved in patients treated with
+      the putative MTD.
+
+      II. To characterize the time course of MK-1775 in extracellular fluid within brain tumors
+      following a single oral dose of drug by microdialysis.
+
+      III. To characterize O6-methylguanine deoxyribonucleic acid (DNA)-methyltransferase (MGMT)
+      methylation and tumor protein p53 (P53) pathway status, also P-glycoprotein (P-gp) and wee1
+      expression levels in patients with newly diagnosed glioblastoma treated with standard
+      therapy in combination with MK-1775.
+
+      OUTLINE: This is a dose-escalation study of WEE1 inhibitor MK-1775. Patients are assigned to
+      1 of 2 treatment arms.
+
+      ARM I:
+
+      INITIATION COURSE: Patients receive WEE1 inhibitor MK-1775 orally (PO) on days 1, 3, and 5
+      or 1-5 weekly and temozolomide PO once daily (QD) for 6 weeks. Patients also undergo
+      concurrent radiation therapy 5 days per week for 6 weeks.
+
+      MAINTENANCE COURSES: Beginning in week 10, patients receive temozolomide PO QD on days 1-5.
+      Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or
+      unacceptable toxicity.
+
+      ARM II: Patients receive WEE1 inhibitor MK-1775 PO QD on days 1, 3, and 5 or 1-5, and
+      temozolomide PO QD on days 1-5. Treatment repeats every 28 days for up to 6 courses in the
+      absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up every 2 months for 2 years and
+      then every 6 months thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2013</start_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>MTD of WEE1 inhibitor MK-1775 with 6 weeks of RT and temozolomide, graded according to the National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE) v4.0 (Arm I)</measure>
+    <time_frame>Up to 6 weeks</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Severity and frequency of toxicity will be tabulated by the tested dose or doses using descriptive statistics. The proportion of subjects who experience grade 3 or above toxicities will be estimated, along with 95% confidence intervals by each type of toxicity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>MTD of WEE1 inhibitor MK-1775 with adjuvant temozolomide, graded according to the NCI CTCAE v4.0 (Arm II)</measure>
+    <time_frame>Up to 28 days</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Severity and frequency of toxicity will be tabulated by the tested dose or doses using descriptive statistics. The proportion of subjects who experience grade 3 or above toxicities will be estimated, along with 95% confidence intervals by each type of toxicity.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Incidence of toxicities, graded according to the NCI CTCAE v4.0</measure>
+    <time_frame>Up to 30 days post-treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Severity and frequency of toxicity will be tabulated by the tested dose or doses using descriptive statistics. The proportion of subjects who experience grade 3 or above toxicities will be estimated, along with 95% confidence intervals by each type of toxicity.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>The time from the date of initial diagnosis to the date of death, assessed up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Calculated using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>The time from the date of initial diagnosis to the date progressive disease was defined and also patient was alive, assessed up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Calculated using the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>PK profile of MK-1775 in combination with radiation and temozolomide and adjuvant TMZ</measure>
+    <time_frame>Baseline, at 0.5, 1, 2, 4, 6, 8 and 24 hours of weeks 1 and 4 of course 1 (Arm I) and at baseline, 0.5, 1, 2. 4, 6, 8, and 24 hours of course 1 (Arm II)</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Individual subject plasma concentration-time curves will be analyzed by non-compartmental methods using routines supplied in the WinNonlin Professional Version 5.0 software package (Pharsight Corp., Cary, NC). The geometric mean ± standard deviation of the estimated values of the pharmacokinetic parameter for groups of subjects evaluated at MTD dose level will be calculated. Parametric statistical tests (i.e., single factor ANOVA, Student's t-test) of pharmacokinetic variables will be performed after logarithmic transformation of the data.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">84</enrollment>
+  <condition>Adult Giant Cell Glioblastoma</condition>
+  <condition>Adult Glioblastoma</condition>
+  <condition>Adult Gliosarcoma</condition>
+  <condition>Recurrent Adult Brain Tumor</condition>
+  <arm_group>
+    <arm_group_label>Arm I (WEE1 inhibitor MK-1775, temozolomide, radiation)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>INITIATION COURSE: Patients receive WEE1 inhibitor MK-1775 PO on days 1, 3, and 5 or 1-5 weekly and temozolomide PO QD for 6 weeks. Patients also undergo concurrent radiation therapy 5 days per week for 6 weeks.
+MAINTENANCE COURSES: Beginning in week 10, patients receive temozolomide PO QD on days 1-5. Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (WEE1 inhibitor MK-1775, temozolomide)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive WEE1 inhibitor MK-1775 PO QD on days 1, 3, and 5 or 1-5, and temozolomide PO QD on days 1-5. Treatment repeats every 28 days for up to 6 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>WEE1 inhibitor MK-1775</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (WEE1 inhibitor MK-1775, temozolomide, radiation)</arm_group_label>
+    <arm_group_label>Arm II (WEE1 inhibitor MK-1775, temozolomide)</arm_group_label>
+    <other_name>MK-1775</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+    <description>Undergo radiation therapy</description>
+    <arm_group_label>Arm I (WEE1 inhibitor MK-1775, temozolomide, radiation)</arm_group_label>
+    <other_name>irradiation</other_name>
+    <other_name>radiotherapy</other_name>
+    <other_name>therapy, radiation</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm I (WEE1 inhibitor MK-1775, temozolomide, radiation)</arm_group_label>
+    <arm_group_label>Arm II (WEE1 inhibitor MK-1775, temozolomide)</arm_group_label>
+    <other_name>SCH 52365</other_name>
+    <other_name>Temodal</other_name>
+    <other_name>Temodar</other_name>
+    <other_name>TMZ</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (WEE1 inhibitor MK-1775, temozolomide, radiation)</arm_group_label>
+    <arm_group_label>Arm II (WEE1 inhibitor MK-1775, temozolomide)</arm_group_label>
+    <other_name>pharmacological studies</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (WEE1 inhibitor MK-1775, temozolomide, radiation)</arm_group_label>
+    <arm_group_label>Arm II (WEE1 inhibitor MK-1775, temozolomide)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients must have a tumor tissue form indicating availability of archived tissue
+             from initial resection at diagnosis of glioblastoma completed and signed by a
+             pathologist
+
+          -  Patients must have a Karnofsky performance status &gt;= 60% (i.e. the patient must be
+             able to care for himself/herself with occasional help from others)
+
+          -  Absolute neutrophil count &gt;= 1,500/mcL
+
+          -  Platelets &gt;= 100,000/mcL
+
+          -  Hemoglobin &gt;= 9 g/dL
+
+          -  Total bilirubin within normal institutional limits
+
+          -  Aspartate aminotransferase (AST) (serum glutamic oxaloacetic transaminase
+             [SGOT])/alanine aminotransferase (ALT) (serum glutamate pyruvate transaminase [SGPT])
+             =&lt; 3 × institutional upper limit of normal
+
+          -  Creatinine within normal institutional limits OR creatinine clearance &gt;= 60
+             ml/min/1.73m^2 for patients with creatinine levels above institutional normal
+
+          -  Activated partial thromboplastin time (APTT) =&lt; 1.5 x institutional upper limit of
+             normal
+
+          -  Patients must be able to provide written informed consent
+
+          -  Patients must have magnetic resonance imaging (MRI) within 21 days of starting
+             treatment
+
+          -  Women of childbearing potential must have a negative serum pregnancy test prior to
+             study entry; women of childbearing potential and men must agree to use two birth
+             control methods (either two barrier methods or a barrier method plus a hormonal
+             method) or abstinence prior to study entry and for the duration of study
+             participation; should a woman become pregnant or suspect she is pregnant while
+             participating in this study, she should inform her treating physician immediately
+
+          -  Patients must have no concurrent malignancy except curatively treated basal or
+             squamous cell carcinoma of the skin or carcinoma in situ of the cervix, breast, or
+             bladder; patients with prior malignancies must be disease-free for &gt;= five years
+
+          -  Patients must be maintained on a stable corticosteroid regimen (no increase for 5
+             days) prior to the start of treatment
+
+          -  Patients must be able to swallow whole capsules
+
+          -  PHASE I PATIENTS:
+
+          -  Must have histologically proven glioblastoma
+
+          -  Must have recovered from the immediate post-operative period
+
+          -  Patients going on Arm 1 or combination dose cohort must not have received prior
+             radiation therapy, chemotherapy, immunotherapy or therapy with biologic agent
+             (including immunotoxins, immunoconjugates, antisense, peptide receptor antagonists,
+             interferons, interleukins, tumor infiltrating lymphocytes [TIL], lymphokine-activated
+             killer [LAK] or gene therapy), or hormonal therapy for their brain tumor;
+             glucocorticoid therapy is allowed
+
+          -  Patients going on Arm 2 must have received planned treatment with radiation therapy
+             and concomitant temozolomide at least 28 days but no more than 49 days prior to
+             starting treatment on this study; patients must have received at least 80% of planned
+             temozolomide and radiation therapy with no grade 3 or grade 4 toxicity attributed to
+             the temozolomide; Arm 2 patients may not have received any other prior chemotherapy,
+             immunotherapy or therapy with biologic agent (including immunotoxins,
+             immunoconjugates, antisense, peptide receptor antagonists, interferons, interleukins,
+             TIL, LAK or gene therapy), or hormonal therapy for their brain tumor; prior Gliadel
+             Wafers are allowed; glucocorticoid therapy is allowed
+
+          -  INTRATUMORAL DRUG DISTRIBUTION STUDY PATIENTS:
+
+          -  Patients must have prior histologically proven glioblastoma that is progressive or
+             recurrent following radiation therapy +/- chemotherapy
+
+          -  Patients must be undergoing repeat surgery that is clinically indicated as determined
+             by their care providers
+
+          -  Patients must have measurable contrast-enhancing progressive or recurrent
+             glioblastoma by MRI within 21 days of starting treatment; patient must be able to
+             tolerate MRIs
+
+          -  Patients may have an unlimited number of prior therapy regimens
+
+          -  Patients must have recovered from severe toxicity of prior therapy; the following
+             intervals from previous treatments are required to be eligible:
+
+               -  12 weeks from the completion of radiation
+
+               -  6 weeks from a nitrosourea chemotherapy
+
+               -  3 weeks from a non-nitrosourea chemotherapy
+
+               -  4 weeks from any investigational (not Food and Drug Administration
+                  [FDA]-approved) agents
+
+               -  2 weeks from administration of a non-cytotoxic, FDA-approved agent (e.g.,
+                  Tarceva, hydroxychloroquine, bevacizumab, etc.)
+
+        Exclusion Criteria:
+
+          -  Patients receiving any other investigational agents are ineligible
+
+          -  Patients with a history of allergic reactions attributed to compounds of similar
+             chemical or biologic composition to temozolomide or MK-1775 are ineligible; the
+             MK-1775 Investigator Brochure and the temozolomide package insert can be referenced
+             for more information
+
+          -  Patients on enzyme-inducing anti-epileptic drugs (EIAED) are not eligible for
+             treatment on this protocol; patients may be on non-enzyme inducing anti-epileptic
+             drugs or not be taking any anti-epileptic drugs; patients previously treated with
+             EIAED may be enrolled if they have been off the EIAED for 10 days or more prior to
+             the first dose of MK-1775
+
+          -  Patients may not be on drugs known to be moderate or potent inhibitors/inducers of
+             cytochrome P450 3A4 (CYP3A4), sensitive substrates of CYP3A4, or substrates of CYP3A4
+             with narrow therapeutic windows
+
+          -  Patients may not be on anti-coagulants (warfarin, etc.) other than low-molecular
+             weight heparin (LMWH)
+
+          -  Patients with uncontrolled intercurrent illness including, but not limited to,
+             ongoing or active infection, symptomatic congestive heart failure, unstable angina
+             pectoris, cardiac arrhythmia, or psychiatric illness/social situations that would
+             limit compliance with study requirements, are ineligible
+
+          -  Pregnant women are excluded from this study; breastfeeding should be discontinued if
+             the mother is treated with MK-1775
+
+          -  Human immunodeficiency virus (HIV)-positive patients on combination antiretroviral
+             therapy are ineligible
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brian Alexander</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Adult Brain Tumor Consortium</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231-1000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian Alexander</last_name>
+      <phone>617-732-6313</phone>
+      <email>brian_alexander@dfci.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Brian Alexander</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian Alexander</last_name>
+      <phone>617-724-5200</phone>
+    </contact>
+    <investigator>
+      <last_name>Brian Alexander</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2013</verification_date>
+  <lastchanged_date>September 16, 2013</lastchanged_date>
+  <firstreceived_date>May 6, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

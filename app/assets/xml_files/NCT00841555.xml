@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="412">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00841555</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OSU-08119</org_study_id>
+    <secondary_id>NCI-2011-03149</secondary_id>
+    <nct_id>NCT00841555</nct_id>
+  </id_info>
+  <brief_title>Temozolomide and Radiation Therapy in Treating Patients With Newly Diagnosed Glioblastoma Multiforme or Anaplastic Astrocytoma</brief_title>
+  <official_title>A Phase I Trial of Hypofraction Radiotherapy + Temozolomide in the Treatment of Patients With Glioblastoma Multiforme and Anaplastic Astrocytoma of the Brain</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University Comprehensive Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Ohio State University Comprehensive Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as temozolomide, work in different ways to stop
+      the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+      Radiation therapy uses high-energy x-rays to kill tumor cells. Specialized radiation therapy
+      that delivers a high dose of radiation directly to the tumor may kill more tumor cells and
+      cause less damage to normal tissue. Giving chemotherapy together with radiation therapy may
+      kill more tumor cells.
+
+      PURPOSE: This phase I trial is studying the side effects and best dose of temozolomide when
+      given together with radiation therapy in treating patients with newly diagnosed glioblastoma
+      multiforme or anaplastic astrocytoma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To determine the maximum tolerated dose of temozolomide when given in combination with
+           hypofractionated intensity-modulated conformal stereotactic radiotherapy in patients
+           with newly diagnosed de novo glioblastoma multiforme or anaplastic astrocytoma.
+
+      Secondary
+
+        -  To determine the time to neuroradiological evidence of tumor recurrence or progression
+           in patients treated with this regimen.
+
+        -  To determine the survival time of patients treated with this regimen.
+
+        -  To determine the time spent in a Karnofsky performance status of 60-100%.
+
+      OUTLINE: This is a dose-escalation study of temozolomide.
+
+      Beginning 1-3 weeks following surgery or biopsy, patients receive oral temozolomide once
+      daily for 5 weeks. Beginning 1 week after starting temozolomide, patients also undergo
+      hypofractionated intensity-modulated conformal stereotactic radiotherapy once daily 5 days a
+      week for 3 weeks.
+
+      After completion of study treatment, patients are followed at 1 month, 2 months, and 3
+      months, and then every 3 months thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>February 2009</start_date>
+  <primary_completion_date type="Anticipated">June 2012</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum tolerated dose of temozolomide</measure>
+    <time_frame>2009-present</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to neuroradiological evidence of tumor recurrence or progression</measure>
+    <time_frame>2009-present</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival time</measure>
+    <time_frame>2009-present</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time spent in a Karnofsky performance status of  60-100%</measure>
+    <time_frame>2009-present</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Glioblastoma Multiforme/Anaplastic Astrocytoma</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+    <description>Chemotherapy will be given for 5 weeks; it will start 1 week before Radiotherapy, will continue for the 3 weeks of Radiotherapy, and will continue for 1 week post-Radiotherapy.
+Dose Level 1: 50 mg/m2 x first 4 weeks/75 mg/m2 x last 1 weeks of treatment Dose Level 2: 65 mg/m2 x first 4 weeks/75 mg/m2 x last 1 weeks of treatment Dose Level 3: 75 mg/m2 over the entire 5 weeks of treatment</description>
+    <other_name>Temodar</other_name>
+    <other_name>Temodal</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+    <description>Radiation therapy will be started up to 8 weeks after surgery/biopsy. Patients will receive focal radiation therapy to an area including the Gross Target Volume (GTV) defined as the contrast enhancing area and/or the surgical cavity plus the surrounding edema + 2 cm margin. GTV will be determined with a contrast enhanced pre RT MRI/CT scan of the brain.</description>
+    <other_name>radiotherapy</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>stereotactic radiotherapy</intervention_name>
+    <description>Patients will receive intensity modulated conformal stereotactic radiotherapy at a dose of 3.5 Gy/fraction over 3 consecutive weeks in 5 fractions/ week, using the Peacock system with the Talon immobilization/localization device. Patients will be seen by one of the radiation oncology co-investigators prior to talon anchor placement.</description>
+    <other_name>external beam radiation</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed de novo glioblastoma multiforme or anaplastic astrocytoma
+             after biopsy or tumor removal
+
+               -  Newly diagnosed disease
+
+          -  No tumors located in the brainstem or optic chiasm
+
+        PATIENT CHARACTERISTICS:
+
+          -  Karnofsky performance status 60-100%
+
+          -  Hemoglobin ≥ 10 g/dL
+
+          -  ANC ≥ 1,500/mm³
+
+          -  Platelet count ≥ 100,000/mm³
+
+          -  Total bilirubin ≤ 1.5 mg/dL
+
+          -  Creatinine ≤ 1.3 mg/dL
+
+          -  AST/ALT ≤ 60 U/L
+
+          -  BUN ≤ 24 mg/dL
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  No prior chemotherapy and/or radiotherapy for this cancer
+
+          -  No prior radiotherapy to the brain
+
+          -  At least 6 weeks since prior chemotherapy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mario Ammirati, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Ohio State University Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Ohio State University Comprehensive Cancer Center</last_name>
+    <phone>1-800-293-5066</phone>
+    <email>Jamesline@osumc.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Mario Ammirati, MD</last_name>
+    <phone>614-293-1967</phone>
+    <email>mario.ammirati@osumc.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Arthur G. James Cancer Hospital and Richard J. Solove Research Institute at Ohio State University Comprehensive Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mario Ammirati, MD</last_name>
+      <phone>866-627-7616</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.osu.edu</url>
+    <description>Jamesline</description>
+  </link>
+  <verification_date>November 2011</verification_date>
+  <lastchanged_date>November 15, 2011</lastchanged_date>
+  <firstreceived_date>February 10, 2009</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <keyword>adult anaplastic astrocytoma</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>GBM/AA</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

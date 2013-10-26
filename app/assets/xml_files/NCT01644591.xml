@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="384">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01644591</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2011-0875</org_study_id>
+    <nct_id>NCT01644591</nct_id>
+  </id_info>
+  <brief_title>Melanoma Gamma Knife</brief_title>
+  <official_title>A Prospective Randomized Phase III Trial to Compare Local Control and Neurocognitive Preservation After Initial Treatment With Stereotactic Radiosurgery (SRS) Versus Whole Brain Radiation Therapy (WBRT) for Patients With &gt;3 Brain Metastases From Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this clinical research study is to compare stereotactic radiosurgery (SRS) to
+      whole brain radiation therapy (WBRT) in patients with more than 3 melanoma brain tumors.
+
+      SRS is the delivery of focused, high-dose radiation given in a single session to the tumors
+      with a minimal dose given to uninvolved areas of the brain.
+
+      WBRT is the delivery of lower dose radiation to the entire brain given daily over 2 weeks.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Study Groups:
+
+      If you are found to be eligible and you agree to take part in this study, you will be
+      randomly assigned (as in the flip of a coin) to 1 of 2 study groups.  You will have an equal
+      chance of being assigned to either group:
+
+        -  If you are in Group 1, you will receive WBRT.
+
+        -  If you are in Group 2, you will receive SRS.
+
+      Study Procedures:
+
+      If you are in Group 1, you will receive WBRT each day, Monday-Friday starting on Day 1.  If
+      you are an inpatient, you may receive radiation treatment on weekends as well.  You will
+      continue to receive radiation treatment up to Day 14.   As such, there will be up to 14 days
+      of treatment if you are in Group 1.
+
+      If you are in Group 2, you will receive SRS on Day 1.  There will be 1 day of treatment if
+      you are in Group 2.
+
+      No matter which group you are in, you will sign a separate consent form for WBRT or SRS that
+      will explain the procedures and risks in detail.
+
+      Study Visits:
+
+      At 1, 6, and 9 months (+/- 14 days) after Day 1, the following tests and procedures will be
+      performed:
+
+        -  You will have a physical exam, including measurement of your vital signs.
+
+        -  You will have an MRI to check the status of the disease.
+
+        -  You will complete the same 7 cognitive function tests and 3 questionnaires you
+           completed at screening.
+
+      At 4 and 12 months (+/- 14 days) after Day 1, the following tests and procedures will be
+      performed:
+
+        -  You will have a physical exam, including measurement of your vital signs.
+
+        -  You will have an MRI to check the status of the disease.
+
+        -  You will have a whole body PET scan to check the status of the disease and to check the
+           effects of the disease on your thinking and brain functions.
+
+        -  You will complete the same 7 cognitive function tests and 3 questionnaires you
+           completed at screening.
+
+      If the disease returns after treatment, you may receive either WBRT or additional SRS.  Your
+      treatment options will be discussed with you.
+
+      Length of Study Participation:
+
+      Your active participation on the study will be over when you have completed the Month 12
+      visit.
+
+      If you are in Group 2 and an MRI scan shows that you have more than 15 lesions, you will be
+      withdrawn from the study.  Your doctor(s) will discuss future treatment options with you.
+
+      Follow-Up Visits:
+
+      If the study doctor thinks it is needed, you will return to the clinic for follow-up visits.
+       The following tests and procedures will be performed:
+
+        -  You will have a physical exam, including measurement of your vital signs.
+
+        -  You will be asked about any drugs you may be taking.
+
+        -  You will have an MRI  to check the status of the disease.
+
+      This is an investigational study.
+
+      Up to 80 patients will take part in this study.  All will be enrolled at MD Anderson.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>August 2012</start_date>
+  <primary_completion_date type="Anticipated">August 2016</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Time to Local Failure</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Time to local failure estimated using product-limit estimator of Kaplan and Meier for each treatment arm.  Local control and distal control in brain measured by contrast-enhanced brain MRI scan using modified RECIST criteria. For local control, progressive disease (PD) is considered local failure, or stable disease with deterioration of neurological examination with a grade III or worse toxicity on the CTCAE v4.0 nervous system disorders toxicity grading scale.  All others complete response (CR), partial response (PR), asymptomatic stable disease (SD) are deemed success.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Neurocognitive Decline</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Baseline HVLT-R score compared to HVLT-R score in patients surviving 4 months.  Preservation of function defined as improvement of HVLT-R score or decline by 4 points or less.  Failure defined as decline by 5 or more points.  Time to neurocognitive decline estimated for each treatment arm using product limit estimator of Kaplan and Meier.  Logrank test stratified by the stratification factors used at randomization to compare the 2 treatment arms with respect to the time to neurocognitive decline.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>4 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Overall survival measured from first day of treatment until death. Cox proportional hazards regression used to model overall survival as a function of age, KPS, extra-cranial disease, BRAF mutation status, and treatment arm.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Melanoma</condition>
+  <arm_group>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Dose based on largest diameter of the lesion as measured on the volumetric MRI, modified from RTOG 90-05 (7).  Lesions targeted with 20-24 Gy for  2 cm, 16-18 Gy for &gt;2 to 2.5 cm, and 12-16 Gy for &gt;2.5-3.5 cm.  SRS performed on day 1.  7 cognitive function tests given at baseline and at 1, 4, 6, 9, and 12 months after Day 1 of radiation treatment.  3 questionnaires regarding quality of life and symptoms given at baseline and at 1, 4, 6, 9, and 12 months after Day 1 of radiation treatment. It should take about 40 minutes to complete the questionnaires.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Total radiation dose of 30 Gy delivered in 10 fractions.  WBRT delivered in 10 fractions once daily Monday-thru-Friday (and weekends for inpatients), and thus performed on days 1 through 10-to-14.  7 cognitive function tests given at baseline and at 1, 4, 6, 9, and 12 months after Day 1 of radiation treatment.  3 questionnaires regarding quality of life and symptoms given at baseline and at 1, 4, 6, 9, and 12 months after Day 1 of radiation treatment. It should take about 40 minutes to complete the questionnaires.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>SRS</intervention_name>
+    <description>Lesions targeted with 20-24 Gy for  2 cm, 16-18 Gy for &gt;2 to 2.5 cm, and 12-16 Gy for &gt;2.5-3.5 cm on day 1.</description>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <other_name>Stereotactic Radiosurgery</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>WBRT</intervention_name>
+    <description>30 Gy delivered in 10 fractions.  WBRT delivered in 10 fractions once daily Monday-thru-Friday (and weekends for inpatients), on days 1 through 10-to-14.</description>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+    <other_name>Whole Brain Radiation Therapy</other_name>
+    <other_name>XRT</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Cognitive Function Tests</intervention_name>
+    <description>7 cognitive function tests given at baseline and at 1, 4, 6, 9, and 12 months after Day 1 of radiation treatment.</description>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Questionnaires</intervention_name>
+    <description>3 questionnaires regarding quality of life and symptoms given at baseline and at 1, 4, 6, 9, and 12 months after Day 1 of radiation treatment.  It should take about 40 minutes to complete the questionnaires.</description>
+    <arm_group_label>Stereotactic Radiosurgery (SRS)</arm_group_label>
+    <arm_group_label>Whole Brain Radiation Therapy (WBRT)</arm_group_label>
+    <other_name>Surveys</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. All patients with histologic proof of malignant melanoma. Histologic confirmation may
+             be from the primary tumor site, or from another metastatic site (systemic lymph node,
+             etc). Cytology-alone is not an acceptable method of diagnosis.
+
+          2. Greater than 3 and less than or equal to 10 presumed melanoma brain metastases on
+             contrast-enhanced brain MRI scan obtained no greater than 4 weeks prior to study
+             registration
+
+          3. Patients must be age &gt;/= 18 years.
+
+          4. Patients must sign informed consent indicating that they are aware of the
+             investigational nature of this study in keeping with the policies of the hospital.
+
+          5. Patients must have KPS &gt;/=70
+
+          6. Patients must be eligible to have all lesions treated with SRS, including a maximum
+             diameter &lt;3.5 cm for the largest lesion, as determined by the study radiation
+             oncologist.
+
+          7. Patients must have adequate renal/hematologic function, as defined by creatinine
+             clearance &gt; 30ml/min and platelets&gt;50,000.
+
+          8. Patients should have normal coagulation [International Normalized Ratio (INR) &lt; 1.3]
+             and be able to withhold anticoagulation/antiplatelet medications a minimum of 24
+             hours prior to radiosurgery treatment (or until INR normalizes), on the day of
+             treatment and 24 hours after radiosurgery treatment has concluded. Patients
+             randomized to the WBRT arm may continue these therapies during treatment.
+
+          9. Patients can be undergoing concurrent systemic therapy, such as temozolomide, at the
+             discretion of their treating oncologist.
+
+        Exclusion Criteria:
+
+          1. Patients are excluded if they have had prior surgical resection of a melanoma brain
+             metastasis.
+
+          2. Patients are excluded if they have a history of metastatic cancer in addition to
+             melanoma or a history of non-metastatic cancer in the prior 2 years. Patients with
+             localized squamous cell carcinoma and/or basal cell carcinoma are not excluded.
+
+          3. Patients are excluded if they have had prior radiation (prophylactic cranial
+             irradiation, WBRT, SRS, or other) to the brain.
+
+          4. Patients are excluded if there is radiographic or cerebrospinal fluid (CSF) evidence
+             of leptomeningeal disease.
+
+          5. Female patients of childbearing age are excluded if they are pregnant as determined
+             with a serum beta HCG no greater than 14 days prior to study registration, or
+             breast-feeding. (The exclusion is made because gadolinium may be teratogenic in
+             pregnancy).
+
+          6. Patients are excluded if there is any history of gadolinium allergy.
+
+          7. Patients are excluded if they are unable to obtain a Magnetic resonance imaging (MRI)
+             scan for any other reason.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Erik P. Sulman, MD,PHD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>UT MD Anderson Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Erik P. Sulman, MD,PHD</last_name>
+    <phone>713-563-2300</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UT MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>UT MD Anderson Cancer Center Website</description>
+  </link>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 12, 2013</lastchanged_date>
+  <firstreceived_date>July 17, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Melanoma</keyword>
+  <keyword>Malignant melanoma</keyword>
+  <keyword>Brain Metastases</keyword>
+  <keyword>Stereotactic Radiosurgery</keyword>
+  <keyword>SRS</keyword>
+  <keyword>Whole Brain Radiation Therapy</keyword>
+  <keyword>WBRT</keyword>
+  <keyword>XRT</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

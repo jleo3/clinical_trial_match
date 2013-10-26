@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="41">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01651078</url>
+  </required_header>
+  <id_info>
+    <org_study_id>LAASR01</org_study_id>
+    <nct_id>NCT01651078</nct_id>
+  </id_info>
+  <brief_title>Laser Ablation After Stereotactic Radiosurgery for Patients With Metastatic Brain Tumors.</brief_title>
+  <acronym>LAASR</acronym>
+  <official_title>Laser Ablation After Stereotactic Radiosurgery. A Post-Marketing Surveillance (Phase IV) Multicenter Observational Study.</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Monteris Medical</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Monteris Medical</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The need for new technologies and devices in the field of neurosurgery is well-established.
+      In addition to the advanced engineering and medical aspects of a newly available medical
+      device, the adoption and incorporation of such a device into healthcare organizations
+      greatly influences it's impact on patients.  As the FDA cleared NeuroBlate™ System (formerly
+      called AutoLITT®; a minimally invasive neurosurgical device) is a new to the marketplace,
+      there is limited experience as to how such a system is best used by healthcare
+      organizations.  This (a) post-marketing, multi-site, (b) open-label study involving (c) a
+      single cohort of brain tumor patients that undergo routine NeuroBlate procedures is aimed at
+      collecting, in a reasonably controlled fashion, such descriptive information, and comparing
+      the collected information on patient Quality of Life (QoL) and healthcare utilization to
+      published and historical information.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2012</start_date>
+  <completion_date type="Anticipated">March 2014</completion_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <primary_outcome>
+    <measure>Quality of Life</measure>
+    <time_frame>Pre-surgery, and up to 4 points along 6 mo follow-up</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>FACT-Br Standardized Patient Reporting Instrument will be used to assess changes (relative to baseline) in Quality of Life during 6 month follow-up (post surgery)</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Radiographic Progression</measure>
+    <time_frame>1, 2, 4, 12, 26 weeks post-surgery</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Standard clinical MRI scans will be assessed during the follow-up period. Assessment will be for evidence of disease progression and other indicators of treatment effect.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Adverse Events</measure>
+    <time_frame>throughout study (pre-op through 6 mo follow-up)</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>CTAE 4 Adverse events will be recorded and analyzed.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Utilization of Healthcare Resources</measure>
+    <time_frame>Throughout study, collected at end of patient involvement.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Various aspects of the clinical and non-clinical services required/utilized by the patient cohort will be collected and analyzed.</description>
+  </other_outcome>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">40</enrollment>
+  <condition>Metastatic Brain Tumors</condition>
+  <condition>Progression</condition>
+  <condition>Radiation Necrosis</condition>
+  <condition>Quality of Life</condition>
+  <arm_group>
+    <arm_group_label>Main cohort</arm_group_label>
+    <description>Patients (from normal clinical population) whom are scheduled for NeuroBlate/AutoLITT surgery to treat metastatic brain tumors previously treated with Stereotactic Radiosurgery (SRS), but have developed progression or radiation necrosis of SRS treated tumors.</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patients will have been already, as part of normal clinical practice, schedulled for
+        NeuroBlate/AutoLITT based neurosurgery to treat metastatic brain tumors that have
+        previously been treated with Stereotactic Radiosurgery (SRS), but have developed either
+        progression or radiation necrosis (as assesed by MRI) of the SRS treated tumors.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Up to 3 target supratentorial metastatic lesions (up to 5 cm in maximum dimension
+             perpendicular to planned primary trajectory axis) previously treated with SRS, with
+             radiological evidence of progression, pseudoprogression or radionecrosis. Subject may
+             have up to 5 non target lesions present. Non target lesions must be small (less than
+             3 mm) or not expected (in Investigator's judgment) to contribute to symptomology
+             during the course of the study or confound interpretation of radiological and
+             clinical measures.
+
+          2. Target tissue/tumors treatable with one or two NeuroBlate trajectories per tumor.
+
+          3. Patient and condition amenable to NeuroBlate, but surgery is not preferred (due to
+             lack of mass-effect, tumor located in an eloquent region, or circumstances where, in
+             the PI-neurosurgeon's judgment, resection could result in long-lasting neurological
+             deficits).
+
+          4. Patients with stable systemic primary malignancy.
+
+          5. KPS ≥ 70.
+
+          6. Age &gt;18 years.
+
+          7. Tumor clearly defined on gadolinium enhanced T1 or MP-RAGE, or comparable MRI
+             sequence with midline shift &lt; 1 cm.
+
+          8. Minimum interval since last drug therapy:
+
+               1. 2 weeks since last non-cytotoxic therapy,
+
+               2. 3 weeks since last Avastin treatment,
+
+               3. 3 weeks must have elapsed since the completion of a non-nitrosourea containing
+                  chemotherapy, and
+
+               4. 6 weeks since the completion of a nitrosourea containing chemotherapy regimen.
+
+          9. Patients must be able to provide written informed consent.
+
+        Exclusion Criteria:
+
+          1. Females who are pregnant or breast feeding.
+
+          2. Leptomeningeal metastases.
+
+          3. Uncontrolled infectious process.
+
+          4. Symptoms due to mass effect of the tumor (with steroid treatment), including marked
+             edema, significant midline shift (e.g., &gt; 5 mm) or high intracranial pressure, where
+             surgical debulking in the first 30 days post NeuroBlate treatment would be required
+             for therapy.
+
+          5. Uncontrolled hypertension (systolic &gt;180 mm Hg), angina pectoris, or cardiac
+             dysrhythmia, or recent (within 6 weeks) history of intracranial hemorrhage.
+
+          6. Serious infection, immunosuppression or concurrent medical condition (chronic or
+             acute in nature) that may prevent safe participation or ability to meet follow-up
+             requirements.
+
+          7. Abnormal absolute neutrophil count (ANC&lt;1500/mm3), or PT and aPTT (&gt;1.5x
+             institutional upper limit), platelets (&lt;100,000/mm3) or hemoglobin (&lt;10 gm/dL), or
+             the administration of antiplatelet agents within 7 days prior to treatment.
+
+          8. Inadequate bone marrow, liver and renal function (e.g., total bilirubin &gt; 1.5 x ULN;
+             AST, ALT &gt; 2.5 x ULN; alkaline phosphatase &gt; 2.5 x ULN; serum creatinine &gt; 1.5 x
+             ULN).
+
+          9. Patients whose physical dimensions cannot be accommodated in the MRI scanner or
+             patients with contraindications to MRI imaging such as pacemakers, non-compatible
+             aneurysm clips, shrapnel and other internal ferromagnetic objects.
+
+         10. Other concurrent medical or other condition (chronic or acute in nature) that in the
+             opinion of the investigator may prevent safe participation or otherwise render this
+             patient ineligible for the study.
+
+         11. Patients with treatable tumors (those of the size described in the first Inclusion
+             Criterion) involving the posterior fossa (brainstem and cerebellum) will be excluded
+             as will patients where the anticipated treatment margin will be within 5 mm of
+             critical intracranial structures (e.g., primary branches of cerebral vessels, dural
+             sinuses, hypophysis or cranial nerves).
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>19 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gene H. Barnett, MD, MBA, FACS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>The Cleveland Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gene H. Barnett, MD</last_name>
+      <phone>216.445.1379</phone>
+      <email>barnetg@ccf.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gene H. Barnett, MD, MBA, FACS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2012</verification_date>
+  <lastchanged_date>July 26, 2012</lastchanged_date>
+  <firstreceived_date>July 24, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Metastatic Brain Tumors</keyword>
+  <keyword>Progression</keyword>
+  <keyword>Radiation Necrosis</keyword>
+  <keyword>Quality of Life</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Necrosis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

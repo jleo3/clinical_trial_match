@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="260">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00075387</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OHSU-922</org_study_id>
+    <secondary_id>ONC-02059-L</secondary_id>
+    <secondary_id>922</secondary_id>
+    <secondary_id>7328</secondary_id>
+    <nct_id>NCT00075387</nct_id>
+  </id_info>
+  <brief_title>Treating Patients With High-Grade Glioma With IA Carboplatin-based Chemotherapy, With or Without Sodium Thiosulfate</brief_title>
+  <official_title>Phase II Clinical Trial Of Patients With High-Grade Glioma Treated With Intra-Arterial Carboplatin-Based Chemotherapy, Randomized To Treatment With Or Without Delayed Intravenous Sodium Thiosulfate As A Potential Chemoprotectant Against Severe Thrombocytopenia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>OHSU Knight Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>OHSU Knight Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as carboplatin, cyclophosphamide, etoposide, and
+      etoposide phosphate, work in different ways to stop tumor cells from dividing so they stop
+      growing or die. Combining more than one drug (combination chemotherapy) and giving them in
+      different ways may kill more tumor cells. Chemoprotective drugs, such as sodium thiosulfate,
+      may protect blood platelets from the side effects of chemotherapy.
+
+      PURPOSE: This randomized phase II trial is studying combination chemotherapy and sodium
+      thiosulfate to see how well they work compared to combination chemotherapy alone in treating
+      patients with high-grade glioma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  Determine the effect of delayed administration of high-dose sodium thiosulfate on
+           platelet counts in patients with high-grade glioma undergoing treatment with
+           carboplatin, cyclophosphamide, and etoposide or etoposide phosphate.
+
+      Secondary
+
+        -  Determine the effect of delayed administration of high-dose sodium thiosulfate on
+           granulocyte and erythrocyte counts in patients treated with this chemotherapy regimen.
+
+        -  Determine the tumor response in patients treated with this chemotherapy regimen with or
+           without delayed high-dose sodium thiosulfate.
+
+        -  Determine hearing changes at higher frequencies in the standard testing range (i.e.,
+           4,000 and 8,000 Hz) and at higher frequencies above standard testing range (i.e., 9,000
+           and 16,000 Hz) in patients treated with these regimens.
+
+        -  Determine the quality of life of patients treated with these regimens.
+
+      OUTLINE: This is a randomized, multicenter study. Patients are stratified according to
+      histology type (glioblastoma multiforme vs other high-grade glioma). Patients are randomized
+      to 1 of 2 treatment arms (Arm 1: no STS or Arm 2: STS).
+
+        -  Arm I: Patients receive cyclophosphamide IV over 10 minutes, etoposide phosphate IV
+           over 10 minutes (or etoposide IV), and carboplatin intra-arterially over 10 minutes on
+           day 1. Beginning on day 3, patients receive filgrastim (G-CSF) subcutaneously once
+           daily for 7-10 days until blood counts recover. Alternatively, one dose of Neulasta
+           (Pegfilgrastim) instead of G-CSF 24-72 hrs after chemotherapy.
+
+        -  Arm II: Patients receive cyclophosphamide, etoposide phosphate or etoposide and
+           carboplatin as in arm 1. At 4 and 8 hours after carboplatin administration, patients
+           receive high-dose sodium thiosulfate IV over 15 minutes.  Then, G-CSF as in arm 1.
+           Alternatively, one dose of Neulasta (Pegfilgrastim) instead of G-CSF 24-72 hrs after
+           chemotherapy.
+
+      In both arms, treatment repeats every 4 weeks for 12 courses in the absence of disease
+      progression or unacceptable toxicity.
+
+      Quality of life is assessed at baseline, every 6 months during study treatment, and then
+      within 30 days after the final study treatment.
+
+      Patients are followed every 3 months for 1 year, every 6 months for 2 years, and then
+      annually thereafter.
+
+      PROJECTED ACCRUAL: A total of 60 patients (30 per treatment arm) will be accrued for this
+      study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2003</start_date>
+  <completion_date type="Anticipated">December 2014</completion_date>
+  <primary_completion_date type="Anticipated">April 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Protection against severe thrombocytopenia as measured by the number of patients  requiring platelet transfusions based on labs obtained weekly during treatment</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Tumor response with or without sodium thiosulfate (STS) as measured by radiographic response from the first day of treatment until tumor progression</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Effect of STS on granulocytes and erythrocytes as measured by complete blood count  lab values obtained weekly during treatment</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Hearing changes assessed by audiology hearing test every 2 months during treatment</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life assessed by EORTC QOL before treatment, at 6 months, and at completion of treatment</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">60</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <condition>Thrombocytopenia</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive cyclophosphamide IV over 10 minutes, etoposide phosphate IV over 10 minutes (or etoposide IV), and carboplatin intra-arterially over 10 minutes on day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients receive cyclophosphamide, etoposide phosphate or etoposide, and carboplatin as in arm I.    At 4 and 8 hours  after carboplatin administration, patients  receive high-dose sodium thiosulfate IV over 15 minutes.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Carboplatin</intervention_name>
+    <description>Dose: 400 mg/m2 infused IA. Every 4 weeks for up to 1 year.</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>Dose: 660 mg/m2 infused IV. Every 4 weeks for up to 1 year.</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide phosphate</intervention_name>
+    <description>Dose: 400mg/m2 infused IV. Etoposide may be used instead. Every 4 weeks for up to 1 year.</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>Dose: 400mg/m2 infused IV every 4 weeks for up to 1 year. Etoposide phosphate may be given instead.</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sodium thiosulfate</intervention_name>
+    <description>Dose: 4 hours after carboplatin = 20gms/m2
+Dose: 8 hours after carboplatin = 16gms/m2</description>
+    <arm_group_label>Arm II</arm_group_label>
+    <other_name>STS</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:
+
+          -  Signed written informed consent form in accordance with institutional guidelines
+
+          -  Histologically confirmed high-grade glioma by needle biopsy, open biopsy, or surgical
+             resection
+
+          -  Age 18 to 75 years
+
+          -  Performance status ECOG 0-2 OR Karnofsky 50-100%
+
+          -  WBC at least 2,500/mm^3
+
+          -  Absolute granulocyte count at least 1,200/mm^3
+
+          -  Platelet count at least 100,000/mm^3
+
+          -  Bilirubin less than 2.0 mg/dL
+
+          -  SGOT/SGPT less than 2.5 times upper limit of normal
+
+          -  Creatinine less than 1.8 mg/dL
+
+          -  Fertile patients must use effective contraception for at least 2 months before and
+             during study participation
+
+        EXCLUSION CRITERIA:
+
+          -  Rapidly progressing CNS disease with associated neurological deterioration
+
+          -  Uncontrolled clinically significant confounding medical condition within the past 30
+             days such as congestive heart failure
+
+          -  Pregnant or lactating, or positive serum HCG.
+
+          -  Contraindications to the study medications
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Edward A. Neuwelt, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>OHSU Knight Cancer Institute</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Edward A Neuwelt, MD</last_name>
+    <phone>503-494-5626</phone>
+    <email>neuwelte@ohsu.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Cynthia A Lacy, BSN</last_name>
+    <phone>503-494-5626</phone>
+    <email>lacyc@ohsu.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew Hunt, MD</last_name>
+      <phone>612-626-0975</phone>
+      <email>huntx188@umn.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Natalie Brandt, BSN</last_name>
+      <phone>612-624-8117</phone>
+      <email>nbrandt10@umphysicians.umn.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Matthew Hunt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Knight Cancer Institute at Oregon Health and Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239-3098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Knight Cancer Institute at Oregon Hea</last_name>
+      <phone>503-494-1080</phone>
+      <email>trials@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Edward A Neuwelt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/OHSU-7328</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 30, 2013</lastchanged_date>
+  <firstreceived_date>January 9, 2004</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>thrombocytopenia</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>adult anaplastic astrocytoma</keyword>
+  <keyword>adult mixed glioma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Thrombocytopenia</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Etoposide phosphate</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Sodium thiosulfate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

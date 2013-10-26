@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="243">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01620138</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CSOM230BBR01T</org_study_id>
+    <nct_id>NCT01620138</nct_id>
+  </id_info>
+  <brief_title>Expression Profile of Somatostatin Receptors and Dopamine Receptor 2 in Non-functioning Pituitary Adenomas and Resistant Prolactinomas: Correlation With in Vivo Response to Pasireotide and Cabergoline</brief_title>
+  <official_title>Quantitative Analysis of All Somatostatin Receptors and Dopamine Receptor Subtype 2 mRNA and Protein Expression Study in Non-functioning Pituitary Adenomas and Resistant Prolactinomas: Correlation With in Vitro and in Vivo Responsiveness to Somatostatin Analogs and Dopamine Agonist</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Federal University of Rio de Janeiro</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Federal University of Rio de Janeiro</source>
+  <oversight_info>
+    <authority>Brazil: National Health Surveillance Agency</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      There are no available medical treatment options for patients with non-functioning pituitary
+      adenomas (NFPA) or with resistant prolactinomas to dopamine agonists (DA) who are not cured
+      by surgery. The study of the receptors by quantitative mRNA expression levels and
+      immunohistochemistry analysis might end with a better understanding of these tumors. Besides
+      that, it will be assessed the in vitro and in vivo responses to pasireotide (for NFPA and
+      prolactinomas) and cabergoline (for NFPA). These responses will be compared with the
+      receptor expressions which may be a tool as a predicting element of the response to these
+      compounds.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The goals of this study are: to verify whether cabergoline and pasireotide are effective in
+      NFPA to control tumor re-growth as adjuvant therapy after neurosurgery and whether
+      pasireotide is capable of normalizing the prolactin levels in patients with prolactinomas
+      resistant to cabergoline; to assess the mRNA levels of DR2 and SSTR1-5 and their protein
+      expression; to evaluate the in vitro hormonal response to cabergoline, octreotide and
+      pasireotide; and to determine whether the mRNA DR2/SSTR1-5 and/or protein expression and/or
+      in vitro hormonal response to cabergoline, octreotide and pasireotide correlates with the in
+      vivo response to the former and to the last one. With this data the investigators intend to
+      establish if the mRNA analysis and/or protein expression in NFPA and resistant prolactinomas
+      might be predictive or foretelling factors concerning drug treatment in patients with this
+      kind of pituitary tumors and also evaluate if there is any response in vitro or in vivo to
+      the treatment with pasireotide in NFPA and resistant prolactinomas and with cabergoline in
+      NFPA.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2010</start_date>
+  <completion_date type="Anticipated">June 2012</completion_date>
+  <primary_completion_date type="Anticipated">June 2012</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Tumor volume reduction</measure>
+    <time_frame>Six months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Magnetic resonance imaging (MRI) of the sella will be performed before and after 6 months of treatment with cabergoline or pasireotide. Disease progression will be defined as tumor growth &gt; 25%, stable disease as changes &lt; 25% and significant tumor shrinkage as &gt; 25% in tumor volume compared to baseline MRI.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Prolactin levels normalization</measure>
+    <time_frame>Six months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Normalization of prolactin levels during treatment with pasireotide in patients with prolactinoma.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Non-functioning Pituitary Adenomas</condition>
+  <condition>Prolactinomas</condition>
+  <arm_group>
+    <arm_group_label>Pasireotide</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>For non-cured patients with prolactinomas resistant to cabergoline, MRI will be performed immediately before and six months after the onset of pasireotide treatment. The anti-secretory effect will be evaluated by prolactin dosage every month.
+For patients harboring a NFPA, treatment will be started at least 3 months after neurosurgery, when a pituitary MRI clearly shows the presence of a residual tumor without any possible misinterpretation of postsurgical changes. In this case, the drug efficacy will be evaluated clinically by visual field and by MRI six months after pasireotide treatment.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>cabergoline</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>In patients with non-functioning pituitary adenoma, treatment will be started at least 3 months after neurosurgery, when a pituitary MRI clearly shows the presence of a residual tumor without any possible misinterpretation of postsurgical changes. The drug response will be evaluated clinically by visual field and by Magnetic resonance imaging (MRI) before medical treatment and after six months of cabergoline treatment at maximum dose.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pasireotide</intervention_name>
+    <description>The patients with NFPA and residual tumor on MRI at least three months after surgery will be randomized into two groups: (A) the first one will be treated with pasireotide at the dosage of 900 µg s.c. twice a day for six months; (B) the second one, with cabergoline that will be administered, during the titration period, at an initial dose of 0.5 mg on the first week and afterward will be increased 0.5 mg per week until the dose reaches 3 mg/week, according to drug tolerability by patients. After dose reaches 3.0 mg/week, patients will be maintained at this dose for six months.
+The patients with prolactinomas resistant to DA will be treated with pasireotide at the dosage of 600 µg s.c. twice a day. After four weeks of treatment, the patients who normalize serum prolactin level will be maintained at the same dosage, the others who do not achieve normal prolactin level will have their dosage raised to 900 µg s.c. twice a day. The patients will be treated for six months.</description>
+    <arm_group_label>Pasireotide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cabergoline</intervention_name>
+    <description>The patients with NFPA and residual tumor on MRI at least three months after surgery will be randomized into two groups: (A) the first one will be treated with pasireotide at the dosage of 900 µg s.c. twice a day for six months; (B) the second one, with cabergoline that will be administered, during the titration period, at an initial dose of 0.5 mg on the first week and afterward will be increased 0.5 mg per week until the dose reaches 3 mg/week, according to drug tolerability by patients. After dose reaches 3.0 mg/week, patients will be maintained at this dose for six months.
+The patients with prolactinomas resistant to DA will be treated with pasireotide at the dosage of 600 µg s.c. twice a day. After four weeks of treatment, the patients who normalize serum prolactin level will be maintained at the same dosage, the others who do not achieve normal prolactin level will have their dosage raised to 900 µg s.c. twice a day. The patients will be treated for six months.</description>
+    <arm_group_label>cabergoline</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria (for patients with NFPA):
+
+          -  Male or female patients aged 18 years or greater;
+
+          -  Patients with confirmed diagnosis of NFPA evidenced by:
+
+          -  MRI confirmation of pituitary adenoma.
+
+          -  No pituitary tumoral hormone hypersecretion.
+
+          -  Patients with no previous medical treatment;
+
+          -  Patients who had been submitted to surgery but not cured. Lack of cure is defined as
+             presence of remnant tumor on MRI at least three months after surgery (without any
+             possible misinterpretation of postsurgical changes); and
+
+          -  Patients who signed the informed consent;
+
+        Inclusion Criteria (for patients with resistant prolactinomas):
+
+          -  Male or female patients aged 18 years or greater;
+
+          -  Patients with confirmed diagnosis of resistant prolactinoma by lack of prolactin
+             normalization with a tolerated cabergoline dosage during 12 weeks;
+
+          -  Patients who had been submitted to surgery due to resistance to cabergoline and not
+             cured. Lack of cure is defined as lack of serum prolactin normalization or complete
+             removal of tumor load; and
+
+          -  Patients who signed the informed consent.
+
+        Exclusion Criteria (for both):
+
+          -  Previous pituitary radiotherapy;
+
+          -  High risk for transsphenoidal surgery;
+
+          -  Patients with symptomatic cholelithiasis;
+
+          -  Diabetic patients on antidiabetic medications whose fasting blood glucose is poorly
+             controlled as evidenced by HbA1C &gt; 8%;
+
+          -  Patients with abnormal coagulation (PT or PTT elevated by 30% above normal limits);
+
+          -  Patients receiving anticoagulants that affect PT or PTT;
+
+          -  Patients who have congestive heart failure (NYHA Class III or IV), unstable angina,
+             sustained ventricular tachycardia, clinically significant bradycardia, advanced heart
+             block, history of acute MI less than one year prior to study entry or clinically
+             significant impairment in cardiovascular function;
+
+          -  Patients with risk factors for torsade de pointes, i.e. patients with a baseline QTc
+             &gt; 480 ms, hypokalemia, family history of long QT syndrome, and concomitant
+             medications known to prolong QT interval;
+
+          -  Patients with liver disease such as cirrhosis, chronic active hepatitis, or chronic
+             persistent hepatitis, or patients with ALT/AST more than 2 X ULN, serum creatinine &gt;
+             2.0 X ULN, serum bilirubin &gt; 2.0 X ULN, serum albumin &lt; 0.67 X LLN;
+
+          -  Patients with WBC &lt; 3 X 109/L; Hgb &lt; LLN; PLT &lt; 100 X 109/L;
+
+          -  Patients who have any current or prior medical condition that can interfere with the
+             conduct of the study or the evaluation of its results in the opinion of the
+             investigator;
+
+          -  Female patients who are pregnant or lactating, or are of childbearing potential and
+             not practicing a medically acceptable method for birth control. Female patients must
+             use barrier contraception with condoms. If oral contraception is used, the patient
+             must have been practicing this method for at least two months prior to enrollment and
+             must agree to continue the oral contraceptive throughout the course of the study and
+             for one month after the last dose of study drug. Male patients who are sexually
+             active are required to use condoms during the study and for 1 month afterwards; and
+
+          -  Patients who have a history of alcohol or drug abuse in the 6 month period prior to
+             receiving pasireotide.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mônica R. Gadelha, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Endocrinology Section - Hospital Universitário Clementino Fraga Filho/Federal University of Rio de Janeiro</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Nelma Verônica, Nurse coordinator</last_name>
+    <phone>+552125622323</phone>
+    <email>nelmaveronica@yahoo.com.br</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Leonardo Vieira Neto, M.D.</last_name>
+    <phone>+552199853378</phone>
+    <email>netolv@gmail.com</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Endocrinology Section - Hospital Universitário Clementino Fraga Filho/Federal University of Rio de Janeiro</name>
+      <address>
+        <city>Rio de Janeiro</city>
+        <state>RJ</state>
+        <zip>21941-913</zip>
+        <country>Brazil</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nelma Verônica, Nurse coordinator</last_name>
+      <phone>+552125622323</phone>
+      <email>nelmaveronica@yahoo.com.br</email>
+    </contact>
+    <contact_backup>
+      <last_name>Leonardo Vieira Neto, M.D.</last_name>
+      <phone>+552199853378</phone>
+      <email>netolv@terra.com.br</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Leonardo Vieira Neto, M.D.</last_name>
+      <role>Sub-Investigator</role>
+    </investigator>
+    <investigator>
+      <last_name>Mônica R. Gadelha, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Brazil</country>
+  </location_countries>
+  <verification_date>June 2012</verification_date>
+  <lastchanged_date>June 14, 2012</lastchanged_date>
+  <firstreceived_date>September 18, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Federal University of Rio de Janeiro</investigator_affiliation>
+    <investigator_full_name>Monica Gadelha</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Non-functioning pituitary adenomas</keyword>
+  <keyword>Prolactinomas</keyword>
+  <keyword>Cabergoline</keyword>
+  <keyword>Pasireotide</keyword>
+  <keyword>somatostatin receptors</keyword>
+  <keyword>Dopamine receptors</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Adenoma</mesh_term>
+    <mesh_term>Pituitary Neoplasms</mesh_term>
+    <mesh_term>Prolactinoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Dopamine</mesh_term>
+    <mesh_term>Dopamine Agents</mesh_term>
+    <mesh_term>Cabergoline</mesh_term>
+    <mesh_term>Somatostatin</mesh_term>
+    <mesh_term>Dopamine Agonists</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

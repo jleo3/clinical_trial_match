@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="208">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01721603</url>
+  </required_header>
+  <id_info>
+    <org_study_id>12857</org_study_id>
+    <nct_id>NCT01721603</nct_id>
+  </id_info>
+  <brief_title>A Phase 2 Prospective Trial of Dabrafenib With Stereotactic Radiosurgery in BRAFV600E Melanoma Brain Metastases</brief_title>
+  <official_title>A Phase 2 Prospective Trial of Dabrafenib With Stereotactic Radiosurgery in BRAFV600E Melanoma Brain Metastases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>GlaxoSmithKline</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to test the safety and find out what effects, good and/or bad,
+      dabrafenib (a BRAF inhibitor) alone or dabrafenib when given in combination with gamma knife
+      radiosurgery has on participants with a certain type of skin cancer (BRAFV600E melanoma) and
+      brain metastases (tumors that have spread to the brain).
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a single arm Phase II clinical trial.  All patients will receive continuous dosing
+      of dabrafenib at 150 mg PO bid until progression of disease, withdrawal of consent, or the
+      development of intolerable treatment associated toxicity. An MRI will be performed after 28
+      days of treatment with dabrafenib.  Patients who have unequivocal disease progression in the
+      brain at that time will be deemed to have disease progression at 4 weeks.  Patients with a
+      complete response of all lesions in the brain will continue to receive dabrafenib on study
+      but they will not undergo SRS.  For patients with stable disease or partial tumor responses
+      in the brain, Gamma Knife radiosurgery will be performed on treatment cycle 2, day 1 (+/- 3
+      days, 28 day cycle) using a stereotactic head frame and MRI imaging in accordance with
+      FDA-approved procedures.
+
+      Melanoma brain metastases
+
+      Cutaneous melanoma is the most aggressive form of all skin cancers.  Worldwide, it is
+      currently expected that approximately 132,000 people will be diagnosed with melanoma each
+      year and some 37,000 people are expected to die of the disease annually.  Brain metastases
+      are a major source of morbidity and mortality in patients with metastatic melanoma and
+      approximately 3 out of 4 develop brain metastases at some point in their disease course.
+      The prognosis of metastatic melanoma with CNS involvement is dismal1, and, until recently,
+      no medical therapy demonstrated clear evidence of activity against melanoma in the brain.
+      For patients with fewer than 4 brain lesions and no brain lesion greater than 3 cm in
+      diameter, stereotactic radiosurgery (SRS) is the standard-of-care. By delivering highly
+      focal irradiation to melanoma brain metastases, SRS confers local control rates exceeding
+      80% for lesions under 2 cm in diameter.  However, SRS does not treat micrometastatic disease
+      in the brain, and new brain metastases develop in approximately half of patients treated.
+
+      Furthermore, local control rates are lower for lesions larger than 2 cm in diameter.  As a
+      result, the median overall survival for melanoma patient treated with SRS is only 7 months.
+
+      BRAF mutant melanoma
+
+      The RAS/RAF/MEK/ERK pathway is a critical proliferation pathway in many human cancers.  This
+      pathway can be constitutively activated by alterations in specific proteins, including BRAF,
+      which phosphorylates MEK1 and MEK2 on two regulatory serine residues.  Approximately 90% of
+      all identified BRAF mutations that occur in human result in a V600 E/D/Kamino acid
+      substitution.  This mutation appears to mimic regulatory phophorylation and increases BRAF
+      activity approximately 10-fold compared to wild type.  BRAF mutations have been identified
+      at a high frequency in specific cancers, including approximately 40-60% of melanoma.  The
+      frequency of this activating mutation and the pathway addiction to which it leads makes
+      mutated BRAF an extremely attractive target.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2013</start_date>
+  <completion_date type="Anticipated">October 2015</completion_date>
+  <primary_completion_date type="Anticipated">January 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Determination of whether defrafenib and SRS improves 6 month distant brain metastasis-free survival (DBMFS) rate of BRAFV600E melanoma patients</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determination of whether dabrafenib combined with SRS improves the 6 month DBMFS rate of BRAFV600E melanoma patients for whom the standard of care is stereotactic radiosurgery (≤4 brain lesions and no lesion &gt; 3 cm) in comparison with similar historical controls treated with radiosurgery alone.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Determination of whether dabrafenib combined with SRS improves the 6-month local control rate of BRAFV600E melanoma brain metastases</measure>
+    <time_frame>Up to 6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determination of whether dabrafenib combined with SRS improves the 6-month local control rate of BRAFV600E melanoma brain metastases compared with historical controls treated with SRS.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Assessment- Determination of the best overall response rate (by RECIST v1.1 )</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine the best overall response rate (by RECIST v1.1) of BRAFV600E melanoma brain metastases patients treated with SRS and dabrafenib.  RECIST v1.1 will be used as the primary determinant of disease progression. Disease response will be assessed at scheduled visits by MRI of the brain and clinical exam every two months thereafter. The proportion of patients that progression free at 6 months will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Assessment- Determination of the median duration of freedom from new brain metastases( by RECIST v1.1 )</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine the median duration of freedom from new brain metastases of BRAFV600E melanoma brain metastases patients treated with SRS and dabrafenib.  RECIST v1.1 will be used as the primary determinant of disease progression.  Disease response will be assessed at scheduled visits by MRI of the brain and clinical exam every two months thereafter. The proportion of patients that progression free at 6 months will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Assessment- Determination of the median time to progression (by RECIST v1.1 )</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine the median time to progression in the brain of BRAFV600E melanoma brain metastases patients treated with SRS and dabrafenib.  RECIST v1.1 will be used as the primary determinant of disease progression.  Disease response will be assessed at scheduled visits by MRI of the brain and clinical exam every two months thereafter. The proportion of patients that progression free at 6 months will be calculated.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determination of the systemic best overall response rate</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine the systemic best overall response rate and median progression-free survival of BRAFV600E melanoma brain metastasis patients treated with SRS and dabrafenib.
+The duration of overall response is measured from the time measurement criteria are met for CR or PR (whichever is first recorded) until the first date that recurrent or progressive disease is objectively documented (taking as reference for progressive disease the smallest measurements recorded since the treatment started).
+The duration of overall CR is measured from the time measurement criteria are first met for CR until the first date that recurrent disease is objectively documented.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determination of the median progression-free survival</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine the systemic best overall response rate and median progression-free survival of BRAFV600E melanoma brain metastasis patients treated with SRS and dabrafenib.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determination of the median overall survival of BRAFV600E melanoma brain metastasis patients</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Determine the median overall survival of BRAFV600E melanoma brain metastasis patients treated with SRS and dabrafenib
+As secondary efficacy endpoints, 6-month local control rate, the time to progression in the CNS as well as the median PFS and OS will be estimated using exact binomial distribution; time to progression will be estimated using Kaplan-Meier methods. The 6-month PFS and 95% confidence intervals will be reported. ORR will be reported as frequencies and proportions with exact 95% confidence intervals from the Binomial distribution.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Number of reported Adverse Events</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Assessment of treatment-related toxicities of the combination of dabrafenib and gamma knife radiosurgery. Treatment-associated adverse events will be assessed based on clinical and laboratory findings using the Common Toxicity Criteria for Adverse Events, version 4.0.  Adverse event assessments will be performed every 2 weeks though cycle 3 day 1 and then every 4 weeks thereafter.</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Identification of predictive and molecular biomarkers for extended DBMFS in BRAFV600E melanoma brain metastasis patients treated with SRS and dabrafenib.</measure>
+    <time_frame>Up to 12 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">39</enrollment>
+  <condition>BRAFV600E Melanoma Patients</condition>
+  <arm_group>
+    <arm_group_label>Dabrafenib given in combination with gamma knife radiosurgery</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>All patients will receive continuous, oral dosing of dabrafenib at a starting dose of 150 mg twice daily until progression of disease, withdrawal of consent, or the development of intolerable treatment associated toxicity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Dabrafenib</intervention_name>
+    <description>150mg capsule by mouth twice daily</description>
+    <arm_group_label>Dabrafenib given in combination with gamma knife radiosurgery</arm_group_label>
+    <other_name>GSK2118436</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Gamma Knife Radiosurgery</intervention_name>
+    <description>This will be delivered using Gamma Knife technology. Patients will be fitted with a stereotactic head-frame for stereotactic localization of brain metastases.</description>
+    <arm_group_label>Dabrafenib given in combination with gamma knife radiosurgery</arm_group_label>
+    <other_name>SRS</other_name>
+    <other_name>Stereotactic Radiosurgery</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Histologically-confirmed BRAFV600E melanoma
+
+          2. Up to 4 untreated brain metastases (at least 1 &gt; 0.5 cm) with no metastasis larger
+             than 3 cm as assessed by a gadolinium-enhanced MRI of the brain.
+
+          3. ECOG PS 0-2
+
+          4. 14 days elapsed from last treatment with surgery.
+
+          5. At least 28 days or five half-lives (whichever is longer) have elapsed from last dose
+             of any approved or investigational therapy for metastatic melanoma.
+
+          6. Appropriate birth control for men and women with childbearing potential
+
+          7. Corticosteroid dose stable for at least 14 days
+
+          8. Adequate end-organ function:
+
+               -  ANC ≥ 1.5x109/L
+
+               -  Hemoglobin ≥ 9 g/dL
+
+               -  Platelets ≥100 x109/L
+
+               -  Total bilirubin ≤ 1.5x ULN
+
+               -  AST and ALT ≤ 2.5x ULN
+
+               -  Creatinine ≤ 1.5 mg/dL
+
+               -  PT/PTT ≤ 1.5x ULN
+
+               -  LVEF ≥ 50%
+
+          9. Age &gt;18 years
+
+        Exclusion Criteria:
+
+          1. Neurological symptoms from melanoma brain metastases
+
+          2. Patients may not have received prior therapy with dabrafenib, vemurafenib, or other
+             potent, highly effective BRAF inhibitors.  Prior therapy with sorafenib is permitted.
+
+          3. Any indication for urgent or emergent neurosurgery.  Patient may enroll after
+             neurosurgery at least 14 days after neurosurgery as long as they meet all other study
+             qualifications.
+
+          4. Any prior radiation therapy to the brain including stereotactic radiosurgery or whole
+             brain irradiation.
+
+          5. Pregnant or lactating women. The effects of dabrafenib on the developing human fetus
+             are unknown.  For this reason, women of child-bearing potential and men must agree to
+             use a highly effective method of contraception including: hormonal contraceptives
+             (oral contraceptives, Nuvaring, Depo Provera) an intrauterine device, true abstinence
+             or two barrier methods of birth control including condoms with cervical cap or
+             diaphragm.  Baseline pregnancy testing is required for all women of child-bearing
+             potential.  Should a woman become pregnant or suspect she is pregnant while she or
+             her partner is participating in this study, she should inform her treating physician
+             immediately.  Men treated or enrolled on this protocol who are sexually active with
+             women of child bearing potential must also agree to use adequate contraception prior
+             to and during the study as outlined above, and for, and  four months after completion
+             of study drug administration.
+
+          6. History of known cardiac arrhythmias or acute coronary syndromes within the past 24
+             weeks.
+
+          7. History of a second malignancy with evidence of active disease within the past 3
+             years except non-melanoma skin cancer, indolent prostate cancer, and stable CLL
+             without lymphadenopathy
+
+          8. Complete resection of a single brain metastasis or of all known brain metastases.
+             Patients who have undergone subtotal resection are eligible providing residual
+             disease is &lt; 2.0 cm in maximum diameter.
+
+          9. Patients with metastases within 2 mm of the optic nerve or optic chiasm so that some
+             portion of the optic nerve or chiasm would receive &gt; 9 Gy from radiosurgery.
+
+         10. Patients with metastases in the brainstem.
+
+         11. Contraindication to MRI (such as cardiac pacemaker).
+
+         12. The following medications or non-drug therapies are prohibited:
+
+               -  Other anti-cancer therapy while on treatment in this study.
+
+               -  Use of other investigational drugs within 28 days preceding the first dose of
+                  dabrafenib.
+
+               -  Antiretroviral drugs.  Subjects with known HIV are ineligible for study
+                  participation.
+
+               -  Herbal remedies (i.e., St. John's wort).
+
+               -  Drugs that are strong inhibitors or inducers of CYP3A or CYP2C8, p-glycoprotein
+                  (Pgp) or Bcrp transporter because they may alter dabrafenib concentrations.  The
+                  list may be modified based on emerging data.  These include but are not limited
+                  to those listed in Appendix 2; consider therapeutic substitutions for these
+                  medications.
+
+         13. Unresolved toxicity of National Cancer Institute Common Terminology Criteria for
+             Adverse Events, version 4.0. Grade 2 or higher from previous anti-cancer therapy,
+             except alopecia.
+
+         14. Presence of active gastrointestinal disease or other condition that will interfere
+             significantly with the absorption of drugs.  If clarification is needed as to whether
+             a condition will significantly affect absorption of drugs, contact the GSK medical
+             monitor for permission to enroll the subject.  PI has final decision regarding which
+             subjects will be enrolled.
+
+         15. A history of known Human Immunodeficiency Virus (HIV), Hepatitis B Virus (HBV), or
+             Hepatitis C Virus (HCV) infection.  Subjects with laboratory evidence of HBV
+             clearance may be enrolled with permission of the GSK medical monitor.
+
+         16. A history of known glucose-6-phosphate dehydrogenase (G6PD) deficiency.
+
+         17. Corrected QT (QTc) interval ≥480 msecs; history of acute coronary syndromes
+             (including unstable angina), coronary angioplasty, or stenting within the past 24
+             weeks; Class II, III, or IV heart failure as defined by the New York Heart
+             Association (NYHA) functional classification system; abnormal cardiac valve
+             morphology documented by echocardiogram (subjects with minimal abnormalities
+             including mild regurgitation/stenosis can be entered on study with approval from the
+             GSK medical monitor); or history of known cardiac arrhythmias.
+
+         18. Uncontrolled medical conditions (i.e, diabetes mellitus, hypertension, etc),
+             psychological, familial, sociological, or geographical conditions that do not permit
+             compliance with the protocol; or unwillingness or inability to follow the procedures
+             required in the protocol.
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Alain Algazi, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Alain Algazi, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Bekki Bolthouse</last_name>
+    <phone>514-6714</phone>
+    <email>BolthouseR@cc.ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of San Francisco, California</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alain Algazi, MD</last_name>
+      <phone>415-353-7552</phone>
+      <email>alain.algazi@ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Alain Algazi, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 9, 2013</lastchanged_date>
+  <firstreceived_date>November 1, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of California, San Francisco</investigator_affiliation>
+    <investigator_full_name>Alain Algazi</investigator_full_name>
+    <investigator_title>Assistant Clinical Professor</investigator_title>
+  </responsible_party>
+  <keyword>BRAFV600E melanoma patients</keyword>
+  <keyword>melanoma</keyword>
+  <keyword>stereotactic radiosurgery</keyword>
+  <keyword>BRAFV600E melanoma brain metastases</keyword>
+  <keyword>dabrafenib</keyword>
+  <keyword>SRS</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

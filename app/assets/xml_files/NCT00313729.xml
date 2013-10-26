@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="332">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00313729</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000448883</org_study_id>
+    <secondary_id>UCSF-99102</secondary_id>
+    <secondary_id>BTRC-9902</secondary_id>
+    <secondary_id>UCSF-H7858-16278-07</secondary_id>
+    <nct_id>NCT00313729</nct_id>
+    <nct_alias>NCT00187642</nct_alias>
+  </id_info>
+  <brief_title>Temozolomide in Treating Patients With Low-Grade Glioma</brief_title>
+  <official_title>A Phase II Study of Temozolomide (TEMODAR) in the Treatment of Adult Patients With Supratentorial Low Grade Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of California, San Francisco</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University of California, San Francisco</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy, such as temozolomide, work in different ways to stop
+      the growth of tumor cells, either by killing the cells or by stopping them from dividing.
+
+      PURPOSE: This phase II trial is studying how well temozolomide works in treating patients
+      with supratentorial low-grade glioma.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  Determine the efficacy of temozolomide, defined as response rate (complete and partial
+           response), in patients with supratentorial mixed low-grade glioma.
+
+      Secondary
+
+        -  Assess the safety profile of temozolomide in patients with supratentorial low-grade
+           glioma.
+
+        -  Assess the time to tumor progression in patients treated with temozolomide.
+
+      OUTLINE: Patients receive oral temozolomide once daily on days 1-5. Treatment repeats every
+      28 days for up to 12 courses in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed every 3 months for 1 year, every
+      4 months for 1 year, every 6 months for 1 year, and then annually thereafter.
+
+      PROJECTED ACCRUAL: A total of 120 patients will be accrued for this study.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>May 1999</start_date>
+  <primary_completion_date type="Anticipated">December 2013</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Response rate (complete and partial response)</measure>
+    <time_frame>Years</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to tumor progression</measure>
+    <time_frame>Years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Survival</measure>
+    <time_frame>Years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity</measure>
+    <time_frame>Years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">120</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <arm_group>
+    <arm_group_label>Temozolomide</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Temozolomide</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+    <description>Chemotherapy</description>
+    <arm_group_label>Temozolomide</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>adjuvant therapy</intervention_name>
+    <arm_group_label>Temozolomide</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically proven supratentorial low-grade (grade II) glioma of any of the
+             following histologic subtypes:
+
+               -  Oligodendroglioma
+
+               -  Astrocytoma
+
+               -  Oligoastrocytoma
+
+          -  Has undergone surgical resection or biopsy within 35 days after diagnosis of
+             low-grade glioma
+
+               -  Study treatment must begin between 14 days and 4 months after surgical resection
+                  or biopsy
+
+          -  Evaluable disease by gadolinium-MRI
+
+        PATIENT CHARACTERISTICS:
+
+          -  Karnofsky performance status 60-100%
+
+          -  Absolute neutrophil count ≥ 1,500/mm^3
+
+          -  Platelet count ≥ 100,000/mm^3
+
+          -  Hemoglobin ≥ 10 g/dL
+
+          -  Creatinine &lt; 1.5 times upper limit of normal (ULN)
+
+          -  BUN &lt; 1.5 times ULN
+
+          -  Bilirubin &lt; 1.5 times ULN
+
+          -  SGOT &lt; 2.5 times ULN
+
+          -  Alkaline phosphatase &lt; 2 times ULN
+
+          -  Life expectancy &gt; 12 weeks
+
+          -  No nonmalignant systemic disease resulting in the patient being a poor medical risk
+
+          -  No acute infection requiring intravenous antibiotics
+
+          -  No frequent vomiting or medical condition that would interfere with oral medication
+             intake (e.g., partial bowel obstruction)
+
+          -  No other concurrent malignancies except surgically cured carcinoma in situ of the
+             cervix or basal cell or squamous cell carcinoma of the skin
+
+               -  Prior malignancies must be in remission for ≥ 5 years
+
+          -  No known HIV positivity
+
+          -  No AIDS-related illness
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  See Disease Characteristics
+
+          -  No prior radiotherapy, interstitial brachytherapy, or radiosurgery for low-grade
+             glioma
+
+          -  No prior biological therapy or chemotherapy for low-grade glioma
+
+          -  No other concurrent chemotherapy
+
+          -  No concurrent radiotherapy or biological therapy
+
+          -  No concurrent prophylactic growth factors
+
+          -  No concurrent epoetin alfa
+
+          -  No other concurrent investigational drugs
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Susan M. Chang, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of California, San Francisco</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Thelma Munoz</last_name>
+    <phone>415-353-2523</phone>
+    <email>munozt@neurosurg.ucsf.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>UCSF Helen Diller Family Comprehensive Cancer Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical  Trials Office - UCSF Helen Diller Family Comprehensi</last_name>
+      <phone>877-827-3222</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/UCSF-99102</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>May 2013</verification_date>
+  <lastchanged_date>May 3, 2013</lastchanged_date>
+  <firstreceived_date>April 11, 2006</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult oligodendroglioma</keyword>
+  <keyword>adult mixed glioma</keyword>
+  <keyword>adult diffuse astrocytoma</keyword>
+  <keyword>adult pilocytic astrocytoma</keyword>
+  <keyword>adult pineal gland astrocytoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Temozolomide</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

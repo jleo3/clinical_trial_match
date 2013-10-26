@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="272">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01508117</url>
+  </required_header>
+  <id_info>
+    <org_study_id>UCCR-2</org_study_id>
+    <nct_id>NCT01508117</nct_id>
+  </id_info>
+  <brief_title>Phase II Axitinib (AG-013736) in Elderly Glioblastoma Multiforme (GBM) Patients</brief_title>
+  <official_title>A Phase II Window Study of Front-line Axitinib Followed by Axitinib and Radiation for Elderly Patients With Glioblastoma Multiforme (GBM)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Cincinnati</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Cincinnati</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine whether the addition of an investigational
+      medication, axitinib, to radiation therapy  will improve the outcome of treatment in
+      patients, above the age of 70.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The addition of axitinib to standard treatment is experimental and has not been approved by
+      the United States Food and Drug Administration (FDA). Axitinib works by preventing new blood
+      vessels from forming, and tumors need to make new blood vessels in order to grow. The study
+      will find out what effects, good or bad, axitinib has on the tumor.  In addition, this study
+      will try to determine whether the response to axitinib and the overall outcome depends on
+      certain characteristics of your tumor.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2012</start_date>
+  <completion_date type="Anticipated">June 2016</completion_date>
+  <primary_completion_date type="Anticipated">December 2015</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>overall survival</measure>
+    <time_frame>average 1 year</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">68</enrollment>
+  <condition>Glioblastoma Multiforme</condition>
+  <arm_group>
+    <arm_group_label>Axitinib + Radiation Therapy</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Axitinib 5mg twice daily for 28 days followed by concurrent axitinib plus hypofractionated radiation therapy (45 Gy in 15 fractions) followed by maintenance axitinib 5mg twice daily until progression or unacceptable toxicity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Axitinib</intervention_name>
+    <description>5 mg twice daily starting 21 days after resection and continuing until progression or unacceptable toxicity</description>
+    <arm_group_label>Axitinib + Radiation Therapy</arm_group_label>
+    <other_name>AG-013736</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation Therapy</intervention_name>
+    <description>45 Gy in 15 fractions starting after 28 days of Axitinib monotherapy</description>
+    <arm_group_label>Axitinib + Radiation Therapy</arm_group_label>
+    <other_name>Hypofractionated radiation therapy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Newly diagnosed patients with histologically proven glioblastoma multiforme
+
+          -  Age above 70 years
+
+          -  Karnofsky score of 50-80
+
+          -  Adequate organ function as defined by laboratory values
+
+          -  Life expectancy of &gt;12 weeks
+
+          -  No evidence of preexisting uncontrolled hypertension as documented by 2 baseline
+             blood pressure readings taken at least 1 hour apart. The baseline systolic blood
+             pressure readings must be 140 mm Hg, and the baseline diastolic blood pressure
+             readings must be 90 mm Hg. Patients whose hypertension is controlled by
+             antihypertensive therapies are eligible.
+
+        Exclusion Criteria:
+
+          -  Prior treatment with chemotherapy or radiation for glioblastoma multiforme
+
+          -  Patients with extensive tumor hemorrhage
+
+          -  Any of the following within the 12 months prior to study drug administration:
+             myocardial infarction, uncontrolled angina, coronary/peripheral artery bypass graft,
+             symptomatic congestive heart failure, cerebrovascular accident or transient ischemic
+             attack and 6 months for deep vein thrombosis or pulmonary embolism
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>70 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Olivier Rixe, MD, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Cincinnati</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>UC Cancer Institute</last_name>
+    <phone>513-584-7698</phone>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>University of Cincinnati</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267-0502</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>UC Cancer Institute</last_name>
+      <phone>513-584-7698</phone>
+    </contact>
+    <investigator>
+      <last_name>Olivier Rixe, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2012</verification_date>
+  <lastchanged_date>January 10, 2012</lastchanged_date>
+  <firstreceived_date>January 6, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University of Cincinnati</investigator_affiliation>
+    <investigator_full_name>Olivier Rixe</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <keyword>GBM</keyword>
+  <keyword>brain tumor</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="278">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01491893</url>
+  </required_header>
+  <id_info>
+    <org_study_id>Pro00031169</org_study_id>
+    <secondary_id>NS20023</secondary_id>
+    <nct_id>NCT01491893</nct_id>
+  </id_info>
+  <brief_title>Poliovirus Vaccine for Recurrent Glioblastoma Multiforme (GBM)</brief_title>
+  <acronym>PVS-RIPO</acronym>
+  <official_title>Dose-finding and Safety Study of PVSRIPO Against Recurrent Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Matthias Gromeier</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Purpose of the Study:
+
+      To determine the maximally tolerated dose (MTD) and dose-limiting toxicity (DLT) of PVSRIPO
+      when delivered intracerebrally by convection-enhanced delivery. To estimate progression-free
+      and overall survival in resectable, recurrent supratentorial glioblastoma multiforme (GBM)
+      patients. To evaluate immunologic, virologic and histopathologic parameters of the effect of
+      virus infection on GBM tumors.
+
+      Agent: PVSRIPO is the live attenuated, oral (SABIN) serotype 1 poliovirus (PV) vaccine
+      containing a heterologous internal ribosomal entry site (IRES) from human rhinovirus type 2
+      (HRV2). PVSRIPO recognizes Necl-5, an oncofetal cell adhesion molecule and tumor antigen
+      widely expressed ectopically in malignancy, e.g. glioblastoma multiforme (GBM), as host cell
+      receptor. PVSRIPO has been manufactured at NCI-Frederick, NCI, NIH.
+
+      Catheter Implantation: PVS-RIPO will be delivered directly into the tumor. A stereotactic
+      biopsy will be performed prior to virus administration for frozen section confirmation of
+      viable tumor and further analysis. The biopsy needle will be placed with stereotactic
+      guidance by an MRI-compatible, stereotactic head frame. Immediately following the
+      stereotactically-guided tumor biopsy, a catheter will be implanted in the OR at a site
+      different from that used for the biopsy. A CT or MRI scan may be used to confirm catheter
+      placement post-operatively.
+
+      Agent infusion: The entire volume of the agent to be delivered will be pre-loaded into a
+      syringe by the investigational pharmacist and connected to the catheter under sterile
+      conditions in the OR at the time of the biopsy procedure. Drug infusion will occur in the
+      NICU so that all other emergency facilities will be available. Patients will be infused
+      through a Medfusion 3500 infusion pump pre-programmed to a delivery rate of 0.5 l/hr. The
+      total amount of the inoculum delivered to the patient will be 3 ml. The virus injection
+      procedure will be completed within 6.5 hrs. The catheter will be removed immediately
+      following the delivery of PVSRIPO.
+
+      Biopsy sampling and analyses: Biopsy material will be obtained from tumor tissue prior to
+      virus administration. This tissue material will be subjected to routine histology to confirm
+      tumor recurrence by the study neuropathologist, Dr. R. McLendon or his designate.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2012</start_date>
+  <completion_date type="Anticipated">January 2016</completion_date>
+  <primary_completion_date type="Anticipated">January 2015</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Maximum Tolerated Dose</measure>
+    <time_frame>28 days post administration of PVS-RIPO</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The highest dose level for which the estimated probability that a patient  experiences a dose-limiting toxicity (DLT) is less than 20%.  Any grade 3 or any Grade 4 toxicity that is not reversible within 2 weeks, or any life-threatening event, or treatment-related death will be considered a DLT.  Any grade 2 or higher serious autoimmune toxicities particularly those affecting vital organs (e.g. cardiac, renal, CNS) will be considered a DLT.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival</measure>
+    <time_frame>Patients will be followed at a min of 2,4,8,16,24, 32,40 and 48 week intervals after infusion.</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Progression Free Survival is defined as the time between initiation of protocol treatment and the first occurrence of disease or death.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>Infusion until 5 years post-infusion</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Time between infusion and 5 years from infusion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic Response</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Best radiographic response observed within 6 months of infusion.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Recurrent Supratentorial Glioblastoma Multiforme</condition>
+  <condition>GBM</condition>
+  <condition>Glioblastoma Multiforme</condition>
+  <arm_group>
+    <arm_group_label>PVS - RIPO</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>PVSRIPO intratumoral dosing schedule and number of patients that will be treated.
+N=18
+1.0 x 10^8 TCID50
+3.3 x 10^8 TCID50
+1.0 x 10^9 TCID50
+3.3 x 10^9 TCID50
+1.0 x 10^10 TCID50</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Live attenuated, oral (Sabin) serotype 1 poliovirus vaccine (PVSRIPO)</intervention_name>
+    <description>PVSRIPO intratumoral dosing schedule and number of patients that will be treated.
+N=18
+1.0 x 10^8 TCID50
+3.3 x 10^8 TCID50
+1.0 x 10^9 TCID50
+3.3 x 10^9 TCID50
+1.0 x 10^10 TCID50</description>
+    <arm_group_label>PVS - RIPO</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          1. Disease Status. Patients must have a resectable, recurrent supratentorial GBM based
+             on imaging studies with measurable disease (≥ 1 cm or ≤ 5 cm of contrast-enhancing
+             tumor). Prior histopathology consistent with a World Health Organization (WHO) Grade
+             IV GBM confirmed by the study pathologist, Roger McLendon, or his designate.
+
+          2. Age. Due to the potential implications of the treatment on the developing CNS, all
+             patients must be ≥ 18 years of age at the time of entry into the study.
+
+          3. Prior Therapy. Patients may be included in the study independent of the regimen of
+             previous surgical, radiation, or chemotherapy treatments administered.  However, the
+             exclusions listed in #5 of the Exclusions below must be followed.
+
+          4. Performance Status. The patient must have a Karnofsky Performance Score (KPS) of ≥
+             70% at the time of entry.
+
+          5. Laboratory Studies
+
+               -  Platelet count ≥ 100,000/ml
+
+               -  Prothrombin and Partial Thromboplastin Times ≤ 1.2 x normal
+
+               -  Positive serum anti-poliovirus titer
+
+               -  Creatinine ≤ 1.2 x normal
+
+               -  Total bilirubin, SGOT, SGPT, alkaline phosphatase ≤ 2.5 x normal
+
+               -  Neutrophil count ≥ 1000
+
+               -  Hemoglobin ≥ 9
+
+          6. Poliovirus Immunization Booster.  The subject must have received a boost immunization
+             with monovalent inactivated (Salk) poliovirus vaccine type 1 at least 2 weeks prior
+             to administration of the study agent.
+
+          7. Disease Confirmation. At the time of biopsy, prior to administration of virus, the
+             presence of recurrent tumor must be confirmed by histopathological analysis of frozen
+             sections.
+
+          8. Informed Consent. A signed informed consent form approved by the Duke University
+             Institutional Review Board (IRB) will be required for patient enrollment into the
+             study. Patients must be able to read and understand the informed consent document and
+             must sign the informed consent indicating that they are aware of the investigational
+             nature of this study.
+
+        Exclusion Criteria:
+
+          1. Pregnancy. Because of the unknown risk of virus administration potentially affecting
+             a developing fetus or growing infant, females who are pregnant or breast-feeding
+             during the study period will be excluded. Adults of reproductive potential not
+             employing an effective method of birth control will be excluded. Barrier
+             contraceptives must be used throughout the trial in both sexes.
+
+          2. Disease Status. Because patients will receive drug intracerebrally, patients with an
+             impending, life-threatening cerebral herniation syndrome, based on the assessment of
+             the study neurosurgeons, Allan Friedman or John Sampson, or their designate, will be
+             excluded.
+
+          3. Medical Conditions. Because the potential toxicities from the agent being studied in
+             this protocol may be similar to some known diseases or may be more dangerous in the
+             context of certain known diseases, the following patients will be excluded to avoid
+             confounding the study results:
+
+               -  Patients with an active infection requiring treatment or having an unexplained
+                  febrile illness (Tmax &gt; 99.5 F).
+
+               -  Patients with known immunosuppressive disease or known human immunodeficiency
+                  virus infection.
+
+               -  Unstable or severe intercurrent medical conditions such as severe heart (New
+                  York Heart Association Class 3 or 4) or lung (FEV1 &lt; 50%) disease, uncontrolled
+                  diabetes mellitus.
+
+               -  Albumin allergy. Albumin is added to the agent as a stabilizer. Patients with a
+                  known allergy will be excluded.
+
+               -  Gadolinium allergy. Gadolinium is used as contrast for the MRI.
+
+          4. Previous Poliomyelitis. A history of neurological complications due to poliovirus
+             infection would imply previous virus replication in the CNS. Based on animal studies,
+             previous exposure to poliovirus administered intracerebrally can reduce subsequent
+             virus replication in the CNS.
+
+          5. Prior Therapy. Patients who have not recovered from the toxic effects of prior
+             chemotherapy and/or radiation therapy will be excluded. Guidelines for this recovery
+             period are dependent upon the specific therapeutic agent being used.
+
+               -  Patients may not have received chemotherapy ≤ 4 weeks [except for nitrosourea (6
+                  weeks) or metronomic dosed chemotherapy such as daily etoposide or
+                  cyclophosphamide (1 week)] prior to starting the study drug or patients have
+                  recovered from side effects of such therapy.
+
+               -  Patients may not have received immunotherapy ≤ 4 weeks prior to starting the
+                  study drug or patients have recovered from side effects of such therapy.
+
+               -  Patients may not have received investigational drugs ≤ 4 weeks prior to starting
+                  the study drug or must have recovered from side effects of such therapy.
+
+             Patients must have completed all standard of care treatments including resection and
+             concurrent chemo-radiation prior to participating in this trial.
+
+          6. Location and Extent of Tumor. Because of the potential toxicities from the agent,
+             patients with neoplastic lesions in the brainstem, cerebellum or spinal cord,
+             radiological evidence of multifocal disease, or leptomeningeal disease. Patients with
+             evidence of diffuse subependymal disease or tumor in the brainstem, cerebellum,
+             spinal cord, or CSF will be excluded.
+
+               -  Since the study agent is a local treatment, patients with radiological evidence
+                  of multifocal disease, tumors extending into or crossing the corpus callosum or
+                  leptomeningeal disease, will be excluded.
+
+               -  Patients with contrast-enhancing tumors of &lt; 1 cm or &gt; 5 cm diameter in any
+                  plane will be excluded.
+
+               -  Patients with tumor ≤ 1 cm in proximity to the ventricle.
+
+          7. Subjects must not have diagnosis of agammaglobulinemia. Patients with the following
+             will be excluded:
+
+               -  IgG levels &lt; 400 mg/dL [4 g/L]
+
+               -  Undetectable anti-tetanus toxoid IgG
+
+               -  Known history of agammaglobulinemia
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Annick Desjardins, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Duke University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Stevie Threatt</last_name>
+    <phone>919-684-3657</phone>
+    <email>stevie.threatt@duke.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Susan Boulton, RN</last_name>
+    <phone>919-668-0896</phone>
+    <email>susan.boulton@duke.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Duke University Medical Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Carter</last_name>
+      <phone>919-668-2329</phone>
+      <email>karen.carter@duke.edu</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 29, 2013</lastchanged_date>
+  <firstreceived_date>December 1, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor-Investigator</responsible_party_type>
+    <investigator_affiliation>Duke University Medical Center</investigator_affiliation>
+    <investigator_full_name>Matthias Gromeier</investigator_full_name>
+    <investigator_title>Associate Professor</investigator_title>
+  </responsible_party>
+  <keyword>GBM</keyword>
+  <keyword>Brain Tumor</keyword>
+  <keyword>Poliovirus Vaccine</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

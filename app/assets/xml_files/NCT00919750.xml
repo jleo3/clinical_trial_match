@@ -1,0 +1,2731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="89">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00919750</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000352347</org_study_id>
+    <secondary_id>COG-ACNS02B3</secondary_id>
+    <nct_id>NCT00919750</nct_id>
+    <nct_alias>NCT00228748</nct_alias>
+  </id_info>
+  <brief_title>Collecting and Storing Blood and Brain Tumor Tissue Samples From Children With Brain Tumors</brief_title>
+  <official_title>A Children's Oncology Group Protocol for Collecting and Banking Pediatric Brain Tumor Research Specimens</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Children's Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>Unspecified</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Collecting and storing samples of tumor tissue and blood from patients to test in
+      the laboratory may help the study of cancer in the future.
+
+      PURPOSE: The purpose of this study is to collect and store brain tissue samples and blood
+      from children with brain cancer that will be tested in the laboratory.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+        -  Collect brain tumor tissue and an accompanying blood sample from pediatric patients
+           with brain tumors treated at Children's Oncology Group institutions.
+
+        -  Provide a repository for long-term storage of specimens from these patients.
+
+        -  Make these specimens available to qualified researchers to understand the biology of
+           pediatric brain tumors.
+
+      OUTLINE: This is a multicenter study
+
+      Brain tumor tissue and blood specimens are collected from patients and banked for future
+      study.
+
+      PROJECTED ACCRUAL: An unlimited number of specimens will be collected.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2005</start_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>N/A</study_design>
+  <primary_outcome>
+    <measure>Collection of brain tumor tissue and an accompanying blood sample from pediatric patients with brain tumors treated at Children's Oncology Group institutions</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Creation of a repository for long-term storage of these specimens</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Making these specimens available to qualified researchers to understand the biology of pediatric brain tumors</measure>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>biologic sample preservation procedure</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Diagnosis of brain tumor
+
+          -  Previously treated at a Children's Oncology Group (COG) institution
+
+               -  Patients are eligible at time of diagnosis, second-look surgery, recurrence, or
+                  development of a second malignant neoplasm
+
+          -  Must have brain tumor biological specimens derived from primary tumors of the CNS
+             available for submission
+
+        PATIENT CHARACTERISTICS:
+
+          -  Not specified
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  Not specified
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Scott Pomeroy, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Children's Hospital Boston</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jaclyn A. Biegel, PhD</last_name>
+    <affiliation>Children's Hospital of Philadelphia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Children's Hospital of Alabama at University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph G. Pressey</last_name>
+      <phone>205-939-9285</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Phoenix Children's Hospital</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85016-7710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jessica Boklan</last_name>
+      <phone>602-546-0920</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Arkansas Cancer Research Center at University of Arkansas for Medical Sciences</name>
+      <address>
+        <city>Little Rock</city>
+        <state>Arkansas</state>
+        <zip>72205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trial Office - Arkansas Cancer Research Center at Uni</last_name>
+      <phone>501-686-8274</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010-3000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - City of Hope Comprehensive Cancer Cen</last_name>
+      <phone>800-826-4673</phone>
+      <email>becomingapatient@coh.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Loma Linda University Cancer Institute at Loma Linda University Medical Center</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92354</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Loma Linda University Cancer Institut</last_name>
+      <phone>909-558-3375</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Jonathan Jaques Children's Cancer Center at Miller Children's Hospital</name>
+      <address>
+        <city>Long Beach</city>
+        <state>California</state>
+        <zip>90801</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Amanda M. Termuhlen</last_name>
+      <phone>562-933-8605</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Samuel Oschin Comprehensive Cancer Institute at Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048-1865</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Fataneh (Fae) Majlessipour</last_name>
+      <phone>310-423-4423</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Childrens Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Leo Mascarenhas</last_name>
+      <phone>323-361-2529</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Southern California Permanente Medical Group</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert M. Cooper</last_name>
+      <phone>323-783-5307</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Central California</name>
+      <address>
+        <city>Madera</city>
+        <state>California</state>
+        <zip>93638-8762</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vonda L. Crouse</last_name>
+      <phone>559-353-5480</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital and Research Center Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trial Office - Children's Hospital and Research Cente</last_name>
+      <phone>510-450-7600</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Violet Shen</last_name>
+      <phone>714-532-8636</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente Medical Center - Oakland</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95661</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven K. Bergstrom</last_name>
+      <phone>510-752-6592</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of California Davis Cancer Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - University of California Davis Cancer</last_name>
+      <phone>916-734-3089</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rady Children's Hospital - San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123-4282</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Rady Children's Hospital - San Diego</last_name>
+      <phone>858-966-5934</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian - St. Luke's Medical Center</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Presbyterian - St. Luke's Medical Cen</last_name>
+      <phone>303-839-6000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Connecticut Children's Medical Center</name>
+      <address>
+        <city>Hartford</city>
+        <state>Connecticut</state>
+        <zip>06106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Connecticut Children's Medical Center</last_name>
+      <phone>860-545-9967</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred I. duPont Hospital for Children</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Alfred I. duPont Hospital for Childre</last_name>
+      <phone>302-651-5755</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lombardi Comprehensive Cancer Center at Georgetown University Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Lombardi Comprehensive Cancer Center</last_name>
+      <phone>202-444-0381</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Broward General Medical Center Cancer Center</name>
+      <address>
+        <city>Fort Lauderdale</city>
+        <state>Florida</state>
+        <zip>33316</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Broward General Medical Center Cancer</last_name>
+      <phone>954-355-5346</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lee Cancer Care of Lee Memorial Health System</name>
+      <address>
+        <city>Fort Myers</city>
+        <state>Florida</state>
+        <zip>33901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Lee Cancer Care of Lee Memorial Healt</last_name>
+      <phone>877-680-0008</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Cancer Institute at Memorial Regional Hospital</name>
+      <address>
+        <city>Hollywood</city>
+        <state>Florida</state>
+        <zip>33021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Memorial Cancer Institute</last_name>
+      <phone>954-985-3443</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Clinic</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric S. Sandler</last_name>
+      <phone>904-697-3793</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Children's Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Enrique A. Escalon</last_name>
+      <phone>305-662-8360x4960</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Baptist-South Miami Regional Cancer Program</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33176</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Doured Daghistani</last_name>
+      <phone>305-274-1662</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami Sylvester Comprehensive Cancer Center - Miami</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>University of Miami Sylvester Comprehensive Cancer Center Clin</last_name>
+      <phone>866-574-5124</phone>
+      <email>Sylvester@emergingmed.com</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>M.D. Anderson Cancer Center at Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vincent F. Giusti</last_name>
+      <phone>321-841-8588</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital Cancer Institute at Florida Hospital Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32803-1273</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Florida Hospital Cancer Institute</last_name>
+      <phone>407-303-5623</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Clinic - Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ramamoorthy Nagasubramanian</last_name>
+      <phone>407-650-7230</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Clinic - Pensacola</name>
+      <address>
+        <city>Pensacola</city>
+        <state>Florida</state>
+        <zip>32504</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey H. Schwartz</last_name>
+      <phone>850-505-4790</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>All Children's Hospital</name>
+      <address>
+        <city>Saint Petersburg</city>
+        <state>Florida</state>
+        <zip>33701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory A. Hale</last_name>
+      <phone>727-767-4176</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Cancer Institute at St. Joseph's Hospital</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33607</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - St. Joseph's Cancer Institute</last_name>
+      <phone>800-882-4123</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kaplan Cancer Center at St. Mary's Medical Center</name>
+      <address>
+        <city>West Palm Beach</city>
+        <state>Florida</state>
+        <zip>33407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Narayana Gowda</last_name>
+      <phone>561-844-6363</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>AFLAC Cancer Center and Blood Disorders Service of Children's Healthcare of Atlanta - Egleston Campus</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Todd M. Cooper</last_name>
+      <phone>404-785-1838</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MBCCOP - Medical College of Georgia Cancer Center</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912-3730</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Colleen H. McDonough</last_name>
+      <phone>706-721-3626</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Research Center of Hawaii</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Cancer Research Center of Hawaii</last_name>
+      <phone>808-586-2979</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mountain States Tumor Institute at St. Luke's Regional Medical Center</name>
+      <address>
+        <city>Boise</city>
+        <state>Idaho</state>
+        <zip>83712-6297</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eugenia Chang</last_name>
+      <phone>208-381-2731</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Cancer Research Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - University of Chicago Cancer Research</last_name>
+      <phone>773-834-7424</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612-7243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trial Office - University of Illinois Cancer Center</last_name>
+      <phone>312-355-3046</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Lutheran General Cancer Care Center</name>
+      <address>
+        <city>Park Ridge</city>
+        <state>Illinois</state>
+        <zip>60068-1174</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Advocate Lutheran General Cancer Care</last_name>
+      <phone>847-384-3621</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Jude Midwest Affiliate</name>
+      <address>
+        <city>Peoria</city>
+        <state>Illinois</state>
+        <zip>61603</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Pedro A. De Alarcon</last_name>
+      <phone>309-655-4242</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Simmons Cooper Cancer Institute</name>
+      <address>
+        <city>Springfield</city>
+        <state>Illinois</state>
+        <zip>62794-9677</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Simmons Cooper Cancer Institute</last_name>
+      <phone>217-545-7929</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent Indianapolis Hospital</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - St. Vincent Indianapolis Hospital</last_name>
+      <phone>317-338-2194</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Holden Comprehensive Cancer Center at University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242-1002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Cancer Information Service</last_name>
+      <phone>800-237-1225</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lucille P. Markey Cancer Center at University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536-0093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Markey Cancer Center at University of</last_name>
+      <phone>859-257-3379</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kosair Children's Hospital</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Kosair Children's Hospital</last_name>
+      <phone>502-629-5500</phone>
+      <email>CancerResource@nortonhealthcare.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Cancer Center Office of Clinical Research</name>
+      <address>
+        <city>Alexandria</city>
+        <state>Louisiana</state>
+        <zip>71315-3198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Tulane Cancer Center</last_name>
+      <phone>504-988-6121</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of New Orleans</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Children's Hospital of New Orleans</last_name>
+      <phone>504-894-5377</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CancerCare of Maine at Eastern Maine Medical Center</name>
+      <address>
+        <city>Bangor</city>
+        <state>Maine</state>
+        <zip>04401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - CancerCare of Maine</last_name>
+      <phone>207-973-4274</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Greenebaum Cancer Center at University of Maryland Medical Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Greenebaum Cancer Center at Universit</last_name>
+      <phone>800-888-8823</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21231-2410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Sidney Kimmel Comprehensive Cancer Ce</last_name>
+      <phone>410-955-8804</phone>
+      <email>jhcccro@jhmi.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>National Naval Medical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20889-5600</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Della L. Howell</last_name>
+      <phone>210-916-7727</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber/Harvard Cancer Center at Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>2115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos Rodriguez-Galindo</last_name>
+      <phone>617-632-4580</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Floating Hospital for Children at Tufts - New England Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Johannes E.A. Wolff</last_name>
+      <phone>617-636-5535</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hurley Medical Center</name>
+      <address>
+        <city>Flint</city>
+        <state>Michigan</state>
+        <zip>48503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Hurley Medical Center</last_name>
+      <phone>810-762-8057</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Helen DeVos Children's Hospital at Spectrum Health</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Helen DeVos Children's Hospital</last_name>
+      <phone>616-391-3050</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Van Elslander Cancer Center at St. John Hospital and Medical Center</name>
+      <address>
+        <city>Grosse Pointe Woods</city>
+        <state>Michigan</state>
+        <zip>48236</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clincial Trials Office - Van Elslander Cancer Center at St. Jo</last_name>
+      <phone>313-343-3166</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Bronson Methodist Hospital</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007-5381</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey S. Lobel</last_name>
+      <phone>269-341-6350</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Breslin Cancer Center at Ingham Regional Medical Center</name>
+      <address>
+        <city>Lansing</city>
+        <state>Michigan</state>
+        <zip>48910</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Breslin Cancer Center at Ingham Regio</last_name>
+      <phone>517-334-2765</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Masonic Cancer Center at University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Masonic Cancer Center at University o</last_name>
+      <phone>612-624-2620</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospitals and Clinics of Minnesota - Minneapolis</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55404</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Children's Hospitals and Clinics of M</last_name>
+      <phone>612-813-5193</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Cancer Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - All Mayo Clinic Locations</last_name>
+      <phone>507-538-7623</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospitals and Clinics of Minnesota - St. Paul</name>
+      <address>
+        <city>St. Paul</city>
+        <state>Minnesota</state>
+        <zip>55102-2392</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>612-220-6000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Mississippi Cancer Clinic</name>
+      <address>
+        <city>Jackson</city>
+        <state>Mississippi</state>
+        <zip>39216-4505</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gail C. Megason</last_name>
+      <phone>601-984-5220</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Ellis Fischel Cancer Center at University of Missouri - Columbia</name>
+      <address>
+        <city>Columbia</city>
+        <state>Missouri</state>
+        <zip>65203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trial Office - Ellis Fischel Cancer Center</last_name>
+      <phone>573-882-7440</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Mercy Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maxine L. Hetherington</last_name>
+      <phone>816-234-3265</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cardinal Glennon Children's Hospital</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William S. Ferguson</last_name>
+      <phone>314-577-5638</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center at Barnes-Jewish Hospital - Saint Louis</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert J. Hayashi</last_name>
+      <phone>314-454-2041</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68114-4113</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Minnie Abromowitch</last_name>
+      <phone>402-955-3950</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Nevada Cancer Research Foundation</name>
+      <address>
+        <city>Las Vegas</city>
+        <state>Nevada</state>
+        <zip>89109-2306</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Bernstein</last_name>
+      <phone>702-732-1493</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Norris Cotton Cancer Center at Dartmouth-Hitchcock Medical Center</name>
+      <address>
+        <city>Lebanon</city>
+        <state>New Hampshire</state>
+        <zip>03756-0002</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Norris Cotton Cancer Center</last_name>
+      <phone>603-650-7609</phone>
+      <email>cancerhelp@dartmouth.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center Cancer Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Hackensack University Medical Center</last_name>
+      <phone>201-996-2879</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Barnabas Medical Center Cancer Center</name>
+      <address>
+        <city>Livingston</city>
+        <state>New Jersey</state>
+        <zip>07039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - St. Barnabas Medical Center Cancer Ce</last_name>
+      <phone>973-322-2470</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Institute of New Jersey at UMDNJ - Robert Wood Johnson Medical School</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Cancer Institute of New Jersey</last_name>
+      <phone>732-235-8675</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Peter's University Hospital</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Stanley Calderwood</last_name>
+      <phone>732-745-6674</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Newark Beth Israel Medical Center</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Newark Beth Israel Medical Center</last_name>
+      <phone>973-926-3136</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Joseph's Hospital and Medical Center</name>
+      <address>
+        <city>Paterson</city>
+        <state>New Jersey</state>
+        <zip>07503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary A. Bonilla</last_name>
+      <phone>973-754-3349</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Carol G. Simon Cancer Center at Morristown Memorial Hospital</name>
+      <address>
+        <city>Summit</city>
+        <state>New Jersey</state>
+        <zip>07901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven L. Halpern</last_name>
+      <phone>973-971-6720</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of New Mexico Cancer Center</name>
+      <address>
+        <city>Albuquerque</city>
+        <state>New Mexico</state>
+        <zip>87131-5636</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - University of New Mexico Cancer Cente</last_name>
+      <phone>505-272-6972</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Albany Medical Center Hospital</name>
+      <address>
+        <city>Albany</city>
+        <state>New York</state>
+        <zip>12208-3419</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vikramjit S. Kanwar</last_name>
+      <phone>518-262-5513x25517</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Albert Einstein Cancer Center at Albert Einstein College of Medicine</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Albert Einstein Cancer Center at Albe</last_name>
+      <phone>718-904-2730</phone>
+      <email>aecc@aecom.yu.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Brooklyn Hospital Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11201-5493</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Swayamprabha Sadanandan</last_name>
+      <phone>718-250-6074</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Downstate Medical Center</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11203-2098</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>718-270-4293</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Roswell Park Cancer Institute</last_name>
+      <phone>877-275-7724</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Medical Center - Petrie Division</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10003-3803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Beth Israel Medical Center - Petrie D</last_name>
+      <phone>212-844-6286</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Herbert Irving Comprehensive Cancer Center at Columbia University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Herbert Irving Comprehensive Cancer C</last_name>
+      <phone>212-305-8615</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Cancer Institute at New York University Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Linda Granowetter</last_name>
+      <phone>212-263-8400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New York Weill Cornell Cancer Center at Cornell University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - New York Weill Cornell Cancer Center</last_name>
+      <phone>212-746-1848</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University Hospital</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - SUNY Upstate Medical University Hospi</last_name>
+      <phone>315-464-5476</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>New York Medical College</name>
+      <address>
+        <city>Valhalla</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mehmet F. Ozkaynak</last_name>
+      <phone>914-493-7997</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Blumenthal Cancer Center at Carolinas Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28232-2861</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Blumenthal Cancer Center at Carolinas</last_name>
+      <phone>704-355-2884</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian Cancer Center at Presbyterian Hospital</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28233-3549</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Presbyterian Cancer Center at Presbyt</last_name>
+      <phone>704-384-5369</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Comprehensive Cancer Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157-1096</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Wake Forest University  Comprehensive</last_name>
+      <phone>336-713-6771</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - MeritCare Hospital</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nathan L. Kobrinsky</last_name>
+      <phone>701-234-7544</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Akron Children's Hospital</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44308-1062</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Akron Children's Hospital</last_name>
+      <phone>330-543-3193</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Taussig Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Cleveland Clinic Taussig Cancer Cente</last_name>
+      <phone>866-223-8100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rainbow Babies and Children's Hospital</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-5000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yousif (Joe) H. Matloub</last_name>
+      <phone>216-844-3345</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205-2696</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laura T. Martin</last_name>
+      <phone>614-722-3582</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dayton Children's - Dayton</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45404-1815</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Emmett H. Broxson</last_name>
+      <phone>937-641-3111</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Children's Hospital</name>
+      <address>
+        <city>Toledo</city>
+        <state>Ohio</state>
+        <zip>43608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rama Jasty</last_name>
+      <phone>419-251-8215</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tod Children's Hospital</name>
+      <address>
+        <city>Youngstown</city>
+        <state>Ohio</state>
+        <zip>44501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Tod Children's Hospital</last_name>
+      <phone>330-884-3955</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Oklahoma University Cancer Institute</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rene Y. McNall-Knapp</last_name>
+      <phone>405-271-5311</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Natalie Warren Bryant Cancer Center at St. Francis Hospital</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory B. Kirkpatrick</last_name>
+      <phone>918-502-6720</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Legacy Emanuel Children's Hospital</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Legacy Emanuel Children's Hospital</last_name>
+      <phone>503-413-2560</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lehigh Valley Hospital - Muhlenberg</name>
+      <address>
+        <city>Bethlehem</city>
+        <state>Pennsylvania</state>
+        <zip>18017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philip M. Monteleone</last_name>
+      <phone>484-884-3333</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Cancer Institute at Geisinger Health</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Geisinger Cancer Institute</last_name>
+      <phone>570-271-5251</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Children's Hospital</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033-0850</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lisa M. McGregor</last_name>
+      <phone>717-531-6012</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Christopher's Hospital for Children</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19134-1095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - St. Christopher's Hospital for Childr</last_name>
+      <phone>215-427-8991</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh of UPMC</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Children's Hospital of Pittsburgh</last_name>
+      <phone>412-692-7056</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital Comprehensive Cancer Center</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Rhode Island Hospital Comprehensive C</last_name>
+      <phone>401-444-1488</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hollings Cancer Center at Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Hollings Cancer Center at Medical Uni</last_name>
+      <phone>843-792-9321</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Palmetto Health South Carolina Cancer Center</name>
+      <address>
+        <city>Columbia</city>
+        <state>South Carolina</state>
+        <zip>29203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Palmetto Health South Carolina Cancer</last_name>
+      <phone>803-434-3680</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>BI-LO Charities Children's Cancer Center</name>
+      <address>
+        <city>Greenville</city>
+        <state>South Carolina</state>
+        <zip>29605</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nichole L. Bryant</last_name>
+      <phone>864-455-8898</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Avera Cancer Institute</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>605-322-3000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Cancer Center at Sanford USD Medical Center</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57117-5039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Sanford Cancer Center</last_name>
+      <phone>605-328-1367</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>T.C. Thompson Children's Hospital</name>
+      <address>
+        <city>Chattanooga</city>
+        <state>Tennessee</state>
+        <zip>37403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Manoo G. Bhakta</last_name>
+      <phone>423-778-7289</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>East Tennessee Children's Hospital</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ray C. Pais</last_name>
+      <phone>865-541-8266</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dell Children's Medical Center of Central Texas</name>
+      <address>
+        <city>Austin</city>
+        <state>Texas</state>
+        <zip>78723</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Dell Children's Medical Center of Cen</last_name>
+      <phone>512-324-8022</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Driscoll Children's Hospital</name>
+      <address>
+        <city>Corpus Christi</city>
+        <state>Texas</state>
+        <zip>78411</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Driscoll Children's Hospital</last_name>
+      <phone>361-694-5311</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medical City Dallas Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carl Lenarsky</last_name>
+      <phone>972-566-6647x4439</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cook Children's Medical Center - Fort Worth</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Cook's Children's Medical Center</last_name>
+      <phone>682-885-2103</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>M. D. Anderson Cancer Center at University of Texas</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-4009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - M. D. Anderson Cancer Center at the U</last_name>
+      <phone>713-792-3245</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Covenant Children's Hospital</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79410</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Latha Prasannan</last_name>
+      <phone>806-725-4840</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Methodist Children's Hospital of South Texas</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229-3993</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jaime Estrada</last_name>
+      <phone>210-575-7268</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne-Marie R. Langevin</last_name>
+      <phone>210-567-7477</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Scott and White Hospital</name>
+      <address>
+        <city>Temple</city>
+        <state>Texas</state>
+        <zip>76508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guy H. Grayson</last_name>
+      <phone>254-724-2006</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Primary Children's Medical Center</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84113-1100</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Phillip E. Barnette</last_name>
+      <phone>801-662-4700</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Fletcher Allen Health Care - University Health Center Campus</name>
+      <address>
+        <city>Burlington</city>
+        <state>Vermont</state>
+        <zip>05401</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Fletcher Allen Health Care</last_name>
+      <phone>802-656-8990</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Inova Fairfax Hospital</name>
+      <address>
+        <city>Falls Church</city>
+        <state>Virginia</state>
+        <zip>22042-3300</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Inova Fairfax Hospital</last_name>
+      <phone>703-208-6650</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of The King's Daughters</name>
+      <address>
+        <city>Norfolk</city>
+        <state>Virginia</state>
+        <zip>23507-1971</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric J. Lowe</last_name>
+      <phone>757-668-7243</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University Massey Cancer Center</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298-0037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office -Virginia Commonwealth University Masse</last_name>
+      <phone>804-628-1939</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Carilion Medical Center for Children at Roanoke Community Hospital</name>
+      <address>
+        <city>Roanoke</city>
+        <state>Virginia</state>
+        <zip>24014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mandy M. Atkinson</last_name>
+      <phone>540-981-7376</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital and Regional Medical Center - Seattle</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie R. Park</last_name>
+      <phone>206-987-2106</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Providence Cancer Center at Sacred Heart Medical Center</name>
+      <address>
+        <city>Spokane</city>
+        <state>Washington</state>
+        <zip>99220-2555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Judy L. Felgenhauer</last_name>
+      <phone>509-474-2777</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Edwards Comprehensive Cancer Center at Cabell Huntington Hospital</name>
+      <address>
+        <city>Huntington</city>
+        <state>West Virginia</state>
+        <zip>25701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Oncology Research Supervisor</last_name>
+      <phone>304-399-6617</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent Hospital Regional Cancer Center</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54307-3508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - St. Vincent Hospital Regional Cancer</last_name>
+      <phone>920-433-8889</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Gundersen Lutheran Center for Cancer and Blood</name>
+      <address>
+        <city>La Crosse</city>
+        <state>Wisconsin</state>
+        <zip>54601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Gundersen Lutheran Cancer Center</last_name>
+      <phone>608-775-2385</phone>
+      <email>cancerctr@gundluth.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Paul P. Carbone Comprehensive Cancer Center</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792-6164</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - University of Wisconsin Paul P. Carbo</last_name>
+      <phone>608-262-5223</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic - Marshfield Center</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Marshfield Clinic - Marshfield Center</last_name>
+      <phone>800-782-1581 ext. 94457</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Midwest Children's Cancer Center at Children's Hospital of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael E. Kelly</last_name>
+      <phone>414-456-4170</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>John Hunter Hospital</name>
+      <address>
+        <city>Newcastle</city>
+        <state>New South Wales</state>
+        <zip>2310</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Contact Person</last_name>
+      <phone>02-4921-3000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Children's Hospital</name>
+      <address>
+        <city>Brisbane</city>
+        <state>Queensland</state>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Helen Irving</last_name>
+      <phone>617-3636-8671</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Women's and Children's Hospital</name>
+      <address>
+        <city>North Adelaide</city>
+        <state>South Australia</state>
+        <zip>5006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria L. Kirby</last_name>
+      <phone>61881617411</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital for Children</name>
+      <address>
+        <city>Perth</city>
+        <state>Western Australia</state>
+        <zip>6001</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Catherine H. Cole</last_name>
+      <phone>011-6189340-8238</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Alberta Children's Hospital</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T3B 6A8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Douglas R. Strother</last_name>
+      <phone>403-955-7272</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Alberta Hospital</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 2B7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sunil Jayantilal` S. Desai</last_name>
+      <phone>780-248-5530</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's and Women's Hospital of British Columbia</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V6H 3V4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Caron Strahlendorf</last_name>
+      <phone>604-875-3576</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CancerCare Manitoba</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E 0V9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rochelle A. Yanofsky</last_name>
+      <phone>204-787-4163</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>IWK Health Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3J 3G9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margaret C. Yhap</last_name>
+      <phone>902-470-8778</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>McMaster Children's Hospital at Hamilton Health Sciences</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8N 3Z5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carol Portwine</last_name>
+      <phone>905-521-2100x73464</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Centre of Southeastern Ontario at Kingston General Hospital</name>
+      <address>
+        <city>Kingston</city>
+        <state>Ontario</state>
+        <zip>K7L 2V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mariana P. Silva</last_name>
+      <phone>613-5496666x3833</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Western Ontario</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 5W9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anne E.L. Cairney</last_name>
+      <phone>519-685-8494</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Eastern Ontario</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jacqueline M.L. Halton</last_name>
+      <phone>613-737-7600x2370</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hospital for Sick Children</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 1X8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sylvain Baruchel</last_name>
+      <phone>416-813-7795</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Sainte Justine</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H3T 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yvan Samson</last_name>
+      <phone>514-345-4931x2790</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Allan Blair Cancer Centre at Pasqua Hospital</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <zip>S4T 7T1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mansoor M. Haq</last_name>
+      <phone>306-766-2498</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saskatoon Cancer Centre at the University of Saskatchewan</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <zip>S7N 4H4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher Mpofu</last_name>
+      <phone>306-655-2744</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Starship Children's Health</name>
+      <address>
+        <city>Auckland</city>
+        <zip>1</zip>
+        <country>New Zealand</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lochie R. Teague</last_name>
+      <phone>649-307-4949x22423</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>San Jorge Children's Hospital</name>
+      <address>
+        <city>Santurce</city>
+        <zip>00912</zip>
+        <country>Puerto Rico</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luis A. Clavell</last_name>
+      <phone>787-728-1575</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Swiss Pediatric Oncology Group Geneva</name>
+      <address>
+        <city>Geneva</city>
+        <zip>1205</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marc Ansari</last_name>
+      <phone>+41795533626</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Australia</country>
+    <country>Canada</country>
+    <country>New Zealand</country>
+    <country>Puerto Rico</country>
+    <country>Switzerland</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/COG-ACNS02B3</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>November 2012</verification_date>
+  <lastchanged_date>November 9, 2012</lastchanged_date>
+  <firstreceived_date>June 11, 2009</firstreceived_date>
+  <keyword>childhood grade I meningioma</keyword>
+  <keyword>childhood grade II meningioma</keyword>
+  <keyword>childhood grade III meningioma</keyword>
+  <keyword>recurrent childhood cerebellar astrocytoma</keyword>
+  <keyword>recurrent childhood cerebral astrocytoma</keyword>
+  <keyword>recurrent childhood ependymoma</keyword>
+  <keyword>recurrent childhood medulloblastoma</keyword>
+  <keyword>recurrent childhood supratentorial primitive neuroectodermal tumor</keyword>
+  <keyword>recurrent childhood visual pathway and hypothalamic glioma</keyword>
+  <keyword>recurrent childhood visual pathway glioma</keyword>
+  <keyword>childhood central nervous system germ cell tumor</keyword>
+  <keyword>newly diagnosed childhood ependymoma</keyword>
+  <keyword>childhood choroid plexus tumor</keyword>
+  <keyword>childhood craniopharyngioma</keyword>
+  <keyword>childhood infratentorial ependymoma</keyword>
+  <keyword>childhood oligodendroglioma</keyword>
+  <keyword>childhood supratentorial ependymoma</keyword>
+  <keyword>childhood high-grade cerebral astrocytoma</keyword>
+  <keyword>childhood low-grade cerebral astrocytoma</keyword>
+  <keyword>childhood atypical teratoid/rhabdoid tumor</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

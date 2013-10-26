@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="251">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00445965</url>
+  </required_header>
+  <id_info>
+    <org_study_id>05-122</org_study_id>
+    <secondary_id>MSKCC-05122</secondary_id>
+    <nct_id>NCT00445965</nct_id>
+  </id_info>
+  <brief_title>Iodine I 131 Monoclonal Antibody 3F8 in Treating Patients With Central Nervous System Cancer or Leptomeningeal Cancer</brief_title>
+  <official_title>Phase II Study of Intrathecal I-3F8 in Patients With GD2-Expressing Central Nervous System and Leptomeningeal Neoplasms</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan-Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan-Kettering Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Radiolabeled monoclonal antibodies, such as iodine I 131 monoclonal antibody 3F8,
+      can find tumor cells and carry tumor-killing substances to them without harming normal
+      cells. This may be an effective treatment for central nervous system cancer or
+      leptomeningeal metastases.
+
+      PURPOSE: This phase II trial is studying the side effects and how well iodine I 131
+      monoclonal antibody 3F8 works in treating patients with central nervous system cancer or
+      leptomeningeal cancer.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+        -  Determine if intrathecal iodine I 131 monoclonal antibody 3F8 activity in patients with
+           GD2-expressing central nervous system or leptomeningeal neoplasms is sufficiently
+           promising (i.e., 6-month overall survival rate ≥ 25%) to warrant further study.
+
+        -  Determine the response rate in patients treated with this drug.
+
+        -  Determine the cumulative toxicities of this drug in these patients.
+
+        -  Describe the effects of human-antimouse antibody on cerebrospinal fluid and serum
+           pharmacokinetics in patients treated with this drug.
+
+      OUTLINE: This is an open-label study.
+
+      Patients receive intrathecal iodine I 131 monoclonal antibody 3F8 for dosimetry. Beginning
+      approximately 1 week later, patients receive intrathecal iodine I 131 monoclonal antibody
+      3F8 on day 1. Treatment intrathecal iodine I 131 monoclonal antibody 3F8 repeats weekly for
+      up to 4 courses in the absence of disease progression or unacceptable toxicity.
+
+      Blood and cerebrospinal fluid samples are collected prior to and after administration of
+      each course of study drug. Samples are analyzed to assess the intrathecal and blood
+      pharmacokinetics of iodine I 131 monoclonal antibody 3F8 and serum human antimouse
+      antibodies. Samples are also analyzed in tumor genetic studies.
+
+      After completion of study treatment, patients are followed periodically for 3 months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2006</start_date>
+  <completion_date type="Anticipated">January 2014</completion_date>
+  <primary_completion_date type="Anticipated">January 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Six-month overall survival</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>response rate</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>A &quot;response&quot; is defined as a patient being alive six months after their first treatment.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>cumulative toxicities</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Toxicities will be assessed via the NCI toxicity criteria (CTC 3.0).</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">77</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <condition>Intraocular Melanoma</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Melanoma (Skin)</condition>
+  <condition>Metastatic Cancer</condition>
+  <condition>Neuroblastoma</condition>
+  <condition>Ovarian Cancer</condition>
+  <condition>Retinoblastoma</condition>
+  <condition>Sarcoma</condition>
+  <condition>Small Intestine Cancer</condition>
+  <arm_group>
+    <arm_group_label>131I-3F8</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a phase II single-arm open-label study that will define responses to therapy with weekly intrathecal 131I-3F8 in patients with central nervous system/leptomeningeal GD2-expressing disease.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Genetic</intervention_type>
+    <intervention_name>DNA analysis</intervention_name>
+    <arm_group_label>131I-3F8</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>immunologic technique</intervention_name>
+    <arm_group_label>131I-3F8</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>pharmacological study</intervention_name>
+    <arm_group_label>131I-3F8</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>iodine I 131 monoclonal antibody 3F8</intervention_name>
+    <arm_group_label>131I-3F8</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>131I-3F8</intervention_name>
+    <description>Patients will receive 10mCi intrathecal 131I-3F8 per week. Patients will be pre-medicated with dexamethasone to prevent possible meningeal inflammatory reaction, Liothyronine and SSKI to prevent thyroid accumulation, and acetaminophen and diphenhydramine in anticipation of possible allergic reaction and fever.</description>
+    <arm_group_label>131I-3F8</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Histologically confirmed GD2-expressing malignancy, including the following:
+
+               -  Medulloblastoma or primitive neuroectodermal tumor of the CNS
+
+               -  High-grade astrocytoma
+
+               -  Malignant glioma
+
+               -  Neuroblastoma
+
+               -  Retinoblastoma
+
+               -  Ependymoma
+
+               -  Rhabdoid tumors
+
+               -  Sarcomas
+
+               -  Melanoma
+
+               -  Small cell lung carcinoma
+
+               -  Desmoplastic small round cell tumor
+
+               -  Other tumor types with GD2 expression confirmed by immunohistochemical staining
+                  and assessed by the Memorial Sloan-Kettering Department of Pathology using prior
+                  frozen tissue, bone marrow, or cerebrospinal fluid cytology
+
+          -  Must meet 1 of the following criteria:
+
+               -  Refractory to conventional therapies
+
+               -  Disease for which no conventional therapy exists
+
+               -  Recurrent brain tumors with a predilection for leptomeningeal dissemination
+                  (e.g., medulloblastoma, supratentorial primitive neuroectodermal tumor, rhabdoid
+                  tumor)
+
+          -  Patients with active malignancy outside the central nervous system are eligible
+
+               -  No obstructive or symptomatic communicating hydrocephalus
+
+        PATIENT CHARACTERISTICS:
+
+          -  Absolute neutrophil count &gt; 1,000/mm³
+
+          -  Platelet count &gt; 50,000/mm³
+
+          -  No uncontrolled life-threatening infection
+
+          -  No rapidly progressing or deteriorating neurologic examination
+
+          -  No severe major organ toxicity (i.e., renal, cardiac, hepatic, pulmonary, and
+             gastrointestinal system toxicity ≤ grade 2)
+
+          -  Stable neurological deficits (due to brain tumor) allowed
+
+          -  No hearing loss &gt; 3
+
+          -  Not pregnant or nursing
+
+          -  Negative pregnancy test
+
+          -  Fertile patients must use effective contraception
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  No cranial or spinal irradiation within the past 3 weeks
+
+          -  No prior craniospinal radiation &gt; 45 Gy or focal brain radiation &gt; 72 Gy
+
+          -  No systemic chemotherapy within the past 3 weeks (corticosteroids allowed)
+
+          -  Programmable shunt allowed
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kim Kramer, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Memorial Sloan-Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Kim Kramer, MD</last_name>
+    <phone>212-639-6410</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Nai-Kong Cheung, MD, PhD</last_name>
+    <phone>646-888-2313</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kim Kramer, MD</last_name>
+      <phone>212-639-6410</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/MSKCC-05122</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 27, 2013</lastchanged_date>
+  <firstreceived_date>March 7, 2007</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>recurrent childhood medulloblastoma</keyword>
+  <keyword>untreated childhood medulloblastoma</keyword>
+  <keyword>adult supratentorial primitive neuroectodermal tumor (PNET)</keyword>
+  <keyword>recurrent childhood supratentorial primitive neuroectodermal tumor</keyword>
+  <keyword>untreated childhood supratentorial primitive neuroectodermal tumor</keyword>
+  <keyword>adult anaplastic astrocytoma</keyword>
+  <keyword>adult diffuse astrocytoma</keyword>
+  <keyword>adult pilocytic astrocytoma</keyword>
+  <keyword>adult subependymal giant cell astrocytoma</keyword>
+  <keyword>recurrent childhood subependymal giant cell astrocytoma</keyword>
+  <keyword>untreated childhood subependymal giant cell astrocytoma</keyword>
+  <keyword>recurrent childhood cerebellar astrocytoma</keyword>
+  <keyword>recurrent childhood cerebral astrocytoma</keyword>
+  <keyword>untreated childhood cerebellar astrocytoma</keyword>
+  <keyword>adult brain stem glioma</keyword>
+  <keyword>adult mixed glioma</keyword>
+  <keyword>childhood mixed glioma</keyword>
+  <keyword>recurrent childhood brain stem glioma</keyword>
+  <keyword>recurrent childhood visual pathway and hypothalamic glioma</keyword>
+  <keyword>recurrent childhood visual pathway glioma</keyword>
+  <keyword>untreated childhood brain stem glioma</keyword>
+  <keyword>untreated childhood visual pathway and hypothalamic glioma</keyword>
+  <keyword>untreated childhood visual pathway glioma</keyword>
+  <keyword>regional neuroblastoma</keyword>
+  <keyword>disseminated neuroblastoma</keyword>
+  <keyword>recurrent neuroblastoma</keyword>
+  <keyword>extraocular retinoblastoma</keyword>
+  <keyword>recurrent retinoblastoma</keyword>
+  <keyword>adult anaplastic ependymoma</keyword>
+  <keyword>adult ependymoblastoma</keyword>
+  <keyword>adult ependymoma</keyword>
+  <keyword>adult myxopapillary ependymoma</keyword>
+  <keyword>adult subependymoma</keyword>
+  <keyword>childhood infratentorial ependymoma</keyword>
+  <keyword>childhood supratentorial ependymoma</keyword>
+  <keyword>recurrent childhood ependymoma</keyword>
+  <keyword>childhood atypical teratoid/rhabdoid tumor</keyword>
+  <keyword>recurrent melanoma</keyword>
+  <keyword>stage IV melanoma</keyword>
+  <keyword>adult medulloblastoma</keyword>
+  <keyword>chondrosarcoma</keyword>
+  <keyword>metastatic osteosarcoma</keyword>
+  <keyword>recurrent osteosarcoma</keyword>
+  <keyword>metastatic childhood soft tissue sarcoma</keyword>
+  <keyword>ovarian sarcoma</keyword>
+  <keyword>recurrent childhood soft tissue sarcoma</keyword>
+  <keyword>stage III adult soft tissue sarcoma</keyword>
+  <keyword>stage IV adult soft tissue sarcoma</keyword>
+  <keyword>stage III uterine sarcoma</keyword>
+  <keyword>stage IV uterine sarcoma</keyword>
+  <keyword>previously treated childhood rhabdomyosarcoma</keyword>
+  <keyword>recurrent childhood rhabdomyosarcoma</keyword>
+  <keyword>adult anaplastic oligodendroglioma</keyword>
+  <keyword>adult desmoplastic small round cell tumor</keyword>
+  <keyword>adult oligodendroglioma</keyword>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <keyword>tumors metastatic to brain</keyword>
+  <keyword>adult rhabdomyosarcoma</keyword>
+  <keyword>childhood oligodendroglioma</keyword>
+  <keyword>childhood desmoplastic small round cell tumor</keyword>
+  <keyword>extensive stage small cell lung cancer</keyword>
+  <keyword>intraocular retinoblastoma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>recurrent adult soft tissue sarcoma</keyword>
+  <keyword>recurrent uterine sarcoma</keyword>
+  <keyword>small intestine leiomyosarcoma</keyword>
+  <keyword>recurrent small intestine cancer</keyword>
+  <keyword>recurrent small cell lung cancer</keyword>
+  <keyword>extraocular extension melanoma</keyword>
+  <keyword>recurrent intraocular melanoma</keyword>
+  <keyword>metastatic intraocular melanoma</keyword>
+  <keyword>iris melanoma</keyword>
+  <keyword>ciliary body and choroid melanoma, medium/large size</keyword>
+  <keyword>newly diagnosed childhood ependymoma</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>metastatic Ewing sarcoma/peripheral primitive neuroectodermal tumor</keyword>
+  <keyword>recurrent Ewing sarcoma/peripheral primitive neuroectodermal tumor</keyword>
+  <keyword>recurrent childhood pineoblastoma</keyword>
+  <keyword>untreated childhood pineoblastoma</keyword>
+  <keyword>adult pineal gland astrocytoma</keyword>
+  <keyword>stage IIIA melanoma</keyword>
+  <keyword>stage IIIB melanoma</keyword>
+  <keyword>stage IIIC melanoma</keyword>
+  <keyword>recurrent childhood anaplastic astrocytoma</keyword>
+  <keyword>untreated childhood anaplastic astrocytoma</keyword>
+  <keyword>recurrent childhood anaplastic oligoastrocytoma</keyword>
+  <keyword>recurrent childhood anaplastic oligodendroglioma</keyword>
+  <keyword>untreated childhood anaplastic oligoastrocytoma</keyword>
+  <keyword>untreated childhood anaplastic oligodendroglioma</keyword>
+  <keyword>recurrent childhood giant cell glioblastoma</keyword>
+  <keyword>recurrent childhood glioblastoma</keyword>
+  <keyword>untreated childhood giant cell glioblastoma</keyword>
+  <keyword>untreated childhood glioblastoma</keyword>
+  <keyword>recurrent childhood gliosarcoma</keyword>
+  <keyword>untreated childhood gliosarcoma</keyword>
+  <keyword>recurrent childhood gliomatosis cerebri</keyword>
+  <keyword>untreated childhood gliomatosis cerebri</keyword>
+  <keyword>childhood high-grade cerebellar astrocytoma</keyword>
+  <keyword>childhood high-grade cerebral astrocytoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Neuroblastoma</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Retinoblastoma</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+    <mesh_term>Duodenal Neoplasms</mesh_term>
+    <mesh_term>Ileal Neoplasms</mesh_term>
+    <mesh_term>Jejunal Neoplasms</mesh_term>
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Neuroectodermal Tumors, Primitive</mesh_term>
+    <mesh_term>Uveal Neoplasms</mesh_term>
+    <mesh_term>Desmoplastic Small Round Cell Tumor</mesh_term>
+    <mesh_term>Intestinal Neoplasms</mesh_term>
+    <mesh_term>Neuroectodermal Tumors, Primitive, Peripheral</mesh_term>
+    <mesh_term>Meningeal Neoplasms</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Immunoglobulins</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+    <mesh_term>Iodine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

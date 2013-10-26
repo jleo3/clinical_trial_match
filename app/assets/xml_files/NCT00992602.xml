@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="307">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT00992602</url>
+  </required_header>
+  <id_info>
+    <org_study_id>6954</org_study_id>
+    <secondary_id>NCI-2009-01309</secondary_id>
+    <secondary_id>P30CA015704</secondary_id>
+    <nct_id>NCT00992602</nct_id>
+  </id_info>
+  <brief_title>High-dose Methotrexate and Liposomal Cytarabine in Treating Patients With CNS Metastases From Breast Cancer</brief_title>
+  <official_title>Phase II Study of the Combination of High-dose Methotrexate and Intrathecal Liposomal Cytarabine in Patients With Leptomeningeal Metastases With or Without Parenchymal Brain Involvement</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Research Center</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial is studying how well giving high-dose methotrexate together with
+      liposomal cytarabine works in treating patients with central nervous system (CNS) metastases
+      from metastatic breast cancer. Drugs used in chemotherapy, such as methotrexate and
+      liposomal cytarabine, work in different ways to stop the growth of cancer cells, either by
+      killing the cells or by stopping them from dividing. Giving high-dose systemic methotrexate
+      with intra-cerebral spinal fluid (CSF) liposomal cytarabine may kill more tumor cells.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To show that treatment with high-dose methotrexate (HD-MTX) in combination with
+      intrathecal (IT) liposomal cytarabine will result in median progression-free survival (PFS)
+      greater than 7 weeks for patients with breast cancer and leptomeningeal metastases with or
+      without parenchymal brain involvement.
+
+      SECONDARY OBJECTIVES:
+
+      I. To describe the overall survival of patients with CNS metastatic breast cancer treated
+      with the combination of intravenous (IV) HD-MTX and IT liposomal cytarabine.
+
+      II. To describe the safety of the combination therapy, in terms of toxicity, adverse events,
+      and the need for dose reductions or schedule modification.
+
+      III. To estimate the best overall response rate achieved during treatment with IV HD-MTX and
+      IT liposomal cytarabine. Radiographic response will be measured by the Macdonald Criteria
+      using imaging (magnetic resonance imaging [MRI]), and cytologic response will be measured by
+      CSF cytology.
+
+      IV. To determine the number of treatment cycles needed to achieve radiographic and cytologic
+      response. Time to progression and duration of the response will also be measured.
+
+      V. To describe response duration in patients who achieve at least partial radiographic
+      response and cytologic clearance.
+
+      VI. To define time to clinical progression as measured by Karnofsky performance status (KPS)
+      and neurological exam.
+
+      VII. To describe functional status and quality of life of patients, through clinical
+      evaluations of neurological status and patient-reported quality of life (QOL) measured by
+      the Functional Assessment of Chronic Illness Therapy (FACIT) brain and/or CNS
+      questionnaires.
+
+      VIII. To correlate response rates with the extent of patient's systemic disease and tumor
+      receptor status (estrogen receptor [ER], progesterone receptor [PR], human epidermal growth
+      factor receptor 2 [Her2]).
+
+      TERTIARY OBJECTIVES:
+
+      I. To correlate response rates with the extent of patient's systemic disease and tumor
+      receptor status (ER, PR, Her2/neu).
+
+      OUTLINE:
+
+      INDUCTION THERAPY (weeks 1-6): Patients receive high-dose methotrexate IV over 4 hours on
+      days 1, 15, and 29 and liposomal cytarabine IT or lumbar puncture (LP) over 5 minutes on
+      days 8, 22, and 36.
+
+      CONSOLIDATION THERAPY (weeks 7-11): Patients achieving complete response (CR), partial
+      response (PR), or stable disease (SD) then receive high-dose methotrexate IV over 4 hours on
+      days 43 and 57. Patients also receive liposomal cytarabine IT or LP over 5 minutes on days
+      50 and 64.
+
+      MAINTENANCE THERAPY (weeks 13-37): Patients achieving CR, PR, or SD receive high-dose
+      methotrexate IV over 4 hours once monthly and beginning in week 15, patients receive
+      liposomal cytarabine IT or LP over 5 minutes once monthly. Treatment repeats once monthly
+      for 5-6 courses in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up for 30 days.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2011</start_date>
+  <primary_completion_date type="Anticipated">October 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Progression-free survival (PFS)</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Described using Kaplan-Meier survival curves, and confidence intervals for median PFS will be computed. A 95% confidence interval lower bound greater than 7 weeks would be strong evidence for efficacy of the combined treatment regimen. However, an observed median PFS of 12 weeks or greater would also show promise for the combined therapy.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Cancer Therapy Evaluation Program (CTEP) Common Toxicity Criteria grade 3+ neurological and systemic toxicity that persists following dose reductions or schedule modifications</measure>
+    <time_frame>Up to 30 days post-treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Described using Kaplan-Meier survival curves. Measured as time from start of therapy until death, censored on the last date the patient was known to be alive.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of response</measure>
+    <time_frame>Up to 4 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Described using Kaplan-Meier survival curves. Radiographic response will be measured by the RECIST criteria.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Cytologic response as measured by CSF cytology (positive or negative for malignant cells)</measure>
+    <time_frame>Up to week 37</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>FACT-Brain (Br) total score and subscales (physical well-being, social/family well-being, emotional well-being, functional well-being, symptom index) using standard scoring</measure>
+    <time_frame>Assessed every 4 weeks until withdrawal from study</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">22</enrollment>
+  <condition>Central Nervous System Metastases</condition>
+  <condition>Leptomeningeal Metastases</condition>
+  <condition>Recurrent Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Tumors Metastatic to Brain</condition>
+  <arm_group>
+    <arm_group_label>Treatment (chemotherapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>INDUCTION THERAPY (weeks 1-6): Patients receive high-dose methotrexate IV over 4 hours on days 1, 15, and 29 and liposomal cytarabine IT or LP over 5 minutes on days 8, 22, and 36.
+CONSOLIDATION THERAPY (weeks 7-11): Patients achieving CR, PR, or SD then receive high-dose methotrexate IV over 4 hours on days 43 and 57. Patients also receive liposomal cytarabine IT or LP over 5 minutes on days 50 and 64.
+MAINTENANCE THERAPY (weeks 13-37): Patients achieving CR, PR, or SD receive high-dose methotrexate IV over 4 hours once monthly and beginning in week 15, patients receive liposomal cytarabine IT or LP over 5 minutes once monthly. Treatment repeats once monthly for 5-6 courses in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>methotrexate</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (chemotherapy)</arm_group_label>
+    <other_name>amethopterin</other_name>
+    <other_name>Folex</other_name>
+    <other_name>methylaminopterin</other_name>
+    <other_name>Mexate</other_name>
+    <other_name>MTX</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>liposomal cytarabine</intervention_name>
+    <description>Given IT</description>
+    <arm_group_label>Treatment (chemotherapy)</arm_group_label>
+    <other_name>cytarabine liposome</other_name>
+    <other_name>DepoCyt</other_name>
+    <other_name>DepoCyte</other_name>
+    <other_name>DepoFoam-encapsulated cytarabine</other_name>
+    <other_name>DTC 101</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>quality-of-life assessment</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Treatment (chemotherapy)</arm_group_label>
+    <other_name>quality of life assessment</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>questionnaire administration</intervention_name>
+    <description>Ancillary studies</description>
+    <arm_group_label>Treatment (chemotherapy)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Women who are not pregnant (contraception must be used throughout the study)
+
+          -  Diagnosis of breast cancer with metastases to CNS (regardless of receptor status),
+             leptomeningeal disease must be present with/without parenchymal brain involvement
+
+          -  Ability to provide informed consent
+
+          -  No prior treatment with whole brain radiotherapy (WBRT)
+
+          -  If patient received stereotactic radiosurgery (SRS) prior to enrollment it must be
+             well documented which lesions were treated and index lesions (untreated) for follow
+             up must be identified, no treatment with SRS will be permitted while on the study
+
+          -  CNS disease must be documented by magnetic resonance imaging (MRI) and cerebrospinal
+             fluid (CSF) cytology
+
+          -  Karnofsky Performance Status &gt; 60
+
+          -  White blood cells (WBC) &gt; 3.0 K
+
+          -  Absolute neutrophil count (ANC) &gt; 1.5 K
+
+          -  Platelets (PLT) &gt; 100 K
+
+          -  Hematocrit (HCT) &gt; 30%
+
+          -  Acceptable renal function (glomerular filtration rate [GFR] &gt;= 60 mL/min)
+
+          -  Acceptable liver function (see exclusion criteria)
+
+          -  Therapy for systemic disease allowing for addition of systemic HD-MTX and IT Depocyt
+             (in general patients receiving trastuzumab or lapatinib at the time of enrollment
+             will be allowed to continue); bisphosphonates (i.e., zoledronic acid) and denosumab
+             will be allowed; other non-CNS active chemotherapies might be allowed if no known
+             interactions with study drugs are present; this will be reviewed on case-by-case
+             basis
+
+          -  Mini-mental status examination score of 24 or above
+
+        Exclusion Criteria:
+
+          -  Serum bilirubin &gt; 1.5 x the upper limit of reference range (ULRR)
+
+          -  Serum creatinine &gt; 1.5 x ULRR or creatinine clearance =&lt; 60 mL/minute (calculated by
+             Cockcroft-Gault formula)
+
+          -  Potassium, &lt; 3.7 mmol/L despite supplementation; serum calcium (ionized or adjusted
+             for albumin,) or magnesium out of normal range despite supplementation
+
+          -  Alanine aminotransferase (ALT) or aspartate aminotransferase (AST) &gt; 2.5 x ULRR
+
+          -  Alkaline phosphatase (ALP) &gt; 2.5 x ULRR or &gt; 5x ULRR if judged by the investigator to
+             be related to liver metastases
+
+          -  Evidence of severe or uncontrolled systemic disease or any concurrent condition which
+             in the Investigator's opinion makes it undesirable for the patient to participate in
+             the trial or which would jeopardize compliance with the protocol
+
+          -  Patients with known pleural effusion or ascites
+
+          -  Prior treatment with whole brain radiotherapy, prior treatment with stereotactic
+             radiosurgery (SRS) is allowed under conditions provided in the inclusion criteria
+
+          -  Previous allergic or adverse reaction to methotrexate or cytarabine
+
+          -  Prior treatment with systemic HD-MTX or IT liposomal cytarabine
+
+          -  Prior IT therapy of any kind
+
+          -  Women who are currently pregnant or breast feeding
+
+          -  Previous or current malignancies of other histologies within the last 5 years, with
+             the exception of cervical carcinoma in situ and adequately treated basal cell or
+             squamous cell carcinoma of the skin
+
+          -  Receipt of any investigational agents within 30 days prior to commencing study
+             treatment
+
+          -  Last dose of prior chemotherapy discontinued less than 4 weeks before the start of
+             study therapy; patients who had no toxicities with prior chemotherapy can start study
+             treatment earlier than 4 weeks
+
+          -  Last radiation therapy to the brain in the form of SRS within the last 2 weeks before
+             the start of study therapy
+
+          -  Any unresolved toxicity greater than Common Toxicity Criteria (CTC) grade 1 from
+             previous anti-cancer therapy
+
+          -  Previous enrollment in the present study
+
+          -  Major surgery within 4 weeks prior to starting therapy, Ommaya reservoir can be used
+             for introduction of chemotherapy within 48-72 hours after placement
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Maciej Mrugala</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Rhode Island Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Suriya Jeyapalan</last_name>
+      <phone>401-444-1488</phone>
+    </contact>
+    <investigator>
+      <last_name>Suriya Jeyapalan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center/University of Washington Cancer Consortium</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maciej M. Mrugala</last_name>
+      <phone>206-598-9487</phone>
+    </contact>
+    <investigator>
+      <last_name>Maciej M. Mrugala</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 7, 2013</lastchanged_date>
+  <firstreceived_date>October 7, 2009</firstreceived_date>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+    <mesh_term>Meningeal Carcinomatosis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Cytarabine</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

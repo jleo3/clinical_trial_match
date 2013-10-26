@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="160">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01400672</url>
+  </required_header>
+  <id_info>
+    <org_study_id>2009LS136</org_study_id>
+    <secondary_id>1004M81213</secondary_id>
+    <nct_id>NCT01400672</nct_id>
+  </id_info>
+  <brief_title>Imiquimod/Brain Tumor Initiating Cell (BTIC) Vaccine in Brain Stem Glioma</brief_title>
+  <official_title>Imiquimod/BTIC Lysate-Based Vaccine Immunotherapy for Diffuse Intrinsic Pontine Glioma in Children and Young Adults</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Masonic Cancer Center, University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Masonic Cancer Center, University of Minnesota</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This is a pilot/feasibility study. The study design represents a modification of current
+      standard of care for Diffuse Intrinsic Pontine Glioma (DIPG) (5580 cGY involved field
+      radiation), with the final two doses of radiation given at intervals during the vaccination
+      phase of treatment.
+
+      Patients between the ages of 3 years and 25 years diagnosed with Diffuse Intrinsic Pontine
+      Glioma (DIPG) will be allowed to participate in the trial. Study enrollment will occur after
+      the completion of conformal radiation therapy to a dose of 5580 cGy and the post radiation
+      therapy (RT) magnetic resonance imaging (MRI) shows no disease progression.
+
+      Three patients with glioblastoma multiforme, aged 16 years and older, will be entered first
+      to confirm vaccine safety before enrolling DIPG patients.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Vaccine will be produced by the University Of Minnesota Molecular and Cellular Therapeutics
+      Facility using the established brain tumor initiating cell (BTIC) cell line GBM-6 as the
+      antigen source. Vaccine administration will begin at four weeks (week 10) following
+      completion of radiation therapy and will be given every two weeks for four doses. At the
+      time of the 1st and 3rd vaccinations, additional 180 cGy fractions will be delivered in
+      single doses in a novel effort to induce NKG2D ligand upregulation (thereby &quot;sensitizing&quot;
+      residual tumor to lymphocyte attack). The total radiation dose for each patient will be 5940
+      cGy. Subsequent vaccinations will be given every four weeks and will continue to a maximum
+      of one year from study enrollment, by which time median survival will have passed based on
+      historical data. Imaging will be obtained at study entry (post radiation therapy) and every
+      eight weeks thereafter to eighteen months, after which time the interval between imaging
+      follow-up episodes will be determined by the patient's clinical status. Imaging will include
+      MRI of the brain using our current institutional brain tumor imaging protocol. Imaging will
+      also include SPECT/MRI and perfusion MRI. FDG-PET imaging may be used in certain cases to
+      differentiate tumor necrosis from progression.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2012</start_date>
+  <completion_date type="Anticipated">July 2014</completion_date>
+  <primary_completion_date type="Anticipated">June 2014</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Dose-limiting toxicity</measure>
+    <time_frame>Within 24 hours of vaccination</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Determined as Grade 3 or 4 toxicity observation after dosing with BTIC vaccination. Toxicity will be graded using the NCI's Common Terminology Criteria for Adverse Events (CTCAE 4.0) in terms of local, regional and systemic events.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Drop-out rate</measure>
+    <time_frame>24 hours, 48 hours and 1 week after each vaccination</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>Treatment feasibility will be based on the drop-out rate in absence of disease progression. Information will be presented in a tabular and descriptive manner</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to Tumor Progression</measure>
+    <time_frame>Study entry through 24 months after treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Imaging will include MRI, SPECT/MRI and perfusion MRI. FDG-PET imaging may be also be used Response criteria: Complete responses (CR) are those in which there is a disappearance of all enhancing tumor or tumor mass on consecutive MRI scans. Patients must be off steroids, and neurologically stable or improved.
+Partial responses (PR) are those in which there is a ≥ 50% reduction in the size of the enhancing tumor or tumor mass on consecutive MRI scans. In addition, the patient must be neurologically stable.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">20</enrollment>
+  <condition>Diffuse Intrinsic Pontine Glioma</condition>
+  <condition>Glioblastoma Multiforme</condition>
+  <condition>Adult Glioblastoma</condition>
+  <arm_group>
+    <arm_group_label>DIPG Patients Receiving Vaccine</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with diffuse intrinsic pontine glioma (DIPG) receiving radiation therapy, Tumor Lysate Vaccine (dose of 4 x 10^6 cells divided into 2 doses then every 4 weeks for up to 1 year) and Imiquimod (5% Aldara cream at a total dose of 12.5 mg) topically at each site prior to and 24 hours after vaccination.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Tumor Lysate Vaccine</intervention_name>
+    <description>Vaccination is injected intradermally every 2 weeks for 4 doses, then every 4 weeks for up to 1 year.  Patients will receive 1 mg protein divided into 2 doses at two separate subinguinal sites.</description>
+    <arm_group_label>DIPG Patients Receiving Vaccine</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Imiquimod</intervention_name>
+    <description>Marketed as 5% Aldara cream topically applied; total of 12.5 mg divided between the two vaccination sites and reapplied at the vaccination sites 24 hours later.</description>
+    <arm_group_label>DIPG Patients Receiving Vaccine</arm_group_label>
+    <other_name>Aldara cream</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Radiation therapy</intervention_name>
+    <description>Initial course of radiation therapy is given over 6-7 weeks, 5580 cGy. Additional 180 cGy fractions will be delivered as a single dose on days of 1st and 3rd vaccinations and given according to standard of care at University of Minnesota Medical Center. Total radiation dose will be 5940 cGy.</description>
+    <arm_group_label>DIPG Patients Receiving Vaccine</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria - GBM patients only (enrollment plan 1):
+
+          -  Histologically confirmed glioblastoma multiforme (GBM) World Health Organization
+             (WHO) grade III-IV with recurrent or progressive disease after standard therapy
+
+          -  Age 16 years or older
+
+        Inclusion Criteria - DIPG patients only (enrollment plan 2 and 3):
+
+          -  Diagnosis of diffuse intrinsic pontine glioma (DIPG) by magnetic resonance imaging
+             (MRI). Because the safety of biopsy of DIPG has not been firmly established, biopsy
+             will not be required for study enrollment.
+
+          -  Completion of standard radiation therapy (not to exceed 5580 cGy) with a post
+             radiation therapy (RT) MRI that shows no disease progression when compared with
+             pre-RT MRI. All patients must be treated with Intensity Modulated Radiation Therapy
+             (IMRT) or an equivalent conformal technique. The clinical target volume will be
+             defined as the gross tumor volume (full extent of tumor visible on MRI) plus 1 cm
+             margin. Patients from an outside institution who are referred after the start of
+             radiation therapy may complete initial radiation therapy at their home institution as
+             long as dosage guidelines are met and the total dose does not exceed 5580 cGy at the
+             time of study registration.
+
+          -  Able to begin vaccination 4 weeks (+ or - 1 week) of completion of standard radiation
+             therapy
+
+          -  Age 3 years and older Inclusion Criteria - all patients regardless of diagnosis
+
+          -  Clinically stable and off or on low dose (no more than 0.1 mg/kg/day, maximum of 4
+             mg/day dexamethasone) corticosteroid for at least 1 week prior to study enrollment
+
+          -  Lansky (0-15 years) or Karnofsky (16 years or older) performance score of ≥ 60
+
+          -  Adequate organ function within 14 days of study registration including the following:
+
+               -  Adequate bone marrow reserve: absolute neutrophil (segmented and bands) count
+                  (ANC) ≥ 1.0 x 10^9/L, platelets ≥ 100 x 10^9/L; Hemoglobin ≥ 8 g/dL
+
+               -  Hepatic: - Total bilirubin ≤ 1.5 x upper limit of normal (ULN) for age and SGPT
+                  (ALT) ≤ 2.5 x upper limit of normal (ULN) for age
+
+               -  Renal: Normal serum creatinine for age or creatinine clearance &gt;60 ml/min/1.73
+                  m^2.
+
+          -  Sexually active females of child bearing potential must agree to use adequate
+             contraception (diaphragm, birth control pills, injections, intrauterine device [IUD],
+             surgical sterilization, subcutaneous implants, or abstinence, etc.) for the duration
+             of the vaccination period. Sexually active males must agree to use barrier
+             contraceptive for the duration of the vaccination period.
+
+          -  Voluntary written informed consent must be obtained from all patients (if of assent
+             age) and their parents or legal guardians before performance of any study-related
+             procedure not part of normal medical care, with the understanding that consent may be
+             withdrawn by the subject at any time without prejudice to future medical care.
+
+        Exclusion Criteria - all patients:
+
+          -  Pregnant or breast-feeding. Pregnancy testing will be performed on all menstruating
+             females within 14 days prior to study enrollment.
+
+          -  Uncontrolled intercurrent illness including, but not limited to ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, or
+             psychiatric illness/social situations that would limit compliance with study
+             requirements
+
+          -  Currently receiving any chemotherapy, investigational agents or registration on
+             another therapy based trial or received chemotherapy with radiation therapy
+
+          -  History of immune system abnormalities such as hyperimmunity (e.g., autoimmune
+             diseases) and hypoimmunity (e.g., myelodysplastic disorders, marrow failures, AIDS,
+             ongoing pregnancy, transplant immunosuppression)
+
+          -  Any isolated laboratory abnormality suggestive of a serious autoimmune disease
+
+          -  Any conditions that could potentially alter immune function (AIDS, multiple
+             sclerosis, diabetes, renal failure)
+
+          -  Receiving ongoing treatment with immunosuppressive drugs, excluding those patients
+             requiring dexamethasone for treatment of tumor-related edema
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher Moertel, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Masonic Cancer Center, University of Minnesota</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Christopher Moertel, MD</last_name>
+    <phone>612-626-2778</phone>
+    <email>moert001@umn.edu</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Tambra Dahlheimer, RN</last_name>
+    <phone>612 626 2629</phone>
+    <email>tdahlheimer@umphysicians.umn.edu</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Masonic Cancer Center, University of Minnesota</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Christopher Moertel, M.D.</last_name>
+      <phone>612-626-2778</phone>
+      <email>moert001@umn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Christopher Moertel, M.D.</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2013</verification_date>
+  <lastchanged_date>June 11, 2013</lastchanged_date>
+  <firstreceived_date>July 19, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Diffuse intrinsic pontine glioma</keyword>
+  <keyword>glioblastoma multiforme</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Pontine Glioma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Imiquimod</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

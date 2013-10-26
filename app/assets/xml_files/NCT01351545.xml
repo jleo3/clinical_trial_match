@@ -1,0 +1,2991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="362">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01351545</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10-CBA</org_study_id>
+    <nct_id>NCT01351545</nct_id>
+  </id_info>
+  <brief_title>A Multicenter Access and Distribution Protocol for Unlicensed Cryopreserved Cord Blood Units (CBUs)</brief_title>
+  <official_title>A Multicenter Access and Distribution Protocol for Unlicensed Cryopreserved Cord Blood Units (CBUs) for Transplantation in Pediatric and Adult Patients With Hematologic Malignancies and Other Indications</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Center for International Blood and Marrow Transplant Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Marrow Donor Program</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Center for International Blood and Marrow Transplant Research</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study is an access and distribution protocol for unlicensed cryopreserved cord blood
+      units (CBUs) in pediatric and adult patients with hematologic malignancies and other
+      indications.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Principal Investigators:
+
+      The principal investigators (PIs) will be transplant physicians at all participating U.S.
+      transplant centers.
+
+      Study Design:
+
+      This study is an access and distribution protocol for unlicensed cryopreserved cord blood
+      units (CBUs) in pediatric and adult patients with hematologic malignancies and other
+      indications.
+
+      Primary Objective:
+
+      The primary aim of this study is to examine the incidence of neutrophil recovery of ≥500/mm3
+      after cord blood transplantation in a multi-institution setting using CBUs that are not Food
+      and Drug Administration (FDA) licensed.
+
+      Secondary Objectives:
+
+      In patients receiving a non-licensed CBU:
+
+        -  Assess incidence of graft rejection
+
+        -  Assess incidence of transmission of infection
+
+        -  Assess incidence of serious infusion reaction
+
+        -  Determine 1 year survival after cord blood transplantation
+
+        -  Assess cumulative incidence of acute graft vs. host disease (GVHD) grades II to IV and
+           grades III to IV
+
+        -  Assess cumulative incidence of chronic GVHD
+
+        -  Determine platelet engraftment of &gt;20,000 mcL and &gt;50,000 mcL
+
+        -  Determine CBU-derived engraftment
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2011</start_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Time Perspective: Prospective</study_design>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">99999</enrollment>
+  <condition>Hematological Malignancies</condition>
+  <condition>Certain Lysosomal Storage and Peroxisomal Enzyme Deficiency Disorders</condition>
+  <condition>Hurler Syndrome (MPS I)</condition>
+  <condition>Krabbe Disease (Globoid Leukodystrophy)</condition>
+  <condition>X-linked Adrenoleukodystrophy</condition>
+  <condition>Primary Immunodeficiency Diseases</condition>
+  <condition>Bone Marrow Failure</condition>
+  <condition>Beta-thalassemia</condition>
+  <arm_group>
+    <arm_group_label>Unlicensed CBU</arm_group_label>
+    <description>The cohort includes recipients of any age receiving unlicensed cryopreserved cord blood units (CBUs) for designated indications.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>A multicenter access and distribution protocol for unlicensed cryopreserved cord blood units (CBUs)</intervention_name>
+    <description>A multicenter access and distribution protocol for unlicensed cryopreserved cord blood units (CBUs) for transplantation in pediatric and adult patients with hematologic malignancies and other indications</description>
+    <arm_group_label>Unlicensed CBU</arm_group_label>
+  </intervention>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Recipients of unlicensed cryopreserved cord blood units who are being treated as U.S.
+        transplant centers.
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with FDA-specified indications: Hematological malignancies, Certain
+             lysosomal storage and peroxisomal enzyme deficiency disorders (Hurler syndrome (MPS
+             I), Krabbe Disease (Globoid Leukodystrophy),and X-linked Adrenoleukodystrophy),
+             Primary immunodeficiency diseases, Bone marrow failure, and Beta-thalassemia
+
+          -  Signed informed consent (and signed assent, if applicable)
+
+          -  Pediatric and adult patients of any age
+
+        Exclusion Criteria:
+
+          -  Patients who are receiving only licensed CBUs
+
+          -  Cord blood transplant recipients at international transplant centers
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph Chewning, MD</last_name>
+      <email>jchewning@peds.uab.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joseph Chewning, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Arizona (adults)</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85054</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James Slack, MD</last_name>
+      <email>slack.james@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>James Slack, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Phoenix Children's Hospital</name>
+      <address>
+        <city>Phoenix</city>
+        <state>Arizona</state>
+        <zip>85016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roberta Adams, MD</last_name>
+      <email>adams.roberta@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Roberta Adams, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Scottsdale Healthcare/Cancer Transplant Institute at Virginia G. Piper Cancer Center</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85260</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Schriber, MD</last_name>
+      <phone>480-323-1392</phone>
+      <email>JSchriber@shc.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Gail Sulski</last_name>
+      <phone>(480) 323-1393</phone>
+      <email>GSulski@SHC.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jeffrey Schriber, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Arizona Medical Center - Tucson</name>
+      <address>
+        <city>Tucson</city>
+        <state>Arizona</state>
+        <zip>85224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrew Yeager, MD</last_name>
+      <email>Ayeager@azcc.arizona.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Yeager, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>City of Hope</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chatchada Karanes, MD</last_name>
+      <email>ckaranes@coh.org</email>
+    </contact>
+    <investigator>
+      <last_name>Chatchada Karanes, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Los Angeles</name>
+      <address>
+        <city>Glendale</city>
+        <state>California</state>
+        <zip>91204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Neena Kapoor, MD</last_name>
+      <email>nkapoor@chla.usc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Neena Kapoor, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of California San Diego</name>
+      <address>
+        <city>La Jolla</city>
+        <state>California</state>
+        <zip>92093</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edward Ball, MD</last_name>
+      <phone>858-822-6600</phone>
+      <email>tball@ucsd.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Sue Corringham, RN</last_name>
+      <phone>858-822-6387</phone>
+      <email>scorringham@ucsd.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Edward Ball, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Scripps Green Hospital</name>
+      <address>
+        <city>LaJolla</city>
+        <state>California</state>
+        <zip>92037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey W Andrey, MD</last_name>
+      <email>andrey.jeffrey@scrippshealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Jeffrey W Andrey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Loma Linda Universoty Cancer Center</name>
+      <address>
+        <city>Loma Linda</city>
+        <state>California</state>
+        <zip>92350</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joan D Morris, MG</last_name>
+      <email>jdmorris@llu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joan D Morris, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gary Schiller, MD</last_name>
+      <phone>310-206-5755</phone>
+      <email>gschiller@mednet.ucla.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Shirley Fischer</last_name>
+      <phone>310-794-3019</phone>
+      <email>sfischer@mednet.ucla.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Gary Schiller, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cedars-Sinai Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90048</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Lill, MD</last_name>
+      <email>lillm@cshs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Lill, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital and Research Center of Oakland</name>
+      <address>
+        <city>Oakland</city>
+        <state>California</state>
+        <zip>94609</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mark Walters, MD</last_name>
+      <email>mwalters@mail.cho.org</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Walters, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County (CHOC)</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven Neudorf, MD</last_name>
+      <email>sneudorf@choc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Steven Neidorf, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sutter Medical Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95816</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Carroll, MD</last_name>
+      <email>carrolmp@sutterhealth.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Carroll, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UC Davis Cancer Center</name>
+      <address>
+        <city>Sacramento</city>
+        <state>California</state>
+        <zip>95817</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolynn Richman, MD</last_name>
+      <phone>916-734-3772</phone>
+      <email>carol.richman@ucdmc.ucdavis.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Deborah Stewart</last_name>
+      <phone>(916) 734-4384</phone>
+      <email>deborahi.stewart@ucdmc.ucdavis.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Carolynn Richman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rady Children's Hospital San Diego</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92123</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Anderson, MD</last_name>
+      <email>eanderson@rchsd.org</email>
+    </contact>
+    <investigator>
+      <last_name>Eric Anderson, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF (adults)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Martin, MD</last_name>
+      <phone>415-353-9365</phone>
+      <email>tmartin@medicine.ucsf.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Lisa Dunn</last_name>
+      <phone>415-353-3220</phone>
+      <email>Lisa.Dunn@ucsfmedctr.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Thomas Martin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF (peds)</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Chris Dvorak, MD</last_name>
+      <email>Dvorakc@peds.ucsf.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Chris Dvorak, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford University Medical Center</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandhya Kharbanda, MD</last_name>
+      <email>ksandhya@stanford.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sandhya Kharbanda, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jonathan Gutman, MD</last_name>
+      <email>jonathan.gutman@ucdenver.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jonathan Gutman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Colorado</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ralph Quinones, MD</last_name>
+      <email>Quinones.Ralph@tchden.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ralph Quinones, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian St. Luke's/Colorado Blood Cancer Institute</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter McSweeney, MD</last_name>
+      <email>peter.mcsweeney@healthonecares.com</email>
+    </contact>
+    <investigator>
+      <last_name>Peter McSweeney, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Yale New Haven Hospital</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06510</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>S. Deborah Chirnomas, MD, MPH</last_name>
+      <email>deborah.chirnomas@yale.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Joanna Hilburn</last_name>
+      <email>joanna.hilburn@yale.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>S. Deborah Chirnomas, MD, MPH</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours - Alfred I. duPont Hospital for Children</name>
+      <address>
+        <city>Brandywine</city>
+        <state>Delaware</state>
+        <zip>19803</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>E. Anders Kolb, MD</last_name>
+      <email>eakolb@nemours.org</email>
+    </contact>
+    <investigator>
+      <last_name>E. Anders Kolb, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington DC</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Jacobsohn, MD</last_name>
+      <email>dajacobs@childrensnational.org</email>
+    </contact>
+    <investigator>
+      <last_name>David Jacobsohn, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Florida Shands Medical Center</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Florida</state>
+        <zip>32610</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John R Wingard, MD</last_name>
+      <phone>352-273-8022</phone>
+      <email>wingajr@ufl.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Joe Stokes, RN, BS</last_name>
+      <phone>352-273-6845</phone>
+      <email>Joe.stokes@medicine.ufl.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John R Wingard, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic - Jacksonville (adults)</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Vivek Roy, MD</last_name>
+      <email>roy.vivek@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Vivek Roy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nemours Children's Hospital - Mayo Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32207</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Joyce, MD</last_name>
+      <email>mjoyce@nemours.org</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Joyce, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Miami Children's Hospital</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33155</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Guillermo De Angulo, MD</last_name>
+      <phone>786-624-3829</phone>
+      <email>Guillermo.DeAngulo@mch.com</email>
+    </contact>
+    <contact_backup>
+      <last_name>Mercy Galera-Perez</last_name>
+      <phone>786-624-3829</phone>
+      <email>mercedes.galera-perez@mch.com</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Guillermo De Angulo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami (adult)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Krishna Komanduri, MD</last_name>
+      <phone>305-243-6355</phone>
+    </contact>
+    <investigator>
+      <last_name>Krishna Komanduri, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Miami (peds)</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Martin Andreansky, MD</last_name>
+      <email>mandreansky@med.maimi.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Martin Andreansky, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Hospital Cancer Institute</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melhem Solh, MD</last_name>
+      <email>melhem.solh.md@flhosp.org</email>
+    </contact>
+    <investigator>
+      <last_name>Melhem Sohl, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Center for Cellular Therapy</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melhem Solh, MD</last_name>
+      <email>melhem.solh.md@flhosp.org</email>
+    </contact>
+    <investigator>
+      <last_name>Melhem Solh, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>All Children's Hospital</name>
+      <address>
+        <city>St. Petersburg</city>
+        <state>Florida</state>
+        <zip>33701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aleksandra Petrovic, MD</last_name>
+      <email>Aleksandra.Petrovic@allkids.org</email>
+    </contact>
+    <investigator>
+      <last_name>Aleksandra Petrovic, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>H Lee Moffitt Cancer Center</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marcie Tomblyn, MD</last_name>
+      <email>marcie.tomblyn@moffitt.org</email>
+    </contact>
+    <investigator>
+      <last_name>Marcie Tomblyn, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Healthcare of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ann Haight, MD</last_name>
+      <email>Ann.haight@choa.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ann Haight, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northside Hospital</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30342</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Scott Solomon, MD</last_name>
+      <email>ssolomon@bmtga.com</email>
+    </contact>
+    <investigator>
+      <last_name>Scott Solomon, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Emory University Hospital</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30322</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edmund Waller, MD</last_name>
+      <email>ewaller@emory.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Edmund Waller, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kapiolani Medical Center for Women and Children</name>
+      <address>
+        <city>Honolulu</city>
+        <state>Hawaii</state>
+        <zip>96813</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Randal Wada, MD</last_name>
+      <email>tbear@cc.hawaii.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Randal Wada, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Blood &amp; Marrow Transplantation</name>
+      <address>
+        <city>Beech Grove</city>
+        <state>Illinois</state>
+        <zip>46107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luke Akard, MD</last_name>
+      <email>lakard@ibmtindy.com</email>
+    </contact>
+    <investigator>
+      <last_name>Luke Akard, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Memorial Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60614</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Reggie Duerst, MD</last_name>
+      <email>rduerst@childrensmemorial.org</email>
+    </contact>
+    <investigator>
+      <last_name>Reggie Duerst, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hongtao Liu, MD</last_name>
+      <email>hliu2@medicine.bsd.uchicago.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Hongtao Liu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northwestern Memorial Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60611</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Olga Frankfurt, MD</last_name>
+      <email>o-frankfurt@northwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Olga Frankfurt, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rush University Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Henry Fung, MD</last_name>
+      <email>henry_fung@rush.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Henry Fung, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Illinois at Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Damiano Rondelli, MD</last_name>
+      <email>drond@uic.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Damiano Rondelli, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Loyola University Medical Center</name>
+      <address>
+        <city>Maywood</city>
+        <state>Illinois</state>
+        <zip>60153</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick Stiff, MD</last_name>
+      <email>pstiff@lumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Patrick Stiff, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Midwestern Regional Medical Center</name>
+      <address>
+        <city>Zion</city>
+        <state>Illinois</state>
+        <zip>60099</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Istvan Redei, MD</last_name>
+      <email>Istvan.redei@ctca-hope.com</email>
+    </contact>
+    <investigator>
+      <last_name>Istvan Redei, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Bone Marrow and SCT Program</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sherif Farag, MD</last_name>
+      <email>ssfarag@iupui.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sherif Farag, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Margarida Silverman, MD</last_name>
+      <email>margarida-silverman@uiowa.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Margarida Silverman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kansas</name>
+      <address>
+        <city>Westwood</city>
+        <state>Kansas</state>
+        <zip>66205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph McGuirk, DO</last_name>
+      <email>jmcguirk@kumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joseph McGuirk, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Kentucky</name>
+      <address>
+        <city>Lexington</city>
+        <state>Kentucky</state>
+        <zip>40536</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Zartash Gul, MD</last_name>
+      <email>zgu224@uky.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Nancy Johnson</last_name>
+      <email>nkjohn2@uky.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Dianna Howard, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Louisville Hospital - James Brown Cancer Center</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Herzig, MD</last_name>
+      <email>herzig@louisville.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Robert Herzig, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of New Orleans/LSUHSC</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lolie Yu, MD</last_name>
+      <phone>504-896-9740</phone>
+      <email>lyu@lsuhsc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Margaret Meyers</last_name>
+      <phone>(504) 896-2818</phone>
+      <email>mmeyers@chnola.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Lolie Yu, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tulane Medical Center</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hana Safa, MD</last_name>
+      <email>hsafah@tulane.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Hana Safa, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Allen Chen, MD, PhD</last_name>
+      <email>allenchen@jhmi.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Duane Herbel</last_name>
+      <email>dherbel1@jhmi.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Allen Chen, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Greenebaum Cancer Center - University of Maryland</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Saul Yanovich, MD</last_name>
+      <email>syanovich@umm.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Saul Yanovich, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>NIH/NCI</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Nih/Nhlbi</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard Childs, MD</last_name>
+      <email>childsr@nih.gov</email>
+    </contact>
+    <investigator>
+      <last_name>Richard Childs, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nih/Niaid</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Kang, MD</last_name>
+      <email>ekang@niaid.nih.gov</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Kang, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Avigan, MD</last_name>
+      <email>davigan@bidmc.harvard.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Avigan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Karen Ballen, MD</last_name>
+      <email>kballen@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Karen Ballen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Corey Cutler, MD</last_name>
+      <email>cscutler@partners.org</email>
+    </contact>
+    <investigator>
+      <last_name>Cory Cutler, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andreas Klein, MD</last_name>
+      <phone>617-636-8884</phone>
+      <email>aklein2@tuftsmedicalcenter.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jodi Jensen, RN</last_name>
+      <phone>617-636-5558</phone>
+      <email>jjensen@tuftsmedicalcenter.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Andreas Klein, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Massachusetts</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01655</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rajneesh Nath, MC</last_name>
+      <email>rajneesh.nath@umassmemorial.org</email>
+    </contact>
+    <investigator>
+      <last_name>Rajneesh Nath, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Daniel Couriel, MD</last_name>
+      <email>dcouriel@umich.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Couriel, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Health System</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nalini Janakiraman, MD</last_name>
+      <email>njanaki1@hfhs.org</email>
+    </contact>
+    <investigator>
+      <last_name>Nalini Janakiraman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Karmanos Cancer Institute</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Voravit Ratanatharathorn, MD</last_name>
+      <email>ratanath@karmanos.org</email>
+    </contact>
+    <investigator>
+      <last_name>Voravit Ratanatharathorn, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Michigan</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sureyya Savasan, MD</last_name>
+      <email>ssavasan@med.wayne.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Sureyya Savasan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Helen DeVos Children's Hospital</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Aly Abdel-Mageed, MD</last_name>
+      <email>aly.mageed@helendevoschildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Aly Abdel-Mageed, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Univeristy of Mississippi Medical Center</name>
+      <address>
+        <city>Jackson</city>
+        <state>Michigan</state>
+        <zip>39216</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carolyn Bigelow, MD</last_name>
+      <email>cbigelow@umc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Carolyn Bigelow, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William Hogan, MD</last_name>
+      <email>hogan.william@mayo.edu</email>
+    </contact>
+    <investigator>
+      <last_name>WWilliam Hogan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Mercy Hospital and Clinics</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jignesh Dalal, MD</last_name>
+      <email>jddalal@cmh.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jignesh Dalal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cardinal Glennon Children's Medical Center</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deepika Bhatla, MD</last_name>
+      <email>dbhatla@slu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Deepika Bhatla, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University St. Louis</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Peter Westervelt, MD, PhD</last_name>
+      <email>pwesterv@dom.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Peter Westerveldt, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis Children's</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shalini Shenoy, MD</last_name>
+      <email>Shenoy@kids.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Shalini Shenoy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis University</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sagun Goyal, MD</last_name>
+      <email>sgoyal3@slu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Steven Pincus, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198-2168</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Phyllis Warkenton, MD</last_name>
+      <email>pwarkent@unmc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Phyllis Warkenton, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alfred Gillio, MD</last_name>
+      <email>agillio@humed.com</email>
+    </contact>
+    <investigator>
+      <last_name>Alfred Gillio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Robert Wood Johnson/Cancer Institute of New Jersey</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roger Strair, MD, PhD</last_name>
+      <email>strairrk@umdnj.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Roger Strair, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Philip McCarthy, MD</last_name>
+      <email>philip.mccarthy@roswellpark.org</email>
+    </contact>
+    <investigator>
+      <last_name>Philip McCarthy, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Hospital</name>
+      <address>
+        <city>Lake Sucess</city>
+        <state>New York</state>
+        <zip>11042</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ruthee L Bayer, MD</last_name>
+      <email>rbayer@nshs.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Ruthee L Bayer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cohen Children's Medical Center of New York</name>
+      <address>
+        <city>New Hyde</city>
+        <state>New York</state>
+        <zip>11040</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joel Brochstein, MD</last_name>
+      <email>jbrochstein@nshs.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joel Brochstein, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York Presbyterian Hospital at Cornell</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tsiporah Shore, MD</last_name>
+      <email>tbs2001@med.cornell.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Tsiporah Shore, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Juliet Barker, MBBS</last_name>
+      <email>barkerj@mskcc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Juliet Barker, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Sinai Medical Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10029</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Luis Isola, MD</last_name>
+      <email>luis.isola@mountsinai.org</email>
+    </contact>
+    <investigator>
+      <last_name>Luis Isola, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Columbia University Medical Center - Morgan Stanley Children's Hospital</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Monica Bhatia, MD</last_name>
+      <email>mb2476@columbia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Monica Bhatia, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>New York Medical College</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10595</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mitchell Cairo, MD</last_name>
+      <phone>914-594-3640</phone>
+      <email>mitchell_cairo@nymc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mitchell Cairo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Strong Memorial Hospital/University of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642-8704</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jane Liesveld, MD</last_name>
+      <email>jane_liesveld@urmc.rochester.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Jane Liesveld, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Stony Brook University Hospital</name>
+      <address>
+        <city>Stony Brook</city>
+        <state>New York</state>
+        <zip>11794</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Schuster, MD</last_name>
+      <email>mschuster@notes.cc.sunysb.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Schuster, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of North Carolina at Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kimberly Kasow, DO</last_name>
+      <email>kkasow@med.unc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Kimberly Kasow, DO</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Levine Children's Hospital/Carolinas Medical Center</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Howard Grodman, MD</last_name>
+      <email>howard.grodman@carolinashealthcare.org</email>
+    </contact>
+    <investigator>
+      <last_name>Howard Grodman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke University Medical Center (peds)</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>22705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joanne Kurtzberg, MD</last_name>
+      <email>kurtz001@mc.duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joanne Kurtzberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Universoty Medical Center (adults)</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27705</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joanne Kurtzberg, MD</last_name>
+      <email>kurtz001@mc.duke.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Joanne Kurtzberg, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Hurd, MD</last_name>
+      <email>dhurd@wakehealth.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Hurd, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Childrens Hospital Medical Center of Akron</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven Kuerbitz, MD</last_name>
+      <email>skuerbitz@chmca.org</email>
+    </contact>
+    <investigator>
+      <last_name>Steven Kuerbitz@chmca.org, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sonata Jodele, MD</last_name>
+      <email>sonata.jodele@cchmc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Sonata Jodele, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Jewish Hospital</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>E. Randolph Broun, MD</last_name>
+      <email>erbroun@ohcmail.com</email>
+    </contact>
+    <investigator>
+      <last_name>E. Randolph Broun, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matt Kalaycio, MD</last_name>
+      <email>kalaycm@ccf.org</email>
+    </contact>
+    <investigator>
+      <last_name>Matt Kalaycio, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University Hospitals Case Medical Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hillard Lazarus, MD</last_name>
+      <email>hillard.lazarus@case.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Hillard Lazarus, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Arthur G. James Cancer Hospital/The Ohio State University Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Steven Devine, MD</last_name>
+      <email>Steven.devine@osumc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Steven Devine, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nationwide Children's Hospital</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43205</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sandeep Soni, MD</last_name>
+      <email>sandeep.soni@nationwidechildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Sandeep Soni, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma Health Science Center</name>
+      <address>
+        <city>Oklahoma City</city>
+        <state>Oklahoma</state>
+        <zip>73103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>George Selby, MD</last_name>
+      <email>George-selby@ouhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>George Selby, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University/Doernbecher Children's Hospital</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eneida Nemecek, MD</last_name>
+      <email>nemeceke@ohsu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Eneida Nemecek, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Penn State Milton S. Hershey Cancer Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Witold Rybka, MD</last_name>
+      <email>wrybka@hmc.psu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Witold Rybka, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nancy Bunin, MD</last_name>
+      <email>buninn@email.chop.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Nancy Bunin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pennsylvania/Thomas Jefferson</name>
+      <address>
+        <city>Pittsburg</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Hexner, MD</last_name>
+      <email>elizabeth.hexner@uphs.upenn.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Hexner, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>West Penn Hospital</name>
+      <address>
+        <city>Pittsburg</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John Lister, MD</last_name>
+      <email>Jlister@wpahs.org</email>
+    </contact>
+    <investigator>
+      <last_name>John Lister, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mounzer Agha, MD</last_name>
+      <email>aghame@upmc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Ann Welsch</last_name>
+      <email>welshah2@upmc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Mounzer Agha, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rakesh Goyal, MD</last_name>
+      <email>rakesh.goyal@chp.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rakesh Goyal, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Roger Williams Medical Center</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Stuart, MD</last_name>
+      <phone>843-792-4271</phone>
+      <email>stuartrk@musc.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jessica Simons</last_name>
+      <phone>843-792-8856</phone>
+      <email>simonsjl@musc.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert Stuart, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Avera Transplant Institute</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ramakrishnan Parameswaran, MD</last_name>
+      <email>vinod.parameswaran@avera.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ramakrishnan Parameswaran, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. Jude Childrens Research Hospital</name>
+      <address>
+        <city>Memphis</city>
+        <state>Tennessee</state>
+        <zip>38105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mari Hashitate Dallas, MD</last_name>
+      <email>Mari.Dallas@STJUDE.ORG</email>
+    </contact>
+    <investigator>
+      <last_name>Mari Hashitate Dallas, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt University</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Haydar Frangoul, MD</last_name>
+      <phone>615-939-1762</phone>
+      <email>Haydar.frangoul@vanderbilt.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Jessica Piggee, MPH</last_name>
+      <phone>615-875-6120</phone>
+      <email>Jessica.l.piggee@vanderbilt.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Haydar Frangoul, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Vanderbilt Veterans Hospital</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37212</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wichai Chinratanalab, MD</last_name>
+      <phone>615-873-6373</phone>
+      <email>Wichai.Chinratanalab@va.gov</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rita Lynch</last_name>
+      <phone>615-873-6373</phone>
+      <email>rita.lynch@va.gov</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Wichai Chinratanalab, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Amarillo Blood and Marrow Transplant Program</name>
+      <address>
+        <city>Amarillo</city>
+        <state>Texas</state>
+        <zip>79106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Seah Lim, MD</last_name>
+      <email>seah.lim@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Seah Lim, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical City Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert B Berryman, MD</last_name>
+      <email>Robert.berryman@usoncology.com</email>
+    </contact>
+    <investigator>
+      <last_name>Robert B Berryman, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Baylor University Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75246</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edward Agura, MD</last_name>
+      <email>edward.agura@baylorhealth.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Edward Agura, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Medical Center Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75235</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Victor Aquino, MD</last_name>
+      <email>Victor.aquino@utsouthwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Victor Aquino, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Southwestern Medical Center</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Madhuri Vusirikala, MD</last_name>
+      <email>madhuri.vusirikala@utsouthwestern.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Madhuri Vusirikala, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Zachary and Elizabeth M Fisher Bome Marrow Transplant Unit</name>
+      <address>
+        <city>Fork Sam Houston</city>
+        <state>Texas</state>
+        <zip>78234-6200</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Michael Osswald, MD</last_name>
+      <email>michael.osswald@amedd.army.mil</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Osswald, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cook Children's Hospital</name>
+      <address>
+        <city>Fort Worth</city>
+        <state>Texas</state>
+        <zip>76104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gretchen Eames, MD</last_name>
+      <email>gretchen.eames@cookchildrens.org</email>
+    </contact>
+    <investigator>
+      <last_name>Gretchen Eames, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>M.D. Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Elizabeth Shpall, MD</last_name>
+      <email>eshpall@mdanderson.org</email>
+    </contact>
+    <investigator>
+      <last_name>Elizabeth Shpall, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Children's Hospital - Baylor Medical Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert Krance, MD</last_name>
+      <phone>832-824-4661</phone>
+      <email>rakrance@txch.org</email>
+    </contact>
+    <contact_backup>
+      <last_name>Marlin Dinu</last_name>
+      <phone>832-824-4881</phone>
+      <email>mxdinu@txch.org</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Robert Krance, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Southwest Cancer Treatment &amp; Research Center</name>
+      <address>
+        <city>Lubbock</city>
+        <state>Texas</state>
+        <zip>79415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Everardo Cobos, MD</last_name>
+      <email>everardo.cobos@ttuhsc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Everardo Cobos, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Texas Transplant Institute</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Carlos Bachier, MD</last_name>
+      <email>carlos.bachier@mhshealth.com</email>
+    </contact>
+    <investigator>
+      <last_name>Carlos Bachier, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Intermountain Blood and Marrow Transplant Program</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Finn Bo Petersen, MD</last_name>
+      <email>finn.petersen@imail.org</email>
+    </contact>
+    <investigator>
+      <last_name>Finn Bo Petersen, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Boyer, MD</last_name>
+      <email>michael.boyer@hsc.utah.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Boyer, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Virginia</name>
+      <address>
+        <city>Charlottesville</city>
+        <state>Virginia</state>
+        <zip>22908</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Mary J Laughlin, MD</last_name>
+      <email>mjl5g@virginia.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Mary J Laughlin, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23227</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John McCarty, MD</last_name>
+      <phone>804-828-4596</phone>
+      <email>jmccarty@vcu.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Kathy Candler</last_name>
+      <phone>804-828-7432</phone>
+      <email>kcandler@vcu.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>John McCarty, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ann Woolfrey, MD</last_name>
+      <email>awoolfre@fhcrc.org</email>
+    </contact>
+    <investigator>
+      <last_name>Ann Woolfrey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>VA Puget Sound HCS</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Thomas Chauncey, MD</last_name>
+      <email>Thomas.Chauncey@va.gov</email>
+    </contact>
+    <investigator>
+      <last_name>Thomas Chauncey, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>West Virginia University</name>
+      <address>
+        <city>Morgantown</city>
+        <state>West Virginia</state>
+        <zip>26506-8110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michael Craig, MD</last_name>
+      <email>craigm@wvuhealthcare.com</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Craig, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin - Madison</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Walter Longo, MD</last_name>
+      <email>wll@medicine.wisc.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Walter Longo, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Margolis, MD</last_name>
+      <email>dmargoli@mcw.edu</email>
+    </contact>
+    <investigator>
+      <last_name>David Margolis, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Parameswaran Hari, MD</last_name>
+      <phone>414-805-4600</phone>
+      <email>phari@mcw.edu</email>
+    </contact>
+    <contact_backup>
+      <last_name>Leigh Ann Laczkowski</last_name>
+      <phone>414-805-8378</phone>
+      <email>llaczkow@mcw.edu</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Parameswaran Hari, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 9, 2013</lastchanged_date>
+  <firstreceived_date>May 9, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Beta-Thalassemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Leukodystrophy, Globoid Cell</mesh_term>
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+    <mesh_term>Pancytopenia</mesh_term>
+    <mesh_term>Thalassemia</mesh_term>
+    <mesh_term>Mucopolysaccharidosis I</mesh_term>
+    <mesh_term>Adrenoleukodystrophy</mesh_term>
+    <mesh_term>Hematologic Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

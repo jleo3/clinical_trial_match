@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="301">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01622868</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-01977</org_study_id>
+    <secondary_id>RTOG-1119</secondary_id>
+    <secondary_id>U10CA021661</secondary_id>
+    <secondary_id>CDR0000735353</secondary_id>
+    <nct_id>NCT01622868</nct_id>
+  </id_info>
+  <brief_title>Whole-Brain Radiation Therapy With or Without Lapatinib Ditosylate in Treating Patients With Brain Metastasis From HER2-Positive Breast Cancer</brief_title>
+  <official_title>Phase II Randomized Study of Whole Brain Radiotherapy in Combination With Concurrent Lapatinib in Patients With Brain Metastasis From HER2-Positive Breast Cancer: A Collaborative Study of RTOG and KROG</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This randomized phase II trial studies how well whole-brain radiation therapy (WBRT) with or
+      without lapatinib ditosylate works in treating patients with brain metastasis from
+      HER2-positive breast cancer. Radiation therapy uses high energy x rays to kill tumor cells.
+      Lapatinib ditosylate may stop the growth of tumor cells by blocking some of the enzymes
+      needed for cell growth. It is not yet known whether radiation therapy together with
+      lapatinib ditosylate is an effective treatment for brain metastasis from breast cancer
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. To determine if there is a signal for an increase in complete response (CR) rate in the
+      brain at 12 weeks post whole-brain radiotherapy (WBRT) as determined by magnetic-resonance
+      imaging (MRI) scan of the brain, with the addition of lapatinib ditosylate (lapatinib) to
+      WBRT compared to WBRT alone.
+
+      SECONDARY OBJECTIVES:
+
+      I. To evaluate CR rate in the brain at 4 weeks post WBRT as determined by MRI scan of the
+      brain, with the addition of lapatinib to WBRT compared to WBRT alone.
+
+      II. To evaluate objective response rate in the brain at 4 and 12 weeks post WBRT as
+      determined by MRI scan of the brain, with the addition of lapatinib to WBRT compared to WBRT
+      alone.
+
+      III. To evaluate lesion-specific objective response rate (CR + partial response [PR]) at 4
+      and 12 weeks post WBRT.
+
+      IV. To evaluate overall response with addition of lapatinib to WBRT compared to WBRT alone.
+
+      V. To evaluate the central nervous system (CNS) progression-free survival (PFS) rate and
+      overall survival (OS) rate, with the addition of lapatinib to WBRT compared to WBRT alone.
+
+      VI. To evaluate treatment-related adverse events when adding lapatinib to WBRT compared to
+      WBRT alone.
+
+      OUTLINE: This is a multicenter study. Patients are stratified according to graded prognostic
+      assessment for breast cancer (II vs III vs IV), use of concurrent trastuzumab (yes vs no),
+      use of non-CNS-penetrating HER2 blockade at time of study entry (none vs trastuzumab ±
+      pertuzumab), and history of stereotactic radiosurgery (SRS) for limited brain metastasis (no
+      vs yes). Patients are randomized to 1 of 2 treatment arms.
+
+      Arm I: Patients undergo whole-brain radiation therapy (WBRT) once daily (QD) 5 days a week
+      for 3 weeks in the absence of disease progression or unacceptable toxicity.
+
+      Arm II: Patients receive lapatinib ditosylate orally (PO) QD on days 1-42 and undergo WBRT
+      as in arm I in the absence of disease progression or unacceptable toxicity.
+
+      After completion of study treatment, patients are followed up at 4 and 12 weeks and then
+      every 12 weeks thereafter.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>September 2012</start_date>
+  <primary_completion_date type="Anticipated">July 2014</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>CR rate in the brain measured by Response Evaluation Criteria in Solid Tumors (RECIST) version 1.1 based on MRI scan of the brain</measure>
+    <time_frame>12 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>CR rate in the brain measured using revise RECIST version 1.1 based on MRI scan of the brain</measure>
+    <time_frame>4 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Objective response rate (ORR) (CR + PR) measured using RECIST version 1.1 based on MRI scan of the brain</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Lesion-specific ORR (CR + PR)</measure>
+    <time_frame>Up to 12 weeks</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall response (CR, PR, or stable disease [SD])</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Treatment-related toxicity as measured by Common Terminology Criterial for Adverse Events (CTCAE) version 4</measure>
+    <time_frame>Up to 2 years</time_frame>
+    <safety_issue>Yes</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>CNS PFS</measure>
+    <time_frame>From the time of randomization to the date of first failure (CNS progression or death due to any cause), assessed up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Estimated by the Kaplan-Meier method. Compared between arms using the log rank test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-free survival</measure>
+    <time_frame>From the date of randomization to the date of first failure or last follow-up, assessed up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Estimated by the Kaplan-Meier method. Compared between arms using the log rank test.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>OS</measure>
+    <time_frame>From the date of randomization to the date of first failure, assessed up to 2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Estimated by the Kaplan-Meier method.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">143</enrollment>
+  <condition>HER2-positive Breast Cancer</condition>
+  <condition>Male Breast Cancer</condition>
+  <condition>Recurrent Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <condition>Tumors Metastatic to Brain</condition>
+  <arm_group>
+    <arm_group_label>Arm I (WBRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo WBRT QD 5 days a week for 3 weeks in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (lapatinib ditosylate, WBRT)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive lapatinib ditosylate PO QD on days 1-42 and undergo WBRT as in arm I in the absence of disease progression or unacceptable toxicity</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>lapatinib ditosylate</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Arm II (lapatinib ditosylate, WBRT)</arm_group_label>
+    <other_name>GSK572016</other_name>
+    <other_name>GW-572016</other_name>
+    <other_name>GW2016</other_name>
+    <other_name>Lapatinib</other_name>
+    <other_name>Tykerb</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>whole-brain radiation therapy</intervention_name>
+    <description>Undergo WBRT</description>
+    <arm_group_label>Arm I (WBRT)</arm_group_label>
+    <arm_group_label>Arm II (lapatinib ditosylate, WBRT)</arm_group_label>
+    <other_name>WBRT</other_name>
+    <other_name>whole-brain radiotherapy</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Pathologically (histologically or cytologically) proven diagnosis of invasive breast
+             cancer
+
+          -  Human epidermal growth factor receptor 2 (HER2)-overexpressing breast cancer (3+
+             staining by immunohistochemistry or HER2 gene amplification by fluorescent in situ
+             hybridization[FISH] or silver in situ hybridization [SISH] ≥ 2.2)
+
+          -  Brain metastases that fulfill 1 of the following:
+
+               -  Progressive parenchymal brain metastases following stereotactic radiosurgery for
+                  1-3 brain metastases, with at least 1 new measurable lesion
+
+               -  Progressive parenchymal brain metastases following surgical resection of 1-3
+                  brain metastases, as long as at least 1 brain metastasis is measurable
+
+          -  At least 1 measurable, unirradiated parenchymal brain lesion (≥ 10 mm on T1-weighted
+             gadolinium-enhanced MRI) within 21 days prior to study entry
+
+          -  No leptomeningeal disease
+
+          -  Karnofsky performance status ≥ 60%
+
+          -  Able to swallow and retain oral medication (Note: for patients unable to swallow
+             tablets, an oral suspension preparation is acceptable)
+
+          -  Absolute neutrophil count (ANC) ≥ 1,200 cells/mm³
+
+          -  Platelets ≥ 70,000 cells/mm³
+
+          -  Hemoglobin [Hgb] ≥ 8.0 g/dL (Note: The use of transfusion or other intervention to
+             achieve Hgb ≥ 8.0 g/dL is acceptable)
+
+          -  Creatinine &lt; 1.5 times institutional upper limit of normal (ULN)
+
+          -  Bilirubin &lt; 1.5 times institutional ULN
+
+          -  Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 3.0 times
+             institutional ULN with or without liver metastasis
+
+          -  Women of childbearing potential must have a negative serum pregnancy test within 21
+             days prior to study entry
+
+          -  Sexually active women of childbearing potential and sexually active men must practice
+             adequate contraception during therapy and for 12 months after protocol treatment
+             completion
+
+          -  Women should not breastfeed while on this study
+
+          -  No uncontrolled intercurrent illness including, but not limited to, ongoing or active
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with
+             study requirements
+
+          -  No prior invasive malignancy (except non-melanomatous skin cancer) unless disease
+             free for a minimum of 3 years
+
+          -  No severe, active co-morbidity, defined as follows:
+
+               -  Unstable angina and/or congestive heart failure requiring hospitalization within
+                  the last 6 months
+
+               -  Transmural myocardial infarction within the last 6 months
+
+               -  Acute bacterial or fungal infection requiring intravenous antibiotics at the
+                  time of study entry
+
+               -  Chronic obstructive pulmonary disease exacerbation or other respiratory illness
+                  requiring hospitalization or precluding study therapy at the time of study entry
+
+               -  Hepatic insufficiency resulting in clinical jaundice and/or coagulation defects;
+                  hepatic or biliary disease that is acute or currently active or that requires
+                  antiviral therapy (with the exception of patients with Gilbert syndrome,
+                  asymptomatic gallstones, liver metastases, or stable chronic liver disease per
+                  investigator assessment)
+
+               -  History of left ventricular ejection fraction (LVEF) below institutional normal
+                  unless repeated and within institutional normal range within 90 days of study
+                  entry
+
+          -  No grade 2 or greater rash of any cause at time of study entry
+
+          -  No grade 2 or greater diarrhea of any cause at time of study entry
+
+          -  At least 14 days between FINAL dose of prior chemotherapy and study entry, with
+             recovery of toxicities to grade 0 or 1
+
+          -  No prior whole-brain radiation therapy (WBRT)
+
+          -  No prior lapatinib therapy
+
+          -  No prior radiotherapy to the region of the study cancer that would result in overlap
+             of radiation therapy fields except patients who have progressed following
+             stereotactic radiosurgery for 1-3 brain metastases, with at least one new lesion
+
+          -  No concurrent intensity-modulated radiation therapy
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>In Ah Kim</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Radiation Therapy Oncology Group</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer F. De Los Santos</last_name>
+      <phone>205-934-0309</phone>
+    </contact>
+    <investigator>
+      <last_name>Jennifer F. De Los Santos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Kirklin Clinic at Acton Road</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35243</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer F. De Los Santos</last_name>
+      <phone>205-934-0309</phone>
+    </contact>
+    <investigator>
+      <last_name>Jennifer F. De Los Santos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Christiana Care Health System-Christiana Hospital</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19718</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adam Raben</last_name>
+      <phone>302-733-6227</phone>
+    </contact>
+    <investigator>
+      <last_name>Adam Raben</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Northeast Georgia Medical Center</name>
+      <address>
+        <city>Gainesville</city>
+        <state>Georgia</state>
+        <zip>30501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Frank G. Lake</last_name>
+      <phone>770-219-8800</phone>
+      <email>cancerpatient.navigator@nghs.com</email>
+    </contact>
+    <investigator>
+      <last_name>Frank G. Lake</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>John H Stroger Jr Hospital of Cook County</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612-3785</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>George R. Cybulsky</last_name>
+      <phone>312-864-6000</phone>
+    </contact>
+    <investigator>
+      <last_name>George R. Cybulsky</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Menorah Medical Center</name>
+      <address>
+        <city>Overland Park</city>
+        <state>Kansas</state>
+        <zip>66209</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rakesh Gaur</last_name>
+      <phone>913-948-5588</phone>
+      <email>amy.krushelniski@hcahealthcare.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rakesh Gaur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Kansas City CCOP</name>
+      <address>
+        <city>Prairie Village</city>
+        <state>Kansas</state>
+        <zip>66208</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rakesh Gaur</last_name>
+      <phone>913-948-5588</phone>
+    </contact>
+    <investigator>
+      <last_name>Rakesh Gaur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Medical Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Minh T. Truong</last_name>
+      <phone>617-638-8265</phone>
+    </contact>
+    <investigator>
+      <last_name>Minh T. Truong</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bronson Battle Creek</name>
+      <address>
+        <city>Battle Creek</city>
+        <state>Michigan</state>
+        <zip>49017</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gilbert D. Padula</last_name>
+      <phone>616-685-5225</phone>
+    </contact>
+    <investigator>
+      <last_name>Gilbert D. Padula</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health at Butterworth Campus</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gilbert D. Padula</last_name>
+      <phone>616-685-5225</phone>
+    </contact>
+    <investigator>
+      <last_name>Gilbert D. Padula</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary's Health Care</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gilbert D. Padula</last_name>
+      <phone>616-685-5225</phone>
+    </contact>
+    <investigator>
+      <last_name>Gilbert D. Padula</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Grand Rapids Clinical Oncology Program</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gilbert D. Padula</last_name>
+      <phone>616-685-5225</phone>
+    </contact>
+    <investigator>
+      <last_name>Gilbert D. Padula</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>West Michigan Cancer Center</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raymond S. Lord</last_name>
+      <phone>269-373-7458</phone>
+    </contact>
+    <investigator>
+      <last_name>Raymond S. Lord</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bronson Methodist Hospital</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raymond S. Lord</last_name>
+      <phone>269-373-7458</phone>
+    </contact>
+    <investigator>
+      <last_name>Raymond S. Lord</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Borgess Medical Center</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Raymond S. Lord</last_name>
+      <phone>269-373-7458</phone>
+    </contact>
+    <investigator>
+      <last_name>Raymond S. Lord</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Health Partners-Mercy Campus</name>
+      <address>
+        <city>Muskegon</city>
+        <state>Michigan</state>
+        <zip>49443</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gilbert D. Padula</last_name>
+      <phone>616-685-5225</phone>
+    </contact>
+    <investigator>
+      <last_name>Gilbert D. Padula</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fairview Ridges Hospital</name>
+      <address>
+        <city>Burnsville</city>
+        <state>Minnesota</state>
+        <zip>55337</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Hospital</name>
+      <address>
+        <city>Coon Rapids</city>
+        <state>Minnesota</state>
+        <zip>55433</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Fairview-Southdale Hospital</name>
+      <address>
+        <city>Edina</city>
+        <state>Minnesota</state>
+        <zip>55435</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Unity Hospital</name>
+      <address>
+        <city>Fridley</city>
+        <state>Minnesota</state>
+        <zip>55432</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Minnesota Oncology Hematology PA-Maplewood</name>
+      <address>
+        <city>Maplewood</city>
+        <state>Minnesota</state>
+        <zip>55109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Abbott-Northwestern Hospital</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55407</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hennepin County Medical Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55415</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>North Memorial Medical Health Center</name>
+      <address>
+        <city>Robbinsdale</city>
+        <state>Minnesota</state>
+        <zip>55422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Metro-Minnesota CCOP</name>
+      <address>
+        <city>Saint Louis Park</city>
+        <state>Minnesota</state>
+        <zip>55416</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>United Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ridgeview Medical Center</name>
+      <address>
+        <city>Waconia</city>
+        <state>Minnesota</state>
+        <zip>55387</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Rice Memorial Hospital</name>
+      <address>
+        <city>Willmar</city>
+        <state>Minnesota</state>
+        <zip>56201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Paul W. Sperduto</last_name>
+      <phone>952-993-1517</phone>
+      <email>MMCCOP@parknicollet.com</email>
+    </contact>
+    <investigator>
+      <last_name>Paul W. Sperduto</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Singing River Hospital</name>
+      <address>
+        <city>Pascagoula</city>
+        <state>Mississippi</state>
+        <zip>39581</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James E. Clarkson</last_name>
+      <phone>228-809-5292</phone>
+    </contact>
+    <investigator>
+      <last_name>James E. Clarkson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Research Medical Center</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64132</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rakesh Gaur</last_name>
+      <phone>913-948-5588</phone>
+      <email>amy.krushelniski@hcahealthcare.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rakesh Gaur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's Hospital of Kansas City</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rakesh Gaur</last_name>
+      <phone>913-948-5588</phone>
+      <email>amy.krushelniski@hcahealthcare.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rakesh Gaur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Heartland Regional Medical Center</name>
+      <address>
+        <city>Saint Joseph</city>
+        <state>Missouri</state>
+        <zip>64506</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rakesh Gaur</last_name>
+      <phone>913-948-5588</phone>
+      <email>amy.krushelniski@hcahealthcare.com</email>
+    </contact>
+    <investigator>
+      <last_name>Rakesh Gaur</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Barnes West County Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Imran Zoberi</last_name>
+      <phone>800-600-3606</phone>
+      <email>info@ccadmin.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Imran Zoberi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John's Mercy Medical Center</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bethany G. Sleckman</last_name>
+      <phone>913-948-5588</phone>
+    </contact>
+    <investigator>
+      <last_name>Bethany G. Sleckman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Louis-Cape Girardeau CCOP</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63141</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bethany G. Sleckman</last_name>
+      <phone>913-948-5588</phone>
+    </contact>
+    <investigator>
+      <last_name>Bethany G. Sleckman</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Imran Zoberi</last_name>
+      <phone>800-600-3606</phone>
+      <email>info@ccadmin.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Imran Zoberi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Siteman Cancer Center - Saint Peters</name>
+      <address>
+        <city>Saint Peters</city>
+        <state>Missouri</state>
+        <zip>63376</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Imran Zoberi</last_name>
+      <phone>800-600-3606</phone>
+      <email>info@ccadmin.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Imran Zoberi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint John's Hospital</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65804</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert L. Carolla</last_name>
+      <phone>417-269-4520</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert L. Carolla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cox Medical Center</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65807</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert L. Carolla</last_name>
+      <phone>417-269-4520</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert L. Carolla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ozark Health Ventures LLC dba Cancer Research for The Ozarks Springfield</name>
+      <address>
+        <city>Springfield</city>
+        <state>Missouri</state>
+        <zip>65802</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robert L. Carolla</last_name>
+      <phone>417-269-4520</phone>
+    </contact>
+    <investigator>
+      <last_name>Robert L. Carolla</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Elliot Hospital</name>
+      <address>
+        <city>Manchester</city>
+        <state>New Hampshire</state>
+        <zip>03103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Brian R. Knab</last_name>
+      <phone>603-663-1800</phone>
+    </contact>
+    <investigator>
+      <last_name>Brian R. Knab</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Barnabas Medical Center</name>
+      <address>
+        <city>Livingston</city>
+        <state>New Jersey</state>
+        <zip>07039</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Rosemonde Z. Woel</last_name>
+      <phone>973-322-2470</phone>
+    </contact>
+    <investigator>
+      <last_name>Rosemonde Z. Woel</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Hematology Oncology Associates of Central New York PC</name>
+      <address>
+        <city>East Syracuse</city>
+        <state>New York</state>
+        <zip>13057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dennis J. Kotlove</last_name>
+      <phone>315-472-7504</phone>
+    </contact>
+    <investigator>
+      <last_name>Dennis J. Kotlove</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Rochester</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yuhchyau Chen</last_name>
+      <phone>585-275-5830</phone>
+    </contact>
+    <investigator>
+      <last_name>Yuhchyau Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Highland Hospital</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14620</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Yuhchyau Chen</last_name>
+      <phone>585-275-5830</phone>
+    </contact>
+    <investigator>
+      <last_name>Yuhchyau Chen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Akron General Medical Center</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44307</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mitchel L. Fromm</last_name>
+      <phone>330-344-6348</phone>
+    </contact>
+    <investigator>
+      <last_name>Mitchel L. Fromm</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Summa Akron City Hospital</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles A. Kunos</last_name>
+      <phone>800-641-2422</phone>
+    </contact>
+    <investigator>
+      <last_name>Charles A. Kunos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Radiation Oncology Center</name>
+      <address>
+        <city>Alliance</city>
+        <state>Ohio</state>
+        <zip>44601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William F. Demas</last_name>
+      <phone>330-615-4132</phone>
+    </contact>
+    <investigator>
+      <last_name>William F. Demas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Summa Barberton Hospital</name>
+      <address>
+        <city>Barberton</city>
+        <state>Ohio</state>
+        <zip>44203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles A. Kunos</last_name>
+      <phone>800-641-2422</phone>
+    </contact>
+    <investigator>
+      <last_name>Charles A. Kunos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Medical Center</name>
+      <address>
+        <city>Canton</city>
+        <state>Ohio</state>
+        <zip>44708</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Edward J. Walsh</last_name>
+      <phone>888-293-4673</phone>
+    </contact>
+    <investigator>
+      <last_name>Edward J. Walsh</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Ohio State University Medical Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Allison M. Quick</last_name>
+      <phone>866-627-7616</phone>
+      <email>osu@emergingmed.com</email>
+    </contact>
+    <investigator>
+      <last_name>Allison M. Quick</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Care Center, Incorporated</name>
+      <address>
+        <city>Salem</city>
+        <state>Ohio</state>
+        <zip>44460</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William F. Demas</last_name>
+      <phone>330-615-4132</phone>
+    </contact>
+    <investigator>
+      <last_name>William F. Demas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Treatment Center</name>
+      <address>
+        <city>Wooster</city>
+        <state>Ohio</state>
+        <zip>44691</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William F. Demas</last_name>
+      <phone>330-615-4132</phone>
+    </contact>
+    <investigator>
+      <last_name>William F. Demas</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Natalie W Bryant Cancer Center</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles E. Stewart</last_name>
+      <phone>918-494-2200</phone>
+    </contact>
+    <investigator>
+      <last_name>Charles E. Stewart</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Abington Memorial Hospital</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wayne H. Pinover</last_name>
+      <phone>215-481-2402</phone>
+    </contact>
+    <investigator>
+      <last_name>Wayne H. Pinover</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Thomas Jefferson University Hospital</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19107</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicole L. Simone</last_name>
+      <phone>215-955-6084</phone>
+    </contact>
+    <investigator>
+      <last_name>Nicole L. Simone</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Reading Hospital and Medical Center</name>
+      <address>
+        <city>West Reading</city>
+        <state>Pennsylvania</state>
+        <zip>19612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Albert Yuen</last_name>
+      <phone>610-988-9323</phone>
+    </contact>
+    <investigator>
+      <last_name>Albert Yuen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory M. Cooley</last_name>
+      <phone>920-433-8889</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory M. Cooley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Green Bay Oncology at Saint Vincent Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54301-3526</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Terminated</status>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Mary's Hospital</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory M. Cooley</last_name>
+      <phone>920-433-8889</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory M. Cooley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Hospital and Clinics</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Bethany M. Anderson</last_name>
+      <phone>877-405-6866</phone>
+    </contact>
+    <investigator>
+      <last_name>Bethany M. Anderson</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Holy Family Memorial Hospital</name>
+      <address>
+        <city>Manitowoc</city>
+        <state>Wisconsin</state>
+        <zip>54221</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory M. Cooley</last_name>
+      <phone>920-433-8889</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory M. Cooley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Bay Area Medical Center</name>
+      <address>
+        <city>Marinette</city>
+        <state>Wisconsin</state>
+        <zip>54143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory M. Cooley</last_name>
+      <phone>920-433-8889</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory M. Cooley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Door County Cancer Center</name>
+      <address>
+        <city>Sturgeon Bay</city>
+        <state>Wisconsin</state>
+        <zip>54235-1495</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gregory M. Cooley</last_name>
+      <phone>920-433-8889</phone>
+    </contact>
+    <investigator>
+      <last_name>Gregory M. Cooley</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>National Cancer Center-Korea</name>
+      <address>
+        <city>Goyang-si</city>
+        <state>Gyeonggi-do</state>
+        <zip>410-769</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kwan H. Cho</last_name>
+      <phone>215-574-3173</phone>
+    </contact>
+    <investigator>
+      <last_name>Kwan H. Cho</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Samsung Medical Center</name>
+      <address>
+        <city>Seoul</city>
+        <state>Korea</state>
+        <zip>135-710</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Doo Ho Choi</last_name>
+      <phone>011-82-1599-3114</phone>
+    </contact>
+    <investigator>
+      <last_name>Doo Ho Choi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Gangnam Severance Hospital</name>
+      <address>
+        <city>Seoul</city>
+        <zip>120-752</zip>
+        <country>Korea, Republic of</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ki Chang Keum</last_name>
+      <phone>215-574-3173</phone>
+    </contact>
+    <investigator>
+      <last_name>Ki Chang Keum</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Korea, Republic of</country>
+  </location_countries>
+  <verification_date>March 2013</verification_date>
+  <lastchanged_date>May 31, 2013</lastchanged_date>
+  <firstreceived_date>June 15, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Lapatinib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

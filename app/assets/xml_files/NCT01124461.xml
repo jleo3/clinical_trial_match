@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="15">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01124461</url>
+  </required_header>
+  <id_info>
+    <org_study_id>09-1625</org_study_id>
+    <secondary_id>1R01NS066905-01</secondary_id>
+    <nct_id>NCT01124461</nct_id>
+  </id_info>
+  <brief_title>BIRN (Biomedical Informatics Research Network) Resources Facilitate the Personalization of Malignant Brain Tumor</brief_title>
+  <acronym>CONDR</acronym>
+  <official_title>BIRN (Biomedical Informatics Research Network)Resources Facilitate the Personalization of Malignant Brain Tumor</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Washington University School of Medicine</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute of Neurological Disorders and Stroke (NINDS)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Washington University School of Medicine</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to create a comprehensive database of Magnetic Resonance Imaging
+      (MRI) and of pathology for patients with brain tumors. Both standard, advanced, and research
+      MRI components may be included, these will be analyzed in comparison with pathology results
+      if/when a biopsy is obtained, and also used to predict/evaluate responses to therapy. This
+      study will create a database of de-identified MRI images which include these techniques so
+      that brain tumors can be studied over time (longitudinally) in an organized manner.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Glioblastoma (GBM) is the most common primary malignant neoplasm of the adult brain. Even
+      after multimodal therapy, treatment outcomes remain poor, with a median survival of
+      approximately one year. A central challenge facing investigators in the modern era is how to
+      resolve the heterogeneity inherent in GBM pathology using technology and how to identify
+      individual genetic or molecular markers that indicate how treatment can be individualized to
+      improve outcomes with an emphasis on using this heterogeneity to improve patient care. With
+      advances in imaging and the potential for genetic sequence analysis, increasingly clinicians
+      and researchers have focused on specific clinical, imaging, and genetic biomarkers to allow
+      the personalization of brain tumor treatment in an attempt to improve the limitations we
+      have faced in extending patient survival from this devastating disease. Specific
+      methodologies have been developed to allow genetic microarray analysis of patient's tumor
+      tissue, and this type of research is ongoing at one of our participating institutions,
+      Swedish Medical Center. In addition, centers such as Washington University School of
+      Medicine in St. Louis, Missouri have extensive experience pursuing advanced imaging
+      biomarkers and their applications to clinical neuro-oncology research.
+
+      Of importance, however, although clinicians and researchers have come to recognize that
+      in-vivo imaging technologies may have as much if not more relevance than genetic biomarkers
+      in the personalization of brain tumor treatment, clinical trials attempting to validate
+      these biomarkers and correlate them with particular outcomes have been limited by a lack of
+      technology infrastructure that would allow multi-site image acquisition, processing, data
+      analysis, subsequent correlation with clinical and genetic data, and ultimately sharing of
+      anonymized data with other researchers from a central archiving site. BIRN infrastructure
+      will integrate neuroimaging, genetic microarray, and clinical data with a focus on
+      integrating imaging biomarkers into prospective clinical research in patients with malignant
+      brain tumors.
+
+      In this project, a consortium of neuro-oncology research centers will be federated to obtain
+      a unified set of clinical, genetic, and imaging data. In the initial phase, 100 patients
+      with malignant brain tumors at two participating sites will be studied. Our ultimate goal
+      will be to use the developed protocols and informatics infrastructure to expand the
+      consortium to include a large number neuro-oncology clinical sites suitable for executing
+      large scale clinical trials that will facilitate the generation of data to identify which
+      imaging biomarkers are relevant for the personalization of brain tumor treatment and
+      ultimately improvement of outcomes for patients with this devastating disease.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2010</start_date>
+  <completion_date type="Anticipated">January 2015</completion_date>
+  <phase>N/A</phase>
+  <study_type>Observational</study_type>
+  <study_design>Observational Model: Cohort, Time Perspective: Prospective</study_design>
+  <number_of_groups>1</number_of_groups>
+  <enrollment type="Anticipated">100</enrollment>
+  <condition>GLIOBLASTOMA MULTIFORME</condition>
+  <condition>Brain Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Brain Tumor</arm_group_label>
+    <description>Brain neoplasms, malignant</description>
+  </arm_group>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Brain tumor tissue, Whole Blood.
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Neurology clinic
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients will be enrolled in this clinical trial pre-operatively      anticipating a
+             surgical resection with anticipation that the patient carries a likely diagnosis of
+             malignant glioma.
+
+          -  Patients will only be enrolled if it is anticipated that the resection will give
+             significant tissue for subsequent genetic analysis (1 cm of tumor tissue)
+
+          -  If patients at surgery are found to carry an alternative tissue diagnosis, the
+             patient's preoperative imaging, clinical, and pathological information will be
+             uploaded into the database, but the patient will not  be counted as one of the
+             participants
+
+          -  Ability to undergo serial MR studies
+
+          -  Enrollment KPS &gt; 70
+
+          -  Anticipation that surgery will allow subtotal resection or gross total  resection,
+             facilitating removal of tissue specimens for genomic analysis.
+
+        Exclusion Criteria:
+
+          -  Inability to participate in serial MR studies
+
+          -  KPS &lt; 70
+
+          -  &gt; 70 years of age
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Daniel Marcus, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Washington University School of Medicine</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Anna Carlson, RN</last_name>
+    <phone>314-747-8273</phone>
+    <email>carlsona@mir.wustl.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anna Carlson, RN</last_name>
+      <phone>314-747-8273</phone>
+      <email>carlsona@mir.wustl.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Marcus, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2011</verification_date>
+  <lastchanged_date>March 2, 2011</lastchanged_date>
+  <firstreceived_date>May 13, 2010</firstreceived_date>
+  <responsible_party>
+    <name_title>Daniel Marcus/ Research Assistant Professor of Rad</name_title>
+    <organization>Washington University-RADIOLOGY RADIATION-SCIENCES-SCHOOL OF MEDICINE</organization>
+  </responsible_party>
+  <keyword>Malignant Brain Tumors</keyword>
+  <keyword>Cancer of the Brain</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

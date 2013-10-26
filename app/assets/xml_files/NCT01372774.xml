@@ -1,0 +1,1638 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="314">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01372774</url>
+  </required_header>
+  <id_info>
+    <org_study_id>N107C</org_study_id>
+    <secondary_id>NCCTG-N107C</secondary_id>
+    <secondary_id>CDR0000701474</secondary_id>
+    <secondary_id>NCI-2011-02676</secondary_id>
+    <nct_id>NCT01372774</nct_id>
+  </id_info>
+  <brief_title>Stereotactic Radiosurgery or Whole-Brain Radiation Therapy in Treating Patients With Brain Metastases That Have Been Removed By Surgery</brief_title>
+  <official_title>A Phase III Trial of Post-Surgical Stereotactic Radiosurgery (SRS) Compared With Whole Brain Radiotherapy (WBRT) for Resected Metastatic Brain Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>North Central Cancer Treatment Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Alliance for Clinical Trials in Oncology</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Stereotactic radiosurgery may be able to send x-rays directly to the tumor and
+      cause less damage to normal tissue. Radiation therapy uses high-energy x rays to kill tumor
+      cells. It is not yet known whether stereotactic radiosurgery is more effective than
+      whole-brain radiation therapy in treating patients with brain metastases that have been
+      removed by surgery.
+
+      PURPOSE: This randomized phase III trial studies how well stereotactic radiosurgery works
+      compared to whole-brain radiation therapy in treating patients with brain metastases that
+      have been removed by surgery.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:
+
+      Primary
+
+        -  To ascertain in patients with one to four brain metastases whether there is improved
+           overall survival in patients who receive stereotactic radiosurgery (SRS) to the
+           surgical bed compared to patients who receive whole-brain radiotherapy (WBRT).
+
+        -  To ascertain in patients with one to four brain metastases whether there is less
+           neurocognitive progression at 6 months post-radiation in patients who receive SRS to
+           the surgical bed compared to patients who receive WBRT.
+
+      Secondary
+
+        -  To ascertain in patients with resected brain metastases whether there is improved
+           quality-of-life (QOL) in patients who receive SRS to the surgical bed compared to
+           patients who receive WBRT.
+
+        -  To ascertain in patients with one to four brain metastases whether there is equal
+           longer time to central nervous system (CNS) failure (brain) in patients who receive SRS
+           to the surgical bed compared to patients who receive WBRT.
+
+        -  To ascertain in patients with one to four brain metastases whether there is longer
+           duration of functional independence in patients who receive SRS to the surgical bed
+           compared to patients who receive WBRT.
+
+        -  To ascertain in patients with one to four brain metastases whether there is better
+           long-term neurocognitive status in patients who receive SRS to the surgical bed
+           compared to patients who receive WBRT.
+
+        -  To tabulate and descriptively compare the post-treatment adverse events associated with
+           the interventions.
+
+        -  To evaluate local tumor bed recurrence at 6 months with post-surgical SRS to the
+           surgical bed in comparison to WBRT.
+
+        -  To evaluate time to local recurrence with post-surgical SRS to the surgical bed in
+           comparison to WBRT.
+
+        -  To evaluate if there is any difference in CNS failure patterns (local, distant,
+           leptomeningeal) in patients who receive SRS to the surgical bed compared to patients
+           who receive WBRT.
+
+      Exploratory
+
+        -  To evaluate radiation changes in the limbic system that may correlate with
+           neurotoxicity using brain MRI scans.
+
+        -  To determine whether Apo E (i.e., Apo E2, Apo E3, and Apo E4) genotyping may prove to
+           be a predictor of radiation-induced neurocognitive decline (or neuroprotection).
+
+        -  To determine whether inflammatory markers (i.e., IL-1, IL-6, and TNF-α) may prove to be
+           predictors of radiation-induced neurocognitive decline.
+
+        -  To determine whether oxidative stress biomarkers (i.e., protein carbonyl content, lipid
+           hydroperoxides, and isoprostane levels) may prove to be predictors of radiation-induced
+           neurocognitive decline.
+
+        -  To determine whether hormone and growth factors [i.e., glucocorticoids (e.g.,
+           cortisol), gonadal steroids (e.g., estradiol, testosterone, progesterone), growth
+           hormone, human chorionic gonadotropin (hCG), insulin-like growth factor-1 (IGF-1), and
+           neuronal growth factor (NGF)] may prove to be a predictor of radiation-induced
+           neurocognitive decline.
+
+      OUTLINE: This is a multicenter study. Patients are stratified according to age in years (&lt;
+      60 vs ≥ 60), extracranial disease controlled (≤ 3 months vs &gt; 3 months), number of
+      pre-operative brain metastases (1 vs 2-4), histology (lung vs radioresistant [brain
+      metastases from a sarcoma, melanoma, or renal cell carcinoma histology] vs other), and
+      resection cavity maximal diameter (≤ 3 cm vs &gt; 3 cm). Patients are randomized to 1 of 2
+      treatment arms.
+
+        -  Arm I: Patients undergo whole-brain radiotherapy (WBRT) once a day, 5 days a week, for
+           approximately 3 weeks.
+
+        -  Arm II: Patients undergo stereotactic radiosurgery (SRS) using a gamma knife or a
+           linear accelerator procedure.
+
+      Serum, whole blood, and urine samples are collected at baseline and periodically during
+      study for genetic markers, inflammatory markers, oxidative stress biomarkers, and hormone
+      and growth factor studies by ELISA and other assays.
+
+      Patients complete the Functional Assessment of Cancer Therapy-Brain (FACT-BR), the
+      activities of daily living (ADLs), the Fatigue/Uniscale Assessment, and the Linear Analog
+      Self Assessment (LASA) quality-of-life questionnaires at baseline and periodically during
+      study. Neurocognitive functions, such as memory, verbal fluency, visual attention, executive
+      function, and delayed memory, are also assessed.
+
+      After completion of study therapy, patients are followed up periodically for 5 years.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>July 2011</start_date>
+  <primary_completion_date type="Anticipated">March 2014</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Neurocognitive progression at 6 months post-radiation in patients who received SRS compared to patients who received WBRT</measure>
+    <time_frame>Up to 6 months post radiation</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Up to 6 months post radiation</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Local control of the surgical bed</measure>
+    <time_frame>Up to 6 months post radiation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to CNS failure in these patients</measure>
+    <time_frame>Up to 6 months post radiation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality-of-life at 6 months of these patients</measure>
+    <time_frame>Up to 6 months post randomization</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">192</enrollment>
+  <condition>Cognitive/Functional Effects</condition>
+  <condition>Metastatic Cancer</condition>
+  <condition>Neurotoxicity</condition>
+  <condition>Radiation Toxicity</condition>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Patients undergo whole brain radiotherapy (WBRT) once a day, 5 days a week, for approximately 3 weeks.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients undergo stereotactic radiosurgery (SRS) using a gamma knife or a linear accelerator procedure.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>stereotactic radiosurgery</intervention_name>
+    <description>Undergo RT</description>
+    <arm_group_label>Arm II</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>whole-brain radiation therapy</intervention_name>
+    <description>Undergo radiotherapy (RT)</description>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:
+
+          -  Four or fewer brain metastases (as defined on the pre-operative MRI brain scan) and
+             status post resection of one of the lesions
+
+          -  Pathology from the resected brain metastasis must be consistent with a non-central
+             nervous system primary site
+
+               -  Patients with or without active disease outside the nervous system are eligible
+                  (including patients with unknown primaries), as long as the pathology from the
+                  brain is consistent with a non-central nervous system primary site
+
+          -  Any unresected lesions must measure ≤ 3.0 cm in maximal extent on the contrasted MRI
+             brain scan obtained ≤ 35 days prior to pre-registration
+
+               -  The metastases size restriction does not apply to the resected brain metastasis;
+                  with resected brain metastases only surgical cavity size determines eligibility
+
+          -  Post-operative MRI confirmed zero, one, two or three unresected lesions
+
+               -  Each unresected lesion must measure ≤ 3.0 cm in maximal extent on the contrasted
+                  post-operative MRI brain scan
+
+               -  The pre-registration, post-operative, brain scan may be used for the
+                  randomization scan if obtained ≤ 28 days prior to randomization
+
+                    -  Note: If there are no unresected brain metastases (i.e., all brain
+                       metastases have been resected), a post-operative CT brain scan may be used
+                       if obtained ≤ 28 days prior to randomization
+
+          -  Resection cavity must measure &lt; 5.0 cm in maximal extent on the post-operative MRI
+             (or CT) brain scan obtained ≤ 35 days prior to pre-registration
+
+               -  The pre-registration, post-operative brain scan may be used for the planning
+                  scan if obtained ≤ 28 days prior to randomization
+
+                    -  Note: If there are no unresected brain metastases (i.e., all brain
+                       metastases have been resected), a post-operative CT brain scan may be used
+                       if obtained ≤ 28 days prior to randomization
+
+               -  It is permissible for the resection of a dominant brain metastasis to include a
+                  smaller &quot;satellite&quot; metastasis as long as the single resection cavity is less
+                  than the maximum size requirements
+
+          -  All standard tumor-staging procedures necessary to define baseline extracranial
+             disease status completed ≤ 42 days prior to pre-registration
+
+          -  No primary germ cell tumor, small cell carcinoma, or lymphoma
+
+          -  No widespread definitive leptomeningeal metastasis
+
+          -  No brain metastasis that is located ≤ 5 mm of the optic chiasm or within the
+             brainstem
+
+        PATIENT CHARACTERISTICS:
+
+          -  ECOG performance status (PS) 0, 1, or 2
+
+          -  Ability to be treated with either a gamma knife or a linear accelerator-based
+             radiosurgery system
+
+          -  Willing and able to complete neurocognitive examination without assistance
+
+          -  Willing and able to complete quality-of-life (QOL) questionnaires by themselves or
+             with assistance
+
+          -  Willing to provide mandatory blood and urine samples for correlative research
+             purposes
+
+          -  None of the following:
+
+               -  Pregnant or nursing
+
+               -  Men or women of childbearing potential who are unwilling to employ adequate
+                  contraception through out the study and for men for up to 3 months after
+                  completing treatment
+
+          -  Able to complete a MRI with contrast of the head
+
+          -  No known allergy to gadolinium
+
+        PRIOR CONCURRENT THERAPY:
+
+          -  No prior cranial radiotherapy
+
+          -  No planned cytotoxic chemotherapy during the stereotactic radiosurgery (SRS) or
+             whole-brain radiotherapy (WBRT)
+
+          -  Concurrent hormonal agents, steroids, and/or anticonvulsants allowed
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Paul D. Brown, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Arizona</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadia Laack, M.D.</last_name>
+      <phone>507-284-4561</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mills - Peninsula Hospitals</name>
+      <address>
+        <city>Burlingame</city>
+        <state>California</state>
+        <zip>94010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ari Baron, M.D.</last_name>
+      <phone>415-923-3012</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Southern California</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Chang, M.D.</last_name>
+      <phone>323-865-3072</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Los Angeles County-USC Medical Center</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eric Chang, M.D.</last_name>
+      <phone>323-865-3072</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>USC/Norris Comprehensive Cancer Center and Hospital</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90089-9181</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - USC/Norris Comprehensive Cancer Cente</last_name>
+      <phone>323-865-0451</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Medical Center</name>
+      <address>
+        <city>Modesto</city>
+        <state>California</state>
+        <zip>95355</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jorge Garcia-Young, M.D.</last_name>
+      <phone>209-572-7237</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Kaiser Permanente-South San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94080</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Samantha Seaward, M.D.</last_name>
+      <phone>408-851-8000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Swedish Medical Center</name>
+      <address>
+        <city>Englewood</city>
+        <state>Colorado</state>
+        <zip>80110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eduardo R. Pajon, MD</last_name>
+      <phone>303-399-8020</phone>
+      <phone_ext>2261</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Mary - Corwin Regional Medical Center</name>
+      <address>
+        <city>Pueblo</city>
+        <state>Colorado</state>
+        <zip>81004</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Eduardo R. Pajon, MD</last_name>
+      <phone>303-399-8020</phone>
+      <phone_ext>2261</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Christiana Care Health Services</name>
+      <address>
+        <city>Newark</city>
+        <state>Delaware</state>
+        <zip>19713</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trial Office - CCOP - Christiana Care Health Services</last_name>
+      <phone>302-623-4450</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Broward Health North</name>
+      <address>
+        <city>Deerfield Beach</city>
+        <state>Florida</state>
+        <zip>33064</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Marshal Lieberfarb</last_name>
+      <phone>954-786-6747</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic in Florida</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nadia Laack, M.D.</last_name>
+      <phone>507-284-4561</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Mount Sinai Medical Center</name>
+      <address>
+        <city>Miami Beach</city>
+        <state>Florida</state>
+        <zip>33140</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurie E. Blach</last_name>
+      <phone>305-674-2625</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>M.D. Anderson Cancer Center at Orlando</name>
+      <address>
+        <city>Orlando</city>
+        <state>Florida</state>
+        <zip>32806</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Naren R. Ramakrishna</last_name>
+      <phone>407-648-3800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>John B Amos Cancer Center</name>
+      <address>
+        <city>Columbus</city>
+        <state>Georgia</state>
+        <zip>31904</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Douglas Ciuba, M.D.</last_name>
+      <phone>706-571-1050</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Evanston CCOP-NorthShore University HealthSystem</name>
+      <address>
+        <city>Evanston</city>
+        <state>Illinois</state>
+        <zip>60201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ryan Merrell, M.D.</last_name>
+      <phone>847-570-2570</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Advocate Christ Medical Center</name>
+      <address>
+        <city>Oak Lawn</city>
+        <state>Illinois</state>
+        <zip>60453-2699</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Faisal S. Vali</last_name>
+      <phone>708-684-8000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Hospital of South Bend</name>
+      <address>
+        <city>South Bend</city>
+        <state>Indiana</state>
+        <zip>46601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Memorial Hospital of South Bend</last_name>
+      <phone>800-284-7370</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mercy Regional Cancer Center at Mercy Medical Center</name>
+      <address>
+        <city>Cedar Rapids</city>
+        <state>Iowa</state>
+        <zip>52403</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deborah W. Wilbur</last_name>
+      <phone>319-398-6011</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Louisville Oncology at Norton Cancer Institute - Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Louisville Oncology</last_name>
+      <phone>502-629-2500</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>MedStar Franklin Square Medical Center/Weinberg Cancer Institute</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Perry, M.D.</last_name>
+      <phone>410-682-6800</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Tufts Medical Center Cancer Center</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02111</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Lynne P. Taylor</last_name>
+      <phone>617-636-6100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lowell General Hospital</name>
+      <address>
+        <city>Lowell</city>
+        <state>Massachusetts</state>
+        <zip>01854</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Matthew Katz, M.D.</last_name>
+      <phone>978-937-6650</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Vincent Hospital/Reliant Medical Group</name>
+      <address>
+        <city>Worcester</city>
+        <state>Massachusetts</state>
+        <zip>01608</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>William Casey, M.D.</last_name>
+      <phone>508-363-7100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wayne State University</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Harold Kim, M.D.</last_name>
+      <phone>313-966-0556</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>West Michigan Cancer Center</name>
+      <address>
+        <city>Kalamazoo</city>
+        <state>Michigan</state>
+        <zip>49007-3731</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - West Michigan Cancer Center</last_name>
+      <phone>269-373-7458</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Clinic North-Bemidji</name>
+      <address>
+        <city>Bemidji</city>
+        <state>Minnesota</state>
+        <zip>56601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Preston Steen, M.D.</last_name>
+      <phone>701-234-6161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Cancer Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - All Mayo Clinic Locations</last_name>
+      <phone>507-538-7623</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CentraCare Clinic - River Campus</name>
+      <address>
+        <city>Saint Cloud</city>
+        <state>Minnesota</state>
+        <zip>56303</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Donald J. Jurgens</last_name>
+      <phone>320-252-5131</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Regions Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55101</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick Flynn, M.D.</last_name>
+      <phone>952-993-1517</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>United Hospital</name>
+      <address>
+        <city>Saint Paul</city>
+        <state>Minnesota</state>
+        <zip>55102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Patrick J. Flynn, MD</last_name>
+      <phone>612-884-6300</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cape Radiation Oncology</name>
+      <address>
+        <city>Cape Girardeau</city>
+        <state>Missouri</state>
+        <zip>63703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tapan Roy</last_name>
+      <phone>573-334-2230</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Institute of Cape Girardeau, LLC</name>
+      <address>
+        <city>Cape Girardeau</city>
+        <state>Missouri</state>
+        <zip>63703</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tapan Roy, MD</last_name>
+      <phone>573-334-2230</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Billings Clinic - Downtown</name>
+      <address>
+        <city>Billings</city>
+        <state>Montana</state>
+        <zip>59107-7000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Billings Clinic - Downtown</last_name>
+      <phone>800-996-2663</phone>
+      <email>research@billingsclinic.org</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>The Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Andrew Wahl, M.D.</last_name>
+      <phone>402-552-3844</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Seacoast Cancer Center at Wentworth - Douglass Hospital</name>
+      <address>
+        <city>Dover</city>
+        <state>New Hampshire</state>
+        <zip>03820</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Arul Mahadevan</last_name>
+      <phone>603-742-8787</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Exeter Hospital</name>
+      <address>
+        <city>Exeter</city>
+        <state>New Hampshire</state>
+        <zip>03833</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Gary Proulx, M.D.</last_name>
+      <phone>603-580-7337</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Somerset Medical Center</name>
+      <address>
+        <city>Somerville</city>
+        <state>New Jersey</state>
+        <zip>08876</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>James Chimenti, M.D.</last_name>
+      <phone>732-302-1720</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY Upstate Medical University Hospital</name>
+      <address>
+        <city>Syracuse</city>
+        <state>New York</state>
+        <zip>13210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - SUNY Upstate Medical University Hospi</last_name>
+      <phone>315-464-5476</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Lineberger Comprehensive Cancer Center at University of North Carolina - Chapel Hill</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599-7295</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Lineberger Comprehensive Cancer Cente</last_name>
+      <phone>877-668-0683</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Presbyterian Cancer Center at Presbyterian Hospital</name>
+      <address>
+        <city>Charlotte</city>
+        <state>North Carolina</state>
+        <zip>28233-3549</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Presbyterian Cancer Center at Presbyt</last_name>
+      <phone>704-384-5369</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Wake Forest University Comprehensive Cancer Center</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157-1096</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Wake Forest University  Comprehensive</last_name>
+      <phone>336-713-6771</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Medcenter One Hospital Cancer Care Center</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>John T. Reynolds</last_name>
+      <phone>701-323-5741</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mid Dakota Clinic, PC</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Mid Dakota Clinic, PC</last_name>
+      <phone>701-530-6950</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Bismarck Medical Center</name>
+      <address>
+        <city>Bismarck</city>
+        <state>North Dakota</state>
+        <zip>58501</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Preston Steen, M.D.</last_name>
+      <phone>701-234-6161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Clinic North-Fargo</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Preston Steen, M.D.</last_name>
+      <phone>701-234-6161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Roger Maris Cancer Center</name>
+      <address>
+        <city>Fargo</city>
+        <state>North Dakota</state>
+        <zip>58122</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Preston Steen, M.D.</last_name>
+      <phone>701-234-6161</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Summa Center for Cancer Care at Akron City Hospital</name>
+      <address>
+        <city>Akron</city>
+        <state>Ohio</state>
+        <zip>44309-2090</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Akron City Hospital</last_name>
+      <phone>330-375-6101</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Case Comprehensive Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-5065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Case Comprehensive Cancer Center</last_name>
+      <phone>800-641-2422</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Taussig Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Cleveland Clinic Taussig Cancer Cente</last_name>
+      <phone>866-223-8100</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Carmel St. Ann's Cancer Center</name>
+      <address>
+        <city>Westerville</city>
+        <state>Ohio</state>
+        <zip>43081</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>J. Philip Kuebler, MD, PhD</last_name>
+      <phone>614-442-3130</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Natalie Warren Bryant Cancer Center at St. Francis Hospital</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles E. Stewart</last_name>
+      <phone>918-494-2273</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Natalie W Bryant Cancer Center</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Charles Stewart, M.D.</last_name>
+      <phone>918-494-1585</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Legacy Good Samaritan Hospital &amp; Comprehensive Cancer Center</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Legacy Good Samaritan Hospital &amp;  Com</last_name>
+      <phone>503-413-1742</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Salem Hospital Regional Cancer Care Services</name>
+      <address>
+        <city>Salem</city>
+        <state>Oregon</state>
+        <zip>97309-5014</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Salem Hospital Regional Cancer Care S</last_name>
+      <phone>503-561-2618</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rosenfeld Cancer Center at Abington Memorial Hospital</name>
+      <address>
+        <city>Abington</city>
+        <state>Pennsylvania</state>
+        <zip>19001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Rosenfeld Cancer Center at Abington M</last_name>
+      <phone>215-481-2402</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Morgan Cancer Center at Lehigh Valley Hospital - Cedar Crest</name>
+      <address>
+        <city>Allentown</city>
+        <state>Pennsylvania</state>
+        <zip>18105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Suresh G. Nair, MD</last_name>
+      <phone>610-402-0512</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Luke's University Hospital-Bethlehem Campus</name>
+      <address>
+        <city>Bethlehem</city>
+        <state>Pennsylvania</state>
+        <zip>18015</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Deb Nimisha, M.D.</last_name>
+      <phone>484-503-4400</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Geisinger Cancer Institute at Geisinger Health</name>
+      <address>
+        <city>Danville</city>
+        <state>Pennsylvania</state>
+        <zip>17822-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Geisinger Cancer Institute</last_name>
+      <phone>570-271-5251</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Frankford Hospital Cancer Center - Torresdale Campus</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Avnish Bhatia</last_name>
+      <phone>215-612-4880</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Aria Health-Torresdale Campus</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Voichita Bar Ad, M.D.</last_name>
+      <phone>215-955-0284</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hollings Cancer Center at Medical University of South Carolina</name>
+      <address>
+        <city>Charleston</city>
+        <state>South Carolina</state>
+        <zip>29425</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Hollings Cancer Center at Medical Uni</last_name>
+      <phone>843-792-9321</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Rapid City Regional Hospital</name>
+      <address>
+        <city>Rapid City</city>
+        <state>South Dakota</state>
+        <zip>57701</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Richard C. Tenglin</last_name>
+      <phone>605-719-2360</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford Cancer Center Oncology Clinic</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miroslaw Mazurczak, M.D.</last_name>
+      <phone>605-328-8000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Sanford USD Medical Center - Sioux Falls</name>
+      <address>
+        <city>Sioux Falls</city>
+        <state>South Dakota</state>
+        <zip>57117</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Miroslaw Mazurczak, M.D.</last_name>
+      <phone>605-328-8000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Thompson Cancer Survival Center</name>
+      <address>
+        <city>Knoxville</city>
+        <state>Tennessee</state>
+        <zip>37916</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Thompson Cancer Survival Center</last_name>
+      <phone>865-541-1812</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Medical Branch</name>
+      <address>
+        <city>Galveston</city>
+        <state>Texas</state>
+        <zip>77555</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Todd Swanson, M.D.</last_name>
+      <phone>409-772-7186</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Dixie Medical Center Regional Cancer Center</name>
+      <address>
+        <city>Saint George</city>
+        <state>Utah</state>
+        <zip>84770</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jeffrey Lee</last_name>
+      <phone>713-792-7218</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Huntsman Cancer Institute at University of Utah</name>
+      <address>
+        <city>Salt Lake City</city>
+        <state>Utah</state>
+        <zip>84112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Huntsman Cancer Institute at Universi</last_name>
+      <phone>801-581-4477</phone>
+      <email>clinical.trials@hci.utah.edu</email>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>St. Vincent Hospital Regional Cancer Center</name>
+      <address>
+        <city>Green Bay</city>
+        <state>Wisconsin</state>
+        <zip>54307-3508</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - St. Vincent Hospital Regional Cancer</last_name>
+      <phone>920-433-8889</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Saint Joseph's Hospital</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Benjamin E. Lawler</last_name>
+      <phone>715-389-3133</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Marshfield Clinic - Marshfield Center</name>
+      <address>
+        <city>Marshfield</city>
+        <state>Wisconsin</state>
+        <zip>54449</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Marshfield Clinic - Marshfield Center</last_name>
+      <phone>800-782-1581</phone>
+      <phone_ext>94457</phone_ext>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Community Memorial Hospital</name>
+      <address>
+        <city>Menomonee Falls</city>
+        <state>Wisconsin</state>
+        <zip>53051</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph Bovi, M.D.</last_name>
+      <phone>414-805-4474</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Vince Lombardi Cancer Clinic at Aurora St. Luke's Medical Center</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clinical Trials Office - Vince Lombardi Cancer Clinic</last_name>
+      <phone>414-649-5717</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Froedtert and the Medical College of Wisconsin</name>
+      <address>
+        <city>Milwaukee</city>
+        <state>Wisconsin</state>
+        <zip>53226</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Joseph Bovi, M.D.</last_name>
+      <phone>414-805-4474</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Nova Scotia Cancer Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 1V8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Liam A. Mulroy</last_name>
+      <phone>902-473-6000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Margaret and Charles Juravinski Cancer Centre</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8V 5C2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Anthony C. Whitton</last_name>
+      <phone>905-387-9495</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Normand J. Laperriere</last_name>
+      <phone>416-946-2811</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Notre-Dame du CHUM</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>David Roberge</last_name>
+      <phone>514-281-6000</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Quebec</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Melanie Gaudreault</last_name>
+      <phone>418-525-4444</phone>
+    </contact>
+  </location>
+  <location>
+    <facility>
+      <name>CHUS-Hopital Fleurimont</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Laurence Masson-Cote</last_name>
+      <phone>819-346-1110</phone>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Canada</country>
+  </location_countries>
+  <link>
+    <url>http://cancer.gov/clinicaltrials/NCCTG-N107C</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <verification_date>July 2013</verification_date>
+  <lastchanged_date>July 22, 2013</lastchanged_date>
+  <firstreceived_date>June 11, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>neurotoxicity</keyword>
+  <keyword>radiation toxicity</keyword>
+  <keyword>cognitive/functional effects</keyword>
+  <keyword>tumors metastatic to brain</keyword>
+  <keyword>unspecified adult solid tumor, protocol specific</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Second Primary</mesh_term>
+    <mesh_term>Neurotoxicity Syndromes</mesh_term>
+    <mesh_term>Radiation Injuries</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

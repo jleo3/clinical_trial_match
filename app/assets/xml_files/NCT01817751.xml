@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="281">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01817751</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-14816</org_study_id>
+    <secondary_id>HM14816</secondary_id>
+    <nct_id>NCT01817751</nct_id>
+  </id_info>
+  <brief_title>Sorafenib Tosylate, Valproic Acid, and Sildenafil Citrate in Treating Patients With Recurrent Glioblastoma</brief_title>
+  <official_title>Phase II Study of Sorafenib, Valproic Acid, and Sildenafil in the Treatment of Recurrent Glioblastoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Virginia Commonwealth University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Virginia Commonwealth University</source>
+  <oversight_info>
+    <authority>United States: Institutional Review Board</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase II trial studies how well sorafenib tosylate, valproic acid, and sildenafil
+      citrate works in treating patients with recurrent glioblastoma. Sorafenib tosylate, valproic
+      acid, and sildenafil citrate may stop the growth of tumor cells by blocking some of the
+      enzymes needed for cell growth.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      The combination of sorafenib, valproic acid, and sildenafil may have therapeutic potential
+      for the treatment of GBM in the clinic. The combination of sorafenib and valproic acid is
+      predicated on the basis that sorafenib activity is enhanced by HDAC inhibition. The addition
+      of sildenafil is based on its ability to block ABCB1 and ABCG2 drug efflux pumps. As the
+      ABCG2 transporter is the primary transporter involved in the efflux of sorafenib at the BBB,
+      blocking its action is predicted to increase the concentration of sorafenib in the brain.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>April 2013</start_date>
+  <completion_date type="Anticipated">December 2017</completion_date>
+  <primary_completion_date type="Anticipated">December 2017</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Endpoint Classification: Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Determine the efficacy of the combination of sorafenib (sorafenib tosylate), valproic acid, and sildenafil (sildenafil citrate), in terms of 6-month progression-free survival (PFS) in glioblastoma (GBM).</measure>
+    <time_frame>6 months</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Kaplan-Meier method will be used to describe the time to progression and the median time to progression will be estimated, along with its 95% confidence intervals, for the entire population and for PDGFRa expression, respectively. Cox regression analysis will be used to evaluate baseline characteristics and any potential covariates.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>I. Evaluate the overall response rate, based on Response Assessment in Neuro-Oncology (RANO) criteria, to the drug combination in the entire study population and to the drug combination in PDGFRa expressing tumors.</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Will be estimated for the entire study population and for the PDGFRa expressing GBM cohort, along with the 95% confidence intervals.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine the efficacy of the drug combination, in terms of 12-month survival and median overall survival in the entire GBM cohort and in the PDGFRa expressing GBM cohort.</measure>
+    <time_frame>Up to 30 days</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>The Kaplan-Meier method will be used to describe the time to overall survival and the median time to overall survival will be estimated, and along with its 95% confidence intervals, for the entire population and for PDGFRa expression, respectively. Cox regression analysis will be used to evaluate baseline characteristics and any potential covariates.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">66</enrollment>
+  <condition>Brain and Nervous System</condition>
+  <arm_group>
+    <arm_group_label>Treatment (sorafenib tosylate, valproic acid, sildenafil)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive sorafenib tosylate PO, valproic acid* PO, and sildenafil citrate PO BID for 4 weeks. Courses repeat every 4 weeks in the absence of disease progression or unacceptable toxicity.
+* NOTE: Patients not receiving antiepileptic therapy begin valproic acid 1 week prior to the first day of sorafenib tosylate and sildenafil citrate.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sorafenib tosylate</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (sorafenib tosylate, valproic acid, sildenafil)</arm_group_label>
+    <other_name>pyridinecarboxamide, chloro-trifluoromethylphenyl pyridine-carboxyllic acid methyamide-methylbenzenesulfonate tosylate, Nexavar</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>valproic acid</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (sorafenib tosylate, valproic acid, sildenafil)</arm_group_label>
+    <other_name>2-Propylpentanoic or Propylvaleric Acid, Alti-Valproic, Depakene, Di-n-propylacetic Acid, Ergenyl, Novo-Valproic, VA, Valproate, Valproate Sodium</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sildenafil citrate</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Treatment (sorafenib tosylate, valproic acid, sildenafil)</arm_group_label>
+    <other_name>Viagra</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Pathologically confirmed GBM, with documented computed tomography (CT) or magnetic
+             resonance imaging (MRI) progression after first line therapy; biopsy is also an
+             acceptable method of confirming progression
+
+          -  Measurable or evaluable disease by RANO criteria
+
+          -  Fixed or decreasing dose of corticosteroids (or no corticosteroids) for at least
+             1week prior to registration
+
+          -  At least 12 weeks since the completion of radiation therapy
+
+          -  Eastern Cooperative Oncology Group (ECOG) performance status of 0, 1, or 2
+
+          -  White blood cell (WBC) &gt;= 3.0
+
+          -  Absolute neutrophil count (ANC) &gt;= 1.5
+
+          -  Platelets &gt;= 80,000
+
+          -  Hemoglobin (Hgb) &gt;= 8.5
+
+          -  Aspartate aminotransferase (AST), alanine aminotransferase (ALT) =&lt; 5 x upper
+             institutional limit
+
+          -  Total bilirubin =&lt; 2.5 mg/dl
+
+          -  Creatinine clearance (CrCL) &gt;= 30 as measured by the standard Cockroft-Gault equation
+
+          -  Life expectancy &gt; 3 months
+
+          -  Willingness to use contraception as required
+
+          -  Ability to understand and the willingness to sign a written informed consent document
+
+        Exclusion Criteria:
+
+          -  Investigational agent within 4 weeks or 5 half-lives, whichever is longer, of first
+             dose of study treatment
+
+          -  Prior systemic therapy for relapsed GBM
+
+          -  History of coagulopathy
+
+          -  History of allergic reactions or intolerance to any of the required agents on the
+             study
+
+          -  Seizure disorder necessitating the use of enzyme-inducing antiepileptic drugs
+             (EIAEDs); efforts may be made by the treating physician to change the antiepileptic
+             drug from another agent to valproic acid or non-EIAED prior to excluding the patient
+             from study
+
+          -  Contraindication to antiangiogenic agents, including:
+
+               -  Pulmonary hemorrhage/bleeding event &gt;= grade 2 (Common Terminology Criteria for
+                  Adverse Events [CTCAE] version 4) within 4 weeks of first dose of study drug
+
+               -  Any other hemorrhage/bleeding event &gt;= grade 3 within 4 weeks of first dose of
+                  study treatment
+
+               -  MRI evidence of any intracranial hemorrhage within the past 4 weeks, or prior
+                  history of significant intratumoral, intracerebral, or subarachnoid hemorrhage
+
+               -  Serious non-healing wound, ulcer, or bone fracture
+
+          -  Major surgery within 2 weeks of the start of study treatment, or ongoing
+             complications from surgeries performed previously
+
+          -  Clinically significant cardiac disease, including major cardiac dysfunction, such as
+             uncontrolled angina, clinical congestive heart failure with New York Heart
+             Association (NYHA) class III or higher, ventricular arrhythmias requiring
+             antiarrhythmic therapy
+
+          -  Systolic blood pressure &gt; 160 mm Hg or diastolic pressure &gt; 100 mm Hg despite optimal
+             medical management
+
+          -  History of priapism
+
+          -  Known history of retinitis pigmentosa
+
+          -  Arterial thromboembolic events less than 6 months prior to first study treatment
+
+          -  Serious uncontrolled infection &gt; grade 2
+
+          -  Patient with known human immunodeficiency virus (HIV) positivity
+
+          -  Unable to swallow medication or suspected malabsorption
+
+          -  Patients on chronic nitrate therapy or alpha-blockers
+
+          -  Women who are pregnant or nursing
+
+          -  Baseline corrected QT (QTc) &gt; 500 msec, on screening electrocardiogram (EKG)
+
+          -  Other condition(s) that in the opinion of the investigator might compromise the
+             objectives of the study
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Asadullah Khan, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Virginia Commonwealth University</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Diane Holdford, RN</last_name>
+    <phone>804-828-0296</phone>
+    <email>djholdfo@vcu.edu</email>
+  </overall_contact>
+  <location>
+    <facility>
+      <name>Virginia Commonwealth University</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diane Holdford, RN</last_name>
+      <phone>804-828-0296</phone>
+      <email>djholdfo@vcu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Asadullah Khan, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2013</verification_date>
+  <lastchanged_date>April 23, 2013</lastchanged_date>
+  <firstreceived_date>March 20, 2013</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Glioblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Valproic Acid</mesh_term>
+    <mesh_term>Sildenafil</mesh_term>
+    <mesh_term>Sorafenib</mesh_term>
+    <mesh_term>Citric Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

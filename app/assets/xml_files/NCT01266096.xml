@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="29">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01266096</url>
+  </required_header>
+  <id_info>
+    <org_study_id>10-155</org_study_id>
+    <nct_id>NCT01266096</nct_id>
+  </id_info>
+  <brief_title>PET Imaging of Patients With Melanoma and Malignant Brain Tumors Using an 124I-labeled cRGDY Silica Nanomolecular Particle Tracer: A Microdosing Study</brief_title>
+  <official_title>PET Imaging of Patients With Melanoma and Malignant Brain Tumors Using an 124I-labeled cRGDY Silica Nanomolecular Particle Tracer: A Microdosing Study</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan-Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan-Kettering Cancer Center</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Current tests to detect cancer, including CAT scans and MRI scans, are limited. PET scans
+      use special dyes that are injected into a vein and can better localize possible cancer. The
+      investigators have developed a new particle that can carry a radioactive dye to a very
+      specific area of the tumor. When using a PET scan the radioactive dye can be viewed in areas
+      of possible disease. This particle has been studied in mice and was safe.
+
+      The particles will not treat the cancer and any images or information found during this
+      study will not be used for your treatment. The information collected may be used to guide
+      the design of future studies to detect and/or treat tumors.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>January 2011</start_date>
+  <completion_date type="Anticipated">December 2014</completion_date>
+  <primary_completion_date type="Anticipated">December 2014</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety/Efficacy Study, Intervention Model: Single Group Assignment, Masking: Open Label, Primary Purpose: Diagnostic</study_design>
+  <primary_outcome>
+    <measure>Conduct pilot single-dose studies of 124I-cRGDY-PEG-dots†</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>in a limited number of human melanoma and brain tumor patients to characterize biodistribution, pharmacokinetics, and metabolic stability.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Estimate the radiation dosimetry of i.v.-injected 124I-cRGDY-PEG-dots.</measure>
+    <time_frame>1 year</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>studies have demonstrated that a dose 100 times the proposed human dose equivalent did not induce adverse effects</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Assay particle tracer tissue distributions in tumor tissue specimens</measure>
+    <time_frame>2 years</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">11</enrollment>
+  <condition>Newly Diagnosed or Recurrent Metastatic Melanoma Patients</condition>
+  <condition>Malignant Brain Tumors</condition>
+  <arm_group>
+    <arm_group_label>newly diagnosed or recurrent head/neck melanoma</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>This is a two-year microdosing study that will enroll 5 metastatic melanoma and up patients to 6 brain tumor patients at MSKCC who have either have a high grade glioma (n=3) or brain metastases (n=3) from melanoma, non-small cell lung carcinoma, or other non-CNS primary lesion. We have already accrued 5 melanoma patients and expect to accrue brain tumor patients within a 1 year period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PET scan with 124I-cRGDY-PEG-dots</intervention_name>
+    <description>Five (5) patients with newly diagnosed or recurrent melanoma and up to six (6) patients with either primary or metastatic brain tumors, will be i.v. injected with approximately 5 mCi (3.4-6.7 nanomoles) of 124I-cRGDY-PEG-dots (specific activity range 750.0 - 1450 mCi/mol) and undergo the microdosing study for purposes of collecting pharmacokinetic and dosimetry data. All studies will be performed using a dedicated GE STE PET/CT scanner, which integrates a dedicated PET scanner and a spiral CT with proprietary fusion software.</description>
+    <arm_group_label>newly diagnosed or recurrent head/neck melanoma</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  18 years of age or older
+
+          -  Histologically confirmed diagnosis of melanoma or malignant brain tumor at MSKCC
+
+          -  Newly-diagnosed or recurrent (local,regional, metastatic) metastatic melanoma or
+             malignant brain tumor patients with
+
+          -  Residual clinically or radiographically evident tumor, including primary cutaneous
+             and mucosal melanomas or malignant brain tumor
+
+          -  Prior radiation therapy, chemotherapy, or surgery in patients requiring flap
+             reconstruction in the head and neck region.
+
+          -  Newly diagnosed patients with previous excisional biopsy.
+
+          -  Normal baseline cardiac function based upon EKG and pre-operative evaluation
+
+          -  ANC&gt;1000/mcl and platelets&gt;100,000/mcl.
+
+          -  Bilirubin level of &lt; 2.0 mg/dl in the absence of a history of Gilbert's disease (or
+             pattern consistent with Gilbert's).
+
+          -  If patients have a history of malignancy other than melanoma or malignant brain tumor
+             they must be disease-free for ≥ 5 years at the time of enrollment.
+
+          -  All patients of childbearing and child-creating age must be using an acceptable form
+             of birth control
+
+          -  Women who are pre-menopausal must have a negative serum pregnancy test
+
+        Exclusion Criteria:
+
+          -  Clinical diagnosis of hypothyroidism, hyperthyroidism, or other thyroid disease
+
+          -  Known pregnancy or breast-feeding.
+
+          -  Medical illness unrelated to the tumor which in the opinion of the attending
+             physician and principal investigator will preclude administration of the tracer. This
+             includes patients with uncontrolled infection, chronic renal insufficiency,
+             myocardial infarction within the past 6 months, unstable angina, cardiac arrhythmias
+             other than chronic atrial fibrillation and chronic active or persistent hepatitis, or
+             New York Heart Association Classification III or IV heart disease.
+
+          -  History of any malignancy other than melanoma or malignant brain tumors for which the
+             disease-free interval is &lt;5 years.
+
+          -  Allergic reaction to iodine-containing contrast material
+
+          -  Weight greater than the 400-lb weight limit of the PET scanner
+
+          -  Claustrophobia
+
+          -  Inability to lie in the scanner for 30 minutes
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michelle Bradbury, MD,PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Memorial Sloan-Kettering Cancer Center</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Michelle Bradbury, MD, PhD</last_name>
+    <phone>646-888-3373</phone>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Snehal Patel, MD</last_name>
+    <phone>212-639-3412</phone>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Memorial Sloan Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Michelle Bradbury, MD, PhD</last_name>
+      <phone>646-888-3373</phone>
+    </contact>
+    <investigator>
+      <last_name>Michelle Bradbury, MD, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mskcc.org/mskcc/html/44.cfm</url>
+    <description>Memorial Sloan-Kettering Cancer Center</description>
+  </link>
+  <verification_date>August 2013</verification_date>
+  <lastchanged_date>August 26, 2013</lastchanged_date>
+  <firstreceived_date>December 21, 2010</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>124I-cRGDY-PEG-dots</keyword>
+  <keyword>Pet scan</keyword>
+  <keyword>10-155</keyword>
+  <keyword>melanoma</keyword>
+  <keyword>brain</keyword>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>No</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

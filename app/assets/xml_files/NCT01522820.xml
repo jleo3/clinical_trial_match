@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="77">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01522820</url>
+  </required_header>
+  <id_info>
+    <org_study_id>I 191511</org_study_id>
+    <secondary_id>NCI-2011-03568</secondary_id>
+    <secondary_id>I 191511</secondary_id>
+    <secondary_id>P30CA016056</secondary_id>
+    <nct_id>NCT01522820</nct_id>
+  </id_info>
+  <brief_title>Vaccine Therapy With or Without Sirolimus in Treating Patients With NY-ESO-1 Expressing Solid Tumors</brief_title>
+  <official_title>A Phase I Clinical Trial of mTOR Inhibition With Rapamycin for Enhancing Intranodal Dendritic Cell Vaccine Induced Anti-Tumor Immunity In Patients With NY-ESO-1 Expressing Solid Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Roswell Park Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Roswell Park Cancer Institute</source>
+  <oversight_info>
+    <authority>United States: Food and Drug Administration</authority>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This phase I trial studies the side effects and best schedule of vaccine therapy when given
+      together with or without sirolimus in treating patients with NY-ESO-1 expressing solid
+      tumors. Biological therapies, such as sirolimus, may stimulate the immune system in
+      different ways and stop tumor cells from growing. Vaccines made from a person's white blood
+      cells mixed with tumor proteins may help the body build an effective immune response to kill
+      tumor cells that express NY-ESO-1. Infusing the vaccine directly into a lymph node may cause
+      a stronger immune response and kill more tumor cells. Is not yet known whether vaccine
+      therapy is more effective when given with or without sirolimus in treating solid tumors.
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:
+
+      I. Determine the safety of DC205-NY-ESO-1 vaccine (DEC-205-NY-ESO-1 fusion protein vaccine)
+      with and without sirolimus. Toxicity as defined by the National Cancer Institute (NCI)
+      Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0.
+
+      SECONDARY OBJECTIVES:
+
+      I. Assess the NY-ESO-1 specific cellular and humoral immunity: peripheral blood NY-ESO-1
+      specific cluster of differentiation (CD)8+ and CD4+ T-cells; peripheral blood NY-ESO-1
+      specific antibodies; peripheral blood frequency of CD4+CD25+forkhead box P3 (FOXP3)+
+      regulatory T-cells.
+
+      TERTIARY OBJECTIVES:
+
+      I. Explore time to disease progression.
+
+      OUTLINE:
+
+      Patients undergo standard collection of peripheral white blood cells via leukapheresis over
+      90-240 minutes for vaccine preparation. Patients are assigned sequentially to Cohorts 1a-1d.
+
+      COHORT 1a: Patients receive intranodal DEC-205-NY-ESO-1 fusion protein vaccine on days 1,
+      29, 57, and 113.
+
+      COHORT 1b: Patients receive DEC-205-NY-ESO-1 fusion protein vaccine as in Cohort 1a and
+      sirolimus orally (PO) on days 1-14, 29-42, and 57-70.
+
+      COHORT 1c: Patients receive DEC-205-NY-ESO-1 fusion protein vaccine as in Cohort 1a and
+      sirolimus PO on days 15-28, 43-56, and 71-84.
+
+      COHORT 1d: Patients receive DEC-205-NY-ESO-1 fusion protein vaccine as in Cohort 1a and
+      sirolimus PO on days 1-84.
+
+      COHORT 2: Patients receive treatment as in the Cohort (1a-1d) that is determined to be safe
+      and produces optimal immunological effects.
+
+      After completion of study treatment, patients are followed up at 6 weeks, and 6 and 12
+      months.
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>March 2012</start_date>
+  <primary_completion_date type="Anticipated">September 2014</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Non-Randomized, Endpoint Classification: Safety Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Safety of the DEC-205-NY-ESO-1 fusion protein vaccine, with and without sirolimus, as evaluated according to the NCI CTCAE scale version 4.0</measure>
+    <time_frame>Up to 12 months post-treatment</time_frame>
+    <safety_issue>Yes</safety_issue>
+    <description>The safe schedule of the combinatorial regimen is established at the dose before 2/6 patients experience dose-limiting toxicity. Estimated using a one-sided, 95%, exact binomial confidence interval (Clopper-Pearson).</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>NY-ESO-1 specific cellular and humoral immunity</measure>
+    <time_frame>Up to 12 months post-treatment</time_frame>
+    <safety_issue>No</safety_issue>
+    <description>Analyzed via an analysis-of-covariance (ANCOVA) model with post-treatment levels modeled as a function pretreatment levels and main effects corresponding to the 3 + 3 design.</description>
+  </secondary_outcome>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Adult Anaplastic Astrocytoma</condition>
+  <condition>Adult Anaplastic Oligodendroglioma</condition>
+  <condition>Adult Giant Cell Glioblastoma</condition>
+  <condition>Adult Glioblastoma</condition>
+  <condition>Adult Gliosarcoma</condition>
+  <condition>Adult Mixed Glioma</condition>
+  <condition>Adult Primary Hepatocellular Carcinoma</condition>
+  <condition>Chondrosarcoma</condition>
+  <condition>Clear Cell Sarcoma of the Kidney</condition>
+  <condition>Conjunctival Kaposi Sarcoma</condition>
+  <condition>Estrogen Receptor-negative Breast Cancer</condition>
+  <condition>Estrogen Receptor-positive Breast Cancer</condition>
+  <condition>Hormone-resistant Prostate Cancer</condition>
+  <condition>Limited Stage Small Cell Lung Cancer</condition>
+  <condition>Localized Resectable Adult Primary Liver Cancer</condition>
+  <condition>Male Breast Cancer</condition>
+  <condition>Mast Cell Sarcoma</condition>
+  <condition>Ovarian Sarcoma</condition>
+  <condition>Recurrent Adult Brain Tumor</condition>
+  <condition>Recurrent Adult Primary Liver Cancer</condition>
+  <condition>Recurrent Adult Soft Tissue Sarcoma</condition>
+  <condition>Recurrent Bladder Cancer</condition>
+  <condition>Recurrent Breast Cancer</condition>
+  <condition>Recurrent Colon Cancer</condition>
+  <condition>Recurrent Esophageal Cancer</condition>
+  <condition>Recurrent Ewing Sarcoma/Peripheral Primitive Neuroectodermal Tumor</condition>
+  <condition>Recurrent Gastric Cancer</condition>
+  <condition>Recurrent Kaposi Sarcoma</condition>
+  <condition>Recurrent Melanoma</condition>
+  <condition>Recurrent Non-small Cell Lung Cancer</condition>
+  <condition>Recurrent Osteosarcoma</condition>
+  <condition>Recurrent Ovarian Epithelial Cancer</condition>
+  <condition>Recurrent Ovarian Germ Cell Tumor</condition>
+  <condition>Recurrent Prostate Cancer</condition>
+  <condition>Recurrent Rectal Cancer</condition>
+  <condition>Recurrent Renal Cell Cancer</condition>
+  <condition>Recurrent Small Cell Lung Cancer</condition>
+  <condition>Recurrent Uterine Sarcoma</condition>
+  <condition>Small Intestine Leiomyosarcoma</condition>
+  <condition>Stage I Colon Cancer</condition>
+  <condition>Stage I Rectal Cancer</condition>
+  <condition>Stage I Uterine Sarcoma</condition>
+  <condition>Stage IA Breast Cancer</condition>
+  <condition>Stage IA Gastric Cancer</condition>
+  <condition>Stage IA Ovarian Epithelial Cancer</condition>
+  <condition>Stage IA Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IB Breast Cancer</condition>
+  <condition>Stage IB Gastric Cancer</condition>
+  <condition>Stage IB Ovarian Epithelial Cancer</condition>
+  <condition>Stage IB Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IC Ovarian Epithelial Cancer</condition>
+  <condition>Stage IC Ovarian Germ Cell Tumor</condition>
+  <condition>Stage II Breast Cancer</condition>
+  <condition>Stage II Uterine Sarcoma</condition>
+  <condition>Stage IIA Colon Cancer</condition>
+  <condition>Stage IIA Gastric Cancer</condition>
+  <condition>Stage IIA Non-small Cell Lung Cancer</condition>
+  <condition>Stage IIA Ovarian Epithelial Cancer</condition>
+  <condition>Stage IIA Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IIA Rectal Cancer</condition>
+  <condition>Stage IIB Colon Cancer</condition>
+  <condition>Stage IIB Esophageal Cancer</condition>
+  <condition>Stage IIB Gastric Cancer</condition>
+  <condition>Stage IIB Melanoma</condition>
+  <condition>Stage IIB Non-small Cell Lung Cancer</condition>
+  <condition>Stage IIB Ovarian Epithelial Cancer</condition>
+  <condition>Stage IIB Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IIB Rectal Cancer</condition>
+  <condition>Stage IIC Colon Cancer</condition>
+  <condition>Stage IIC Melanoma</condition>
+  <condition>Stage IIC Ovarian Epithelial Cancer</condition>
+  <condition>Stage IIC Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IIC Rectal Cancer</condition>
+  <condition>Stage III Uterine Sarcoma</condition>
+  <condition>Stage IIIA Breast Cancer</condition>
+  <condition>Stage IIIA Colon Cancer</condition>
+  <condition>Stage IIIA Esophageal Cancer</condition>
+  <condition>Stage IIIA Gastric Cancer</condition>
+  <condition>Stage IIIA Melanoma</condition>
+  <condition>Stage IIIA Non-small Cell Lung Cancer</condition>
+  <condition>Stage IIIA Ovarian Epithelial Cancer</condition>
+  <condition>Stage IIIA Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IIIA Rectal Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IIIB Colon Cancer</condition>
+  <condition>Stage IIIB Esophageal Cancer</condition>
+  <condition>Stage IIIB Gastric Cancer</condition>
+  <condition>Stage IIIB Melanoma</condition>
+  <condition>Stage IIIB Ovarian Epithelial Cancer</condition>
+  <condition>Stage IIIB Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IIIB Rectal Cancer</condition>
+  <condition>Stage IIIC Breast Cancer</condition>
+  <condition>Stage IIIC Colon Cancer</condition>
+  <condition>Stage IIIC Esophageal Cancer</condition>
+  <condition>Stage IIIC Gastric Cancer</condition>
+  <condition>Stage IIIC Melanoma</condition>
+  <condition>Stage IIIC Ovarian Epithelial Cancer</condition>
+  <condition>Stage IIIC Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IIIC Rectal Cancer</condition>
+  <condition>Stage IV Bladder Cancer</condition>
+  <condition>Stage IV Esophageal Cancer</condition>
+  <condition>Stage IV Gastric Cancer</condition>
+  <condition>Stage IV Melanoma</condition>
+  <condition>Stage IV Ovarian Epithelial Cancer</condition>
+  <condition>Stage IV Ovarian Germ Cell Tumor</condition>
+  <condition>Stage IV Prostate Cancer</condition>
+  <condition>Stage IV Renal Cell Cancer</condition>
+  <condition>Stage IV Uterine Sarcoma</condition>
+  <condition>Stage IVA Colon Cancer</condition>
+  <condition>Stage IVA Rectal Cancer</condition>
+  <condition>Stage IVB Colon Cancer</condition>
+  <condition>Stage IVB Rectal Cancer</condition>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <arm_group>
+    <arm_group_label>Cohort 1a (vaccine therapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive intranodal DEC-205-NY-ESO-1 fusion protein vaccine on days 1, 29, 57, and 113.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 1b (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive DEC-205-NY-ESO-1 fusion protein vaccine as in Cohort 1a and sirolimus PO on days 1-14, 29-42, and 57-70.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 1c (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive DEC-205-NY-ESO-1 fusion protein vaccine as in Cohort 1a and sirolimus PO on days 15-28, 43-56, and 71-84.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 1d (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive DEC-205-NY-ESO-1 fusion protein vaccine as in Cohort 1a and sirolimus PO on days 1-84.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Cohort 2 (vaccine therapy with or without immunotherapy)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive treatment as in the Cohort (1a-1d) that is determined to be safe and produces optimal immunological effects.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sirolimus</intervention_name>
+    <description>Given PO</description>
+    <arm_group_label>Cohort 1b (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 1c (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 1d (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 2 (vaccine therapy with or without immunotherapy)</arm_group_label>
+    <other_name>AY 22989</other_name>
+    <other_name>Rapamune</other_name>
+    <other_name>rapamycin</other_name>
+    <other_name>SLM</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Cohort 1a (vaccine therapy)</arm_group_label>
+    <arm_group_label>Cohort 1b (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 1c (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 1d (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 2 (vaccine therapy with or without immunotherapy)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>DEC-205-NY-ESO-1 fusion protein vaccine</intervention_name>
+    <description>Given intranodally</description>
+    <arm_group_label>Cohort 1a (vaccine therapy)</arm_group_label>
+    <arm_group_label>Cohort 1b (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 1c (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 1d (vaccine therapy and immunotherapy)</arm_group_label>
+    <arm_group_label>Cohort 2 (vaccine therapy with or without immunotherapy)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  Patients with any solid tumors at high risk of recurrence or with minimal residual
+             disease; there may or may not be measurable or symptomatic disease (i.e., patients
+             with bladder, brain, breast, esophageal, gastrointestinal, hepatocellular, kidney,
+             lungs, melanoma, ovarian, prostate, sarcomas, and uterine)
+
+          -  Cancer Types:
+
+               -  Prostate Cancer: patients with metastatic, castrate refractory prostate cancer;
+                  the use of luteinizing hormone-releasing hormone (LHRH) agonist is allowed
+
+               -  Kidney Cancer: patients with metastatic kidney cancer; prior therapies with
+                  cytokines, vascular endothelial growth factor (VEGF) and mammalian target of
+                  rapamycin (mTOR) inhibitors are allowed
+
+               -  Bladder Cancer: patients with metastatic urothelial carcinoma; prior
+                  cisplatin-based therapies are allowed
+
+               -  Ovarian Cancer: eligible patients may have asymptomatic residual measurable
+                  disease on physical examination and/or computed tomography (CT) scan, and/or may
+                  have an elevated CA-125; or may be in complete clinical remission after
+                  treatment for primary or recurrent disease
+
+               -  Brain Tumors: histologic proof of one of the following: glioblastoma multiforme,
+                  anaplastic astrocytoma, anaplastic oligodendroglioma or anaplastic mixed glioma
+                  or anaplastic oligoastrocytoma; patients who have had recent cranial surgery are
+                  eligible for inclusion, but the vaccine may not be administered prior to
+                  postoperative Day 14
+
+               -  Uterine Cancer: patients with advanced (Stages II - IV) or recurrent disease who
+                  have completed standard therapy, currently no evidence of disease (NED) or with
+                  minimal residual disease; patients with Stage I uterine serous carcinomas or
+                  sarcomas are also eligible after completion of standard therapy
+
+               -  Breast Cancer: patients can enter study after completion of all chemotherapy
+                  (including trastuzumab), radiation, breast/axillary surgery; patients may
+                  participate while on endocrine therapy; stages I - III patients with the
+                  following characteristics:
+
+                    -  Estrogen-receptor (ER) negative with positive lymph nodes; ER negative with
+                       negative nodes if tumor &gt; 2 cm; ER positive with positive lymph nodes; and
+                       ER positive with negative lymph nodes and tumor &gt; 5 cm
+
+               -  Sarcomas: patients with sarcomas of any site, who have completed standard
+                  therapy, and are in remission, or have minimal disease burden
+
+               -  Lungs: resected patients with hilar or ipsilateral mediastinal nodal disease
+                  (i.e., a subset of patients with Stage II and lilA disease); and patients with
+                  residual disease on imaging after definitive radiation or chemoradiation therapy
+
+               -  Esophageal: resected patients with any nodal (i.e., thoracic or abdominal)
+                  disease; and patients with residual disease on imaging after definitive
+                  chemoradiation therapy
+
+               -  Melanoma: stage IIB, Stage IIC, and Stage III who have completed planned
+                  definitive therapy for their disease including radiotherapy and/or interferon;
+                  patients declining interferon or with contra-indications to interferon will also
+                  be eligible provided they meet requisite criteria for this study (i.e.,
+                  non-measurable disease); stage IV melanoma of Mla sub-type only, who are not
+                  candidates for additional therapy of curative potential (i.e., small volume
+                  disease; may be measurable or evaluable); and stage IV melanoma, NED, s/p
+                  complete resection of known sites of disease (i.e., non-measurable disease)
+
+               -  Hepatocellular Carcinoma (HCC): patients who have been treated with surgical
+                  resection for HCC; and following chemoembolization as adjuvant therapy for HCC
+
+               -  Gastrointestinal: patients who have completed standard therapies for gastric and
+                  colorectal cancers, and deemed to be at high-risk of relapse
+
+          -  Any human leukocyte antigen (HLA) type; historic HLA typing is permitted
+
+          -  Tumor expression of NY-ESO-1 or LAGE-1 by immunohistochemistry (IHC) and/or reverse
+             transcription polymerase chain reaction (RTPCR)
+
+          -  Life expectancy &gt; 6 months
+
+          -  Absolute neutrophil count (ANC) &gt;= 1,000/uL
+
+          -  Platelets (PLT) &gt;= 75,000/uL
+
+          -  Hemoglobin (Hgb) &gt;= 8 g/dL
+
+          -  Total bilirubin =&lt; 1.5 x upper limit of normal (ULN)
+
+          -  Serum aspartate aminotransferase (serum glutamic oxaloacetic transaminase
+             [SGOT]/aspartate aminotransferase [AST]) or serum alanine aminotransferase (serum
+             glutamic pyruvate transaminase [SGPT]/alanine aminotransferase [ALT]) =&lt; 3 x ULN
+
+          -  Serum creatinine =&lt; 2 x ULN
+
+          -  Prothrombin time (PT)/international normalized ratio (INR) =&lt; 1.5 x ULN; patients
+             receiving anticoagulation therapy, PT/INR =&lt; 3
+
+          -  Pulmonary function tests: lower limit of the normal range (LLN) &gt;= 5th percentile
+
+          -  Pulse oximetry: oxygen (O2) saturation &gt;= 90% on room air
+
+          -  Electrocardiogram, showing no evidence of congestive heart failure, myocardial
+             infarction, and cardiomyopathy
+
+          -  No immunodeficiency (i.e., subjects must be human immunodeficiency virus [HIV]
+             negative) based on baseline testing
+
+          -  No acute or chronic hepatitis (HbsAg) positive or hepatitis C virus (anti-HCV)
+             positive patients based on baseline testing
+
+          -  Have been informed of other treatment options
+
+          -  Patient or legal representative must understand the investigational nature of this
+             study and sign an Independent Ethics Committee/Institutional Review Board approved
+             written informed consent form prior to receiving any study related procedure
+
+          -  Have an Eastern Cooperative Oncology Group (ECOG) Performance Status of =&lt; 2
+
+          -  Demonstrate the ability to swallow and retain oral medication
+
+          -  Patients of child-bearing potential must agree to use acceptable contraceptive
+             methods (e.g., double barrier) during treatment
+
+        Exclusion Criteria:
+
+          -  Metastatic disease to the central nervous system for which other therapeutic options,
+             including radiotherapy, may be available
+
+          -  Other serious illnesses (e.g., serious infections requiring antibiotics, bleeding
+             disorders)
+
+          -  History of autoimmune disease (e.g., thyroiditis, lupus) except vitiligo
+
+          -  Concomitant systemic treatment with corticosteroids, anti-histamine or non-steroidal
+             anti-inflammatory drugs, Aspirin &gt; 325 mg; specific COX-2 inhibitors are permitted
+
+          -  Chemotherapy, radiation therapy, or immunotherapy within 4 weeks prior to first
+             dosing of study agent (6 weeks for nitrosoureas); concomitant hormonal therapies for
+             breast and prostate cancers are allowed
+
+          -  Clinically significant heart disease (New York Heart Association [NYHA] Class III or
+             IV) within 6 months
+
+          -  Mental impairment that may compromise the ability to give informed consent and comply
+             with the requirements of the study
+
+          -  Lack of availability of a patient for immunological and clinical follow-up assessment
+
+          -  Known pulmonary hypertension
+
+          -  Known hypersensitivity to sirolimus
+
+          -  Evidence of current drug or alcohol abuse or psychiatric impairment, which in the
+             investigator's opinion will prevent completion of the protocol therapy or follow-up
+
+          -  Known allergy to local anesthetics (e.g., lidocaine)
+
+          -  Pregnant or nursing female patients
+
+          -  Unwilling or unable to follow protocol requirements
+
+          -  Any condition which in the Investigator's opinion deems the patient an unsuitable
+             candidate to receive study drug; (i.e., any significant medical illness or abnormal
+             laboratory finding that would, in the investigator's judgment, increase the subject's
+             risk by participating in this study)
+
+          -  Received an investigational agent within 30 days prior to enrollment
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kunle Odunsi</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Roswell Park Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Roswell Park</last_name>
+      <phone>877-275-7724</phone>
+      <email>ASKRPCI@roswellpark.org</email>
+    </contact>
+    <investigator>
+      <last_name>Kunle Odunsi</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2013</verification_date>
+  <lastchanged_date>October 11, 2013</lastchanged_date>
+  <firstreceived_date>January 25, 2012</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <is_fda_regulated>Yes</is_fda_regulated>
+  <is_section_801>Yes</is_section_801>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Astrocytoma</mesh_term>
+    <mesh_term>Urinary Bladder Neoplasms</mesh_term>
+    <mesh_term>Brain Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Carcinoma</mesh_term>
+    <mesh_term>Colonic Neoplasms</mesh_term>
+    <mesh_term>Rectal Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+    <mesh_term>Chondrosarcoma</mesh_term>
+    <mesh_term>Esophageal Diseases</mesh_term>
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+    <mesh_term>Glioblastoma</mesh_term>
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Leiomyosarcoma</mesh_term>
+    <mesh_term>Liver Neoplasms</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Oligodendroglioma</mesh_term>
+    <mesh_term>Osteosarcoma</mesh_term>
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+    <mesh_term>Sarcoma, Kaposi</mesh_term>
+    <mesh_term>Mast-Cell Sarcoma</mesh_term>
+    <mesh_term>Small Cell Lung Carcinoma</mesh_term>
+    <mesh_term>Neoplasms, Germ Cell and Embryonal</mesh_term>
+    <mesh_term>Neuroectodermal Tumors</mesh_term>
+    <mesh_term>Neuroectodermal Tumors, Primitive</mesh_term>
+    <mesh_term>Sarcoma, Clear Cell</mesh_term>
+    <mesh_term>Gliosarcoma</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+    <mesh_term>Germinoma</mesh_term>
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Sarcoma, Ewing's</mesh_term>
+    <mesh_term>Neuroectodermal Tumors, Primitive, Peripheral</mesh_term>
+    <mesh_term>Neoplasms, Glandular and Epithelial</mesh_term>
+    <mesh_term>Carcinoma, Hepatocellular</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Sirolimus</mesh_term>
+    <mesh_term>Everolimus</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>

@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clinical_study rank="349">
+  <!-- This xml conforms to an XML Schema at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.xsd
+ and an XML DTD at:
+    http://clinicaltrials.gov/ct2/html/images/info/public.dtd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on October 24, 2013</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>http://clinicaltrials.gov/show/NCT01503827</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ANZMTG 01-07</org_study_id>
+    <secondary_id>ACTRN12607000512426</secondary_id>
+    <nct_id>NCT01503827</nct_id>
+  </id_info>
+  <brief_title>Whole Brain Radiotherapy Following Local Treatment of Intracranial Metastases of Melanoma</brief_title>
+  <acronym>WBRTMel</acronym>
+  <official_title>Whole Brain Radiotherapy Following Local Treatment of Intracranial Metastases of Melanoma - A Randomised Phase III Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Australia and New Zealand Melanoma Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Trans-Tasman Radiation Oncology Group (TROG)</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Sydney Neuro-Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Oxford</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Australia and New Zealand Melanoma Trials Group</source>
+  <oversight_info>
+    <authority>Australia: Human Research Ethics Committee</authority>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      People with brain metastases from melanoma are offered different treatment options after
+      local treatment of their brain metastases via surgery or stereotactic irradiation. Depending
+      on the treating institution and the clinician involved a patient may or may not be offered
+      whole brain radiotherapy (WBRT) after their brain metastases are excised or treated with
+      stereotactic irradiation. This trial seeks to determine if WBRT reduces the spread of brain
+      metastases and lengthens the time to recurrence. The trial also examines the effect of WBRT
+      on quality of life and brain functions such as memory, speech and concentration.
+      Participants will be randomised after local treatment of their brain metastases to either
+      WBRT or observation. 200 people will be recruited from sites in Australia, Norway, the UK,
+      the US and other international sites.
+    </textblock>
+  </brief_summary>
+  <overall_status>Recruiting</overall_status>
+  <start_date>October 2007</start_date>
+  <completion_date type="Anticipated">June 2016</completion_date>
+  <primary_completion_date type="Anticipated">June 2015</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <study_design>Allocation: Randomized, Endpoint Classification: Efficacy Study, Intervention Model: Parallel Assignment, Masking: Open Label, Primary Purpose: Treatment</study_design>
+  <primary_outcome>
+    <measure>Proportion of patients with distant intracranial failure as determined by magnetic resonance imaging (MRI) assessment</measure>
+    <time_frame>12 months post randomisation</time_frame>
+    <safety_issue>No</safety_issue>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Time to intracranial failure (local, distant and overall) as determined by MRI</measure>
+    <time_frame>Post randomisation to intracranial failure</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Quality of life as measured by EORTC QLQ-C30 and BN-20</measure>
+    <time_frame>At baseline and every 2 months post randomisation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Neurocognitive function as measured by Hopkins Verbal Learning Test, Controlled Oral Word Association Test, Trail Making Test Part A &amp; B, Stroop - Colour and Word Test and Digit Span (Forwards and Backwards).</measure>
+    <time_frame>At baseline and every 2 months post randomisation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall survival</measure>
+    <time_frame>Post randomisation to death from any cause</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Performance status as measured by ECOG</measure>
+    <time_frame>At baseline and every 2 months post randomisation</time_frame>
+    <safety_issue>No</safety_issue>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Anticipated">200</enrollment>
+  <condition>Metastatic Melanoma</condition>
+  <arm_group>
+    <arm_group_label>WBRT</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients will receive WBRT after local treatment. A minimum of 30 Gy in 10 fractions given as one fraction per day within 4 weeks of randomisation</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Observation</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>WBRT</intervention_name>
+    <description>A minimum of 30 Gy in 10 fractions given as one fraction per day within 4 weeks of randomisation</description>
+    <arm_group_label>WBRT</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:
+
+          -  1-3 intracranial metastases on MRI from melanoma, locally treated with either
+             surgical excision and/or stereotactic irradiation.
+
+          -  Life expectancy of at least 6 months
+
+          -  Aged 18 years or older
+
+          -  WBRT must begin within 8 weeks of completion of localised treatment and within 4
+             weeks of randomisation
+
+          -  Able to have an MRI brain scan with contrast. Estimated Glomerular Filtrate Rate
+             (eGFR) is adequate at the discretion of the radiologist and capable of having
+             gadolinium-containing contrast medium for MRI as per practice guidelines
+
+          -  Complete localised treatment of all these metastases no more than 6 weeks prior to
+             randomisation
+
+          -  An Eastern Cooperative Oncology Group (ECOG) performance status of 2 or less at
+             randomisation
+
+          -  CT scan of chest, abdomen and pelvis as a minimum prior to randomisation. Scans must
+             be within 12 weeks of randomisation
+
+          -  Serum Lactate Dehydrogenase (LDH) must be = or &lt; 2 x upper limit of normal
+
+          -  Able to provide written informed consent
+
+        Exclusion Criteria:
+
+          -  Any untreated intracranial disease
+
+          -  Any previous intracranial treatment (surgical excision and/or stereotactic
+             irradiation treatment and/or WBRT) prior to this diagnosis of intracranial melanoma
+
+          -  Evidence of leptomeningeal disease on pre-local treatment MRI scan
+
+          -  Patients with prior cancers, except:
+
+               -  Those diagnosed more than five years ago with no evidence of disease recurrence
+                  within this time;
+
+               -  Successfully treated basal cell and squamous cell skin carcinoma;
+
+               -  Carcinoma in-situ of the cervix
+
+          -  A medical or psychiatric condition that compromises ability to give informed consent
+             or complete the protocol
+
+          -  Positive urine pregnancy test for women of childbearing potential within a week of
+             registration onto the trial
+      </textblock>
+    </criteria>
+    <gender>Both</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gerald Fogarty, BSc, MBBS</last_name>
+    <role>Study Chair</role>
+    <affiliation>Mater Hospital, St Vincent's Hospital, Melanoma Institue Australia</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Enmoore Lin</last_name>
+    <phone>+61 2 9911 7351</phone>
+    <email>enmoore.lin@melanoma.org.au</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Elizabeth Paton</last_name>
+    <phone>+61 2 9911 7354</phone>
+    <email>elizabeth.paton@melanoma.org.au</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Penn State Milton S. Hershey Medical Center</name>
+      <address>
+        <city>Hershey</city>
+        <state>Pennsylvania</state>
+        <zip>17033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Not yet recruiting</status>
+    <contact>
+      <last_name>Missy Crain</last_name>
+      <phone>717-531-0003</phone>
+      <phone_ext>289630</phone_ext>
+      <email>mcrain@hmc.psu.edu</email>
+    </contact>
+    <investigator>
+      <last_name>Rogerio Neves, MD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St Vincent's Hospital</name>
+      <address>
+        <city>Darlinghurst</city>
+        <state>New South Wales</state>
+        <zip>2010</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Dale Dalley</last_name>
+      <phone>+61 2 9355 5618</phone>
+      <email>daledalley@stvincents.com.au</email>
+    </contact>
+    <investigator>
+      <last_name>Gerald Fogarty</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St George Hospital</name>
+      <address>
+        <city>Kogarah</city>
+        <state>New South Wales</state>
+        <zip>2217</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Calvary Mater Hospital</name>
+      <address>
+        <city>Newcastle</city>
+        <state>New South Wales</state>
+        <zip>2310</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sarah Gallagher</last_name>
+      <phone>+61 2 4014 3947</phone>
+      <email>Sarah.Gallagher@calvarymater.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Chris Wratten</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Melanoma Institute Australia / Royal Prince Alfred Hospital</name>
+      <address>
+        <city>North Sydney</city>
+        <state>New South Wales</state>
+        <zip>2060</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Maria Gonzalez</last_name>
+      <phone>+61 2 9911 7200</phone>
+      <email>maria.gonzalez@melanoma.org.au</email>
+    </contact>
+    <investigator>
+      <last_name>Angela Hong, MBBS, MMed, PhD</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Nepean Hospital</name>
+      <address>
+        <city>Penrith</city>
+        <state>New South Wales</state>
+        <zip>2751</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Shamira Cross</last_name>
+      <phone>+61 2 4734 3523</phone>
+      <email>Shamira.Cross@swahs.health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Wei Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Port Macquarie Base Hospital</name>
+      <address>
+        <city>Port Macquarie</city>
+        <state>New South Wales</state>
+        <zip>2444</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Withdrawn</status>
+  </location>
+  <location>
+    <facility>
+      <name>Royal North Shore Hospital</name>
+      <address>
+        <city>St Leonards</city>
+        <state>New South Wales</state>
+        <zip>2065</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Clare Banks</last_name>
+      <phone>+61 2 9463 1345</phone>
+      <email>mcbanks@nsccahs.health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Back</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Westmead Hospital</name>
+      <address>
+        <city>Westmead</city>
+        <state>New South Wales</state>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Suganthy Varadarajan</last_name>
+      <phone>+61 2 9845 5575</phone>
+      <email>Suganthy.Varadarajan@swahs.health.nsw.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Wei Wang</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Brisbane and Women's Hospital</name>
+      <address>
+        <city>Herston</city>
+        <state>Queensland</state>
+        <zip>4029</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Edmunds</last_name>
+      <phone>+61 7 3646 3465</phone>
+      <email>Jennifer_Edmunds@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Michael Fay</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Radiation Oncology Services - Mater Centre</name>
+      <address>
+        <city>South Brisbane</city>
+        <state>Queensland</state>
+        <zip>4101</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kacy Bauman</last_name>
+      <phone>+61 7 3840 3219</phone>
+      <email>Kacy_Baumann@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Andrew Pullar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Townsville Hospital</name>
+      <address>
+        <city>Townsville</city>
+        <state>Queensland</state>
+        <zip>4812</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Wilna van der Watt</last_name>
+      <phone>+61 7 4433 4281</phone>
+      <email>TSV-Oncology-Clinical-Trials@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Sean Brennan</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Princess Alexandra Hospital</name>
+      <address>
+        <city>Woolloongabba</city>
+        <state>Queensland</state>
+        <zip>4102</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Jennifer Suffolk</last_name>
+      <phone>+61 7 31767825</phone>
+      <email>Jennifer_M_Suffolk@health.qld.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Bryan Burmeister</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Adelaide Hospital</name>
+      <address>
+        <city>Adelaide</city>
+        <state>South Australia</state>
+        <zip>5000</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Julie Butters</last_name>
+      <phone>+61 8 8222 5024</phone>
+      <email>julie.butters@health.sa.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Daniel Roos</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Peter MacCallum Cancer Centre</name>
+      <address>
+        <city>East Melbourne</city>
+        <state>Victoria</state>
+        <zip>8006</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Diane Strong</last_name>
+      <phone>+61 3 9656 1111</phone>
+      <email>Diane.Strong@petermac.org</email>
+    </contact>
+    <investigator>
+      <last_name>Vanessa Estall</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Alfred Hospital</name>
+      <address>
+        <city>Melbourne</city>
+        <state>Victoria</state>
+        <zip>3004</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Robin Smith</last_name>
+      <phone>+61 3 9076 2360</phone>
+      <email>robin.smith@wbrc.org.au</email>
+    </contact>
+    <contact_backup>
+      <last_name>Rachel Ward</last_name>
+      <phone>+61 3 9076 2337</phone>
+      <email>rachel.ward@alfred.org.au</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Jeremy Ruben</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Sir Charles Gairdner Hospital</name>
+      <address>
+        <city>Nedlands</city>
+        <state>Western Australia</state>
+        <zip>6009</zip>
+        <country>Australia</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Mary-Anne Kedda</last_name>
+      <phone>+61 8 9346 7923</phone>
+      <email>Mary-Anne.Kedda@health.wa.gov.au</email>
+    </contact>
+    <investigator>
+      <last_name>Sean Bydder</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>The Norwegian Radium Hospital</name>
+      <address>
+        <city>Montebello</city>
+        <state>Oslo</state>
+        <zip>0310</zip>
+        <country>Norway</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kari Dolven Jacobsen</last_name>
+      <phone>+47 22934000</phone>
+      <email>kari.dolven.jacobsen@radiumhospitalet.no</email>
+    </contact>
+    <investigator>
+      <last_name>Kari Dolven Jacobsen</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Queen Elizabeth Hospital</name>
+      <address>
+        <city>Edgbaston</city>
+        <state>Birmingham</state>
+        <zip>B15 2TH</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Nicola Anderson</last_name>
+      <email>nicola.anderson@uhb.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Anjali Zarker</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Velindre Hospital</name>
+      <address>
+        <city>Whitchurch</city>
+        <state>Cardiff</state>
+        <zip>CF14 2TL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Hana Wilbraham</last_name>
+      <email>hana.wilbraham@wales.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Satish Kumar</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Mount Vernon Cancer Centre</name>
+      <address>
+        <city>Northwood</city>
+        <state>Middlesex</state>
+        <zip>HA6 2RN</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Sara Abbassi</last_name>
+      <email>sara.abbassi@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Carie Corner</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Churchill Hospital</name>
+      <address>
+        <city>Headington</city>
+        <state>Oxford</state>
+        <zip>OX3 7LJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Kathryn Room</last_name>
+      <email>earlyphasehub@oncology.ox.ac.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Mark Middleton</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Royal Surrey County Hospital</name>
+      <address>
+        <city>Guildford</city>
+        <state>Surrey</state>
+        <zip>GU2 7XX</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Ceri Jamieson</last_name>
+      <email>cerijamieson@nhs.net</email>
+    </contact>
+    <investigator>
+      <last_name>Richard Shaffer</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Clatterbridge Cancer Centre</name>
+      <address>
+        <city>Bebington</city>
+        <state>Wirral</state>
+        <zip>CH63 4JY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Alison Hassall</last_name>
+      <email>alison.hassall@clatterbridgecc.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Anne Temple-Murray</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>St. James University Hospital</name>
+      <address>
+        <city>Leeds</city>
+        <zip>LS9 7TF</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Tracey Rose</last_name>
+      <email>tracey.rose@leedsth.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Maria Marples</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location>
+    <facility>
+      <name>Norfolk &amp; Norwich University Hospital</name>
+      <address>
+        <city>Norwich</city>
+        <zip>NR4 7UY</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Adele Cooper</last_name>
+      <email>adele.cooper@nnuh.nhs.uk</email>
+    </contact>
+    <investigator>
+      <last_name>Jenny Nobes</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>United States</country>
+    <country>Australia</country>
+    <country>Norway</country>
+    <country>United Kingdom</country>
+  </location_countries>
+  <link>
+    <url>http://anzmtg.org/trialdetails.aspx?trialno=5</url>
+    <description>Click here for more information about this study: Whole Brain Radiotherapy following local treatment of intracranial metastases of melanoma</description>
+  </link>
+  <reference>
+    <citation>Fogarty G, Morton RL, Vardy J, Nowak AK, Mandel C, Forder PM, Hong A, Hruby G, Burmeister B, Shivalingam B, Dhillon H, Thompson JF. Whole brain radiotherapy after local treatment of brain metastases in melanoma patients--a randomised phase III trial. BMC Cancer. 2011 Apr 17;11:142. doi: 10.1186/1471-2407-11-142.</citation>
+    <PMID>21496312</PMID>
+  </reference>
+  <verification_date>January 2013</verification_date>
+  <lastchanged_date>January 3, 2013</lastchanged_date>
+  <firstreceived_date>December 15, 2011</firstreceived_date>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Whole Brain Radiotherapy</keyword>
+  <keyword>Brain metastases</keyword>
+  <keyword>Melanoma</keyword>
+  <keyword>Stage IV Metastatic Melanoma</keyword>
+  <keyword>Neurocognitive function</keyword>
+  <keyword>Quality of life</keyword>
+  <is_fda_regulated>No</is_fda_regulated>
+  <has_expanded_access>No</has_expanded_access>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm  -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Neoplasm Metastasis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                -->
+</clinical_study>
