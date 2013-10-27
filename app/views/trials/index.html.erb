@@ -1,6 +1,9 @@
 <h1>Listing trials</h1>
 
 <!-- @TODO Add Pagination -->
+<%= will_paginate @trials %>
+
+
 <% @trials.each do |trial| %>
 <table class="table">
   <tbody>
@@ -29,6 +32,8 @@
 <br>
 <hr>
     <% end %>
+
+    <%= will_paginate @trials %>
 
 
 <%= link_to 'New Trial', new_trial_path %><br>

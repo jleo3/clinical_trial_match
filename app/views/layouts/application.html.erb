@@ -1,8 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Clinical Trial Matcher</title>
+  <%= stylesheet_link_tag :application %>
+  <%= javascript_include_tag :defaults %>
+  <%= csrf_meta_tag %>
+</head>
+<body>
+
 <p class="notice"><%= notice %></p>
 <p class="alert"><%= alert %></p>
 <% if user_signed_in? %>
   <div>Signed in as... <%= current_user.email %>. <%= link_to "Edit Account",edit_user_registration_path%>, <%= link_to "Log Out",destroy_user_session_path, :method => :delete %> </div>
 
 <% end %>
-
+ 
 <%= yield %>
+ 
+</body>
+</html>

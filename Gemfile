@@ -37,6 +37,8 @@ gem 'rest-client'
 # For user authentication
 gem 'devise'
 
+# Adding Pagination
+gem 'will_paginate'
 
 
 

@@ -1,10 +1,12 @@
 class TrialsController < ApplicationController
   before_action :set_trial, only: [:show, :edit, :update, :destroy]
 
+  layout "application"
   # GET /trials
   # GET /trials.json
   def index
-    @trials = Trial.all
+
+    @trials = Trial.paginate(:page => params[:page], :per_page => 20)
   end
 
   # GET /trials/1
