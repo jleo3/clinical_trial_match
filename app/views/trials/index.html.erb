@@ -1,8 +1,7 @@
 <h1>Browse Trials</h1>
 
-
+<p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
 <%= will_paginate @trials %>
-
 
 <% @trials.each do |trial| %>
 <table class="table">
@@ -33,7 +32,9 @@
 <hr>
     <% end %>
 
-    <%= will_paginate @trials %>
+
+<p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
+   <%= will_paginate @trials %>
 
 
 <%= link_to 'New Trial', new_trial_path %><br>
