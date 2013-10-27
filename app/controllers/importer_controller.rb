@@ -32,7 +32,7 @@ class ImporterController < ApplicationController
 				end
 				return tmpValue[0..-3]
 			else
-				return directory.xpath("#{path_and_name}").text
+				return directory.at_xpath("#{path_and_name}").text
 			end
 
 		end
@@ -51,8 +51,8 @@ class ImporterController < ApplicationController
 		@trial.phase = get_from_xpath("//phase",root)
 		@trial.study_type = get_from_xpath("//study_type",root)
 		@trial.condition = get_from_xpath("condition",root) #redundant
-		@trial.inclusion = get_from_xpath("//criteria",root)
-		@trial.exclusion = get_from_xpath("//criteria",root)
+		@trial.inclusion = get_from_xpath("//criteria/textblock",root)
+		@trial.exclusion = get_from_xpath("//criteria/textblock",root)
 		@trial.gender = get_from_xpath("//gender",root)
 		@trial.minimum_age = get_from_xpath("//minimum_age",root)
 		@trial.maximum_age = get_from_xpath("//maximum_age",root)
