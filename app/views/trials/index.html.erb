@@ -22,7 +22,8 @@
       <tr><td>Nearest Locations</td></tr>
       <% trial.sites.each do |site| %>
        <tr> 
-        <td></td><td><%= site.facility %></td><td><%= "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away"  %></td>
+        <td></td><td><%= site.facility %></td><td>
+        <!-- # @TODO Need to return to solve for nil issue "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away"  %> --></td>
        </tr>
        <% end %>
 

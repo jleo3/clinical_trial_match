@@ -22,17 +22,17 @@ class ImporterController < ApplicationController
 
 
 		# @TODO? Put differnet levels in array and pass the array to get_from_xpath???
-		def get_from_xpath(path_and_name, root, merge=false)
-			if root.xpath("#{path_and_name}").nil?
+		def get_from_xpath(path_and_name, directory, merge=false)
+			if directory.xpath("#{path_and_name}").nil?
 				return ""	
 			elsif merge
 				tmpValue = ""
-				root.xpath("#{path_and_name}").each do |item|
+				directory.xpath("#{path_and_name}").each do |item|
 					tmpValue << item.text + ", "
 				end
 				return tmpValue[0..-3]
 			else
-				return root.xpath("#{path_and_name}").text
+				return directory.xpath("#{path_and_name}").text
 			end
 
 		end
@@ -70,6 +70,18 @@ class ImporterController < ApplicationController
 		@trial.is_fda_regulated = get_from_xpath("is_fda_regulated",root)
 	    @trial.has_expanded_access = get_from_xpath("has_expanded_access",root)
 		
+		doc.xpath("//location",root).each do |site|
+	    	@site = Site.new
+	    	@site.facility = get_from_xpath("facility/name",site)
+	    	@site.city = get_from_xpath("facility/address/city",site)
+	    	@site.state = get_from_xpath("facility/address/state",site)
+	    	@site.zip_code = get_from_xpath("facility/address/zip",site)
+	    	@site.country = get_from_xpath("facility/address/country",site)
+
+			@trial.sites << @site
+			@site.save
+		end
+
 
 		@trial.save
 
