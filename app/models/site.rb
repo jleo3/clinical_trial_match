@@ -1,5 +1,5 @@
 class Site < ActiveRecord::Base
-	belongs_to :trial
+	belongs_to :trial, counter_cache: true
 	#validates :zip_code, inclusion: ['free', 'premium', 'business']
 	geocoded_by :address   # can also be an IP address
 
