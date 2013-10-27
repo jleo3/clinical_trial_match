@@ -7,6 +7,10 @@ ClinicalTrialMatcher::Application.routes.draw do
   # @TODO? I was unable to get this to work by just using post (see importer#show view). Had to use get instead
   post "importer/run"
   get "importer/run"
+
+  # @TODO? I was unable to get this to work by just using post (see importer#show view). Had to use get instead
+  post "importer/delete_all"
+  get "importer/delete_all"
   
 
   devise_for :users

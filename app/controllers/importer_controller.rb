@@ -21,12 +21,12 @@ class ImporterController < ApplicationController
 		root = doc.root
 
 
-		# @TODO? Add method to put in if else conditional logic
+		# @TODO? Put differnet levels in array and pass the array to get_from_xpath???
 		def get_from_xpath(path_and_name,root)
 			if root.at_xpath("#{path_and_name}").nil?
 				return ""	
 			else
-				return root.at_xpath("#{path_and_name}").text
+				return root.xpath("#{path_and_name}").text
 			end
 
 		end
@@ -40,14 +40,6 @@ class ImporterController < ApplicationController
 		@trial.nct_id = get_from_xpath("//nct_id",root)
 		@trial.official_title = get_from_xpath("official_title",root)
 		@trial.agency_class = get_from_xpath("//agency_class",root)
-		
-		# @TODO Clean this up to be shorter
-		# if get_from_xpath("//detailed_description"),root.nil?
-		# 	@trial.detailed_description = ""	
-		# else
-		# 	@trial.detailed_description = get_from_xpath("//detailed_description",root)
-		# end
-
 		@trial.overall_status = get_from_xpath("//overall_status",root)
 		@trial.phase = get_from_xpath("//phase",root)
 		@trial.study_type = get_from_xpath("//study_type",root)
@@ -71,20 +63,25 @@ class ImporterController < ApplicationController
 		@trial.is_fda_regulated = get_from_xpath("is_fda_regulated",root)
 	    @trial.has_expanded_access = get_from_xpath("has_expanded_access",root)
 		
+
 		@trial.save
-		# respond_to do |format|
-	 #      if @trial.save
-	 #        format.html { redirect_to importer_show_path, notice: "Your Import Has Worked!" }
-	 #      else
-	 #        format.html { render json: @trial.errors, status: :unprocessable_entity }
-	 #      end
+
 	    f.close
+	    
 
 	  end
-	  #redirect_to importer_show_path, notice: "Your Import Has Worked!"
+	redirect_to root_path, notice: "All trials were successfully imported!"	 
 
   end
 
+
+  def delete_all
+  	@trial = Trial.all
+  	@trial.each do |trial|
+  		trial.destroy
+  	end
+  	redirect_to root_path, notice: "All trials were deleted!"
+  end
 
 		# GET TITLES
 	# titles = parsed_response.search('item title')
