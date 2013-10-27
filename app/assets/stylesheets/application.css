@@ -47,3 +47,15 @@
 .pagination a:hover, .pagination a:focus {
   text-decoration: underline;
   }
+
+.search_bar {
+  float:left;
+  width:150px;
+}
+.search_results{
+  float:left;
+  width:600px;
+}
+.clear{
+  clear:both;
+}

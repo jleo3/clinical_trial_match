@@ -6,7 +6,12 @@ class TrialsController < ApplicationController
   # GET /trials
   # GET /trials.json
   def index
-    @trials = Trial.paginate(:page => params[:page], :per_page => 20)
+    
+    # @trials = params[:q]: Trial.find_by title: (params[:q])
+    # else
+    
+    @trials = Trial.search_for(params[:q]).paginate(:page => params[:page], :per_page => 10)
+
   end
 
   # GET /trials/1

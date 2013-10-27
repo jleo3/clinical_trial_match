@@ -1,42 +1,56 @@
+
+<div class="search_bar">
 <h1>Browse Trials</h1>
 
-<p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
-<%= will_paginate @trials %>
+<%= render "searchform" %>
 
-<% @trials.each do |trial| %>
-<table class="table">
-  <tbody>
-    
-      <tr>
-        <td colspan="3"><%= link_to trial.title, trial %></td>
-      </tr>
-        <td>Study Type:</td><td colspan="2"><%= trial.study_type %></td>
-      </tr>
-        <td>Study Focus:</td><td colspan="2"><%= trial.focus %></td>
-      </tr>
-        <td>Sponsor:</td><td colspan="2"><%= trial.sponsor %></td>
-      </tr>
-        <td>Status:</td><td colspan="2"><%= trial.overall_status %></td>
-       </tr>
-      </tr>
-      <tr><td>Nearest Locations</td></tr>
-      <% trial.sites.each do |site| %>
-       <tr> 
-        <td></td><td><%= site.facility %></td><td>
-        <!-- # @TODO Need to return to solve for nil issue "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away"  %> --></td>
-       </tr>
-       <% end %>
+</div>
 
-  </tbody>
-</table>
-<br>
-<hr>
-    <% end %>
+<div class="search_results">
+  
 
 
-<p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
-   <%= will_paginate @trials %>
+  <% if @trials.empty? %>
+    <p>Your search has no results. Expand your criteria.</p>
+  <% else %>
+  <p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
+  <%= will_paginate @trials %>
 
+  
+  <% @trials.each do |trial| %>
+  <table class="table">
+    <tbody>
+      
+        <tr>
+          <td colspan="2"><%= link_to trial.title, trial %></td>
+        </tr>
+          <td>Study Type:</td><td><%= trial.study_type %></td>
+        </tr>
+          <td>Study Focus:</td><td><%= trial.focus %></td>
+        </tr>
+          <td>Sponsor:</td><td><%= trial.sponsor %></td>
+        </tr>
+          <td>Status:</td><td><%= trial.overall_status %></td>
+         </tr>
+        </tr>
+        <tr><td>Nearest Location</td><td>
+        <%= trial.sites.first.facility %>
+        </td></tr>
+
+
+    </tbody>
+  </table>
+  <br>
+  <hr>
+      <% end %>
+
+
+  <p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
+     <%= will_paginate @trials %>
+     <% end%>
+</div>
+
+<div class="clear"></div>
 
 <%= link_to 'New Trial', new_trial_path %><br>
 <%= link_to 'Create Account', new_user_registration_path %><br>
