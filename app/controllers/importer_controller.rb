@@ -14,8 +14,8 @@ class ImporterController < ApplicationController
 	# starting_url = "http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=study&recr=Open&no_unk=Y&cond=brain%20tumor&show_down=Y"
 	# response = RestClient.get(starting_url)
 	# parsed_response = Nokogiri::XML(response)
-	
-	Dir["#{Rails.root}/public/xml_files/*.xml"].each do |file| 
+
+	Dir["#{Rails.root}/public/xml_files/*.xml"].first(2).each do |file| 
 		f = File.open(file)
 		doc = Nokogiri::XML(f)
 		root = doc.root
