@@ -26,10 +26,11 @@ class ImporterController < ApplicationController
 			if root.xpath("#{path_and_name}").nil?
 				return ""	
 			elsif merge
+				tmpValue = ""
 				root.xpath("#{path_and_name}").each do |item|
-					puts item.text
-					puts ", "
+					tmpValue << item.text + ", "
 				end
+				return tmpValue[0..-3]
 			else
 				return root.xpath("#{path_and_name}").text
 			end
@@ -39,6 +40,7 @@ class ImporterController < ApplicationController
 		@trial = Trial.new
 		@trial.title = get_from_xpath("brief_title",root)
 		@trial.description = get_from_xpath("brief_summary/textblock",root)
+		@trial.detailed_description = get_from_xpath("detailed_description/textblock",root)
 		@trial.sponsor = get_from_xpath("sponsors/lead_sponsor/agency",root)
 		@trial.focus = get_from_xpath("condition",root,true) # @TODO? NEED TO JOIN COMMA SEPERATED
 		@trial.country = get_from_xpath("location_countries/country",root)  #redundant
