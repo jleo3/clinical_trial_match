@@ -28,6 +28,7 @@ User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
 * Get trial sites to save to db
+* Set up importer to use NCT_ID as unique identifier. And to update if it it already exists.
 * Add Pagination to Index
 * Create ability for user to login. Will use devise
 * Finalize Trial and Site models and add validation
