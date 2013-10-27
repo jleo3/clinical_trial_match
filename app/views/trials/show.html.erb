@@ -180,7 +180,10 @@
     <!-- "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away from you" -->
     <p><%= "#{site.city} #{site.state} #{site.country} #{site.zip_code}" %></p>
     <p><%= "Latitude: #{site.latitude} Longitude: #{site.longitude}" %></p>
-
+    <p><%=  "#{site.contact_name}
+        #{site.contact_phone}
+        #{site.contact_phone_ext}
+        #{site.contact_phone_email}" %></p>
     <% end %>
   </ul>
 

@@ -15,7 +15,7 @@ class ImporterController < ApplicationController
 	# response = RestClient.get(starting_url)
 	# parsed_response = Nokogiri::XML(response)
 
-	Dir["#{Rails.root}/public/xml_files/*.xml"].first(2).each do |file| 
+	Dir["#{Rails.root}/public/xml_files/*.xml"].first(10).each do |file| 
 		f = File.open(file)
 		doc = Nokogiri::XML(f)
 		root = doc.root
@@ -42,8 +42,8 @@ class ImporterController < ApplicationController
 		@trial.description = get_from_xpath("brief_summary/textblock",root)
 		@trial.detailed_description = get_from_xpath("detailed_description/textblock",root)
 		@trial.sponsor = get_from_xpath("sponsors/lead_sponsor/agency",root)
-		@trial.focus = get_from_xpath("condition",root,true) # @TODO? NEED TO JOIN COMMA SEPERATED
-		@trial.country = get_from_xpath("location_countries/country",root)  #redundant
+		@trial.focus = get_from_xpath("condition",root,true)
+		@trial.country = get_from_xpath("location_countries/country",root,true)  #redundant
 		@trial.nct_id = get_from_xpath("//nct_id",root)
 		@trial.official_title = get_from_xpath("official_title",root)
 		@trial.agency_class = get_from_xpath("//agency_class",root)
@@ -60,13 +60,13 @@ class ImporterController < ApplicationController
 		@trial.overall_contact_name = get_from_xpath("//overall_contact/last_name",root)
 		@trial.overall_contact_phone = get_from_xpath("//overall_contact/phone",root)
 		@trial.overall_contact_email = get_from_xpath("//overall_contact/email",root)
-		@trial.location_countries = get_from_xpath("location_countries/country",root)
+		@trial.location_countries = get_from_xpath("location_countries/country",root,true)
 		@trial.link_url = get_from_xpath("//link/url",root)
-		@trial.link_description = get_from_xpath("//link/description",root) # @TODO? might be other descriptions
+		@trial.link_description = get_from_xpath("//link/description",root) 
 		@trial.firstreceived_date = get_from_xpath("firstreceived_date",root)
 		@trial.lastchanged_date = get_from_xpath("lastchanged_date",root)
 		@trial.verification_date = get_from_xpath("verification_date",root)
-		@trial.keyword = get_from_xpath("keyword",root,true) # @TODO? NEED TO JOIN COMMA SEPERATED
+		@trial.keyword = get_from_xpath("keyword",root,true) 
 		@trial.is_fda_regulated = get_from_xpath("is_fda_regulated",root)
 	    @trial.has_expanded_access = get_from_xpath("has_expanded_access",root)
 		
@@ -77,6 +77,12 @@ class ImporterController < ApplicationController
 	    	@site.state = get_from_xpath("facility/address/state",site)
 	    	@site.zip_code = get_from_xpath("facility/address/zip",site)
 	    	@site.country = get_from_xpath("facility/address/country",site)
+	    	@site.status = get_from_xpath("status",site)
+
+	    	@site.contact_name = get_from_xpath("contact/last_name",site)
+	    	@site.contact_phone = get_from_xpath("contact/phone",site)
+	    	@site.contact_phone_ext = get_from_xpath("contact/phont_ext",site)
+	    	@site.contact_phone_email = get_from_xpath("contact/email",site)
 
 			@trial.sites << @site
 			@site.save
@@ -99,7 +105,7 @@ class ImporterController < ApplicationController
   	@trial.each do |trial|
   		trial.destroy
   	end
-  	redirect_to root_path, notice: "All trials were deleted!"
+  	redirect_to importer_show_path, notice: "All trials were deleted!"
   end
 
 		# GET TITLES
