@@ -22,9 +22,14 @@ class ImporterController < ApplicationController
 
 
 		# @TODO? Put differnet levels in array and pass the array to get_from_xpath???
-		def get_from_xpath(path_and_name,root)
-			if root.at_xpath("#{path_and_name}").nil?
+		def get_from_xpath(path_and_name, root, merge=false)
+			if root.xpath("#{path_and_name}").nil?
 				return ""	
+			elsif merge
+				root.xpath("#{path_and_name}").each do |item|
+					puts item.text
+					puts ", "
+				end
 			else
 				return root.xpath("#{path_and_name}").text
 			end
@@ -33,10 +38,10 @@ class ImporterController < ApplicationController
 
 		@trial = Trial.new
 		@trial.title = get_from_xpath("brief_title",root)
-		@trial.description = get_from_xpath("brief_summary",root)
-		@trial.sponsor = get_from_xpath("sponsors",root)
-		@trial.focus = get_from_xpath("condition",root) # @TODO? NEED TO JOIN COMMA SEPERATED
-		@trial.country = get_from_xpath("location_countries",root)  #redundant
+		@trial.description = get_from_xpath("brief_summary/textblock",root)
+		@trial.sponsor = get_from_xpath("sponsors/lead_sponsor/agency",root)
+		@trial.focus = get_from_xpath("condition",root,true) # @TODO? NEED TO JOIN COMMA SEPERATED
+		@trial.country = get_from_xpath("location_countries/country",root)  #redundant
 		@trial.nct_id = get_from_xpath("//nct_id",root)
 		@trial.official_title = get_from_xpath("official_title",root)
 		@trial.agency_class = get_from_xpath("//agency_class",root)
@@ -50,16 +55,16 @@ class ImporterController < ApplicationController
 		@trial.minimum_age = get_from_xpath("//minimum_age",root)
 		@trial.maximum_age = get_from_xpath("//maximum_age",root)
 		@trial.healthy_volunteers = get_from_xpath("//healthy_volunteers",root)
-		@trial.overall_contact_name = get_from_xpath("//overall_contact",root) # @TODO? figure out how to get the child element
-		@trial.overall_contact_phone = get_from_xpath("//overall_contact",root) # @TODO? figure out how to get the child element
-		@trial.overall_contact_email = get_from_xpath("//overall_contact",root) # @TODO? figure out how to get the child element
-		@trial.location_countries = get_from_xpath("location_countries",root)
-		@trial.link_url = get_from_xpath("///url",root)
-		@trial.link_description = get_from_xpath("///description",root) # @TODO? might be other descriptions
+		@trial.overall_contact_name = get_from_xpath("//overall_contact/last_name",root)
+		@trial.overall_contact_phone = get_from_xpath("//overall_contact/phone",root)
+		@trial.overall_contact_email = get_from_xpath("//overall_contact/email",root)
+		@trial.location_countries = get_from_xpath("location_countries/country",root)
+		@trial.link_url = get_from_xpath("//link/url",root)
+		@trial.link_description = get_from_xpath("//link/description",root) # @TODO? might be other descriptions
 		@trial.firstreceived_date = get_from_xpath("firstreceived_date",root)
 		@trial.lastchanged_date = get_from_xpath("lastchanged_date",root)
 		@trial.verification_date = get_from_xpath("verification_date",root)
-		@trial.keyword = get_from_xpath("keyword",root) # @TODO? NEED TO JOIN COMMA SEPERATED
+		@trial.keyword = get_from_xpath("keyword",root,true) # @TODO? NEED TO JOIN COMMA SEPERATED
 		@trial.is_fda_regulated = get_from_xpath("is_fda_regulated",root)
 	    @trial.has_expanded_access = get_from_xpath("has_expanded_access",root)
 		
