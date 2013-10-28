@@ -146,42 +146,40 @@
                 <h3 class="briefAbstract">
                     If you are interested in learning more about this trial, find the trial site nearest  to your location and contact the site coordinator via email or phone.</h3>
             </div>
-            
-                    
-                    <span class="TrialLocationList">United States</span>
+
+                <% @sites.each do |site| %>
                     <ul class="locations">
                         <li class="trialCity bold width50"><span>
-                            Bethesda, Maryland</span></li>
+                            <%= "#{site.city} #{site.state}" %></span></li>
                         <li class="trialFacility"><span style="display: none;">
-                            National Institutes of Health Clinical Center, 9000 Rockville Pike</span></li>
+                            </span></li>
                         <li class="trialStatus width40"><span class="bold">
                             Status:</span>
-                            Recruiting</li>
+                            <%=  "#{site.status}" %></li>
                         <li class="locationDetails">
                             <ul>
                                 <li class="width50 pr25">
                                     <div>
-                                        National Institutes of Health Clinical Center, 9000 Rockville Pike
+                                        <%= "#{site.facility}" %>
                                         <br>
-                                        National Institutes of Health Clinical Center, 9000 Rockville Pike, Bethesda, Maryland, United States
+                                        <%= "#{site.facility} #{site.city} #{site.state} #{site.country} #{site.zip_code}" %>
                                     </div>
                                 </li>
                                 <li class="width40">
                                     <div>
-                                        Bobby
-                                        Das
+                                        
+                                        <%=  "#{site.contact_name}" %>
                                         <br>
-                                        <a href="mailto:bdas@ln.nimh.nih.gov">
-                                            bdas@ln.nimh.nih.gov</a>
+                                        <a href="mailto:<%=  "#{site.contact_phone_email}" %>">
+                                            <%=  "#{site.contact_phone_email}" %></a>
                                         <br>
-                                        (301) 435-4593
+                                        <%=  "#{site.contact_phone} #{site.contact_phone_ext}" %>
                                     </div>
                                 </li>
                             </ul>
                         </li>
                     </ul>
-                
-                
+                <% end %>                
             </div>
         </div>
         <div class="clear">

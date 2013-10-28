@@ -5,6 +5,50 @@
 td{
 	overflow: hidden;
 	text-overflow: ellipsis;
-	white-space: nowrap;
+	/*white-space: nowrap;*/
 	padding: 0.5% !important;
+}
+
+ul.locations { background-color: #e8e8e8; margin-bottom: 12px; overflow: auto; }
+li.trialCity,
+li.trialFacility,
+li.trialStatus,li.favoriteSiteLocation,li.contactSiteLocation { display: block; float: left; height: 24px; line-height:24px; position: relative; overflow: hidden; }
+li.trialCity { padding: 5px 15px 5px 10px; width: 250px; }
+	li.trialCity span { padding-left: 10px; background: url('/images/findtrial/trial-details/nav_carrot_sub.png') 0 4px no-repeat; }
+li.trialFacility { padding:0; width: 0; }
+
+li.trialStatus{ padding: 5px 5px 5px 0; width: 135px; text-transform: capitalize; }
+li.favoriteSiteLocation,li.contactSiteLocation { padding: 5px 5px 5px 0; width: 80px; float:right; text-transform: capitalize; }
+li.locationDetails { float: left; width: 100%; }
+.width60{width:60% !important;}
+.width50{width:50% !important;}
+.width40{width:40% !important;}
+.TrialLocationList { font-weight:bold; font-size: 16px; color: #666; margin-top: 20px; display: block; }
+
+ul.locations ul { border: 2px solid #e8e8e8; background-color:white; padding: 10px 5px 10px 10px; margin-bottom: 0; overflow: hidden; }
+ul.locations ul li { float: left;  }
+
+ul.recruitmentInfo { overflow: visible; }
+ul.recruitmentInfo li { display: block; float: left; position: relative; width: 308px; margin: 0 2px 2px 0; padding: 5px 5px 5px 10px; height: 20px; background-color: #FFEFCC; }
+ul.recruitmentInfo li span.iLabel { width: 160px; }
+ul.recruitmentInfo li span { float: left; }
+
+.criteria { position: relative; border-top: 1px dashed #CCC; margin-top: 20px; /*padding-top: 20px;*/ }
+.criteria h4 { float: left; }
+h4.detailDesc { font-size: 16px; margin-bottom: 5px; }
+ul.criteriaList { clear: left; line-height: 2em; margin-left:30px; }
+ul.criteriaList li { padding: 5px 5px 0px 10px; list-style:circle; }
+ul.criteriaList li.alt { background-color: #FFEFCC; }
+ul.criteriaList a { color: #f47522; display: block; font-size: 13px; font-weight: bold; height: 16px; line-height: 16px; background: url("/images/global/button_carrot.gif") no-repeat 0 0; padding: 0 0 0 23px; margin: 2px 0; }
+ul.criteriaList a:hover { background-position: left bottom; }
+
+/*ul.addlInfoList li { padding: 5px 5px 5px 10px; margin-bottom: 2px; background-color: #FFEFCC; }*/
+ul.addlInfoList li { padding: 5px 5px 5px 0px; margin-bottom: 2px; }
+
+ul{
+margin:0;
+list-style: none;
+}
+li{
+	margin:0;
 }

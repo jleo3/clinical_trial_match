@@ -24,7 +24,7 @@
         <tr>
           <td colspan="2"><%= link_to trial.title, trial %></td>
         </tr>
-          <td>Study Type:</td><td><%= trial.study_type %></td>
+          <td style="width:112px;">Study Type:</td><td><%= trial.study_type %></td>
         </tr>
           <td>Study Focus:</td><td><%= trial.focus %></td>
         </tr>
@@ -33,7 +33,7 @@
           <td>Status:</td><td><%= trial.overall_status %></td>
          </tr>
         </tr>
-        <tr><td>Nearest Location</td><td>
+        <tr><td>Nearest Location:</td><td>
         <%= trial.sites.first.facility %>
         </td></tr>
 
