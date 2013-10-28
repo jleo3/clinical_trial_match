@@ -15,7 +15,7 @@ class ImporterController < ApplicationController
 	# response = RestClient.get(starting_url)
 	# parsed_response = Nokogiri::XML(response)
 
-	Dir["#{Rails.root}/public/xml_files/*.xml"].first(10).each do |file| 
+	Dir["#{Rails.root}/public/xml_files/*.xml"].each do |file| # .first(10) to limit import
 		f = File.open(file)
 		doc = Nokogiri::XML(f)
 		root = doc.root
