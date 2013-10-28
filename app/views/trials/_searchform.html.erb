@@ -1,5 +1,18 @@
 <%= form_tag("", method: "get") do %>
-  <%= label_tag(:q, "Search for:") %>
+  <%= label_tag(:q, "Search by Keyword:") %>
   <%= text_field_tag(:q) %>
-  <%= submit_tag("Search") %>
+<div class="clear"></div>
+<br>
+
+<!-- @TODO Add countries to make international -->
+  <%= label_tag(:pc, "Zip Code:") %><br>
+  <div class="clear"></div>
+  <%= text_field_tag(:pc) %>
+<div class="clear"></div>
+<br>
+  <%= select_tag(:travel_distance,
+  	options_for_select([['Travel 25 miles', 25], ['Travel 50 miles', 50], ['Travel 100 miles', 100], ['Travel 300 miles', 300]], 50)) %>
+<div class="clear"></div>
+ <br>
+  <%= submit_tag("Update Results") %>
 <% end %>

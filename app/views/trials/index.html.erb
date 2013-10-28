@@ -1,7 +1,5 @@
 
 <div class="search_bar">
-<h1>Browse Trials</h1>
-
 <%= render "searchform" %>
 
 </div>
@@ -10,12 +8,14 @@
   
 
 
-  <% if @trials.empty? %>
+  <% if @trials.nil? %>
     <p>Your search has no results. Expand your criteria.</p>
   <% else %>
   <p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
-  <%= will_paginate @trials %>
 
+<div class="pagination2">
+  <%= will_paginate @trials, :container => false %>
+</div>
   
   <% @trials.each do |trial| %>
   <table class="table">
@@ -40,19 +40,20 @@
 
     </tbody>
   </table>
-  <br>
-  <hr>
       <% end %>
 
 
   <p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
-     <%= will_paginate @trials %>
+     <div class="pagination2" style="margin-bottom:50px;">
+      <%= will_paginate @trials, :container => false %>
+    </div>
+  
      <% end%>
 </div>
 
 <div class="clear"></div>
-
+<!-- 
 <%= link_to 'New Trial', new_trial_path %><br>
 <%= link_to 'Create Account', new_user_registration_path %><br>
-<%= link_to 'Importer', importer_show_path %>
+<%= link_to 'Importer', importer_show_path %> -->
 

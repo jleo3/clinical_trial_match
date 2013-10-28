@@ -11,7 +11,8 @@ class TrialsController < ApplicationController
     # else
     
     @trials = Trial.search_for(params[:q]).paginate(:page => params[:page], :per_page => 10)
-
+  # @TODO? Bring this search functionality back
+    # close_to(params[:pc],params[:travel_distance])
   end
 
   # GET /trials/1

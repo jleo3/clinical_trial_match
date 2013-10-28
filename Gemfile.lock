@@ -35,6 +35,8 @@ GEM
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
     builder (3.1.4)
+    carmen (1.0.0)
+      unicode_utils (~> 1.4.0)
     celluloid (0.15.2)
       timers (~> 1.1.0)
     coderay (1.0.9)
@@ -207,6 +209,7 @@ GEM
     uglifier (2.2.1)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
+    unicode_utils (1.4.0)
     warden (1.2.3)
       rack (>= 1.0)
     will_paginate (3.0.5)
@@ -218,6 +221,7 @@ PLATFORMS
 DEPENDENCIES
   better_errors
   binding_of_caller
+  carmen
   coffee-rails (~> 4.0.0)
   devise
   geocoder

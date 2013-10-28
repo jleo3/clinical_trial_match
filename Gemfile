@@ -40,6 +40,8 @@ gem 'devise'
 # Adding Pagination
 gem 'will_paginate'
 
+# For Country Dropdown
+gem 'carmen'
 
 
 group :development do
