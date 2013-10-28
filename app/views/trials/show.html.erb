@@ -1,191 +1,189 @@
 <p id="notice"><%= notice %></p>
 
-<%= link_to 'Edit', edit_trial_path(@trial) %> |
-<%= link_to 'Back', trials_path %>
+<!--  <%= link_to 'Edit', edit_trial_path(@trial) %> | -->
+<%= link_to 'Back to Search', trials_path %>
 
-<table>
-  <tr>
-    <td>Title</td>
-    <td>
-      <%= @trial.title %></td>
-  </tr>
-
-  <tr>
-    <td>Description</td>
-    <td>
-      <%= @trial.description %></td>
-  </tr>
-
-  <tr>
-    <td>Detailed Description</td>
-    <td>
-      <%= @trial.detailed_description %></td>
-  </tr>
-
-  <tr>
-    <td>Sponsor</td>
-    <td>
-      <%= @trial.sponsor %></td>
-  </tr>
-
-  <tr>
-    <td>Country</td>
-    <td>
-      <%= @trial.country %></td>
-  </tr>
-
-  <tr>
-    <td>Focus</td>
-    <td>
-      <%= @trial.focus %></td>
-  </tr>
-
-  <tr>
-    <td>nct_id</td>
-    <td>
-      <%= @trial.nct_id %></td>
-  </tr>
-  <tr>
-    <td>official_title</td>
-    <td>
-      <%= @trial.official_title %></td>
-  </tr>
-  <tr>
-    <td>agency_class</td>
-    <td>
-      <%= @trial.agency_class %></td>
-  </tr>
-  <tr>
-    <td>detailed_description</td>
-    <td>
-      <%= @trial.detailed_description %></td>
-  </tr>
-  <tr>
-    <td>overall_status</td>
-    <td>
-      <%= @trial.overall_status %></td>
-  </tr>
-  <tr>
-    <td>phase</td>
-    <td>
-      <%= @trial.phase %></td>
-  </tr>
-  <tr>
-    <td>study_type</td>
-    <td>
-      <%= @trial.study_type %></td>
-  </tr>
-  <tr>
-    <td>condition</td>
-    <td>
-      <%= @trial.condition %></td>
-  </tr>
-  <tr>
-    <td>inclusion</td>
-    <td>
-      <%= @trial.inclusion %></td>
-  </tr>
-  <tr>
-    <td>exclusion</td>
-    <td>
-      <%= @trial.exclusion %></td>
-  </tr>
-  <tr>
-    <td>gender</td>
-    <td>
-      <%= @trial.gender %></td>
-  </tr>
-  <tr>
-    <td>minimum_age</td>
-    <td>
-      <%= @trial.minimum_age %></td>
-  </tr>
-  <tr>
-    <td>maximum_age</td>
-    <td>
-      <%= @trial.maximum_age %></td>
-  </tr>
-  <tr>
-    <td>healthy_volunteers</td>
-    <td>
-      <%= @trial.healthy_volunteers %></td>
-  </tr>
-  <tr>
-    <td>overall_contact_name</td>
-    <td>
-      <%= @trial.overall_contact_name %></td>
-  </tr>
-  <tr>
-    <td>overall_contact_phone</td>
-    <td>
-      <%= @trial.overall_contact_phone %></td>
-  </tr>
-  <tr>
-    <td>overall_contact_email</td>
-    <td>
-      <%= @trial.overall_contact_email %></td>
-  </tr>
-  <tr>
-    <td>location_countries</td>
-    <td>
-      <%= @trial.location_countries %></td>
-  </tr>
-  <tr>
-    <td>link_url</td>
-    <td>
-      <%= @trial.link_url %></td>
-  </tr>
-  <tr>
-    <td>link_description</td>
-    <td>
-      <%= @trial.link_description %></td>
-  </tr>
-  <tr>
-    <td>firstreceived_date</td>
-    <td>
-      <%= @trial.firstreceived_date %></td>
-  </tr>
-  <tr>
-    <td>lastchanged_date</td>
-    <td>
-      <%= @trial.lastchanged_date %></td>
-  </tr>
-  <tr>
-    <td>verification_date</td>
-    <td>
-      <%= @trial.verification_date %></td>
-  </tr>
-  <tr>
-    <td>keyword</td>
-    <td>
-      <%= @trial.keyword %></td>
-  </tr>
-  <tr>
-    <td>is_fda_regulated</td>
-    <td>
-      <%= @trial.is_fda_regulated %></td>
-  </tr>
-  <tr>
-    <td>has_expanded_access</td>
-    <td>
-      <%= @trial.has_expanded_access %></td>
-  </tr>
-</table>
-
-<h3>Site Locations</h3>
-  <ul>
-    <% @sites.each do |site| %>
-    <li><%= "#{site.facility}" %> </li>
-    <!-- @TODO? Put in conditional logic to display decimal point if less than 5 miles -->
-    <!-- "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away from you" -->
-    <p><%= "#{site.city} #{site.state} #{site.country} #{site.zip_code}" %></p>
-    <p><%= "Latitude: #{site.latitude} Longitude: #{site.longitude}" %></p>
-    <p><%=  "#{site.contact_name}
-        #{site.contact_phone}
-        #{site.contact_phone_ext}
-        #{site.contact_phone_email}" %></p>
-    <% end %>
-  </ul>
-
-<%= link_to 'Edit', edit_trial_path(@trial) %> |
-<%= link_to 'Back', trials_path %>
+<div id="td_contents">        
+        <h2 class="colorOrange"><%= @trial.title %></h2>
+        <h3 class="briefAbstract"><%= @trial.official_title %></h3>
+        <div class="td_purpose greyBackground mt20">
+            <h4 class="detailDesc">
+                Study Purpose:</h4>
+            <p><%= @trial.description %></p>
+            <h4 class="detailDesc">
+                Recruitment Information:</h4>
+            <table class="studyDetailsTable" border="0" cellpadding="0" cellspacing="0">
+                <tbody>
+                    <tr>
+                        <td class="bold">
+                            Accepts Control Volunteers:
+                        </td>
+                        <td>
+                            <%= @trial.healthy_volunteers %>
+                        </td>
+                        <td class="bold">
+                            Study Type:
+                        </td>
+                        <td>
+                            <%= @trial.study_type %>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="bold">
+                            Eligible Ages:
+                        </td>
+                        <td>
+                            <%= @trial.minimum_age %> - <%= @trial.maximum_age %>
+                        </td>
+                        <td class="bold">
+                            Phase:
+                        </td>
+                        <td>
+                            <%= @trial.phase %>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="bold">
+                            Time Since Diagnosis:
+                        </td>
+                        <td>
+                            Any may be eligible
+                        </td>
+                        <td class="bold">
+                            Study Focus:
+                        </td>
+                        <td>
+                            <%= @trial.focus %>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p class="expandableTrialDetails">
+            <a href="javascript:void(0)" id="expandFullLink">
+                More Details<span class="expandIcon">▼</span></a></p>
+        <div class="td_purpose whitesmokeBorder" id="expandFullDescription" style="display: none;">
+            <p><%= @trial.detailed_description %></p>
+            <div id="studyDetailsContainer">
+                <table class="studyDetailsTable" border="0" cellpadding="0" cellspacing="0">
+                    <tbody>
+                        <tr>
+                            <td class="bold">
+                                Status:
+                            </td>
+                            <td>
+                                <%= @trial.overall_status %>
+                            </td>
+                            <td class="bold">
+                                Lead Sponsor:
+                            </td>
+                            <td>
+                                <%= @trial.sponsor %>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="bold">
+                                Trial ID:
+                            </td>
+                            <td>
+                                <%= @trial.nct_id %>
+                            </td>
+                            <td class="bold">
+                                Sponsor Type:
+                            </td>
+                            <td>
+                                NIH
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="bold">
+                                Country:
+                            </td>
+                            <td>
+                                <%= @trial.location_countries %>
+                            </td>
+                            <td class="bold">
+                                Collaborators:
+                            </td>
+                            <td>
+                                
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="bold">
+                                Study Website:
+                            </td>
+                            <td>
+                                <a id="body_LinkURL" href="<%= @trial.link_url %>" target="_blank"><%= @trial.link_description %></a>
+                            </td>
+                            <td class="bold">
+                            </td>
+                            <td>
+                            </td>
+                        </tr>
+                        
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <p class="expandableTrialDetails">
+            <a href="javascript:void(0)" id="expandExclusion">
+                More Inclusion &amp; Exclusion Criteria<span class="expandIcon">▼</span></a></p>
+        <div class="td_purpose whitesmokeBorder" id="exclusionCriteria" style="display: none;">
+            <h4>
+                Inclusion Criteria</h4>
+            <div class="mt10 mb10" style="height: 1px; border-bottom: 2px solid whitesmoke; }"><%= @trial.inclusion %>
+            </div>
+            
+            </div>
+        <div class="clear" style="margin-bottom:3em;">
+        </div>
+        <div id="contactDetails">
+            <div id="contactDetailsContainer">
+            <div>
+                <h2 class="colorOrange">
+                    Contact a Trial Team</h2>
+                <h3 class="briefAbstract">
+                    If you are interested in learning more about this trial, find the trial site nearest  to your location and contact the site coordinator via email or phone.</h3>
+            </div>
+            
+                    
+                    <span class="TrialLocationList">United States</span>
+                    <ul class="locations">
+                        <li class="trialCity bold width50"><span>
+                            Bethesda, Maryland</span></li>
+                        <li class="trialFacility"><span style="display: none;">
+                            National Institutes of Health Clinical Center, 9000 Rockville Pike</span></li>
+                        <li class="trialStatus width40"><span class="bold">
+                            Status:</span>
+                            Recruiting</li>
+                        <li class="locationDetails">
+                            <ul>
+                                <li class="width50 pr25">
+                                    <div>
+                                        National Institutes of Health Clinical Center, 9000 Rockville Pike
+                                        <br>
+                                        National Institutes of Health Clinical Center, 9000 Rockville Pike, Bethesda, Maryland, United States
+                                    </div>
+                                </li>
+                                <li class="width40">
+                                    <div>
+                                        Bobby
+                                        Das
+                                        <br>
+                                        <a href="mailto:bdas@ln.nimh.nih.gov">
+                                            bdas@ln.nimh.nih.gov</a>
+                                        <br>
+                                        (301) 435-4593
+                                    </div>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                
+                
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>

@@ -32,7 +32,7 @@ class ImporterController < ApplicationController
 				end
 				return tmpValue[0..-3]
 			else
-				return directory.at_xpath("#{path_and_name}").text
+				return directory.xpath("#{path_and_name}").text
 			end
 
 		end
@@ -81,7 +81,7 @@ class ImporterController < ApplicationController
 
 	    	@site.contact_name = get_from_xpath("contact/last_name",site)
 	    	@site.contact_phone = get_from_xpath("contact/phone",site)
-	    	@site.contact_phone_ext = get_from_xpath("contact/phont_ext",site)
+	    	@site.contact_phone_ext = get_from_xpath("contact/phone_ext",site)
 	    	@site.contact_phone_email = get_from_xpath("contact/email",site)
 
 			@trial.sites << @site
