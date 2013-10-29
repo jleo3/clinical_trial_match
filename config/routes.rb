@@ -1,16 +1,16 @@
 ClinicalTrialMatcher::Application.routes.draw do
 
   # @TODO? Do I need to write out both of the options below?
-  get "importer/show"
-  get "importer/" => 'importer#show'
+  get "/importer/show"
+  get "/importer" => 'importer#show'
 
   # @TODO? I was unable to get this to work by just using post (see importer#show view). Had to use get instead
-  post "importer/run"
-  get "importer/run"
+  post "/importer/run"
+  get "/importer/run"
 
-  # @TODO? I was unable to get this to work by just using post (see importer#show view). Had to use get instead
-  post "importer/delete_all"
-  get "importer/delete_all"
+  # @TODO? I was unable to get this to work by just using post (see /importer#show view). Had to use get instead
+  post "/importer/delete_all"
+  get "/importer/delete_all"
   
 
   devise_for :users
