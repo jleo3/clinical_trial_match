@@ -1,8 +1,9 @@
 <%= form_tag("", method: "get") do %>
   <%= label_tag(:q, "Search by Keyword:") %>
   <%= text_field_tag(:q) %>
+
 <div class="clear"></div>
-<br>
+<hr>
 
 <!-- @TODO Add countries to make international -->
   <%= label_tag(:pc, "Zip Code:") %><br>
@@ -13,6 +14,14 @@
   <%= select_tag(:travel_distance,
   	options_for_select([['Travel 25 miles', 25], ['Travel 50 miles', 50], ['Travel 100 miles', 100], ['Travel 300 miles', 300]], 50)) %>
 <div class="clear"></div>
- <br>
-  <%= submit_tag("Update Results") %>
+<hr>
+	<%= radio_button_tag(:age, "disease") %>
+<!-- 	@TODO? Need to put in global variable for disease -->
+	<%= label_tag(:age_disease, "I have the {disease}") %>
+<div class="clear"></div>
+	<%= radio_button_tag(:age, "control") %>
+	<%= label_tag(:age_control, "I am a control") %>
+<div class="clear"></div>
+<hr>
+  <%= submit_tag("Update Results", :class => "btn btn-orange") %>
 <% end %>
