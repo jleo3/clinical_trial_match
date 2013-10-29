@@ -49,8 +49,14 @@
   }
 
 .search_bar {
-  float:left;
-  width:210px;
+  float: left;
+  width: 180px;
+  margin-right: 30px;
+}
+
+.search_bar input[type=radio] {
+float:none;
+margin-right:4px;
 }
 .search_results{
   float:left;
