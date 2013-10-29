@@ -6,6 +6,7 @@ class Trial < ActiveRecord::Base
 		where('title LIKE :query OR description LIKE :query', query: "%#{query}%")
 	end
 
+	# @TODO Have close_to as its own method call in the controller rather than chaining. pass data into the close_to method
 	def self.close_to(postal_code = false, travel_distance = 100)
 		if postal_code.nil?
 			return Trial.all
@@ -22,6 +23,9 @@ class Trial < ActiveRecord::Base
 						unless tmpDistance.nil?
 						  	if tmpDistance.to_i < travel_distance.to_i
 								location_within_distance = true
+
+								#@TODO return active record array. Look into geocoder... doing this for me
+								# Trial.distancefor 
 							end
 						end
 				end
