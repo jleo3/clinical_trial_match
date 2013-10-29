@@ -20,19 +20,19 @@ class ImporterController < ApplicationController
 		doc = Nokogiri::XML(f)
 		root = doc.root
 
-
+		#@TODO - move all of this to do model
 		# @TODO? Put differnet levels in array and pass the array to get_from_xpath???
 		def get_from_xpath(path_and_name, directory, merge=false)
 			if directory.xpath("#{path_and_name}").nil?
-				return ""	
+				""	
 			elsif merge
 				tmpValue = ""
 				directory.xpath("#{path_and_name}").each do |item|
-					tmpValue << item.text + ", "
+					tmpValue << item.text.join(",")
 				end
-				return tmpValue[0..-3]
+				tmpValue
 			else
-				return directory.xpath("#{path_and_name}").text
+				directory.xpath("#{path_and_name}").text
 			end
 
 		end
@@ -71,7 +71,7 @@ class ImporterController < ApplicationController
 	    @trial.has_expanded_access = get_from_xpath("has_expanded_access",root)
 		
 		doc.xpath("//location",root).each do |site|
-	    	@site = Site.new
+	    	@site = @trial.sites.new
 	    	@site.facility = get_from_xpath("facility/name",site)
 	    	@site.city = get_from_xpath("facility/address/city",site)
 	    	@site.state = get_from_xpath("facility/address/state",site)
@@ -84,7 +84,6 @@ class ImporterController < ApplicationController
 	    	@site.contact_phone_ext = get_from_xpath("contact/phone_ext",site)
 	    	@site.contact_phone_email = get_from_xpath("contact/email",site)
 
-			@trial.sites << @site
 			@site.save
 		end
 
