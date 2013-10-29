@@ -1,6 +1,6 @@
 <%= form_tag("", method: "get") do %>
   <%= label_tag(:q, "Search by Keyword:") %>
-  <%= text_field_tag(:q) %>
+  <%= text_field_tag(:q, params[:q]) %>
 
 <div class="clear"></div>
 <hr>
@@ -8,20 +8,22 @@
 <!-- @TODO Add countries to make international -->
   <%= label_tag(:pc, "Zip Code:") %><br>
   <div class="clear"></div>
-  <%= text_field_tag(:pc) %>
+  <%= text_field_tag(:pc, params[:pc]) %>
 <div class="clear"></div>
 <br>
   <%= select_tag(:travel_distance,
-  	options_for_select([['Travel 25 miles', 25], ['Travel 50 miles', 50], ['Travel 100 miles', 100], ['Travel 300 miles', 300]], 50)) %>
+  	options_for_select([['Travel 25 miles', 25], ['Travel 50 miles', 50], ['Travel 100 miles', 100], ['Travel 300 miles', 300]], params[:travel_distance]||100 )) %>
 <div class="clear"></div>
 <hr>
-	<%= radio_button_tag(:age, "disease") %>
+	<%= radio_button_tag(:volunteer_type, "patient", (params[:volunteer_type] == "patient" ? true : false)) %>
+<!-- 	radio_button_tag(:ad_type, "free", :checked => (params[:ad_type] == nil ? false : params[:ad_type])) -->
 <!-- 	@TODO? Need to put in global variable for disease -->
-	<%= label_tag(:age_disease, "I have the {disease}") %>
+	<%= label_tag(:volunteer_type_patient, "I have a brain tumor") %>
 <div class="clear"></div>
-	<%= radio_button_tag(:age, "control") %>
-	<%= label_tag(:age_control, "I am a control") %>
+	<%= radio_button_tag(:volunteer_type, "control", (params[:volunteer_type] == "control" ? true : false)) %>
+	<%= label_tag(:volunteer_type_control, "I am a control") %>
 <div class="clear"></div>
 <hr>
   <%= submit_tag("Update Results", :class => "btn btn-orange") %>
 <% end %>
+<div class="clear" style="margin-bottom:50px;"></div>
