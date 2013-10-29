@@ -11,9 +11,18 @@ class TrialsController < ApplicationController
     # else
     
     @trials = Trial.search_for(params[:q]).paginate(:page => params[:page], :per_page => 10)
+     # Trial.search_for.close_to.other_option   ## These are all scopes https://github.com/bswinnerton/babblings/blob/rails4redesign/app/models/post.rb
+     # Front load scopes that filter out more quicker. Close_to might not be able to be a scope. Do as a method on the model instead.
+
   # @TODO? Bring this search functionality back
     # close_to(params[:pc],params[:travel_distance])
   end
+
+  # @TODO look into scopes. Put in model. scope is_control = 0. run that through model.
+  # def close_to
+  #   @trials = Trial.search_for(params[:q]).close_to(.paginate(:page => params[:page], :per_page => 10)
+
+  # end
 
   # GET /trials/1
   # GET /trials/1.json
