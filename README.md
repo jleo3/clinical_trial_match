@@ -27,7 +27,10 @@ You can also take it offline by emailing me at mwenger at michaeljfox.org
 User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
+* Make keyword search case insensitive
+* Have trial nct_id unique and site location ide in the database
 * Set up views
+* Figure out how to open up zip folder in rails for importer
 * Get trial sites to save to db
 * Set up importer to use NCT_ID as unique identifier. And to update if it it already exists.
 * Add Timestamp for importer. Probably need another table
