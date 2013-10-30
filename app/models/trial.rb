@@ -11,6 +11,7 @@ class Trial < ActiveRecord::Base
 	end
 
 	# @TODO Have close_to as its own method call in the controller rather than chaining. pass data into the close_to method
+	# # https://gist.github.com/bswinnerton/7217911
 	def self.close_to(postal_code = false, travel_distance = 100)
 		if postal_code.nil?
 			return Trial.all
