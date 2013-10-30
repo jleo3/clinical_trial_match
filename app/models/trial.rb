@@ -1,6 +1,9 @@
 class Trial < ActiveRecord::Base
 	validates :title, :description, :sponsor, :country, :focus, presence: true
+	validates :nct_id, uniqueness: true
+	
 	has_many :sites
+
 
 	# @TODO? Should I make min max age an int and strip text?
 	def self.search_for(query)
