@@ -12,7 +12,6 @@
  *= require_tree .
  */
 
-/* @TODO? This is not loading in production on heroku */
 
  .pagination2 {
   background: #f1f1f1;
