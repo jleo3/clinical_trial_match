@@ -11,7 +11,9 @@
   <% if @trials.nil? %>
     <p>Your search has no results. Expand your criteria.</p>
   <% else %>
-  <p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
+  <p style="float:right;">Displaying <%=@trials.total_entries %>
+
+    <%= @trials.total_entries.to_i > 1 ? "trials" : "trial" %>.</p>
 
 <div class="pagination2">
   <%= will_paginate @trials, :container => false %>
