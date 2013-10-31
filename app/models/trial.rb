@@ -1,13 +1,18 @@
 class Trial < ActiveRecord::Base
 	validates :title, :description, :sponsor, :country, :focus, presence: true
 	validates :nct_id, uniqueness: true
-	
+	scope :control?, -> (volunteer_type) {
+		if volunteer_type == "control"
+			where(healthy_volunteers: "Accepts Healthy Volunteers")
+		end 
+	}
+
 	has_many :sites
 
 
 	# @TODO? Should I make min max age an int and strip text?
 	def self.search_for(query)
-		where('title LIKE :query OR description LIKE :query', query: "%#{query}%")
+		where('title ILIKE :query OR description ILIKE :query', query: "%#{query}%")
 	end
 
 	# @TODO Have close_to as its own method call in the controller rather than chaining. pass data into the close_to method
