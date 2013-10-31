@@ -14,6 +14,14 @@ class Trial < ActiveRecord::Base
 
 		end 
 	}
+	#scope :age, lambda { |age| where("minimum_age < ? AND maximum_age > ?", 3,100) } 
+
+	# -> (age) {
+	# 	age = age.to_i
+	# 	where(:minimum_age = 5)
+	# 	#	:minimum_age < age)
+		
+	# }
 
 
 	has_many :sites
