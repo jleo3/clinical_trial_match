@@ -10,7 +10,7 @@ class TrialsController < ApplicationController
     # @trials = params[:q]: Trial.find_by title: (params[:q])
     # else
     
-    @trials = Trial.search_for(params[:q]).control?(params[:volunteer_type]).order('title ASC').paginate(:page => params[:page], :per_page => 10)
+    @trials = Trial.search_for(params[:q]).control?(params[:volunteer_type]).gender(params[:gender]).order('title ASC').paginate(:page => params[:page], :per_page => 10)
      #.control?(params[:volunteer_type])
      # Trial.search_for.close_to.other_option   ## These are all scopes https://github.com/bswinnerton/babblings/blob/rails4redesign/app/models/post.rb
      # Front load scopes that filter out more quicker. Close_to might not be able to be a scope. Do as a method on the model instead.

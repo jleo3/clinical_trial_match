@@ -5,13 +5,10 @@
 <div class="clear"></div>
 <hr>
 <!-- @TODO Add countries to make international -->
-  <%= label_tag(:pc, "Zip Code:") %><br>
-  <div class="clear"></div>
-  <%= text_field_tag(:pc, params[:pc]) %>
-<div class="clear"></div>
-<br>
+  <%= label_tag(:pc, "Zip Code:", :class => "inlineFormLabel") %>
+  <%= text_field_tag(:pc, params[:pc], :class => "inlineFormField") %>
   <%= select_tag(:travel_distance,
-  	options_for_select([['Travel 25 miles', 25], ['Travel 50 miles', 50], ['Travel 100 miles', 100], ['Travel 300 miles', 300]], params[:travel_distance]||100 )) %>
+  	options_for_select([['Will travel 25 miles', 25], ['Will travel 50 miles', 50], ['Will travel 100 miles', 100], ['Will travel 300 miles', 300]], params[:travel_distance]||100 )) %>
 <div class="clear"></div>
 <hr>
 	<%= radio_button_tag(:volunteer_type, "patient", (params[:volunteer_type] == "patient" ? true : false)) %>
@@ -22,6 +19,20 @@
 	<%= radio_button_tag(:volunteer_type, "control", (params[:volunteer_type] == "control" ? true : false)) %>
 	<%= label_tag(:volunteer_type_control, "I am a control") %>
 <div class="clear"></div>
+<hr>
+
+  <%= label_tag(:age, "Age:", :class => "inlineFormLabel") %>
+  <%= text_field_tag(:age, params[:age], :class => "inlineFormField") %>
+<div class="clear"></div>
+
+  <%= label_tag(:gender, "Gender:", :class => "inlineFormLabel") %>
+
+  <div class="genderContainer" >
+    <%= radio_button_tag(:gender, "male", (params[:gender] == "male" ? true : false)) %>
+    <%= label_tag(:gender_male, "M") %>
+    <%= radio_button_tag(:gender, "female", (params[:gender] == "female" ? true : false)) %>
+    <%= label_tag(:gender_female, "F") %>
+  </div>
 <hr>
   <%= submit_tag("Update Results", :class => "btn btn-orange") %>
 <% end %>

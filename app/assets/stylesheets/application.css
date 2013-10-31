@@ -56,7 +56,7 @@
 
 .search_bar input[type=radio] {
 float:none;
-margin-right:4px;
+margin-right:1px;
 }
 .search_results{
   float:left;

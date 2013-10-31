@@ -24,23 +24,34 @@
         <tr>
           <td colspan="2"><%= link_to trial.title, trial %></td>
         </tr>
+        <tr>
           <td style="width:120px;">Study Type:</td><td><%= trial.study_type %></td>
         </tr>
+        <tr>
           <td>Study Focus:</td><td><%= trial.focus %></td>
         </tr>
+        <tr>
           <td>Sponsor:</td><td><%= trial.sponsor %></td>
         </tr>
+        <tr>
           <td>Status:</td><td><%= trial.overall_status %></td>
          </tr>
+         <tr>
+            <td>Accepts Controls:</td><td>
+              <%= (trial.healthy_volunteers == "Accepts Healthy Volunteers") ? "Yes" : "No"   %>
+            </td>
          </tr>
-          <td>Accepts Controls:</td><td>
-          <%= (trial.healthy_volunteers == "Accepts Healthy Volunteers") ? "Yes" : "No"   %>
-        </td>
+        <tr>
+          <td>Gender:</td><td><%= trial.gender %></td>
          </tr>
+        <tr>
+          <td>Age:</td><td><%= trial.minimum_age + " - " + trial.maximum_age %></td>
+         </tr>
+        <tr>
+          <td>Nearest Location:</td><td>
+            <%= trial.sites.first.facility %>
+          </td>
         </tr>
-        <tr><td>Nearest Location:</td><td>
-        <%= trial.sites.first.facility %>
-        </td></tr>
 
 
     </tbody>

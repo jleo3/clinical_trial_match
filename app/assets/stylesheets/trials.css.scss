@@ -109,3 +109,26 @@ list-style: none;
 li{
 	margin:0;
 }
+
+input[type=text],
+input[type=email] {
+  padding: 0.25em;
+}
+
+.inlineFormLabel{
+	float:left;
+	padding-right:5px;
+	padding-top:3px;
+	margin-bottom:8px;
+}
+.inlineFormField{
+	width:35%;
+}
+
+input[name=gender]{
+	margin-left:10px;
+}
+
+.genderContainer{
+	margin-top: 2px;
+}
