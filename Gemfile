@@ -36,6 +36,7 @@ gem 'rest-client'
 
 # For user authentication
 gem 'devise'
+gem 'omniauth-twitter'
 
 # Adding Pagination
 gem 'will_paginate'
