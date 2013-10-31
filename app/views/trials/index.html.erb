@@ -8,16 +8,14 @@
   
 
 
-  <% if @trials.nil? %>
-    <p>Your search has no results. Expand your criteria.</p>
+  <% if @trials.empty? %>
+    <p class="blueBox">Your search returned no results. Expand your search criteria.</p>
   <% else %>
-  <p style="float:right;">Displaying <%=@trials.total_entries %>
-
-    <%= @trials.total_entries.to_i > 1 ? "trials" : "trial" %>.</p>
 
 <div class="pagination2">
   <%= will_paginate @trials, :container => false %>
 </div>
+  <p style="float:right;">Displaying <%=@trials.total_entries %> <%= @trials.total_entries.to_i > 1 ? "trials" : "trial" %>.</p>
   
   <% @trials.each do |trial| %>
   <table class="table">
@@ -45,7 +43,6 @@
       <% end %>
 
 
-  <p style="float:right;">Displaying <%=@trials.total_entries%> trials.</p>
      <div class="pagination2" style="margin-bottom:50px;">
       <%= will_paginate @trials, :container => false %>
     </div>
