@@ -1,5 +1,6 @@
 ClinicalTrialMatcher::Application.routes.draw do
 
+  get "omniauth_callbacks/twitter"
   # @TODO? Do I need to write out both of the options below?
   get "/importer/show"
   get "/importer" => 'importer#show'
@@ -13,7 +14,7 @@ ClinicalTrialMatcher::Application.routes.draw do
   get "/importer/delete_all"
   
 
-  devise_for :users
+  devise_for :users, controllers: {omniauth_callbacks: "omniauth_callbacks"}
   resources :trials
   # @TODO? Should sites be nested inside of trials???
   resources :sites

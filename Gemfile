@@ -38,6 +38,9 @@ gem 'rest-client'
 gem 'devise'
 gem 'omniauth-twitter'
 
+#
+gem 'dotenv-rails', groups:[:development,:test]
+
 # Adding Pagination
 gem 'will_paginate'
 
