@@ -176,14 +176,16 @@
 
 <!-- START COLUMNS WRAPPER -->
 <div class="columns wrapper">	<!-- START MAIN CONTENT COLUMN -->
-<%= link_to "sign up with twitter", user_omniauth_authorize_path(:twitter) %>	
-<p class="notice"><%= notice %></p>
-<p class="alert"><%= alert %></p>
-<% if user_signed_in? %>
-  <div>Signed in as... <%= current_user.email %><%= current_user.username %>. <%= link_to "Edit Account",edit_user_registration_path%>, <%= link_to "Log Out",destroy_user_session_path, :method =>'delete' %> </div>
 
+<% if user_signed_in? %>
+  <div style="float:right;">Hi <%= current_user.email %><%= current_user.username %>! &nbsp; <%= link_to "Edit Account",edit_user_registration_path%> &nbsp; <%= link_to "Log Out",destroy_user_session_path, :method =>'delete' %> </div>
+<% else %>
+	<div style="float:right;"><%= link_to "Sign In With Twitter", user_omniauth_authorize_path(:twitter) %></div>
 <% end %>
- 
+
+<p style="float:left;" class="notice"><%= notice %></p>
+<p style="float:left;" class="alert"><%= alert %></p>
+ <div style="clear:both;"></div>
 <%= yield %>
 
 
