@@ -35,6 +35,7 @@ GEM
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
     builder (3.1.4)
+    callsite (0.0.11)
     carmen (1.0.0)
       unicode_utils (~> 1.4.0)
     celluloid (0.15.2)
@@ -116,6 +117,10 @@ GEM
     mail (2.5.4)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
+    meta_request (0.2.8)
+      callsite
+      rack-contrib
+      railties
     method_source (0.8.2)
     mime-types (1.25)
     mini_portile (0.5.1)
@@ -160,6 +165,8 @@ GEM
       binding_of_caller (>= 0.7)
       pry (>= 0.9.11)
     rack (1.5.2)
+    rack-contrib (1.1.0)
+      rack (>= 0.9.1)
     rack-test (0.6.2)
       rack (>= 1.0)
     rails (4.0.0)
@@ -250,6 +257,7 @@ DEPENDENCIES
   jazz_hands
   jbuilder (~> 1.2)
   jquery-rails
+  meta_request
   nokogiri
   omniauth-twitter
   pg
