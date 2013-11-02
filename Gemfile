@@ -47,6 +47,10 @@ gem 'will_paginate'
 # For Country Dropdown
 gem 'carmen'
 
+  # better error pages in dev
+  gem 'better_errors'
+  gem 'binding_of_caller'
+
 
 group :development do
   # Use Guard + Addons for automated test runs
@@ -54,9 +58,7 @@ group :development do
   gem 'guard-rspec'
   gem 'jazz_hands'
 
-  # better error pages in dev
-  gem 'better_errors'
-  gem 'binding_of_caller'
+
 
 end
 
