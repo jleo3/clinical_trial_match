@@ -38,19 +38,23 @@ gem 'rest-client'
 gem 'devise'
 gem 'omniauth-twitter'
 
-#
-gem 'dotenv-rails', groups:[:development,:test]
-
 # Adding Pagination
 gem 'will_paginate'
 
 # For Country Dropdown
 gem 'carmen'
 
-  # better error pages in dev
-  gem 'better_errors'
-  gem 'binding_of_caller'
+group :development, :test do
+	gem 'dotenv-rails'
 
+	# Use Guard + Addons for automated test runs
+  	gem 'guard'
+ 	gem 'guard-rspec'
+end
+
+group :production do
+	gem 'rails_12factor'
+end
 
 group :development do
   # Use Guard + Addons for automated test runs
@@ -58,11 +62,12 @@ group :development do
   gem 'guard-rspec'
   gem 'jazz_hands'
 
+  # better error pages in dev
+  gem 'better_errors'
+  gem 'binding_of_caller'
 
-
+  gem 'jazz_hands'
 end
-
-
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
