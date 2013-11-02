@@ -1,7 +1,5 @@
 class TrialsController < ApplicationController
   before_action :set_trial, only: [:show, :edit, :update, :destroy]
-
-  layout "application"
   
   # GET /trials
   # GET /trials.json

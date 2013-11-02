@@ -28,6 +28,7 @@ class Trial < ActiveRecord::Base
 
 
 	# @TODO? Should I make min max age an int and strip text?
+	# #TODO Make this scope.
 	def self.search_for(query)
 		where('title ILIKE :query OR description ILIKE :query', query: "%#{query}%")
 	end

@@ -62,6 +62,9 @@ group :development do
   gem 'guard-rspec'
   gem 'jazz_hands'
 
+  # Works for rails console
+  gem 'meta_request'
+
   # better error pages in dev
   gem 'better_errors'
   gem 'binding_of_caller'
