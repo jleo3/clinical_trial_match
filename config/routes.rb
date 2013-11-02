@@ -1,6 +1,6 @@
 ClinicalTrialMatcher::Application.routes.draw do
 
-  get "omniauth_callbacks/twitter"
+  get "/omniauth_callbacks/twitter"
   # @TODO? Do I need to write out both of the options below?
   get "/importer/show"
   get "/importer" => 'importer#show'
