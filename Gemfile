@@ -44,6 +44,10 @@ gem 'will_paginate'
 # For Country Dropdown
 gem 'carmen'
 
+  # better error pages in dev
+  gem 'better_errors'
+  gem 'binding_of_caller'
+
 group :development, :test do
 	gem 'dotenv-rails'
 
@@ -65,9 +69,7 @@ group :development do
   # Works for rails console
   gem 'meta_request'
 
-  # better error pages in dev
-  gem 'better_errors'
-  gem 'binding_of_caller'
+
 
   gem 'jazz_hands'
 end
