@@ -14,6 +14,10 @@ class Trial < ActiveRecord::Base
 
 		end 
 	}
+	scope :search_for, -> (query) {
+		where('title ILIKE :query OR description ILIKE :query', query: "%#{query}%")
+	}
+
 	#scope :age, lambda { |age| where("minimum_age < ? AND maximum_age > ?", 3,100) } 
 
 	# -> (age) {
@@ -26,12 +30,6 @@ class Trial < ActiveRecord::Base
 
 	has_many :sites
 
-
-	# @TODO? Should I make min max age an int and strip text?
-	# #TODO Make this scope.
-	def self.search_for(query)
-		where('title ILIKE :query OR description ILIKE :query', query: "%#{query}%")
-	end
 
 	# @TODO Have close_to as its own method call in the controller rather than chaining. pass data into the close_to method
 	# # https://gist.github.com/bswinnerton/7217911
