@@ -18,6 +18,9 @@ class Trial < ActiveRecord::Base
 		where('title ILIKE :query OR description ILIKE :query', query: "%#{query}%")
 	}
 
+	scope :age, -> (age){
+		where("minimum_age.to_i = ?", 3)
+	}
 	#scope :age, lambda { |age| where("minimum_age < ? AND maximum_age > ?", 3,100) } 
 
 	# -> (age) {
