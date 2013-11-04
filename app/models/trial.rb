@@ -19,7 +19,11 @@ class Trial < ActiveRecord::Base
 	}
 
 	scope :age, -> (age){
-		where("minimum_age.to_i = ?", 3)
+		if age.nil? || age == ""
+			return
+		else
+			where("minimum_age <= ? and maximum_age >= ?", age, age)
+		end
 	}
 	#scope :age, lambda { |age| where("minimum_age < ? AND maximum_age > ?", 3,100) } 
 

@@ -54,8 +54,10 @@ class ImporterController < ApplicationController
 		@trial.inclusion = get_from_xpath("//criteria/textblock",root)
 		@trial.exclusion = get_from_xpath("//criteria/textblock",root)
 		@trial.gender = get_from_xpath("//gender",root)
-		@trial.minimum_age.to_i = get_from_xpath("//minimum_age",root)
-		@trial.maximum_age.to_i = get_from_xpath("//maximum_age",root)
+
+		#@TODO? Figure out how to treat months. Should it be a seperate column in the db for the actual year value?
+		@trial.minimum_age = get_from_xpath("//minimum_age",root)
+		@trial.maximum_age = get_from_xpath("//maximum_age",root)
 		@trial.healthy_volunteers = get_from_xpath("//healthy_volunteers",root)
 		@trial.overall_contact_name = get_from_xpath("//overall_contact/last_name",root)
 		@trial.overall_contact_phone = get_from_xpath("//overall_contact/phone",root)

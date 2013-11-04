@@ -11,8 +11,8 @@ class AddManyColumnsToTrial < ActiveRecord::Migration
     add_column :trials, :inclusion, :text
     add_column :trials, :exclusion, :text
     add_column :trials, :gender, :text
-    add_column :trials, :minimum_age, :integer
-    add_column :trials, :maximum_age, :integer
+    add_column :trials, :minimum_age, :integer, :null => false, :default => 0
+    add_column :trials, :maximum_age, :integer, :null => false, :default => 120
     add_column :trials, :healthy_volunteers, :text
     add_column :trials, :overall_contact_name, :text
   end
