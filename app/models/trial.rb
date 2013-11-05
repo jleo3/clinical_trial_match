@@ -29,7 +29,12 @@ class Trial < ActiveRecord::Base
 		if postal_code.nil? || postal_code == ""
 			return
 		else
-			raise
+			coordinates = Geocoder.coordinates("#{postal_code}, United States")
+			if coordinates.nil? || coordinates == [39.49593, -98.990005]
+				return
+			else
+				raise
+			end
 		end
 	}
 
