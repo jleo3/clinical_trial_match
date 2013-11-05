@@ -1,7 +1,6 @@
-<p id="notice"><%= notice %></p>
 
 <!--  <%= link_to 'Edit', edit_trial_path(@trial) %> | -->
-<%= link_to 'Back to Search', trials_path %>
+<%= link_to raw('&laquo; Back to Search'), :back %>
 
 <div id="td_contents">        
         <h2 class="colorOrange"><%= @trial.title %></h2>
@@ -184,4 +183,7 @@
         </div>
         <div class="clear">
         </div>
+    </div>
+    <div class="form-row">
+        <%= link_to raw('&laquo; Back to Search'), :back %>    
     </div>
