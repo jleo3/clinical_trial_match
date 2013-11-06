@@ -2,6 +2,7 @@ ClinicalTrialMatcher::Application.routes.draw do
 
   get "/omniauth_callbacks/twitter"
   # @TODO? Do I need to write out both of the options below?
+  # @TODO gem is Sidekiq for nightly run.
   get "/importer/show"
   get "/importer" => 'importer#show'
 

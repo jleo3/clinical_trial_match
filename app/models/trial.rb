@@ -1,6 +1,8 @@
 class Trial < ActiveRecord::Base
 	validates :title, :description, :sponsor, :country, :focus, presence: true
 	validates :nct_id, uniqueness: true
+	
+
 	scope :control?, -> (volunteer_type) {
 		if volunteer_type == "control"
 			where(healthy_volunteers: "Accepts Healthy Volunteers")
@@ -8,9 +10,9 @@ class Trial < ActiveRecord::Base
 	}
 	scope :gender, -> (gender) {
 		if gender == "male"
-			where(:gender => ["Male", "Both"])
+			where(gender: ["Male", "Both"])
 		elsif gender == "female"
-			where(:gender => ["Female", "Both"])
+			where(gender: ["Female", "Both"])
 
 		end 
 	}
@@ -18,6 +20,8 @@ class Trial < ActiveRecord::Base
 		where('title ILIKE :query OR description ILIKE :query', query: "%#{query}%")
 	}
 
+
+	# @TODO drop sql from this and make it rubyesque
 	scope :age, -> (age){
 		if age.nil? || age == ""
 			return
@@ -25,18 +29,32 @@ class Trial < ActiveRecord::Base
 			where("minimum_age <= ? and maximum_age >= ?", age, age)
 		end
 	}
+
+	# @TODO? Is this ok as scope and not a method?
 	scope :close_to, -> (postal_code, travel_distance=100) {
 		if postal_code.nil? || postal_code == ""
 			return
 		else
 			coordinates = Geocoder.coordinates("#{postal_code}, United States")
-			if coordinates.nil? || coordinates == [39.49593, -98.990005]
+			if coordinates.nil? || coordinates == [49.100867, 1.968433]
+				# @TODO? Why can't i put a flash notice in the model??
+				#flash.notice = "Your zip code is not valid!"
+				# raiser error. in controller catch error and flash notice
+				# get lat long of zip code. Is that within the distance of my 
+				# have a zip lookup table with distances. 
+				# download geocoders db.
+				raise NotValidZip
 				return
 			else
-				raise
+				
+
+
+
+
 			end
 		end
 	}
+	# 07030 [52.419382, 13.283559]
 
 
 	has_many :sites
