@@ -5,26 +5,21 @@ class TrialsController < ApplicationController
   # GET /trials.json
   def index
     begin
+
       @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:volunteer_type]).gender(params[:gender]).close_to(params[:pc],params[:travel_distance]).order('title ASC').paginate(:page => params[:page], :per_page => 10)
-    #  @site = @trials.sites.first
-    #  @trials.order
      
       # @TODO create session variable for each paramter.
       # session[:age] = params[:age]
       # session[:age] = params[:age]
       # session[:age] = params[:age]
 
-    rescue
+    rescue # Need to name raised error
       flash.alert = "Your zip code is not valid!"
       render "index"
+
     end    
   end
 
-  # @TODO look into scopes. Put in model. scope is_control = 0. run that through model.
-  # def close_to
-  #   @trials = Trial.search_for(params[:q]).close_to(.paginate(:page => params[:page], :per_page => 10)
-
-  # end
 
   # GET /trials/1
   # GET /trials/1.json
