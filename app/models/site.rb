@@ -9,8 +9,8 @@ class Site < ActiveRecord::Base
 	after_validation :geocode
 
 	def address
-	  "6 constitution Ct. Montville NJ 07045"
-	  #[:city, :state, :country, :zip_code].compact.join(', ')
+	  #"6 constitution Ct. Montville NJ 07045"
+	  [:city, :state, :country, :zip_code].compact.join(', ')
 	end
 
 end
