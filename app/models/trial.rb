@@ -21,11 +21,11 @@ class Trial < ActiveRecord::Base
 	}
 
 
-	# @TODO drop sql from this and make it rubyesque
 	scope :age, -> (age){
 		if age.nil? || age == ""
 			return
 		else
+			# @TODO drop sql from this and make it rubyesque. Can do an inbetween ..			
 			where("minimum_age <= ? and maximum_age >= ?", age, age)
 		end
 	}
@@ -35,65 +35,75 @@ class Trial < ActiveRecord::Base
 		if postal_code.nil? || postal_code == ""
 			return
 		else
-			coordinates = Geocoder.coordinates("#{postal_code}, United States")
-			if coordinates.nil? || coordinates == [49.100867, 1.968433]
-				# @TODO? Why can't i put a flash notice in the model??
-				#flash.notice = "Your zip code is not valid!"
-				# raiser error. in controller catch error and flash notice
-				# get lat long of zip code. Is that within the distance of my 
-				# have a zip lookup table with distances. 
-				# download geocoders db.
-				raise "Not valid"
+			# @TODO - download geocoders db.
+			# coordinates = Geocoder.coordinates("#{postal_code}, United States")
+
+			# if coordinates.nil? || coordinates == [49.100867, 1.968433]				
+			# 	raise
+			# else
+
+				self.all.find_each do |trial|
+					valid_sites = []
+					trial.sites.find_each do |site|
+						
+						if site.near("#{postal_code}, US",travel_distance.to_i)
+						# if site.distance_from(coordinates) < travel_distance.to_i 
+							# site for this trial is valid
+							# create array to add.
+							valid_sites << site
+						end
+					end
+						
+					if valid_sites.empty?
+						#self.find(trial.id).reject # struggle  maybe self.pop
+						#trial.reject // this does not work
+					end
+				end
+
+
 				return
-			else
-				raise "Not valid"
-				sites = self.first.sites
-				raise
-				return self.sites
-
-
-
-
-			end
+			# end
 		end
-	}
-	# 07030 [52.419382, 13.283559]
+	 }
+
 
 
 	has_many :sites
 
 
-# 	def self.close_to(postal_code, travel_distance = 100)
-# 		if postal_code.nil?
-# 			return
-# 		else
-# 			# location_within_distance = false
+	# def self.close_to(postal_code, travel_distance = 100)
+	# 	if postal_code.nil? || postal_code == ""
+	# 		return self
+	# 	else
+	# 		# @TODO - download geocoders db.
+	# 		coordinates = Geocoder.coordinates("#{postal_code}, United States")
+	# 		coordinates = [32.100867, 2.968433]
 
-# 			# location = Geocoder.search("#{postal_code} United States")
-# 			# lat = location[0].latitude
-# 			# long = location[0].longitude
+	# 		if coordinates.nil? || coordinates == [49.100867, 1.968433]				
+	# 			raise
+	# 		else
 
-# 			# self.all.each do |trial|
-# 			# 	trial.sites.each do |site|
-# 			# 		tmpDistance = site.distance_from([lat,long])
-# 			# 			unless tmpDistance.nil?
-# 			# 			  	if tmpDistance.to_i < travel_distance.to_i
-# 			# 					location_within_distance = true
-
-# 			# 					#@TODO return active record array. Look into geocoder... doing this for me
-# 			# 					# Trial.distancefor 
-# 			# 				end
-# 			# 			end
-# 			# 	end
-
-# 			# end
-# 		end
-# 		return Trial.all
-# #				if trial.site.distance_from([lat,long])}
-# #		binding.pry
-# #		@trial.sites.sort_by{|site| site.distance_from([40.7522926,-73.9900131])}
+	# 			self.all.find_each do |trial|
+	# 				valid_sites = []
+	# 				trial.sites.find_each do |site|
+						
+	# 					if site.distance_from(coordinates) < travel_distance.to_i 
+	# 						# site for this trial is valid
+	# 						# create array to add.
+	# 						valid_sites << site
+	# 					end
+	# 				end
+						
+	# 				if valid_sites.empty?
+	# 					#self.find(trial.id).reject # struggle  maybe self.pop
+	# 					#trial.reject // this does not work
+	# 				end
+	# 			end
 
 
-# 	end
+	# 			return self
+	# 		end
+	# 	end
+	# end
 
 end
