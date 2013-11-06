@@ -1,8 +1,8 @@
 Geocoder.configure(
 
   # geocoding service (see below for supported options):
-#  :lookup => :yandex
-  :google, :google_premier
+  :lookup => :google
+#  :google, :google_premier, :yandex
   # # to use an API key:
   # :api_key => "AIzaSyCs17R4Eav915EMHBRDQeTzlQZO6H57n_0",
 
