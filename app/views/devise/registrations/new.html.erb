@@ -8,19 +8,30 @@
   <div><%= f.label :email %><br />
   <%= f.email_field :email, :autofocus => true %></div>
 
+<div class="clear"></div>
+
   <div><%= f.label :password %><br />
   <%= f.password_field :password %></div>
+
+<div class="clear"></div>
 
   <div><%= f.label :password_confirmation %><br />
   <%= f.password_field :password_confirmation %></div>
 
+<div class="clear"></div>
+
   <div><%= f.label :latitude %><br />
   <%= f.text_field :latitude %></div>
+
+<div class="clear"></div>
 
   <div><%= f.label :longitude %><br />
   <%= f.text_field :longitude %></div>
 
+<div class="clear"></div>
+
   <div><%= f.submit "Sign up" %></div>
 <% end %>
+<div class="clear"></div>
 
 <%= render "devise/shared/links" %>
