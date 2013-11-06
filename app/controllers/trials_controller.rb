@@ -9,15 +9,16 @@ class TrialsController < ApplicationController
       @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:volunteer_type]).gender(params[:gender]).close_to(params[:pc],params[:travel_distance]).order('title ASC').paginate(:page => params[:page], :per_page => 10)
      
       # @TODO create session variable for each paramter.
-      # session[:age] = params[:age]
-      # session[:age] = params[:age]
-      # session[:age] = params[:age]
+      session[:age] = params[:age]
+      session[:volunteer_type] = params[:volunteer_type]
+      session[:gender] = params[:gender]
+      session[:pc] = params[:pc]
+      session[:travel_distance] = params[:travel_distance]
 
     rescue # Need to name raised error
       flash.alert = "Your zip code is not valid!"
       render "index"
-
-    end    
+    end
   end
 
 

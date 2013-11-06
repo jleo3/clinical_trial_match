@@ -18,17 +18,15 @@
   <div><%= f.label :password_confirmation %><br />
   <%= f.password_field :password_confirmation %></div>
 
+
+<!-- @TODO: ADD IN SESSION INPUTS TO FORM -->
+ 
 <div class="clear"></div>
-
-  <div><%= f.label :latitude %><br />
-  <%= f.text_field :latitude %></div>
-
-<div class="clear"></div>
-
-  <div><%= f.label :longitude %><br />
-  <%= f.text_field :longitude %></div>
-
-<div class="clear"></div>
+      <%= session[:age] %>
+      <%= session[:volunteer_type] %>
+      <%= session[:gender] %>
+      <%= session[:pc] %>
+      <%= session[:travel_distance] %>
 
   <div><%= f.submit "Sign up" %></div>
 <% end %>
