@@ -50,7 +50,7 @@ group :development, :test do
 	gem 'dotenv-rails'
 
 	# Use Guard + Addons for automated test runs
-  	gem 'guard'
+  gem 'guard'
  	gem 'guard-rspec'
 
  	# better error pages in dev
@@ -58,9 +58,13 @@ group :development, :test do
 	gem 'binding_of_caller'
 end
 
+
 group :production do
 	gem 'rails_12factor'
+  gem 'unicorn'
+  gem 'pg'
 end
+
 
 group :development do
   # Use Guard + Addons for automated test runs
