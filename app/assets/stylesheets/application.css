@@ -71,3 +71,13 @@ input[type=password], input[type=email], textarea {
   font-size: 0.875em;
   padding: 0.25em;
 }
+
+.alert{
+  color:red;
+  font-weight:bold;
+}
+
+.notification{
+  color:yellow;
+  font-weight:bold;
+}
