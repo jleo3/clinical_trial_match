@@ -43,10 +43,13 @@ class Trial < ActiveRecord::Base
 				# get lat long of zip code. Is that within the distance of my 
 				# have a zip lookup table with distances. 
 				# download geocoders db.
-				raise NotValidZip
+				raise "Not valid"
 				return
 			else
-				
+				raise "Not valid"
+				sites = self.first.sites
+				raise
+				return self.sites
 
 
 

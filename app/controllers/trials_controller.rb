@@ -14,8 +14,9 @@ class TrialsController < ApplicationController
       # session[:age] = params[:age]
       # session[:age] = params[:age]
 
-    #catch NotValidZip
-     # flash.alert = "Your zip code is not valid!"
+    rescue
+      flash.alert = "Your zip code is not valid!"
+      render "index"
     end    
   end
 
