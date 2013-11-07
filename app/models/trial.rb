@@ -34,7 +34,7 @@ class Trial < ActiveRecord::Base
 	scope :close_to, -> (postal_code, travel_distance=100) {
 		tmpIdArray = close_to_logic(postal_code, travel_distance)
 		if tmpIdArray.nil?
-			return self
+			return
 		else
 			where(id: tmpIdArray)
 		end
@@ -44,35 +44,36 @@ def self.close_to_logic(postal_code, travel_distance)
 		if postal_code.nil? || postal_code == ""
 			return
 		else
+
 			# @TODO - download geocoders db.
-			# coordinates = Geocoder.coordinates("#{postal_code}, United States")
+			coordinates = Geocoder.coordinates("#{postal_code}, United States")
 
-			# if coordinates.nil? || coordinates == [49.100867, 1.968433]				
-			# 	raise
-			# else
+			if coordinates.nil? 			
+				raise
+			else
 
-			# 	self.all.find_each do |trial|
-			# 		valid_sites = []
-			# 		trial.sites.find_each do |site|
+				self.all.find_each do |trial|
+					valid_sites = []
+					trial.sites.find_each do |site|
 						
-			# 			if site.near("#{postal_code}, US",travel_distance.to_i)
-			# 			# if site.distance_from(coordinates) < travel_distance.to_i 
-			# 				# site for this trial is valid
-			# 				# create array to add.
-			# 				valid_sites << site
-			# 			end
-			# 		end
+						if true #site.near(coordinates,travel_distance.to_i)
+						# if site.distance_from(coordinates) < travel_distance.to_i 
+							# site for this trial is valid
+							# create array to add.
+							valid_sites << site
+						end
+					end
 						
-			# 		if valid_sites.empty?
-			# 			#self.find(trial.id).reject # struggle  maybe self.pop
-			# 			#trial.reject // this does not work
-			# 		end
-			# 	end
+					if valid_sites.empty?
+						#self.find(trial.id).reject # struggle  maybe self.pop
+						#trial.reject // this does not work
+					end
+				end
 
 
-			# 	return
-			# # end
-			[2,3,4,5,6]
+			[2,3,4,5,6,7,8]
+				
+			end
 		end	
 end
 
