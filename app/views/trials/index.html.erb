@@ -8,8 +8,9 @@
   
 
 
-  <% if @trials.nil? %>
-    <p class="blueBox">Your search returned no results. Expand your search criteria.</p>
+  <% if @trials.nil? || @trials.empty? %>
+    <h3>Your search returned no results.</h3>
+    <p>Expand your search criteria or <%= link_to "create an account", new_user_registration_path %> and receive emails about future trials that you may be eligible for.</p>
   <% else %>
 
 <div class="pagination2">
