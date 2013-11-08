@@ -4,7 +4,7 @@ class TrialsController < ApplicationController
   # GET /trials
   # GET /trials.json
   def index
-   # begin
+   
 
       @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:volunteer_type]).gender(params[:gender]).close_to(params[:pc],params[:travel_distance]).order('title ASC').paginate(:page => params[:page], :per_page => 10)
      
@@ -15,10 +15,10 @@ class TrialsController < ApplicationController
       session[:pc] = params[:pc]
       session[:travel_distance] = params[:travel_distance]
 
-    #rescue # Need to name raised error
-     # flash.alert = "Your zip code is not valid!"
-     # render "index"
-  #  end
+    # rescue # Need to name raised error
+    #   flash.alert = "Your zip code is not valid!"
+    #   render "index"
+   
   end
 
 
