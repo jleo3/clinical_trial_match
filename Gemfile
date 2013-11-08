@@ -49,6 +49,9 @@ gem 'carmen'
 group :development, :test do
 	gem 'dotenv-rails'
 
+  # dump data into seed files for production
+  gem 'seed_dump'
+
 	# Use Guard + Addons for automated test runs
   gem 'guard'
  	gem 'guard-rspec'
