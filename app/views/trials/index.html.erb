@@ -48,11 +48,13 @@
         <tr>
           <td>Age:</td><td><%= trial.minimum_age.to_s + " - " + trial.maximum_age.to_s %></td>
          </tr>
+        <% unless trial.sites.first.nil? %>
         <tr>
           <td>Nearest Location:</td><td>
             <%= trial.sites.first.facility %>
           </td>
         </tr>
+        <% end %>
 
 
     </tbody>
