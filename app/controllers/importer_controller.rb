@@ -15,6 +15,9 @@ class ImporterController < ApplicationController
 	# response = RestClient.get(starting_url)
 	# parsed_response = Nokogiri::XML(response)
 
+
+	# @TODO rake task route to automate this. every day. import module rake file
+	
 	Dir["#{Rails.root}/public/xml_files/*.xml"].each do |file| # .first(10) to limit import
 		f = File.open(file)
 		doc = Nokogiri::XML(f)
