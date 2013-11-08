@@ -6,8 +6,9 @@ class TrialsController < ApplicationController
   def index
    
 
-      @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:volunteer_type]).gender(params[:gender]).close_to(params[:pc],params[:travel_distance]).order('title ASC').paginate(:page => params[:page], :per_page => 10)
-     
+      @trial_ids = Trial.search_for(params[:q]).age(params[:age]).control?(params[:volunteer_type]).gender(params[:gender])
+      @sites = Site.near(params[:pc],params[:travel_distance]).where(trials_ids: @trial_ids).order('title ASC').paginate(:page => params[:page], :per_page => 10)
+
       # @TODO create session variable for each paramter.
       session[:age] = params[:age]
       session[:volunteer_type] = params[:volunteer_type]
