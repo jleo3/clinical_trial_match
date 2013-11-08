@@ -110,6 +110,10 @@ class ImporterController < ApplicationController
   	@trial.each do |trial|
   		trial.destroy
   	end
+  	@sites = Site.all
+  	@sites.each do |site|
+  		site.destroy
+  	end
   	redirect_to importer_show_path, notice: "All trials were deleted!"
   end
 
