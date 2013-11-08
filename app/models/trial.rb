@@ -22,10 +22,7 @@ class Trial < ActiveRecord::Base
 
 
 	scope :age, -> (age){
-		if age.nil? || age == ""
-			return
-		else
-			# @TODO drop sql from this and make it rubyesque. Can do an inbetween ..			
+		unless age.blank?
 			where("minimum_age <= ? and maximum_age >= ?", age, age)
 		end
 	}
@@ -51,7 +48,7 @@ def self.close_to_logic(postal_code, travel_distance)
 			if coordinates.nil? 			
 				raise
 			else
-
+				# self.all.collect { |trial| trial.sites }.flatten.select
 				self.all.find_each do |trial|
 					valid_sites = []
 					trial.sites.find_each do |site|
