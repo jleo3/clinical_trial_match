@@ -27,6 +27,8 @@ You can also take it offline by emailing me at mwenger at michaeljfox.org
 User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
+
+* Add filter on homepage for recently updated
 * LOOK INTO SOLAR. WEB BASED search = acts-as-indexed gem.
 * seed_dump to get all data into seed file so i can bring it to production easily
 * Figure out how to open up zip folder in rails for importer
