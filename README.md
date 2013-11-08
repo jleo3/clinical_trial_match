@@ -27,6 +27,7 @@ You can also take it offline by emailing me at mwenger at michaeljfox.org
 User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
+* LOOK INTO SOLAR. WEB BASED search = acts-as-indexed gem.
 * seed_dump to get all data into seed file so i can bring it to production easily
 * Figure out how to open up zip folder in rails for importer
 * Set up importer to use NCT_ID as unique identifier. And to update if it it already exists.
