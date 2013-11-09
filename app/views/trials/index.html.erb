@@ -28,6 +28,13 @@
         <tr>
           <td colspan="2"><%= link_to trial.title, trial %></td>
         </tr>
+        
+        <% if params[:order_type] == "lastchanged_date DESC" %>
+        <tr>
+          <td>Date Updated:</td><td><%= trial.lastchanged_date.strftime("%m/%d/%Y") %></td>
+        </tr>
+        <% end %>
+        
         <tr>
           <td style="width:120px;">Study Type:</td><td><%= trial.study_type %></td>
         </tr>
@@ -36,9 +43,6 @@
         </tr>
         <tr>
           <td>Sponsor:</td><td><%= trial.sponsor %></td>
-        </tr>
-        <tr>
-          <td>Last Changed Date:</td><td><%= trial.lastchanged_date %></td>
         </tr>
         <tr>
           <td>Status:</td><td><%= trial.overall_status %></td>
