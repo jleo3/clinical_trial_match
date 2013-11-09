@@ -27,6 +27,42 @@ class Trial < ActiveRecord::Base
 		end
 	}
 
+	scope :type, -> (type){
+		unless type == "all" || type.blank?
+			if type == "int"
+				where(study_type: "Interventional")
+			elsif type == "obs"
+				where(study_type: ["Observational","Observational [Patient Registry]"])
+			end	
+		end
+	}
+
+	scope :phase, -> (phase){
+		unless phase == "all" || phase.blank?
+			if phase == "1"
+				where(phase: ["Phase 1","Phase 1/Phase 2" ])
+			elsif phase == "2"
+				where(phase: ["Phase 1/Phase 2","Phase 2","Phase 2/Phase 3"])
+			elsif phase == "3"
+				where(phase: ["Phase 3","Phase 2/Phase 3","Phase 3/Phase 4"])
+			elsif phase == "4"
+				where(phase: ["Phase 4","Phase 3/Phase 4"])
+			elsif phase == "0"
+				where(phase: "Phase 0")
+			end	
+		end
+	}
+
+	scope :fda, -> (fda){
+		unless fda == "all" || fda.blank?
+			if fda == "reg"
+				where(is_fda_regulated: "Yes")
+			elsif fda == "nreg"
+				where(is_fda_regulated: "No")
+			end	
+		end
+	}
+
 	# @TODO? Is this ok as scope and not a method?
 	scope :close_to, -> (postal_code, td=100) {
 		if postal_code.blank?

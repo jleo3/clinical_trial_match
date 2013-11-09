@@ -74,11 +74,21 @@
           <%= trial.study_type %></td>
       </tr>
       <tr>
+        <td>Phase:</td>
+        <td>
+          <%= trial.phase %></td>
+      </tr>
+      <tr>
+        <td>FDA:</td>
+        <td>
+          <%= trial.is_fda_regulated %></td>
+      </tr>      
+      <tr>
         <td>Study Focus:</td>
         <td>
           <%= trial.focus %></td>
       </tr>
-      <tr>
+<!--       <tr>
         <td>Latitude:</td>
         <td>
           <%= trial.sites.first.latitude unless trial.sites.blank?  %></td>
@@ -87,7 +97,7 @@
         <td>Longitude:</td>
         <td>
           <%= trial.sites.first.longitude unless trial.sites.blank? %></td>
-      </tr>
+      </tr> -->
       <tr>
         <td>Sponsor:</td>
         <td>
