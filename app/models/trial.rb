@@ -75,70 +75,38 @@ class Trial < ActiveRecord::Base
 		end
 	 }
 
-def self.close_to_logic(postal_code, td)
-			coordinates = Geocoder.coordinates("#{postal_code}, United States")
-			if coordinates.blank? 			
-				raise
-			else
-				# self.all.collect { |trial| trial.sites }.flatten.select
-				self.all.each do |trial|
-					valid_sites = []
-					trial.sites.each do |site|
-						
-						if site.near(coordinates,td.to_i)
-						# if site.distance_from(coordinates) < td.to_i 
-							# site for this trial is valid
-							# create array to add.
-							valid_sites << site
-						end
-					end
-						
-					if valid_sites.empty?
-						#self.find(trial.id).reject # struggle  maybe self.pop
-						#trial.reject // this does not work
-					end
-				end			
-			end
-			[2,3,4,5,6,8]
-end
-
-
 	has_many :sites
 
 
-	# def self.close_to(postal_code, td = 100)
-	# 	if postal_code.nil? || postal_code == ""
-	# 		return self
-	# 	else
-	# 		# @TODO - download geocoders db.
-	# 		coordinates = Geocoder.coordinates("#{postal_code}, United States")
-	# 		coordinates = [32.100867, 2.968433]
 
-	# 		if coordinates.nil? || coordinates == [49.100867, 1.968433]				
-	# 			raise
-	# 		else
+private
 
-	# 			self.all.find_each do |trial|
-	# 				valid_sites = []
-	# 				trial.sites.find_each do |site|
-						
-	# 					if site.distance_from(coordinates) < td.to_i 
-	# 						# site for this trial is valid
-	# 						# create array to add.
-	# 						valid_sites << site
-	# 					end
-	# 				end
-						
-	# 				if valid_sites.empty?
-	# 					#self.find(trial.id).reject # struggle  maybe self.pop
-	# 					#trial.reject // this does not work
-	# 				end
-	# 			end
+	def self.close_to_logic(postal_code, td)
+				# @TODO? Get to work with geocoder. the lat long is not accessible to this method. 
 
-
-	# 			return self
-	# 		end
-	# 	end
-	# end
-
+				coordinates = "tmp_passing" # Geocoder.coordinates("#{postal_code}, United States")
+				if coordinates.blank? 			
+					raise
+				else
+					# ERIC's refactoring suggetion = self.all.collect { |trial| trial.sites }.flatten.select
+				valid_trial_ids = []
+					self.all.each do |trial|
+						valid_site = false
+						trial.sites.each do |site|
+							
+							if site.facility == "National Institutes of Health Clinical Center, 9000 Rockville Pike" #site.near(coordinates,td.to_i)
+								valid_site = true
+							# if site.distance_from(coordinates) < td.to_i 
+								# site for this trial is valid
+								# create array to add.
+							end
+						end
+						if valid_site
+							 valid_trial_ids << trial.id
+						end
+					end			
+					valid_trial_ids #[2,3,4,5,6,8]
+				end
+				
+	end
 end

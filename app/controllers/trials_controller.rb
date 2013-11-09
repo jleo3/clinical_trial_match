@@ -1,29 +1,26 @@
 class TrialsController < ApplicationController
   before_action :set_trial, only: [:show, :edit, :update, :destroy]
-  
-  # GET /trials
-  # GET /trials.json
+
   def index
-   
 
-      @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:vt]).gender(params[:gender]).type(params[:ty]).phase(params[:ph]).fda(params[:fda]).close_to(params[:pc], params[:td]).order(params[:ot]).paginate(:page => params[:page], :per_page => 10)
-#     @sites = Site.near(params[:pc],params[:td]).where(trials_ids: @trial_ids).paginate(:page => params[:page], :per_page => 10)
 
-      session[:age] = params[:age]
-      session[:vt] = params[:vt]
-      session[:gender] = params[:gender]
-      session[:pc] = params[:pc]
-      session[:td] = params[:td]
+    @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:vt]).gender(params[:gender]).type(params[:ty]).phase(params[:ph]).fda(params[:fda]).close_to(params[:pc], params[:td]).order(params[:ot]).paginate(:page => params[:page], :per_page => 10)
+
+    # eric's refactoring recommendation -    @sites = Site.near(params[:pc],params[:td]).where(trials_ids: @trial_ids).paginate(:page => params[:page], :per_page => 10)
+
+    session[:age] = params[:age]
+    session[:vt] = params[:vt]
+    session[:gender] = params[:gender]
+    session[:pc] = params[:pc]
+    session[:td] = params[:td]
 
     # rescue # Need to name raised error
     #   flash.alert = "Your zip code is not valid!"
     #   render "index"
-   
+
   end
 
 
-  # GET /trials/1
-  # GET /trials/1.json
   def show
     @trial = Trial.find params[:id]
     # @TODO? I'm running distance_from in both the controller and view. Should this just be done in the model??
@@ -33,19 +30,15 @@ class TrialsController < ApplicationController
 
   end
 
-  # GET /trials/new
   def new
     @trial = Trial.new
-
-    # @TODO? Should i used nested parameters so that the trial and site location are run through the trials controller? or should i add a sites controller?
   end
 
-  # GET /trials/1/edit
+
   def edit
   end
 
-  # POST /trials
-  # POST /trials.json
+
   def create
     @trial = Trial.new(trial_params)
 
@@ -85,13 +78,13 @@ class TrialsController < ApplicationController
   end
 
   private
-    # Use callbacks to share common setup or constraints between actions.
-    def set_trial
-      @trial = Trial.find(params[:id])
-    end
+  # Use callbacks to share common setup or constraints between actions.
+  def set_trial
+    @trial = Trial.find(params[:id])
+  end
 
-    # Never trust parameters from the scary internet, only allow the white list through.
-    def trial_params
-      params.require(:trial).permit(:title, :description, :sponsor, :country, :focus)
-    end
+  # Never trust parameters from the scary internet, only allow the white list through.
+  def trial_params
+    params.require(:trial).permit(:title, :description, :sponsor, :country, :focus)
+  end
 end
