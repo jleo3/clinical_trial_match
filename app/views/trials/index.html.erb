@@ -12,6 +12,7 @@
   </p>
   <% else %>
 
+
   <% if params[:commit].present? %>
   <div class="blueAlertDiv">
     <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
@@ -22,17 +23,25 @@
 
   <div class="pagination2">
     <%= will_paginate @trials, :container =>false %></div>
+
+
   <%= form_tag("", method: "get", id: "order_type") do %>
+
+  <%= hidden_field_tag 'pc', params[:pc], id: "filter_capture1" %>
+  <%= hidden_field_tag 'travel_distance', params[:travel_distance], id: "filter_capture2" %>
+  <%= hidden_field_tag 'age', params[:age], id: "filter_capture3" %>
+  <%= hidden_field_tag 'volunteer_type', params[:volunteer_type], id: "filter_capture4" %>
+  <%= hidden_field_tag 'gender', params[:gender], id: "filter_capture4" %>
+
   <p style="float:right;">
     Displaying
     <%=@trials.total_entries %>
     <%= @trials.total_entries.to_i >
     1 ? "trials" : "trial" %> by
     <%= select_tag(:order_type, options_for_select([['ABC', 'title ASC'], ['Last Updated', 'lastchanged_date DESC']], params[:order_type]||'abc' ), :onchange =>("$('#order_type').submit()")) %></p>
+
+
   <% end %>
-
-
-
 
 
 

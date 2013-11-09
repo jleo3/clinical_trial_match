@@ -34,6 +34,9 @@
     <%= label_tag(:gender_female, "F") %>
   </div>
 <hr>
+
+  <%= hidden_field_tag 'order_type', params[:order_type], id: "order_type_capture" %>
+
   <%= submit_tag("Update Results", :class => "btn btn-orange") %>
 <% end %>
 <%= link_to "clear search", root_path, :class =>"alignright" %>
