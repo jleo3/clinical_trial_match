@@ -6,14 +6,14 @@ class TrialsController < ApplicationController
   def index
    
 
-      @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:volunteer_type]).gender(params[:gender]).close_to(params[:pc], params[:travel_distance]).order(params[:order_type]).paginate(:page => params[:page], :per_page => 10)
-#     @sites = Site.near(params[:pc],params[:travel_distance]).where(trials_ids: @trial_ids).paginate(:page => params[:page], :per_page => 10)
+      @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:vt]).gender(params[:gender]).close_to(params[:pc], params[:td]).order(params[:ot]).paginate(:page => params[:page], :per_page => 10)
+#     @sites = Site.near(params[:pc],params[:td]).where(trials_ids: @trial_ids).paginate(:page => params[:page], :per_page => 10)
 
       session[:age] = params[:age]
-      session[:volunteer_type] = params[:volunteer_type]
+      session[:vt] = params[:vt]
       session[:gender] = params[:gender]
       session[:pc] = params[:pc]
-      session[:travel_distance] = params[:travel_distance]
+      session[:td] = params[:td]
 
     # rescue # Need to name raised error
     #   flash.alert = "Your zip code is not valid!"

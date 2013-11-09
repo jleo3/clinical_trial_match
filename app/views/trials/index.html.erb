@@ -27,20 +27,24 @@
   </div>
 <% end %>
 
-  <%= form_tag("", method: "get", id: "order_type") do %>
+  <%= form_tag("", method: "get", id: "ot") do %>
 
   <%= hidden_field_tag 'pc', params[:pc], id: "filter_capture1" %>
-  <%= hidden_field_tag 'travel_distance', params[:travel_distance], id: "filter_capture2" %>
+  <%= hidden_field_tag 'td', params[:td], id: "filter_capture2" %>
   <%= hidden_field_tag 'age', params[:age], id: "filter_capture3" %>
-  <%= hidden_field_tag 'volunteer_type', params[:volunteer_type], id: "filter_capture4" %>
-  <%= hidden_field_tag 'gender', params[:gender], id: "filter_capture4" %>
-
+  <%= hidden_field_tag 'vt', params[:vt], id: "filter_capture4" %>
+  <%= hidden_field_tag 'gender', params[:gender], id: "filter_capture5" %>
+  <%= hidden_field_tag 'q', params[:q], id: "filter_capture6" %>
+  <%= hidden_field_tag 'mf', params[:mf], id: "filter_capture7" %>
+  <%= hidden_field_tag 'ty', params[:ty], id: "filter_capture8" %>
+  <%= hidden_field_tag 'ph', params[:ph], id: "filter_capture9" %>
+  <%= hidden_field_tag 'fda', params[:fda], id: "filter_capture10" %>
   <p style="float:right;">
     Displaying
     <%=@trials.total_entries %>
     <%= @trials.total_entries.to_i >
     1 ? "trials" : "trial" %> by
-    <%= select_tag(:order_type, options_for_select([['ABC', 'title ASC'], ['Last Updated', 'lastchanged_date DESC']], params[:order_type]||'abc' ), :onchange =>("$('#order_type').submit()")) %></p>
+    <%= select_tag(:ot, options_for_select([['ABC', 'title ASC'], ['Last Updated', 'lastchanged_date DESC']], params[:ot]||'abc' ), :onchange =>("$('#ot').submit()")) %></p>
 
 
   <% end %>
@@ -56,7 +60,7 @@
           <%= link_to trial.title, trial %></td>
       </tr>
 
-      <% if params[:order_type] == "lastchanged_date DESC" %>
+      <% if params[:ot] == "lastchanged_date DESC" %>
       <tr>
         <td>Date Updated:</td>
         <td>

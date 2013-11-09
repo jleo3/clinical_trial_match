@@ -125,6 +125,19 @@ input[type=email] {
 	width:35%;
 }
 
+.inlineSelectLabel{
+	float:left;
+	padding-right:5px;
+	padding-top:3px;
+	margin-bottom:8px;
+	width:40px;
+}
+
+.inlineFormSelect{
+	margin-top: 3px;
+	margin-left: 10px;
+}
+
 input[name=gender]{
 	margin-left:10px;
 }

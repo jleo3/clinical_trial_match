@@ -3,8 +3,8 @@ class Trial < ActiveRecord::Base
 	validates :nct_id, uniqueness: true
 	
 
-	scope :control?, -> (volunteer_type) {
-		if volunteer_type == "control"
+	scope :control?, -> (vt) {
+		if vt == "control"
 			where(healthy_volunteers: "Accepts Healthy Volunteers")
 		end 
 	}
@@ -28,18 +28,18 @@ class Trial < ActiveRecord::Base
 	}
 
 	# @TODO? Is this ok as scope and not a method?
-	scope :close_to, -> (postal_code, travel_distance=100) {
+	scope :close_to, -> (postal_code, td=100) {
 		if postal_code.blank?
 			return
 		else
-			tmpIdArray = close_to_logic(postal_code, travel_distance)
+			tmpIdArray = close_to_logic(postal_code, td)
 			unless tmpIdArray.blank?
 				where(id: tmpIdArray)
 			end
 		end
 	 }
 
-def self.close_to_logic(postal_code, travel_distance)
+def self.close_to_logic(postal_code, td)
 			coordinates = Geocoder.coordinates("#{postal_code}, United States")
 			if coordinates.blank? 			
 				raise
@@ -49,8 +49,8 @@ def self.close_to_logic(postal_code, travel_distance)
 					valid_sites = []
 					trial.sites.each do |site|
 						
-						if site.near(coordinates,travel_distance.to_i)
-						# if site.distance_from(coordinates) < travel_distance.to_i 
+						if site.near(coordinates,td.to_i)
+						# if site.distance_from(coordinates) < td.to_i 
 							# site for this trial is valid
 							# create array to add.
 							valid_sites << site
@@ -70,7 +70,7 @@ end
 	has_many :sites
 
 
-	# def self.close_to(postal_code, travel_distance = 100)
+	# def self.close_to(postal_code, td = 100)
 	# 	if postal_code.nil? || postal_code == ""
 	# 		return self
 	# 	else
@@ -86,7 +86,7 @@ end
 	# 				valid_sites = []
 	# 				trial.sites.find_each do |site|
 						
-	# 					if site.distance_from(coordinates) < travel_distance.to_i 
+	# 					if site.distance_from(coordinates) < td.to_i 
 	# 						# site for this trial is valid
 	# 						# create array to add.
 	# 						valid_sites << site
