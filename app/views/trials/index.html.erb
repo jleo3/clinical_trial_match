@@ -13,9 +13,9 @@
   <% else %>
 
 
-  <% if params[:commit].present? %>
+  <% if params[:commit].present? && cookies[:signup_div_viewed].blank? %>
   <div class="blueAlertDiv">
-    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+    <button type="button" class="close" data-dismiss="alert" aria-hidden="true" onclick="$(this).parent().fadeOut();$.cookie('signup_div_viewed', true);">×</button>
     <p>You match to <span style="font-weight:bold;"><%= @trials.total_entries.to_i %> trials</span> today but new trials come online all the time! <br>
       <%= link_to "Create a profile", new_user_registration_path, class: "bold" %> to receive emails of future matches.</p>
       </div>

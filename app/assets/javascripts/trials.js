@@ -1,13 +1,12 @@
 $(document).ready(function(){
+    // SHOW TRIAL PAGE
     $('#expandFullLink').click(function () {
         $('#expandFullDescription').slideToggle();
         var arrowPosition = $("#expandFullLink .expandIcon").html();
         if (arrowPosition == "▼") {
             $("#expandFullLink .expandIcon").html("&#9650;");
-            //console.log("if happened");
         } else {
             $("#expandFullLink .expandIcon").html("▼");
-            //console.log("else happened");
         }
     });
 
@@ -16,10 +15,9 @@ $(document).ready(function(){
         var arrowPosition = $("#expandExclusion .expandIcon").html();
         if (arrowPosition == "▼") {
             $("#expandExclusion .expandIcon").html("&#9650;");
-            //console.log("if happened");
         } else {
             $("#expandExclusion .expandIcon").html("▼");
-            //console.log("else happened");
         }
     });
+
 });
