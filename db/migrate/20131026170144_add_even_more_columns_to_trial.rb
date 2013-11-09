@@ -6,8 +6,8 @@ class AddEvenMoreColumnsToTrial < ActiveRecord::Migration
     add_column :trials, :link_url, :text
     add_column :trials, :link_description, :text
     add_column :trials, :firstreceived_date, :text
-    add_column :trials, :lastchanged_date, :text
-    add_column :trials, :verification_date, :text
+    add_column :trials, :lastchanged_date, :date
+    add_column :trials, :verification_date, :date
     add_column :trials, :keyword, :text
     add_column :trials, :is_fda_regulated, :text
     add_column :trials, :has_expanded_access, :text
