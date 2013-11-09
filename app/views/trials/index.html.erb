@@ -20,10 +20,11 @@
       </div>
   <% end %>
 
-
+<% if @trials.count > 10 %>
   <div class="pagination2">
-    <%= will_paginate @trials, :container =>false %></div>
-
+    <%= will_paginate @trials, :container =>false %>
+  </div>
+<% end %>
 
   <%= form_tag("", method: "get", id: "order_type") do %>
 
@@ -117,16 +118,11 @@
   </table>
   <% end %>
 
+<% if @trials.count > 10 %>
   <div class="pagination2" style="margin-bottom:50px;">
     <%= will_paginate @trials, :container =>false %></div>
+<% end %>
 
   <% end%></div>
 
 <div class="clear"></div>
-<!-- 
-<%= link_to 'New Trial', new_trial_path %>
-<br>
-<%= link_to 'Create Account', new_user_registration_path %>
-<br>
-<%= link_to 'Importer', importer_show_path %>
--->
