@@ -29,31 +29,27 @@ class Trial < ActiveRecord::Base
 
 	# @TODO? Is this ok as scope and not a method?
 	scope :close_to, -> (postal_code, travel_distance=100) {
-		tmpIdArray = close_to_logic(postal_code, travel_distance)
-		if tmpIdArray.nil?
+		if postal_code.blank?
 			return
 		else
-			where(id: tmpIdArray)
+			tmpIdArray = close_to_logic(postal_code, travel_distance)
+			unless tmpIdArray.blank?
+				where(id: tmpIdArray)
+			end
 		end
 	 }
 
 def self.close_to_logic(postal_code, travel_distance)
-		if postal_code.nil? || postal_code == ""
-			return
-		else
-
-			# @TODO - download geocoders db.
 			coordinates = Geocoder.coordinates("#{postal_code}, United States")
-
-			if coordinates.nil? 			
+			if coordinates.blank? 			
 				raise
 			else
 				# self.all.collect { |trial| trial.sites }.flatten.select
-				self.all.find_each do |trial|
+				self.all.each do |trial|
 					valid_sites = []
-					trial.sites.find_each do |site|
+					trial.sites.each do |site|
 						
-						if true #site.near(coordinates,travel_distance.to_i)
+						if site.near(coordinates,travel_distance.to_i)
 						# if site.distance_from(coordinates) < travel_distance.to_i 
 							# site for this trial is valid
 							# create array to add.
@@ -65,13 +61,9 @@ def self.close_to_logic(postal_code, travel_distance)
 						#self.find(trial.id).reject # struggle  maybe self.pop
 						#trial.reject // this does not work
 					end
-				end
-
-
-			[2,3,4,5,6,7,8]
-				
+				end			
 			end
-		end	
+			[2,3,4,5,6,8]
 end
 
 
