@@ -1,16 +1,20 @@
-$(document).ready(function(){
-    // SHOW TRIAL PAGE
-    $('#expandFullLink').click(function () {
+var ready;
+ready = function() {
+
+  $('#expandFullLink').on("click",function () {
+        console.log('test1');
         $('#expandFullDescription').slideToggle();
         var arrowPosition = $("#expandFullLink .expandIcon").html();
         if (arrowPosition == "▼") {
+            console.log('test2');
             $("#expandFullLink .expandIcon").html("&#9650;");
         } else {
+            console.log('test3');
             $("#expandFullLink .expandIcon").html("▼");
         }
     });
 
-    $('#expandExclusion').click(function () {
+    $('#expandExclusion').on("click",function () {
         $('#exclusionCriteria').slideToggle();
         var arrowPosition = $("#expandExclusion .expandIcon").html();
         if (arrowPosition == "▼") {
@@ -20,4 +24,7 @@ $(document).ready(function(){
         }
     });
 
-});
+};
+
+$(document).ready(ready);
+$(document).on('page:load', ready);

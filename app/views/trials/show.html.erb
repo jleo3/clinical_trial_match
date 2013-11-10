@@ -1,7 +1,6 @@
-
-<!--  <%= link_to 'Edit', edit_trial_path(@trial) %> | -->
-<%= link_to raw('&laquo; Back to Search'), :back %>
-
+<div id="breadcrumbs">
+    <%= link_to raw('&laquo; Back to Search'), :back %>
+</div>
 <div id="td_contents">        
         <h2 class="colorOrange"><%= @trial.title %></h2>
         <h3 class="briefAbstract"><%= @trial.official_title %></h3>
@@ -58,9 +57,9 @@
                 </tbody>
             </table>
         </div>
-        <p class="expandableTrialDetails">
-            <a href="javascript:void(0)" id="expandFullLink">
-                More Details<span class="expandIcon">▼</span></a></p>
+        <div class="expandableTrialDetails" id="expandFullLink">
+                More Details<span class="expandIcon">▼</span>
+        </div>
         <div class="td_purpose whitesmokeBorder" id="expandFullDescription" style="display: none;">
             <p><%= @trial.detailed_description %></p>
             <div id="studyDetailsContainer">
@@ -125,9 +124,9 @@
                 </table>
             </div>
         </div>
-        <p class="expandableTrialDetails">
-            <a href="javascript:void(0)" id="expandExclusion">
-                More Inclusion &amp; Exclusion Criteria<span class="expandIcon">▼</span></a></p>
+        <div class="expandableTrialDetails" id="expandExclusion">
+                More Inclusion &amp; Exclusion Criteria<span class="expandIcon">▼</span>
+        </div>
         <div class="td_purpose whitesmokeBorder" id="exclusionCriteria" style="display: none;">
             <h4>
                 Inclusion Criteria</h4>
@@ -183,7 +182,13 @@
         </div>
         <div class="clear">
         </div>
-    </div>
     <div class="form-row">
         <%= link_to raw('&laquo; Back to Search'), :back %>    
+    </div>
+    </div>
+
+    <div id="rightSideCallouts">
+        <div style="height:100px; width:100%; background-color:orange; margin:0.83em 0;">
+            <h2>Coming soon...</h2>
+        </div>
     </div>

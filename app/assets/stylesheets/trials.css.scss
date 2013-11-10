@@ -9,59 +9,30 @@ td{
 	padding: 0.5% !important;
 }
 
-/*.td_itnro {}
-#td_contents { margin: 30px 0 0 40px; float: left; width: 650px; padding-bottom: 40px; padding-right: 20px; }
-#td_intro { margin: 0 -20px; padding: 10px 20px; background-color: #FFF1D1; background: #eee; }
-#td_intro { margin: 0 -20px }
-#td_intro strong { color: #333; font-size: 20px; letter-spacing: -1px; margin: 0; text-transform: uppercase; display: block; height: 36px; line-height: 36px; padding: 0 20px; }
-#td_intro p { padding: 10px 20px; background: #FFEFCC; margin: 2px 0 5px; }
-#td_intro div { border-bottom: 5px solid #eee; }
-#td_contents h2 {font: normal 34px/40px;} 
-#td_contents .briefAbstract { font-weight:normal; }
-#td_contents .td_purpose { padding: 20px; color:#666; }
-#td_contents .td_purpose h4 { font: normal 24px/26px;  }
-#td_contents .td_purpose p { font-size: 14px; line-height:1.4em; margin-bottom:15px; }
-#td_contents .td_desc { margin-top: 20px; }
-#td_contents .td_desc div a { color: Orange; text-indent: 20px; background: url('') 0 0 no-repeat; }
-#td_contents h3.td_catHead { margin: 40px 0 10px; clear: left; font: bold 18px; color: #A2A2A2; border-bottom: 5px solid #EEE; padding-bottom: 2px; }
-#td_contents h3.td_catHead span { float: right; font-size: 12px; margin-top: 5px; }
-#td_contents ul.keyInfoList { overflow: visible; }
-#td_contents ul.keyInfoList li { clear: left; overflow: hidden; margin-bottom: 2px; padding: 5px 5px 5px 10px; background-color: #FFEFCC; position: relative; }
-#td_contents ul.recruitmentList { overflow: visible; }
-#td_contents ul.recruitmentList li { clear: left; margin-bottom: 2px; padding: 5px 5px 5px 10px; background-color: #FFEFCC; position: relative; }
-#td_contents li h4 { float: left; width: 160px; font-weight: normal; }
-#td_contents li > p { float: left; font-weight: bold; width: 475px; }
-#td_contents .more-info { right: 5px; }
-#td_contents table tr {border-bottom:2px solid whitesmoke;}
-#td_contents .greyBackground table tr {border-bottom:2px solid white;}
-
-
-#td_contents table td {
-	width:180px;
-    padding:10px 4px;
-	}
-.td_purpose .bold { width:100px;}*/
-
-.expandableTrialDetails a {
-background-color: #e8e8e8;
-font-weight:bold;
-display: block;
-line-height: 36px;
-padding-left: 20px;
-padding-right: 2px;
-color: #333;
-font-size: 14px;
-margin-top: 2px;
+.expandableTrialDetails {
+	background-color: #e8e8e8;
+	font-weight:bold;
+	display: block;
+	line-height: 36px;
+	padding-left: 20px;
+	padding-right: 2px;
+	color: #333;
+	font-size: 14px;
+	margin-top: 2px;
+	cursor:pointer;
+	margin-bottom:4px;
 }
-.expandableTrialDetails a:hover {background-color:#999; color:white;}
+
+.expandableTrialDetails:hover {background-color:#999; color:white;}
 
 .expandIcon {color: #666;
 font-weight: bold;
 font-size: 20px;
 float: right;
-margin-right: 5px;
+margin-right: 12px;
 text-shadow: 1px 1px white;}
-.expandableTrialDetails a:hover .expandIcon {
+
+.expandableTrialDetails:hover .expandIcon {
     color:white;
     text-shadow: 1px 1px #666;
 }
@@ -146,6 +117,11 @@ input[name=gender]{
 	margin-top: 2px;
 }
 
-.expandableTrialDetails{
-	margin:0;
+#td_contents{
+	width:70%;
+	float:left;
+}
+#rightSideCallouts{
+	float:right;
+	width:25%;
 }
