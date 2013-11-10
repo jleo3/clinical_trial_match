@@ -83,7 +83,7 @@ private
 	def self.close_to_logic(postal_code, td)
 				# @TODO? Get to work with geocoder. the lat long is not accessible to this method. 
 
-				coordinates = "tmp_passing" # Geocoder.coordinates("#{postal_code}, United States")
+				coordinates = ["40.6700","73.9400"] #Geocoder.coordinates("#{postal_code}, United States")
 				if coordinates.blank? 			
 					raise
 				else
@@ -93,7 +93,8 @@ private
 						valid_site = false
 						trial.sites.each do |site|
 							
-							if site.facility == "National Institutes of Health Clinical Center, 9000 Rockville Pike" #site.near(coordinates,td.to_i)
+							if site.near(coordinates,td.to_i)
+								raise
 								valid_site = true
 							# if site.distance_from(coordinates) < td.to_i 
 								# site for this trial is valid
