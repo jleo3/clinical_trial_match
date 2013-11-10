@@ -23,8 +23,6 @@ class ImporterController < ApplicationController
 		doc = Nokogiri::XML(f)
 		root = doc.root
 
-		#@TODO - move all of this to do model
-		# @TODO? Put differnet levels in array and pass the array to get_from_xpath???
 		def get_from_xpath(path_and_name, directory, merge=false)
 			if directory.xpath("#{path_and_name}").nil?
 				return ""	

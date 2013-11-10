@@ -1,26 +1,20 @@
 ClinicalTrialMatcher::Application.routes.draw do
 
   get "/omniauth_callbacks/twitter"
-  # @TODO? Do I need to write out both of the options below?
-  # @TODO gem is Sidekiq for nightly run.
   get "/importer/show"
   get "/importer" => 'importer#show'
 
-  # @TODO? I was unable to get this to work by just using post (see importer#show view). Had to use get instead
   post "/importer/run"
   get "/importer/run"
 
-  # @TODO? I was unable to get this to work by just using post (see /importer#show view). Had to use get instead
   post "/importer/delete_all"
   get "/importer/delete_all"
   
 
   devise_for :users, controllers: {omniauth_callbacks: "omniauth_callbacks"}
   resources :trials
-  # @TODO? Should sites be nested inside of trials???
   resources :sites
   root 'trials#index'
-
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

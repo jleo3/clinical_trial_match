@@ -176,7 +176,6 @@
   <ul>
     <% @sites.each do |site| %>
     <li><%= "#{site.facility}" %> </li>
-    <!-- @TODO? Put in conditional logic to display decimal point if less than 5 miles -->
     <!-- "#{site.distance_from([40.7522926,-73.9900131]).round()} miles away from you" -->
     <p><%= "#{site.city} #{site.state} #{site.country} #{site.zip_code}" %></p>
     <p><%= "Latitude: #{site.latitude} Longitude: #{site.longitude}" %></p>

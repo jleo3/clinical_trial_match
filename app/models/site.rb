@@ -1,5 +1,4 @@
 class Site < ActiveRecord::Base
-	attr_accessor :city, :state, :country, :zip_code, :latitude, :longitude
 	
 	belongs_to :trial
 	

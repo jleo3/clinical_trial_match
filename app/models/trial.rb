@@ -63,7 +63,6 @@ class Trial < ActiveRecord::Base
 		end
 	}
 
-	# @TODO? Is this ok as scope and not a method?
 	scope :close_to, -> (postal_code, td=100) {
 		if postal_code.blank?
 			return
@@ -88,7 +87,7 @@ private
 				if coordinates.blank? 			
 					raise
 				else
-					# ERIC's refactoring suggetion = self.all.collect { |trial| trial.sites }.flatten.select
+					# ERIC's refactoring suggestion = self.all.collect { |trial| trial.sites }.flatten.select
 				valid_trial_ids = []
 					self.all.each do |trial|
 						valid_site = false
