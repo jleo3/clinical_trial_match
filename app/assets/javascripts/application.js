@@ -15,3 +15,5 @@
 //= require turbolinks
 //= require_tree .
 //= trials.js
+//= require jquery.ui.autocomplete
+//= require jquery.ui.dialog

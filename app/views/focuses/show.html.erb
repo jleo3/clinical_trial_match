@@ -1,6 +1,40 @@
-<h1>Select a focus</h1>
+<div id="content">
+	
+	<div class="ui-widget">
+		<label for="tags">Search:</label>
+		<input id="tags" />
+	</div>
 
-<% @focuses.each do |focus| %>
-<%= link_to(focus.term,root_path) %><br>
-<% end %>
+
+	<h1>Select a focus</h1>
+
+	<% @focuses.each do |focus| %>
+	<%= link_to(focus.term,root_path) %><br>
+	<% end %>
+
+
+
+	<script type="javascript/text">
+	console.log('this inline javascript loaded');
+	var ready2;
+	ready2 = function() {
+
+    var availableTags = [
+	
+	<% @focuses.each do |focus| %>
+	<%= raw("\"#{focus.term}\",") %>
+	<% end %>
+    ];
+    $( "#tags" ).autocomplete({
+      source: availableTags,
+      autoFocus: true,
+      minLength: 0,
+      search: "" 
+    });
+  };
+
+$(document).ready(ready2);
+$(document).on('page:load', ready2);
+	</script>
+</div>
 
