@@ -24,6 +24,11 @@ ready = function() {
         }
     });
 
+    $(".close").on("click",function(){
+        $(this).parent().fadeOut();
+        $.cookie('signup_div_viewed', true);
+    })
+
 };
 
 $(document).ready(ready);
