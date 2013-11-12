@@ -28,19 +28,15 @@ User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
 
-* LOOK INTO SOLAR. WEB BASED search = acts-as-indexed gem.
-* seed_dump to get all data into seed file so i can bring it to production easily
-* Figure out how to open up zip folder in rails for importer
+* Set up configuration so that disease condition and form inputs can flexibly be changed for future instances of the site CONDITION_TYPE = intializers/condition_type.rb   
+* Figure out how to open up zip folder in rails for importer  (http://rubyzip.sourceforge.net/classes/Zip/ZipFileSystem.html)
+* Finalize Trial and Site models and add validation
+* See if study focus is structured data and can be put in array that is used as search filters
 * Set up importer to use NCT_ID as unique identifier. And to update if it it already exists.
 * Add Timestamp for importer. Probably need another table @TODO?
-* See if study focus is structured data and can be put in array that is used as search filters
 * Set up travis-ci for this project
-* Create ability for user to login. Will use devise
-* Finalize Trial and Site models and add validation
 * Automatically assign lat/long to user. Will use geocode
 * Parse inclusion exclusion criteria
-* Nightly import of ct.gov changes to the DB. Will use Nokogiri and DelayJob. Sidekiq
-* Set up configuration so that disease condition and form inputs can flexibly be changed for future instances of the site CONDITION_TYPE = intializers/condition_type.rb
 * Users will receive email digests of new matches. They can set the frequency (once a week, as soon as available). Will use Email Swifter @TODO? Does this mean I need to store in the users database what trials they match to? and note that it if has changed
 
 Phase II Items
