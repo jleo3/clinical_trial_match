@@ -88,24 +88,13 @@ private
 					raise
 				else
 					# ERIC's refactoring suggestion = self.all.collect { |trial| trial.sites }.flatten.select
-				valid_trial_ids = []
-					self.all.each do |trial|
-						valid_site = false
-						trial.sites.each do |site|
-							
-							if site.near(coordinates,td.to_i)
-								raise
-								valid_site = true
-							# if site.distance_from(coordinates) < td.to_i 
-								# site for this trial is valid
-								# create array to add.
-							end
-						end
-						if valid_site
-							 valid_trial_ids << trial.id
-						end
-					end			
-					valid_trial_ids #[2,3,4,5,6,8]
+					valid_sites = Site.all.near("#{postal_code}, United States",td.to_i)
+					valid_trials = []
+					valid_sites.each do |site|
+						valid_trials << site.trial_id
+						
+					end
+					valid_trials #[2,3,4,5,6,8]
 				end
 				
 	end
