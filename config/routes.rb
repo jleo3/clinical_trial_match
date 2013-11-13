@@ -10,7 +10,13 @@ ClinicalTrialMatcher::Application.routes.draw do
 
   post "/importer/delete_all"
   get "/importer/delete_all"
-  
+
+  get "/importer/new_match_alert"
+  post "/importer/new_match_alert"
+
+  get "/user_mailer/new_match_alert"
+  post "/user_mailer/new_match_alert"
+
 
   devise_for :users, controllers: {omniauth_callbacks: "omniauth_callbacks"}
   resources :trials

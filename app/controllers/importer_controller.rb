@@ -115,6 +115,11 @@ class ImporterController < ApplicationController
   	redirect_to importer_show_path, notice: "All trials were deleted!"
   end
 
+  def new_match_alert
+  	UserMailer.new_match_alert.deliver
+  	redirect_to importer_show_path, notice: "Your emails were sent"
+  end
+
 		# GET TITLES
 	# titles = parsed_response.search('item title')
 	# tmpTitle = titles.first	
