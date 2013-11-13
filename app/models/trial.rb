@@ -89,12 +89,12 @@ private
 	def self.close_to_logic(postal_code, td)
 				# @TODO? Get to work with geocoder. the lat long is not accessible to this method. 
 
-				coordinates = ["40.6700","73.9400"] #Geocoder.coordinates("#{postal_code}, United States")
-				if coordinates.blank? 			
+				coordinates = Geocoder.coordinates("#{postal_code}, United States")
+				if coordinates.blank? || coordinates == [39.49593, -98.990005] 			
 					raise
 				else
 					# ERIC's refactoring suggestion = self.all.collect { |trial| trial.sites }.flatten.select
-					valid_sites = Site.all.near("#{postal_code}, United States",td.to_i)
+					valid_sites = Site.all.near(coordinates,td.to_i)
 					valid_trials = []
 					valid_sites.each do |site|
 						valid_trials << site.trial_id
