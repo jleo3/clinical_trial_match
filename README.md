@@ -28,6 +28,7 @@ User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
 
+* Confirm sign up process. Should I not let them advance until they are confirmed?
 * Set up configuration so that disease condition and form inputs can flexibly be changed for future instances of the site CONDITION_TYPE = intializers/condition_type.rb   
 * Figure out how to open up zip folder in rails for importer  (http://rubyzip.sourceforge.net/classes/Zip/ZipFileSystem.html)
 * Finalize Trial and Site models and add validation
