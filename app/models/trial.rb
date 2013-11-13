@@ -63,6 +63,12 @@ class Trial < ActiveRecord::Base
 		end
 	}
 
+	scope :focus, -> (focus){
+		unless focus.blank?
+			where('focus ILIKE :focus', focus: "%#{focus}%")
+		end
+	}
+
 	scope :close_to, -> (postal_code, td=100) {
 		if postal_code.blank?
 			return

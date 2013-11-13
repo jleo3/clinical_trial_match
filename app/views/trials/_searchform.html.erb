@@ -55,7 +55,12 @@
 
 <!-- @TODO? What's a modal technique for rails to make it look similar to https://www.michaeljfox.org/foundation/news-tags.php -->
     <%= label_tag(:focus, "Focus:", :class => "inlineSelectLabel") %>
-    <%= link_to("Add Focus +", focuses_show_path, :id => "choose_focus", :style => "margin-top: 4px;display: block;margin-left: 11px;float: left;") %>  
+    <%= text_field_tag(:focus, params[:focus],:id => "tags", :class => "inlineFormField", :style => "margin-left: 0.5em;
+width: 110px;") %>
+
+
+
+
 
     <div class="clear"></div>
     <hr>
@@ -80,3 +85,24 @@
 
   <%= link_to "clear", root_path(:anchor => "h"), :class =>"alignright" %>
   <div class="clear" style="margin-bottom:50px;"></div>
+
+
+<script>
+  var ready2;
+  ready2 = function() {
+
+    var availableTags = [
+  
+  <% @focuses.each do |focus| %>
+  <%= raw("\"#{focus.term}\",") %>
+  <% end %>
+    ];
+    $( "#tags" ).autocomplete({
+      source: availableTags,
+      minLength: 0 
+    });
+  };
+
+$(document).ready(ready2);
+$(document).on('page:load', ready2);
+</script>
