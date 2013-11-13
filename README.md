@@ -32,7 +32,6 @@ User Stories/Features To Still Implement
 * Set up configuration so that disease condition and form inputs can flexibly be changed for future instances of the site CONDITION_TYPE = intializers/condition_type.rb   
 * Figure out how to open up zip folder in rails for importer  (http://rubyzip.sourceforge.net/classes/Zip/ZipFileSystem.html)
 * Finalize Trial and Site models and add validation
-* See if study focus is structured data and can be put in array that is used as search filters
 * Set up importer to use NCT_ID as unique identifier. And to update if it it already exists.
 * Add Timestamp for importer. Probably need another table @TODO?
 * Set up travis-ci for this project
