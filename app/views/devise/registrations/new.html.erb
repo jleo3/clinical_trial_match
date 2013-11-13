@@ -1,8 +1,10 @@
 <h2>Trial Matches Straight to your Inbox</h2>
-<p>By creating an account, we will be able to email you tailored matches as they become available. Registering takes 2 minutes and you can unsubscribe at any time.</p>
-    <div style="float:right;"><%= link_to "Sign In With Twitter", user_omniauth_authorize_path(:twitter) %></div>
+<p>By creating an account, we will be able to email you tailored matches as they become available.<br>
+Registering takes 30 seconds and you can unsubscribe at any time.<br>
+What are you waiting for?</p>
 
 
+<div class="float_left percent50">
 <%= form_for(resource, :as => resource_name, :url => registration_path(resource_name)) do |f| %>
   <%= devise_error_messages! %>
 
@@ -32,5 +34,23 @@
   <div><%= f.submit "Sign up" %></div>
 <% end %>
 <div class="clear"></div>
+</div>
+<%= #render "devise/shared/links" %>
 
-<%= render "devise/shared/links" %>
+
+<a href="#" class="zocial facebook">Sign in with Facebook</a>
+<a href="#" class="zocial googleplus">Sign in with Google+</a>
+<a href="#" class="zocial twitter">Sign in with Twitter</a>
+
+
+<div class="float_left percent50 cell social-signin">
+    <h4>Sign up with...</h4>
+
+<a class="btn-auth btn-[service] large" href="#">
+    Sign in with <b>[service]</b>
+</a>
+      <a href="/auth/facebook" class="bttn social-signup facebook sign-up"><span class="icon-social-facebook"></span>Sign up with Facebook</a>
+      <a href="/auth/google_oauth2" class="bttn social-signup google sign-up"><span class="icon-social-google"></span>Sign up with Google</a>
+      <a href="#" class="bttn social-signup twitter sign-up"><span class="icon-social-twitter"></span>Sign up with Twitter</a>
+
+  </div>
