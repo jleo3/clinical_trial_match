@@ -125,9 +125,9 @@
         <td>
           <%= trial.minimum_age.to_s + " - " + trial.maximum_age.to_s %></td>
       </tr>
-      <% unless trial.sites.first.nil? %>
+      <% unless trial.sites.first.blank? || params[:pc].blank? %>
       <tr>
-        <td>Nearest Location:</td>
+        <td>Closest Site:</td>
         <td>
           <%= trial.sites.first.facility %></td>
       </tr>

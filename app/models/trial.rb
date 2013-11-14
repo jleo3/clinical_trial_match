@@ -69,11 +69,11 @@ class Trial < ActiveRecord::Base
 		end
 	}
 
-	scope :close_to, -> (postal_code, td=100) {
-		if postal_code.blank?
+	scope :close_to, -> (coordinates, td=100) {
+		if coordinates.blank?
 			return
 		else
-			tmpIdArray = close_to_logic(postal_code, td)
+			tmpIdArray = close_to_logic(coordinates, td)
 			unless tmpIdArray.blank?
 				where(id: tmpIdArray)
 			end
@@ -86,22 +86,14 @@ class Trial < ActiveRecord::Base
 
 private
 
-	def self.close_to_logic(postal_code, td)
-				# @TODO? Get to work with geocoder. the lat long is not accessible to this method. 
-
-				coordinates = Geocoder.coordinates("#{postal_code}, United States")
-				if coordinates.blank? || coordinates == [39.49593, -98.990005] 			
-					raise
-				else
-					# ERIC's refactoring suggestion = self.all.collect { |trial| trial.sites }.flatten.select
-					valid_sites = Site.all.near(coordinates,td.to_i)
-					valid_trials = []
-					valid_sites.each do |site|
-						valid_trials << site.trial_id
-						
-					end
-					valid_trials #[2,3,4,5,6,8]
-				end
-				
+	def self.close_to_logic(coordinates, td)
+		# ERIC's refactoring suggestion = self.all.collect { |trial| trial.sites }.flatten.select
+		valid_sites = Site.all.near(coordinates,td.to_i)
+		valid_trials = []
+		valid_sites.each do |site|
+			valid_trials << site.trial_id
+			
+		end
+		valid_trials #[2,3,4,5,6,8]				
 	end
 end

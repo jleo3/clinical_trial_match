@@ -141,42 +141,35 @@
             <div>
                 <h2 class="colorOrange">
                     Contact a Trial Team</h2>
-                <h3 class="briefAbstract">
-                    If you are interested in learning more about this trial, find the trial site nearest  to your location and contact the site coordinator via email or phone.</h3>
+                <p class="briefAbstract">
+                    If you are interested in learning more about this trial, find the trial site nearest  to your location and contact the site coordinator via email or phone.</p>
             </div>
 
                 <% @sites.each do |site| %>
-                    <ul class="locations">
-                        <li class="trialCity bold width50"><span>
-                            <%= "#{site.city} #{site.state}" %></span></li>
-                        <li class="trialFacility"><span style="display: none;">
-                            </span></li>
-                        <li class="trialStatus width40"><span class="bold">
-                            Status:</span>
-                            <%=  "#{site.status}" %></li>
-                        <li class="locationDetails">
-                            <ul>
-                                <li class="width50 pr25">
-                                    <div>
-                                        <%= "#{site.facility}" %>
-                                        <br>
-                                        <%= "#{site.facility} #{site.city} #{site.state} #{site.country} #{site.zip_code}" %>
-                                    </div>
-                                </li>
-                                <li class="width40">
-                                    <div>
-                                        
-                                        <%=  "#{site.contact_name}" %>
-                                        <br>
-                                        <a href="mailto:<%=  "#{site.contact_phone_email}" %>">
-                                            <%=  "#{site.contact_phone_email}" %></a>
-                                        <br>
-                                        <%=  "#{site.contact_phone} #{site.contact_phone_ext}" %>
-                                    </div>
-                                </li>
-                            </ul>
-                        </li>
-                    </ul>
+                    <table class="siteLocationTable">
+                        <tr>
+                            <th class="first"><span></span>
+                            <%= "#{site.city}, #{site.state}" %></th>
+                        <th>
+                            Status:
+                            <%=  "#{site.status}" %></th>
+                        <tr>
+                            <td class="locationDetails">
+                                            <%= "#{site.facility}" %>
+                                            <br>
+                                            <%= "#{site.city}, #{site.state}, #{site.zip_code}" %>
+                            </td>
+                            <td class="locationDetails">                                        
+                                            <%=  "#{site.contact_name}" %>
+                                            <br>
+                                            <% unless site.contact_phone_email.blank? %>
+                                                <a href="mailto:<%=  "#{site.contact_phone_email}" %>">
+                                                    <%=  "#{site.contact_phone_email}" %></a>
+                                                <br>
+                                            <% end %>
+                                            <%=  "#{site.contact_phone} #{site.contact_phone_ext}" %>
+                            </td>
+                    </table>
                 <% end %>                
             </div>
         </div>

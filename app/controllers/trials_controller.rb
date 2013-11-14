@@ -5,9 +5,15 @@ class TrialsController < ApplicationController
 
     @focuses = Focus.all
 
-    @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:vt]).gender(params[:gender]).type(params[:ty]).phase(params[:ph]).fda(params[:fda]).focus(params[:focus]).close_to(params[:pc], params[:td]).order(params[:ot]||"title ASC").paginate(:page => params[:page], :per_page => 10)
-    # eric's refactoring recommendation -    @sites = Site.near(params[:pc],params[:td]).where(trials_ids: @trial_ids).paginate(:page => params[:page], :per_page => 10)
+    unless params[:pc].blank?
+      coordinates =  [40.73,-74.27]#Geocoder.coordinates("#{coordinates}, United States")
+        if coordinates.blank? || coordinates == [39.49593, -98.990005]      
+          raise
+        end
+    end
 
+    @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:vt]).gender(params[:gender]).type(params[:ty]).phase(params[:ph]).fda(params[:fda]).focus(params[:focus]).close_to(coordinates, params[:td]).order(params[:ot]||"title ASC").paginate(:page => params[:page], :per_page => 10)
+    # eric's refactoring recommendation -    @sites = Site.near(params[:pc],params[:td]).where(trials_ids: @trial_ids).paginate(:page => params[:page], :per_page => 10)
     session[:age] = params[:age]
     session[:vt] = params[:vt]
     session[:gender] = params[:gender]
@@ -24,7 +30,7 @@ class TrialsController < ApplicationController
   def show
     @trial = Trial.find params[:id]
     # @TODO? I'm running distance_from in both the controller and view. Should this just be done in the model??
-    @sites = @trial.sites.sort_by{|site| site.distance_from([40.7522926,-73.9900131])}
+    @sites = @trial.sites.sort_by{|site| site.distance_from(session[:coordinates])}
 
 
 
