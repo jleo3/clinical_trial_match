@@ -6,19 +6,29 @@ class TrialsController < ApplicationController
     @focuses = Focus.all
 
     unless params[:pc].blank?
-      coordinates =  [40.73,-74.27]#Geocoder.coordinates("#{coordinates}, United States")
+      
+      # Maplewood [40.73,-74.27]
+      # California [34.05,118.25]
+      coordinates =  [34.05,-118.25]#Geocoder.coordinates("#{coordinates}, United States")
+      @coordinates = [34.05,-118.25]
+      session[:coordinates] = coordinates
         if coordinates.blank? || coordinates == [39.49593, -98.990005]      
           raise
         end
     end
 
     @trials = Trial.search_for(params[:q]).age(params[:age]).control?(params[:vt]).gender(params[:gender]).type(params[:ty]).phase(params[:ph]).fda(params[:fda]).focus(params[:focus]).close_to(coordinates, params[:td]).order(params[:ot]||"title ASC").paginate(:page => params[:page], :per_page => 10)
+
     # eric's refactoring recommendation -    @sites = Site.near(params[:pc],params[:td]).where(trials_ids: @trial_ids).paginate(:page => params[:page], :per_page => 10)
     session[:age] = params[:age]
     session[:vt] = params[:vt]
     session[:gender] = params[:gender]
     session[:pc] = params[:pc]
     session[:td] = params[:td]
+
+    # @trials.each do |trial|
+    #   trial.sites.sort_by{|site| site.distance_from(session[:coordinates])}
+    # end
 
     # rescue # Need to name raised error
     #   flash.alert = "Your zip code is not valid!"

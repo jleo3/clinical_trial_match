@@ -125,12 +125,18 @@
         <td>
           <%= trial.minimum_age.to_s + " - " + trial.maximum_age.to_s %></td>
       </tr>
+
+      <!-- @TODO? LETS GET THIS IN THE CONTROLLER -->
       <% unless trial.sites.first.blank? || params[:pc].blank? %>
-      <tr>
-        <td>Closest Site:</td>
-        <td>
-          <%= trial.sites.first.facility %></td>
-      </tr>
+      <% @site = trial.sites.near(session[:coordinates]).first %>
+          <% unless @site.blank? %>
+
+          <tr>
+            <td>Closest Site:</td>
+            <td>
+              <%= "#{@site.facility} - (#{@site.distance_from(session[:coordinates]).round()} miles away)"%></td>
+          </tr>
+          <% end %>
       <% end %></tbody>
   </table>
   <% end %>
