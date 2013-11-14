@@ -1,35 +1,59 @@
-<h2>Edit <%= resource_name.to_s.humanize %></h2>
+<h2>Edit Account Settings</h2>
 
 <%= form_for(resource, :as => resource_name, :url => registration_path(resource_name), :html => { :method => :put }) do |f| %>
   <%= devise_error_messages! %>
 
+<div class="float_left search_bar" style="width:200px;">
   <div><%= f.label :email %><br />
   <%= f.email_field :email, :autofocus => true %></div>
-
+<div class="clear"></div>
   <% if devise_mapping.confirmable? && resource.pending_reconfirmation? %>
     <div>Currently waiting confirmation for: <%= resource.unconfirmed_email %></div>
+<div class="clear"></div>
   <% end %>
 
   <div><%= f.label :password %> <i>(leave blank if you don't want to change it)</i><br />
   <%= f.password_field :password, :autocomplete => "off" %></div>
-
+<div class="clear"></div>
   <div><%= f.label :password_confirmation %><br />
   <%= f.password_field :password_confirmation %></div>
-
+<div class="clear"></div>
   <div><%= f.label :current_password %> <i>(we need your current password to confirm your changes)</i><br />
   <%= f.password_field :current_password %></div>
+<div class="clear"></div>
+  <hr>
+  <%= radio_button_tag(:vt, "patient", (session[:vt] == "patient" ? true : false)) %>
 
-  <div><%= f.label :latitude %><br />
-  <%= f.text_field :latitude %></div>
+  <!--  @TODO? Need to put in global variable for disease -->
+  <%= label_tag(:vt_patient, "I have a brain tumor") %>
+  <div class="clear"></div>
+  <%= radio_button_tag(:vt, "control", (session[:vt] == "control" ? true : false)) %>
+  <%= label_tag(:vt_control, "I am a control") %>
+  <div class="clear"></div>
+  <hr>
 
-  <div><%= f.label :longitude %><br />
-  <%= f.text_field :longitude %></div>
+  <%= label_tag(:age, "Age:", :class => "inlineFormLabel") %>
+  <%= text_field_tag(:age, session[:age], :class => "inlineFormField") %>
+  <div class="clear"></div>
 
-  <div><%= f.submit "Update" %></div>
+  <%= label_tag(:gender, "Gender:", :class => "inlineFormLabel") %>
+
+  <div class="genderContainer" >
+  <%= radio_button_tag(:gender, "male", (session[:gender] == "male" ? true : false)) %>
+  <%= label_tag(:gender_male, "M") %>
+  <%= radio_button_tag(:gender, "female", (session[:gender] == "female" ? true : false)) %>
+  <%= label_tag(:gender_female, "F") %>
+</div>
+ <div class="clear"></div>
+ <hr>
+
+  <%= label_tag(:pc, "Zip Code:", :class => "inlineFormLabel") %>
+  <%= text_field_tag(:pc, session[:pc], :class => "inlineFormField") %>
+  <%= select_tag(:td,
+  options_for_select([['Will travel 25 miles', 25], ['Will travel 50 miles', 50], ['Will travel 100 miles', 100], ['Will travel 300 miles', 300]], session[:td]||100 )) %>
+  <div class="clear"></div>
+
+  <div style="margin-top:1em;"><%= f.submit "Update", :class => "btn btn-orange" %></div>
 <% end %>
-
-<h3>Cancel my account</h3>
-
-<p>Unhappy? <%= button_to "Cancel my account", registration_path(resource_name), :data => { :confirm => "Are you sure?" }, :method => :delete %></p>
-
-<%= link_to "Back", :back %>
+</div>
+<div class="clear" style="margin-bottom:120px;"></div>

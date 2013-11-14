@@ -97,6 +97,37 @@ input[type=password], input[type=email], textarea {
     background-color: #d9edf7;
     border-color: #bce8f1;
 }
+
+.alert{
+    line-height:30px;
+    margin-bottom: 20px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    border: 1px solid #fbeed5;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #B94A48;
+    background-color: #F2DEDE;
+    border-color: #EBCCD1;
+}
+.notice{
+    line-height:30px;
+    margin-bottom: 20px;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);
+    border: 1px solid #fbeed5;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 16px;
+    color: #468847;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+
+
+
 .bold {
   font-weight:bold;
 }
@@ -118,4 +149,40 @@ button.close {
   text-shadow: 0 1px 0 #FFF;
   opacity: .2;
   filter: alpha(opacity=20);
+}
+
+input[type=text],
+input[type=email] {
+  padding: 0.25em;
+}
+
+.inlineFormLabel{
+  float:left;
+  padding-right:5px;
+  padding-top:3px;
+  margin-bottom:8px;
+}
+.inlineFormField{
+  width:35%;
+}
+
+.inlineSelectLabel{
+  float:left;
+  padding-right:5px;
+  padding-top:3px;
+  margin-bottom:8px;
+  width:40px;
+}
+
+.inlineFormSelect{
+  margin-top: 3px;
+  margin-left: 10px;
+}
+
+input[name=gender]{
+  margin-left:10px;
+}
+
+.genderContainer{
+  margin-top: 2px;
 }

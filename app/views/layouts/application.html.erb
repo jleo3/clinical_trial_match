@@ -168,7 +168,8 @@
 			</script>
 
 	<% if user_signed_in? %>
-	  <div style="float:right;">Hi <%= current_user.email %><%= current_user.username %>! &nbsp; <%= link_to "Edit Account",edit_user_registration_path%> &nbsp; <%= link_to "Log Out",destroy_user_session_path, :method =>'delete' %> </div>
+	  <div style="float:right;">Hi <%= current_user.email %><%= current_user.username %>!</div>
+	  <br> <div style="float:right;"><%= link_to "Edit Account",edit_user_registration_path%> &nbsp; <%= link_to "Log Out",destroy_user_session_path, :method =>'delete' %> </div>
 	<% else %>
 		<div style="float:right;"><%= link_to "Register", new_user_registration_path %>&nbsp;/&nbsp;<%= link_to "Log In", new_user_session_path %>  </div>
 
