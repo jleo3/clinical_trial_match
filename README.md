@@ -28,7 +28,7 @@ User Stories/Features To Still Implement
 -----------
 <a href="http://shrouded-river-3637.herokuapp.com/" target="_blank">Access the Beta Site</a>
 
-* Nearest site location on index page and on show page.
+<!-- * Nearest site location on index page and on show page.
 * Register with fields prefilled in by session
 * Get email to send out with list of sites you match to.
 * Confirm sign up process. Should I not let them advance until they are confirmed?
@@ -40,7 +40,7 @@ User Stories/Features To Still Implement
 * Set up travis-ci for this project
 * Automatically assign lat/long to user. Will use geocode
 * Parse inclusion exclusion criteria
-* Users will receive email digests of new matches. They can set the frequency (once a week, as soon as available). Will use Email Swifter @TODO? Does this mean I need to store in the users database what trials they match to? and note that it if has changed
+* Users will receive email digests of new matches. They can set the frequency (once a week, as soon as available). Will use Email Swifter @TODO? Does this mean I need to store in the users database what trials they match to? and note that it if has changed -->
 
 Phase II Items
 -----------
