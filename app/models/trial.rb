@@ -3,6 +3,12 @@ class Trial < ActiveRecord::Base
 	validates :nct_id, uniqueness: true
 	
 
+  # These are great and I'm glad you gained so much experience with scopes!
+  # Scopes tend to have high essential complexity because they need logical
+  # operands to really be effective. Essential complexity is unavoidable,
+  # but these scopes provide a great way to flex your unit testing muscle!
+  # Every if statement provides at least two possible outcomes that
+  # can be validated with unit tests.
 	scope :control?, -> (vt) {
 		if vt == "control"
 			where(healthy_volunteers: "Accepts Healthy Volunteers")

@@ -1,0 +1,8 @@
+- This is one of the most complex projects undertaken at BEWD this term. You really spent a lot of time thinking about and then executing on your plan and it shows!
+
+- You've clearly taught yourself a great deal during this course. jbuilder templates, unobtrusive javascript, and scopes are three examples of topics not covered in this course that you nevertheless pulled off in impressive fashion. Well done!
+
+- Search and screen scraping are your two biggest features in this site and both are computationally intensive and complex. I think the next thing you want to work on is getting your importer functioning correctly and on a schedule. More on this in thecode comments, but I think this will give you really interesting problems to solve and may teach you some things, particularly about rake, that can prove rewarding.
+
+- Most of the comments I have are around making your code cleaner - moving methods, creating objects, or renaming variable or methods to make more imperative code (http://en.wikipedia.org/wiki/Imperative_programming). That, and testing, are the next level of software development. You're already on track for taking that next step and I hope the notes I provided help you along. I would love to see how this site grows and develops over time. Please keep me informed! Good luck!
+

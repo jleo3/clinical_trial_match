@@ -9,6 +9,8 @@ class ImporterController < ApplicationController
   	require 'nokogiri'
 	require 'rest-client'
 	
+  # Both of these TODOs are worthwhile. But why TODO? Why not put everything into
+  # the GitHub issue tracker? Much cleaner that way.
 	# @TODO pull out condition into global config
 	# @TODO? figure out how to do this off the internet and not out of the assets/xml_files folder
 	# starting_url = "http://clinicaltrials.gov/ct2/results/download?down_stds=all&down_typ=study&recr=Open&no_unk=Y&cond=brain%20tumor&show_down=Y"
@@ -18,6 +20,11 @@ class ImporterController < ApplicationController
 
 	# @TODO rake task route to automate this. every day. import module rake file
 	
+  # This is a good idea and a great way to build up skills with rake and with
+  # scheduling tasks in production. For scheduling in Heroku with rake,
+  # https://devcenter.heroku.com/articles/scheduler. For learning more about rake
+  # you should watch this http://www.youtube.com/watch?v=AFPWDzHWjEY and anything
+  # else Jim Weirich ever says about it. You'll be amazed by how much rake can do!
 	Dir["#{Rails.root}/public/xml_files/*.xml"].each do |file| # .first(10) to limit import
 		f = File.open(file)
 		doc = Nokogiri::XML(f)
@@ -38,6 +45,9 @@ class ImporterController < ApplicationController
 
 		end
 
+    # This is some seriously impressive screen-scraping! This really belongs in its
+    # own object - not a model or controller - in the lib/ directory. You can
+    # include the object in either the model or controller and use its methods.
 		@trial = Trial.new
 		@trial.title = get_from_xpath("brief_title",root)
 		@trial.description = get_from_xpath("brief_summary/textblock",root)
